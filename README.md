@@ -1,5 +1,13 @@
 # Generating a Knowledge Graph of COVID-19 Literature
 
+| Section | Description |
+|-|-|
+| [Installing](#installing-the-requirements) | Installing the requirements |
+| [Preparing](#preparing-the-jsons) | Preparing the JSONs |
+| [Running](#running-rml) | Running RML |
+| [Querying](#linked-data-fragments-endpoint) | Linked Data Fragments endpoint |
+| [Analyzing](#knowledge-graph-applications) | Knowledge Graph Applications |
+
 ## Installing the requirements
 
 Generating the COVID KG requires a few dependencies. Firstly, Python 3 should be installed with the following libraries:
