@@ -1,5 +1,24 @@
 # Generating a Knowledge Graph of COVID-19 Literature
 
+## Installing the requirements
+
+Generating the COVID KG requires a few dependencies. Firstly, Python 3 should be installed with the following libraries:
+```
+SPARQLWrapper
+nltk
+numpy
+pandas
+requests
+scipy
+sklearn
+tqdm
+```
+
+Further, to run RML, you will need:
+* to have a recent version of Node.js and install the following dependency: `npm i @rmlio/yarrrml-parser -g`
+* a recent Java version, and [RMLMapper](https://github.com/RMLio/rmlmapper-java)
+
+
 ## Preparing the JSONs
 
 ### Create a sample dataset
@@ -13,13 +32,23 @@ Run `python3 scripts/map_entities.py <INPUT_DIR> <OUTPUT_DIR>` to generate diffe
 
 ## Running RML
 
-![The RML Ecosystem](images/rml.png "RML Ecosystem")
+<div style="text-align:center">
+	<img src="images/rml.png" />
+</div>
+
+After preparing the JSONs, we can convert them to RDF using RML. To do this, run:
+```
+yarrrml-parser -i rules.yml -o rules.rml.ttl
+java -jar /path/to/rmlmapper.jar -m rules.rml.ttl
+``` 
 
 ## Linked Data Fragments endpoint
 
 We are hosting an endpoint that can be used for querying [here](https://query-covid19.linkeddatafragments.org/). The corresponding repository for this can be found [here](https://github.com/rubensworks/covid19-web-query-client).
 
-![The Linked Data Fragment Client](images/ldf.png "The Linked Data Fragment Client")
+<div style="text-align:center">
+	<img src="images/ldf.png" />
+</div>
 
 ## Knowledge Graph Applications
 
@@ -36,4 +65,6 @@ This has been a collaboration between a lot of people:
 * [Dylan Van Assche](https://www.dylanvanassche.be/)
 * Femke Ongenae
 
-![IDLab, UGent -- imec](images/idlab.png "IDLab, UGent -- imec")
+<div style="text-align:center">
+	<img src="images/idlab.png" />
+</div>
