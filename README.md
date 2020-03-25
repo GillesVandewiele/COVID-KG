@@ -40,9 +40,9 @@ Run `python3 scripts/map_entities.py <INPUT_DIR> <OUTPUT_DIR>` to generate diffe
 
 ## Running RML
 
-<div style="text-align:center">
-	<img src="images/rml.png" />
-</div>
+<p align="center">
+  <img src="images/rml.png">
+</p>
 
 After preparing the JSONs, we can convert them to RDF using RML. To do this, run:
 ```
@@ -54,9 +54,9 @@ java -jar /path/to/rmlmapper.jar -m rules.rml.ttl
 
 We are hosting an endpoint that can be used for querying [here](https://query-covid19.linkeddatafragments.org/). The corresponding repository for this can be found [here](https://github.com/rubensworks/covid19-web-query-client).
 
-<div style="text-align:center">
-	<img src="images/ldf.png" />
-</div>
+<p align="center">
+  <img src="images/ldf.png">
+</p>
 
 ## Knowledge Graph Applications
 
@@ -73,6 +73,6 @@ This has been a collaboration between a lot of people:
 * [Dylan Van Assche](https://www.dylanvanassche.be/)
 * Femke Ongenae
 
-<div style="text-align:center">
-	<img src="images/idlab.png" />
-</div>
+<p align="center">
+  <img src="images/idlab.png">
+</p>
