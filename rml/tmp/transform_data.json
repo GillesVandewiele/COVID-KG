@@ -1,0 +1,1149 @@
+{
+    "abstract": [
+        {
+            "cite_spans": [], 
+            "ref_spans": [], 
+            "section": "Abstract", 
+            "text": "Coronaviruses such as the newly discovered virus from Wuhan, China, 2019-nCoV, and the viruses that cause SARS and MERS, have resulted in regional and global public health emergencies. Based on our molecular insight that the hepatitis C virus and the coronavirus use a similar viral genome replication mechanism, we reasoned that the FDA-approved drug EPCLUSA (Sofosbuvir/Velpatasvir) for the treatment of hepatitis C will also inhibit the above coronaviruses, including 2019-nCoV. To develop broad spectrum anti-viral agents, we further describe a novel strategy to design and synthesize viral polymerase inhibitors, by combining the ProTide Prodrug approach used in the development of Sofosbuvir with the use of 3'-blocking groups that we have previously built into nucleotide analogues that function as polymerase terminators."
+        }
+    ], 
+    "back_matter": [], 
+    "bib_entries": {
+        "BIBREF0": {
+            "authors": [
+                {
+                    "first": "A", 
+                    "last": "Alanazi", 
+                    "middle": [
+                        "S"
+                    ], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "E", 
+                    "last": "James", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "Y", 
+                    "last": "Mehellou", 
+                    "middle": [], 
+                    "suffix": ""
+                }
+            ], 
+            "issn": "", 
+            "other_ids": {}, 
+            "pages": "2--5", 
+            "ref_id": "b0", 
+            "title": "The ProTide prodrug technology: where next", 
+            "venue": "ACS Med Chem Lett", 
+            "volume": "10", 
+            "year": 2019
+        }, 
+        "BIBREF1": {
+            "authors": [
+                {
+                    "first": "J", 
+                    "last": "Guo", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "N", 
+                    "last": "Xu", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "Z", 
+                    "last": "Li", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "S", 
+                    "last": "Zhang", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "J", 
+                    "last": "Wu", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "D", 
+                    "last": "Kim", 
+                    "middle": [
+                        "H"
+                    ], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "Sano", 
+                    "last": "Marma", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "M", 
+                    "last": "Meng", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "Q", 
+                    "last": "Cao", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "H", 
+                    "last": "Li", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "X", 
+                    "last": "Shi", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "S", 
+                    "last": "Yu", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "L", 
+                    "last": "Kalachikov", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "S", 
+                    "last": "Russo", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "J", 
+                    "last": "Turro", 
+                    "middle": [
+                        "J"
+                    ], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "N", 
+                    "last": "Ju", 
+                    "middle": [
+                        "J"
+                    ], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "J", 
+                    "last": "", 
+                    "middle": [], 
+                    "suffix": ""
+                }
+            ], 
+            "issn": "", 
+            "other_ids": {}, 
+            "pages": "9145--9150", 
+            "ref_id": "b1", 
+            "title": "Four-color DNA sequencing with 3'-O-modified nucleotide reversible terminators and chemically cleavable fluorescent dideoxynucleotides", 
+            "venue": "Proc Natl Acad Sci", 
+            "volume": "105", 
+            "year": 2008
+        }, 
+        "BIBREF2": {
+            "authors": [
+                {
+                    "first": "J", 
+                    "last": "Ju", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "D", 
+                    "last": "Kim", 
+                    "middle": [
+                        "H"
+                    ], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "L", 
+                    "last": "Bi", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "Q", 
+                    "last": "Meng", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "X", 
+                    "last": "Bai", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "Z", 
+                    "last": "Li", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "X", 
+                    "last": "Li", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "M", 
+                    "last": "Marma", 
+                    "middle": [
+                        "S"
+                    ], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "S", 
+                    "last": "Shi", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "J", 
+                    "last": "Wu", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "J", 
+                    "last": "Edwards", 
+                    "middle": [
+                        "R"
+                    ], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "A", 
+                    "last": "Romu", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "N", 
+                    "last": "Turro", 
+                    "middle": [
+                        "J"
+                    ], 
+                    "suffix": ""
+                }
+            ], 
+            "issn": "", 
+            "other_ids": {}, 
+            "pages": "19635--19640", 
+            "ref_id": "b2", 
+            "title": "Fourcolor DNA sequencing by synthesis using cleavable fluorescent nucleotide reversible terminators", 
+            "venue": "Proc Natl Acad Sci", 
+            "volume": "103", 
+            "year": 2006
+        }, 
+        "BIBREF3": {
+            "authors": [
+                {
+                    "first": "J", 
+                    "last": "Ju", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "Z", 
+                    "last": "Li", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "J", 
+                    "last": "Edwards", 
+                    "middle": [
+                        "R"
+                    ], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "Y", 
+                    "last": "Itagaki", 
+                    "middle": [], 
+                    "suffix": ""
+                }
+            ], 
+            "issn": "", 
+            "other_ids": {}, 
+            "pages": "", 
+            "ref_id": "b3", 
+            "title": "Massive Parallel Method for Decoding DNA and RNA. United States Patent 6", 
+            "venue": "", 
+            "volume": "664", 
+            "year": 2003
+        }, 
+        "BIBREF4": {
+            "authors": [
+                {
+                    "first": "B", 
+                    "last": "Ross", 
+                    "middle": [
+                        "S"
+                    ], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "P", 
+                    "last": "Reddy", 
+                    "middle": [
+                        "G"
+                    ], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "H-R", 
+                    "last": "Zhang", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "S", 
+                    "last": "Rachakonda", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "M", 
+                    "last": "Sofia", 
+                    "middle": [
+                        "J"
+                    ], 
+                    "suffix": ""
+                }
+            ], 
+            "issn": "", 
+            "other_ids": {}, 
+            "pages": "8311--8319", 
+            "ref_id": "b4", 
+            "title": "Synthesis of diastereomerically pure nucleotide phosphoramidates", 
+            "venue": "J Org Chem", 
+            "volume": "76", 
+            "year": 2011
+        }, 
+        "BIBREF5": {
+            "authors": [
+                {
+                    "first": "M", 
+                    "last": "Sofia", 
+                    "middle": [
+                        "J"
+                    ], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "D", 
+                    "last": "Bao", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "W", 
+                    "last": "Chang", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "J", 
+                    "last": "Du", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "D", 
+                    "last": "Nagarathnam", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "S", 
+                    "last": "Rachakonda", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "P", 
+                    "last": "Reddy", 
+                    "middle": [
+                        "G"
+                    ], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "B", 
+                    "last": "Ross", 
+                    "middle": [
+                        "S"
+                    ], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "P", 
+                    "last": "Wang", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "H-R", 
+                    "last": "Zhang", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "S", 
+                    "last": "Bansal", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "C", 
+                    "last": "Espiritu", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "M", 
+                    "last": "Keilman", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "A", 
+                    "last": "Lam", 
+                    "middle": [
+                        "M"
+                    ], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "Micolochick", 
+                    "last": "Steuer", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "H", 
+                    "last": "Niu", 
+                    "middle": [
+                        "M"
+                    ], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "C", 
+                    "last": "Otto", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "M", 
+                    "last": "Furman", 
+                    "middle": [
+                        "J"
+                    ], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "P", 
+                    "last": "", 
+                    "middle": [
+                        "A"
+                    ], 
+                    "suffix": ""
+                }
+            ], 
+            "issn": "", 
+            "other_ids": {}, 
+            "pages": "7202--7218", 
+            "ref_id": "b5", 
+            "title": "Discovery of a \u03b2-D-2\u02b9-Deoxy-2\u02b9-\u03b1-fluoro-2\u02b9-\u03b2-C-methyluridine nucleotide prodrug (PSI-7977) for the treatment of hepatitis C virus", 
+            "venue": "J Med Chem", 
+            "volume": "53", 
+            "year": 2010
+        }, 
+        "BIBREF6": {
+            "authors": [
+                {
+                    "first": "T", 
+                    "last": "Warren", 
+                    "middle": [
+                        "K"
+                    ], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "J", 
+                    "last": "Wells", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "R", 
+                    "last": "Panchal", 
+                    "middle": [
+                        "G"
+                    ], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "K", 
+                    "last": "Stuthman", 
+                    "middle": [
+                        "S"
+                    ], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "N", 
+                    "last": "Garza", 
+                    "middle": [
+                        "L"
+                    ], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "S", 
+                    "last": "Van Tongeren", 
+                    "middle": [
+                        "A"
+                    ], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "L", 
+                    "last": "Dong", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "C", 
+                    "last": "Retterer", 
+                    "middle": [
+                        "J"
+                    ], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "B", 
+                    "last": "Eaton", 
+                    "middle": [
+                        "P"
+                    ], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "G", 
+                    "last": "Pegoraro", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "S", 
+                    "last": "Honnold", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "S", 
+                    "last": "Bantia", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "P", 
+                    "last": "Kotian", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "X", 
+                    "last": "Chen", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "B", 
+                    "last": "Taubenheim", 
+                    "middle": [
+                        "R"
+                    ], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "L", 
+                    "last": "Welch", 
+                    "middle": [
+                        "S"
+                    ], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "D", 
+                    "last": "Minning", 
+                    "middle": [
+                        "M"
+                    ], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "Y", 
+                    "last": "Babu", 
+                    "middle": [
+                        "S"
+                    ], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "W", 
+                    "last": "Sheridan", 
+                    "middle": [
+                        "P"
+                    ], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "S", 
+                    "last": "Bavari", 
+                    "middle": [], 
+                    "suffix": ""
+                }
+            ], 
+            "issn": "", 
+            "other_ids": {}, 
+            "pages": "402--405", 
+            "ref_id": "b6", 
+            "title": "Protection against filovirus diseases by a novel broad-spectrum nucleoside analogue BCX4430", 
+            "venue": "Nature", 
+            "volume": "508", 
+            "year": 2014
+        }, 
+        "BIBREF7": {
+            "authors": [
+                {
+                    "first": "N", 
+                    "last": "Zhu", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "D", 
+                    "last": "Zhang", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "W", 
+                    "last": "Wang", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "X", 
+                    "last": "Li", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "B", 
+                    "last": "Yang", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "J", 
+                    "last": "Song", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "X", 
+                    "last": "Zhao", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "B", 
+                    "last": "Huang", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "W", 
+                    "last": "Shi", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "R", 
+                    "last": "Lu", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "P", 
+                    "last": "Niu", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "F", 
+                    "last": "Zhan", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "X", 
+                    "last": "Ma", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "D", 
+                    "last": "Wang", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "W", 
+                    "last": "Xu", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "G", 
+                    "last": "Wu", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "G", 
+                    "last": "Gao", 
+                    "middle": [
+                        "F"
+                    ], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "W", 
+                    "last": "Tan", 
+                    "middle": [], 
+                    "suffix": ""
+                }
+            ], 
+            "issn": "", 
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa2001017"
+                ]
+            }, 
+            "pages": "", 
+            "ref_id": "b7", 
+            "title": "for the China Novel Coronavirus Investigating and Research Team (2020) A novel coronavirus from patients with pneumonia in China", 
+            "venue": "", 
+            "volume": "", 
+            "year": 2019
+        }, 
+        "BIBREF8": {
+            "authors": [
+                {
+                    "first": "A", 
+                    "last": "Zumla", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "Jfw", 
+                    "last": "Chan", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "E", 
+                    "last": "Azhar", 
+                    "middle": [
+                        "I"
+                    ], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "Dsc", 
+                    "last": "Hui", 
+                    "middle": [], 
+                    "suffix": ""
+                }, 
+                {
+                    "first": "K-Y", 
+                    "last": "Yuen", 
+                    "middle": [], 
+                    "suffix": ""
+                }
+            ], 
+            "issn": "", 
+            "other_ids": {}, 
+            "pages": "327--347", 
+            "ref_id": "b8", 
+            "title": "Coronaviruses -drug discovery and therapeutic options", 
+            "venue": "Nat Rev | Drug Discovery", 
+            "volume": "15", 
+            "year": 2016
+        }
+    }, 
+    "body_text": [
+        {
+            "cite_spans": [
+                {
+                    "end": 152, 
+                    "ref_id": null, 
+                    "start": 97, 
+                    "text": "Zumla et al (2016) Nat Rev | Drug Discovery 15:327-347."
+                }, 
+                {
+                    "end": 339, 
+                    "ref_id": null, 
+                    "start": 328, 
+                    "text": "org/10.1101"
+                }, 
+                {
+                    "end": 353, 
+                    "ref_id": null, 
+                    "start": 340, 
+                    "text": "org/10. /2020"
+                }
+            ], 
+            "ref_spans": [
+                {
+                    "end": 645, 
+                    "ref_id": "FIGREF0", 
+                    "start": 637, 
+                    "text": "(Fig. 2)"
+                }, 
+                {
+                    "end": 820, 
+                    "ref_id": "FIGREF1", 
+                    "start": 812, 
+                    "text": "(Fig. 3)"
+                }, 
+                {
+                    "end": 1536, 
+                    "ref_id": "FIGREF2", 
+                    "start": 1528, 
+                    "text": "(Fig. 4)"
+                }
+            ], 
+            "section": "", 
+            "text": ": Virus-based and host-based treatment options targeting the coronavirus replication cycle. From Zumla et al (2016) Nat Rev | Drug Discovery 15:327-347. . CC-BY-NC-ND 4.0 International license author/funder. It is made available under a The copyright holder for this preprint (which was not peer-reviewed) is the . https://doi. org/10.1101 org/10. /2020 One of the most important druggable targets is the RdRp. Example drugs include Gilead's sofosbuvir (which is paired with velpatasvir as the FDA-approved drug EPCLUSA), to inhibit the RNA-dependent RNA polymerase of the hepatitis C virus. Sofosbuvir, a pyrimidine nucleotide analogue (Fig. 2) with a blocked phosphate group enabling it to enter infected eukaryotic cells, is a prodrug, which is converted into its active triphosphate form by cellular enzymes (Fig. 3) . The activated drug binds in the active site of the RdRp, where it is incorporated into RNA, and due to modifications at the 2' position, inhibits further RNA chain extension and halts RNA replication. It acts as an RNA polymerase inhibitor by competing with natural ribonucleotides. Based on our insight that the hepatitis C virus and the coronavirus use a similar viral genome replication mechanism, we reasoned that the FDA-approved drug EPCLUSA for the treatment of hepatitis C will also inhibit coronaviruses, including 2019-nCoV and those responsible for SARS and MERS. There are many other RNA polymerase inhibitor drugs which are used as antivirals. A related purine nucleotide prodrug, remdesivir (Fig. 4) , was developed by Gilead to treat Ebola virus infections, though not very successfully, and is currently being considered for repositioning to treat the 2019-nCoV outbreak (https://www.fiercebiotech.com/biotech/gilead-mulls-repositioning-failed-ebola-drug-china-virus)."
+        }, 
+        {
+            "cite_spans": [
+                {
+                    "end": 499, 
+                    "ref_id": "BIBREF0", 
+                    "start": 479, 
+                    "text": "Alanazi et al (2019)"
+                }, 
+                {
+                    "end": 611, 
+                    "ref_id": null, 
+                    "start": 603, 
+                    "text": "(Fig. 5)"
+                }, 
+                {
+                    "end": 811, 
+                    "ref_id": "BIBREF6", 
+                    "start": 792, 
+                    "text": "(Warren et al 2014)"
+                }, 
+                {
+                    "end": 1322, 
+                    "ref_id": "BIBREF3", 
+                    "start": 1308, 
+                    "text": "(Ju et al 2003"
+                }, 
+                {
+                    "end": 1338, 
+                    "ref_id": "BIBREF2", 
+                    "start": 1323, 
+                    "text": ", Ju et al 2006"
+                }, 
+                {
+                    "end": 1355, 
+                    "ref_id": "BIBREF1", 
+                    "start": 1339, 
+                    "text": ", Guo et al 2008"
+                }
+            ], 
+            "ref_spans": [], 
+            "section": "", 
+            "text": "In contrast to sofosbuvir, both the 2'-and 3'-OH groups are unmodified, but a cyano group at the 1' position . CC-BY-NC-ND 4.0 International license author/funder. It is made available under a The copyright holder for this preprint (which was not peer-reviewed) is the . https://doi.org/10.1101/2020.01.30.927574 doi: bioRxiv preprint presumably serves to inhibit the RdRp in the active triphosphate form. Additional information on the ProTide Prodrug technology is described by Alanazi et al (2019) . A related prodrug analogue developed by BioCryst Pharmaceuticals, BCX4430, also known as galidesivir (Fig. 5) , has been shown to inhibit RNA polymerases from a broad spectrum of RNA viruses, notably including the filoviruses (e.g., Ebola, Marburg) in rodents and Marburg virus in macaques (Warren et al 2014) . Upon entry into infected cells, BCX4430 is rapidly phosphorylated, and the resulting nucleoside triphosphate serves as an RNA chain terminator. Based on the above background information, we describe here a novel strategy to design and synthesize viral polymerase inhibitors, by combining the ProTide Prodrug approach used in the development of Sofosbuvir with the use of 3'-blocking groups that we have built into nucleotide analogues that function as reversible terminators for DNA sequencing (Ju et al 2003 , Ju et al 2006 , Guo et al 2008 . We reasoned that (1) the phosphate masking groups will allow entry of the compounds into infected cells, (2) the 3'-blocking group on the 3'-OH with either free 2'-OH or modifications at the 2' position will encourage incorporation of the activated triphosphate analogue by viral polymerases but not host cell polymerases, thus reducing any side effects, and (3) once incorporated, further extension will be prevented by virtue of the 3'-blocking group, thereby inhibiting viral replication. These modified nucleotide analogues should be potent polymerase inhibitors and thus active against various viral diseases, including but not limited to the coronaviruses such . CC-BY-NC-ND 4.0 International license author/funder. It is made available under a The copyright holder for this preprint (which was not peer-reviewed) is the . https://doi.org/10.1101/2020.01.30.927574 doi: bioRxiv preprint as 2019-nCoV, and the strains causing SARS and MERS. Once incorporated, our newly designed nucleotide analogues containing 3' blocking groups will permanently block further viral genome replication. This is in contrast to other nucleotide analogue-based viral inhibitors that have a free 3' OH group, which have the possibility of allowing further polymerase extension, enabled by viral mutations. For the same reason, at high concentrations, nucleotide analogue-based viral inhibitors with free 3' OH groups have the potential of being incorporated by host polymerases."
+        }, 
+        {
+            "cite_spans": [], 
+            "ref_spans": [], 
+            "section": "", 
+            "text": "All RNA viruses are known to mutate at a high frequency, due to the low fidelity of the viral polymerase, resulting in the development of resistance to treatment. The promiscuous nature of the viral polymerase will allow incorporation of our newly designed nucleotide analogues as anti-viral agents."
+        }, 
+        {
+            "cite_spans": [
+                {
+                    "end": 595, 
+                    "ref_id": null, 
+                    "start": 578, 
+                    "text": "//doi.org/10.1101"
+                }, 
+                {
+                    "end": 615, 
+                    "ref_id": null, 
+                    "start": 596, 
+                    "text": "//doi.org/10. /2020"
+                }, 
+                {
+                    "end": 752, 
+                    "ref_id": "BIBREF4", 
+                    "start": 735, 
+                    "text": "(Ross et al 2011)"
+                }, 
+                {
+                    "end": 1008, 
+                    "ref_id": null, 
+                    "start": 918, 
+                    "text": "methyl, ethyl, propyl, allyl, propargyl, methoxymethyl, methylthiomethyl, azidomethyl, etc"
+                }, 
+                {
+                    "end": 1088, 
+                    "ref_id": "BIBREF2", 
+                    "start": 1074, 
+                    "text": "(Ju et al 2006"
+                }, 
+                {
+                    "end": 1105, 
+                    "ref_id": "BIBREF1", 
+                    "start": 1089, 
+                    "text": ", Guo et al 2008"
+                }, 
+                {
+                    "end": 1324, 
+                    "ref_id": "BIBREF5", 
+                    "start": 1306, 
+                    "text": "(Sofia et al 2010)"
+                }
+            ], 
+            "ref_spans": [
+                {
+                    "end": 96, 
+                    "ref_id": "FIGREF4", 
+                    "start": 90, 
+                    "text": "Fig. 6"
+                }, 
+                {
+                    "end": 155, 
+                    "ref_id": "FIGREF8", 
+                    "start": 148, 
+                    "text": "Fig. 10"
+                }, 
+                {
+                    "end": 259, 
+                    "ref_id": "FIGREF1", 
+                    "start": 253, 
+                    "text": "Fig. 3"
+                }, 
+                {
+                    "end": 1041, 
+                    "ref_id": "FIGREF4", 
+                    "start": 1036, 
+                    "text": "Fig.6"
+                }, 
+                {
+                    "end": 1333, 
+                    "ref_id": "FIGREF5", 
+                    "start": 1327, 
+                    "text": "Fig. 7"
+                }, 
+                {
+                    "end": 1344, 
+                    "ref_id": "FIGREF6", 
+                    "start": 1338, 
+                    "text": "Fig. 8"
+                }, 
+                {
+                    "end": 1700, 
+                    "ref_id": "FIGREF7", 
+                    "start": 1694, 
+                    "text": "Fig. 9"
+                }
+            ], 
+            "section": "", 
+            "text": "Examples of nucleotide analogues designed by us to satisfy these criteria are provided in Fig. 6 , and strategies for their synthesis in Figs. 7-9; Fig. 10 shows the activation of these prodrugs to form triphosphate analogues (same as for sofosbuvir in Fig. 3 ) that should be incorporated and inhibit the coronavirus and other RNA virus polymerases. The copyright holder for this preprint (which was not peer-reviewed) is the . https://doi.org/10.1101/2020.01.30.927574 doi: bioRxiv preprint The copyright holder for this preprint (which was not peer-reviewed) is the . https: //doi.org/10.1101 //doi.org/10. /2020 Synthesis of 3'-O-blocked nucleoside phosphoramidate prodrugs can be carried out starting from 2'-modified nucleosides (Ross et al 2011) . First, both the 5'-OH and the exocyclic amino group of the base will be protected. Then the 3'-OH will be derivatized with a variety of blocking groups, including methyl, ethyl, propyl, allyl, propargyl, methoxymethyl, methylthiomethyl, azidomethyl, etc ., such as those listed in Fig.6 , following established methods (Ju et al 2006 , Guo et al 2008 . After deprotection, the free 5'-OH is derivatized to afford the corresponding phosphoramidates by treatment with freshly prepared chlorophosphoramidate reagent in the presence of N-methyl imidazole (Sofia et al 2010) . Fig. 7 and Fig. 8 show example synthetic routes for the 3'-methoxy and 3'-O-methylthiomethyl nucleoside phosphoramidate analogs, respectively. Alternatively, starting from a 2'-modified nucleoside, the 5'-OH can be derivatized first to give 5'-phosphoramidate nucleotides, followed by 3'-OH derivatization to afford 3'-O blocked nucleoside phosphoramidate analogues. Fig. 9 shows an example synthetic route for 3'-allyl nucleoside phosphoramidate analogues."
+        }, 
+        {
+            "cite_spans": [], 
+            "ref_spans": [], 
+            "section": "", 
+            "text": "ACKNOWLEDGMENTS. This research is supported by Columbia University, which has filed a patent application on the work described in this manuscript."
+        }, 
+        {
+            "cite_spans": [], 
+            "ref_spans": [], 
+            "section": "", 
+            "text": ". CC-BY-NC-ND 4.0 International license author/funder. It is made available under a The copyright holder for this preprint (which was not peer-reviewed) is the . https://doi.org/10.1101/2020.01.30.927574 doi: bioRxiv preprint"
+        }
+    ], 
+    "metadata": {
+        "authors": [
+            {
+                "affiliation": {
+                    "institution": "Columbia University", 
+                    "laboratory": "", 
+                    "location": {
+                        "postCode": "10027", 
+                        "region": "NY", 
+                        "settlement": "New York"
+                    }
+                }, 
+                "email": "", 
+                "first": "Jingyue", 
+                "last": "Ju", 
+                "middle": [], 
+                "suffix": ""
+            }, 
+            {
+                "affiliation": {
+                    "institution": "Columbia University", 
+                    "laboratory": "", 
+                    "location": {
+                        "postCode": "10027", 
+                        "region": "NY", 
+                        "settlement": "New York"
+                    }
+                }, 
+                "email": "", 
+                "first": "Shiv", 
+                "last": "Kumar", 
+                "middle": [], 
+                "suffix": ""
+            }, 
+            {
+                "affiliation": {
+                    "institution": "Columbia University", 
+                    "laboratory": "", 
+                    "location": {
+                        "postCode": "10027", 
+                        "region": "NY", 
+                        "settlement": "New York"
+                    }
+                }, 
+                "email": "", 
+                "first": "Xiaoxu", 
+                "last": "Li", 
+                "middle": [], 
+                "suffix": ""
+            }, 
+            {
+                "affiliation": {
+                    "institution": "Columbia University", 
+                    "laboratory": "", 
+                    "location": {
+                        "postCode": "10027", 
+                        "region": "NY", 
+                        "settlement": "New York"
+                    }
+                }, 
+                "email": "", 
+                "first": "Steffen", 
+                "last": "Jockusch", 
+                "middle": [], 
+                "suffix": ""
+            }, 
+            {
+                "affiliation": {
+                    "institution": "Columbia University", 
+                    "laboratory": "", 
+                    "location": {
+                        "postCode": "10027", 
+                        "region": "NY", 
+                        "settlement": "New York"
+                    }
+                }, 
+                "email": "", 
+                "first": "James", 
+                "last": "Russo", 
+                "middle": [
+                    "J"
+                ], 
+                "suffix": ""
+            }
+        ], 
+        "title": "Nucleotide Analogues as Inhibitors of Viral Polymerases"
+    }, 
+    "paper_id": "ffc9bc4ac6548cb1c03c2c6f088ab1c1c2067c6f", 
+    "ref_entries": {
+        "FIGREF0": {
+            "latex": null, 
+            "text": "Structure of Sofosbuvir, a component of the FDA-approved drug EPCLUSA.", 
+            "type": "figure"
+        }, 
+        "FIGREF1": {
+            "latex": null, 
+            "text": "Conversion of sofosbuvir to active drug in vivo. From https://en.wikipedia.org/wiki/Sofosbuvir.", 
+            "type": "figure"
+        }, 
+        "FIGREF2": {
+            "latex": null, 
+            "text": "Structure of remdesivir.", 
+            "type": "figure"
+        }, 
+        "FIGREF3": {
+            "latex": null, 
+            "text": "Structure of BCX4430.", 
+            "type": "figure"
+        }, 
+        "FIGREF4": {
+            "latex": null, 
+            "text": "Example structures of nucleotide analogues as viral polymerase inhibitors with masked phosphate group, unmodified or modified at 2' position, and blocking groups on the 3' position.", 
+            "type": "figure"
+        }, 
+        "FIGREF5": {
+            "latex": null, 
+            "text": "Synthesis of 3'-O blocked nucleoside phosphoramidate analogues: \u03b2-D-2\u02b9-deoxy-2\u02b9-\u03b1-fluoro-2\u02b9-\u03b2-Cmethyl-3'-O-methyladenosine nucleoside phosphoramidate as example.", 
+            "type": "figure"
+        }, 
+        "FIGREF6": {
+            "latex": null, 
+            "text": "Synthesis of 3'-O blocked nucleoside phosphoramidate analogues: \u03b2-D-2\u02b9-deoxy-2\u02b9-\u03b1-fluoro-3'-Omethylthiomethyluridine nucleoside phosphoramidate as example.", 
+            "type": "figure"
+        }, 
+        "FIGREF7": {
+            "latex": null, 
+            "text": "Example synthesis of \u03b2-D-2\u02b9-deoxy-2\u02b9-\u03b1-fluoro-2\u02b9-\u03b2-C-methyl-3'-O-allyluridine nucleoside phosphoramidate.", 
+            "type": "figure"
+        }, 
+        "FIGREF8": {
+            "latex": null, 
+            "text": "Mode of activation of 3'-blocked nucleotide prodrug precursors illustrated inFig. 6by cellular enzymes.", 
+            "type": "figure"
+        }
+    }
+}

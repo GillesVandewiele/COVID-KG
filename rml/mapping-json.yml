@@ -1,0 +1,70 @@
+prefixes:
+  covid: "http://idlab.github.io/covid19#"
+  bibo: "http://purl.org/ontology/bibo/"
+  fabrio: "http://purl.org/spar/fabio/"
+  pro: "http://purl.org/spar/pro/"
+  foaf: "http://xmlns.com/foaf/spec/"
+  org: "http://www.w3.org/ns/org#"
+  gn: "http://www.geonames.org/ontology#"
+  dbo: "http://dbpedia.org/ontology/"
+  dbr: "http://dbpedia.org/resource/"
+  cito: "http://purl.org/spar/cito/"
+  grel: "http://users.ugent.be/~bjdmeest/function/grel.ttl#"
+  idlab-fn: "http://example.com/idlab/function/"
+  fabio: "http://purl.org/spar/fabio/"
+  frbr: "http://purl.org/vocab/frbr/core#"
+
+mappings:
+  Realization:
+    sources:
+      - ['tmp/transform_data.json~jsonpath', '$']
+    s: covid:$(paper_id)
+    po:
+      - [a, fabrio:work]
+      - [dcterms:title, $(metadata.title)]
+      - [bibo:abstract, "$(abstract[0].text)"]
+      - p: pro:PublishingRole
+        o:
+          mapping: Authors
+      - p: cito:cites
+        o:
+          mapping: Citations
+
+  Authors:
+    sources:
+      - ['tmp/transform_data.json~jsonpath','$.metadata.authors[*]']
+    s: covid:$(first).$(last)
+    po:
+      - [a, pro:author]
+      - [a, foaf:Person]
+      - [foaf:surname, $(last)]
+      - [foaf:firstName, $(first)]
+      - p: org:memberOf
+        o:
+          mapping: Affiliation
+          condition:
+            function: equal
+            parameters:
+              - [str1, $(last first), s]
+              - [str2, $(last first), o]
+
+  Affiliation:
+    source:
+      - ['tmp/transform_data.json~jsonpath','$.metadata.authors[*]']
+    s: covid:$(affiliation.institution)
+    po:
+      - [a, org:Organization]
+      - [org:hasUnit, $(affiliation.laboratory)]
+      - [gn:postalCode, $(affiliation.location.postcode)]
+      - [dbo:country, dbr:$(affiliation.location.country)~iri]
+      - [dbo:city, dbr:$(affiliation.location.settlement)~iri]
+
+  Citations:
+    source:
+      - ['tmp/transform_data.json~jsonpath','$.bib_entries[*]']
+    s: http://dx.doi.org/$(other_ids.DOI[0])
+    po:
+      - [a, fabrio:work]
+      - p: cito:isCitedBy
+        o:
+          mapping: Realization
