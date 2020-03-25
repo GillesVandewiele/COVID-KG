@@ -1,0 +1,3011 @@
+{
+    "paper_id": "5b418c0fc9be9eb87329aae74de81b3270e3603d",
+    "metadata": {
+        "title": "",
+        "authors": [
+            {
+                "first": "Benjamin",
+                "middle": [],
+                "last": "Meyer",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "C. Drosten); National Institute for Public Health and the Environment",
+                    "institution": "University of Bonn Medical Centre",
+                    "location": {
+                        "settlement": "Bonn, Bilthoven, Rotterdam",
+                        "country": "the Netherlands., the Netherlands"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Marcel",
+                "middle": [
+                    "A"
+                ],
+                "last": "M\u00fcller",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "C. Drosten); National Institute for Public Health and the Environment",
+                    "institution": "University of Bonn Medical Centre",
+                    "location": {
+                        "settlement": "Bonn, Bilthoven, Rotterdam",
+                        "country": "the Netherlands., the Netherlands"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Victor",
+                "middle": [
+                    "M"
+                ],
+                "last": "Corman",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "C. Drosten); National Institute for Public Health and the Environment",
+                    "institution": "University of Bonn Medical Centre",
+                    "location": {
+                        "settlement": "Bonn, Bilthoven, Rotterdam",
+                        "country": "the Netherlands., the Netherlands"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Chantal",
+                "middle": [
+                    "B E M"
+                ],
+                "last": "Reusken",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "C. Drosten); National Institute for Public Health and the Environment",
+                    "institution": "University of Bonn Medical Centre",
+                    "location": {
+                        "settlement": "Bonn, Bilthoven, Rotterdam",
+                        "country": "the Netherlands., the Netherlands"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Daniel",
+                "middle": [],
+                "last": "Ritz",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "C. Drosten); National Institute for Public Health and the Environment",
+                    "institution": "University of Bonn Medical Centre",
+                    "location": {
+                        "settlement": "Bonn, Bilthoven, Rotterdam",
+                        "country": "the Netherlands., the Netherlands"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Gert-Jan",
+                "middle": [],
+                "last": "Godeke",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "C. Drosten); National Institute for Public Health and the Environment",
+                    "institution": "University of Bonn Medical Centre",
+                    "location": {
+                        "settlement": "Bonn, Bilthoven, Rotterdam",
+                        "country": "the Netherlands., the Netherlands"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Erik",
+                "middle": [],
+                "last": "Lattwein",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "C. Drosten); National Institute for Public Health and the Environment",
+                    "institution": "University of Bonn Medical Centre",
+                    "location": {
+                        "settlement": "Bonn, Bilthoven, Rotterdam",
+                        "country": "the Netherlands., the Netherlands"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Stephan",
+                "middle": [],
+                "last": "Kallies",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "C. Drosten); National Institute for Public Health and the Environment",
+                    "institution": "University of Bonn Medical Centre",
+                    "location": {
+                        "settlement": "Bonn, Bilthoven, Rotterdam",
+                        "country": "the Netherlands., the Netherlands"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Artem",
+                "middle": [],
+                "last": "Siemens",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "C. Drosten); National Institute for Public Health and the Environment",
+                    "institution": "University of Bonn Medical Centre",
+                    "location": {
+                        "settlement": "Bonn, Bilthoven, Rotterdam",
+                        "country": "the Netherlands., the Netherlands"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Janko",
+                "middle": [],
+                "last": "Van Beek",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "C. Drosten); National Institute for Public Health and the Environment",
+                    "institution": "University of Bonn Medical Centre",
+                    "location": {
+                        "settlement": "Bonn, Bilthoven, Rotterdam",
+                        "country": "the Netherlands., the Netherlands"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Jan",
+                "middle": [
+                    "F"
+                ],
+                "last": "Drexler",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "C. Drosten); National Institute for Public Health and the Environment",
+                    "institution": "University of Bonn Medical Centre",
+                    "location": {
+                        "settlement": "Bonn, Bilthoven, Rotterdam",
+                        "country": "the Netherlands., the Netherlands"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Doreen",
+                "middle": [],
+                "last": "Muth",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "C. Drosten); National Institute for Public Health and the Environment",
+                    "institution": "University of Bonn Medical Centre",
+                    "location": {
+                        "settlement": "Bonn, Bilthoven, Rotterdam",
+                        "country": "the Netherlands., the Netherlands"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Berend-Jan",
+                "middle": [],
+                "last": "Bosch",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "C. Drosten); National Institute for Public Health and the Environment",
+                    "institution": "University of Bonn Medical Centre",
+                    "location": {
+                        "settlement": "Bonn, Bilthoven, Rotterdam",
+                        "country": "the Netherlands., the Netherlands"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Ulrich",
+                "middle": [],
+                "last": "Wernery",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "C. Drosten); National Institute for Public Health and the Environment",
+                    "institution": "University of Bonn Medical Centre",
+                    "location": {
+                        "settlement": "Bonn, Bilthoven, Rotterdam",
+                        "country": "the Netherlands., the Netherlands"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Marion",
+                "middle": [
+                    "P G"
+                ],
+                "last": "Koopmans",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "C. Drosten); National Institute for Public Health and the Environment",
+                    "institution": "University of Bonn Medical Centre",
+                    "location": {
+                        "settlement": "Bonn, Bilthoven, Rotterdam",
+                        "country": "the Netherlands., the Netherlands"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Renate",
+                "middle": [],
+                "last": "Wernery",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "C. Drosten); National Institute for Public Health and the Environment",
+                    "institution": "University of Bonn Medical Centre",
+                    "location": {
+                        "settlement": "Bonn, Bilthoven, Rotterdam",
+                        "country": "the Netherlands., the Netherlands"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Christian",
+                "middle": [],
+                "last": "Drosten",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "C. Drosten); National Institute for Public Health and the Environment",
+                    "institution": "University of Bonn Medical Centre",
+                    "location": {
+                        "settlement": "Bonn, Bilthoven, Rotterdam",
+                        "country": "the Netherlands., the Netherlands"
+                    }
+                },
+                "email": "drosten@virology-bonn.de"
+            },
+            {
+                "first": "Germany",
+                "middle": [
+                    "( B"
+                ],
+                "last": "Meyer",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "EUROIMMUN AG",
+                    "location": {
+                        "settlement": "L\u00fcbeck",
+                        "country": "Germany ("
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "M",
+                "middle": [
+                    "A"
+                ],
+                "last": "M\u00fcller",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "EUROIMMUN AG",
+                    "location": {
+                        "settlement": "L\u00fcbeck",
+                        "country": "Germany ("
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "V",
+                "middle": [
+                    "M"
+                ],
+                "last": "Corman",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "EUROIMMUN AG",
+                    "location": {
+                        "settlement": "L\u00fcbeck",
+                        "country": "Germany ("
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "D",
+                "middle": [],
+                "last": "Ritz",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "EUROIMMUN AG",
+                    "location": {
+                        "settlement": "L\u00fcbeck",
+                        "country": "Germany ("
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "S",
+                "middle": [],
+                "last": "Kallies",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "EUROIMMUN AG",
+                    "location": {
+                        "settlement": "L\u00fcbeck",
+                        "country": "Germany ("
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "A",
+                "middle": [],
+                "last": "Siemens",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "EUROIMMUN AG",
+                    "location": {
+                        "settlement": "L\u00fcbeck",
+                        "country": "Germany ("
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "J",
+                "middle": [
+                    "F"
+                ],
+                "last": "Drexler",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Bonn",
+                    "location": {
+                        "addrLine": "Sigmund Freud Strasse 25",
+                        "postCode": "53105",
+                        "settlement": "Bonn",
+                        "country": "Germany"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "D",
+                "middle": [],
+                "last": "Muth",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "EUROIMMUN AG",
+                    "location": {
+                        "settlement": "L\u00fcbeck",
+                        "country": "Germany ("
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "C",
+                "middle": [
+                    "B E M"
+                ],
+                "last": "Reusken",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Bonn",
+                    "location": {
+                        "addrLine": "Sigmund Freud Strasse 25",
+                        "postCode": "53105",
+                        "settlement": "Bonn",
+                        "country": "Germany"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "G.-J",
+                "middle": [],
+                "last": "Godeke",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "B.-J. Bosch); and Central Veterinary Research Laboratory, Dubai, United Arab Emirates (U. Wernery, R. Wernery)",
+                    "institution": "Utrecht University",
+                    "location": {
+                        "settlement": "Utrecht",
+                        "country": "the Netherlands ("
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "J",
+                "middle": [],
+                "last": "Van Beek",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "B.-J. Bosch); and Central Veterinary Research Laboratory, Dubai, United Arab Emirates (U. Wernery, R. Wernery)",
+                    "institution": "Utrecht University",
+                    "location": {
+                        "settlement": "Utrecht",
+                        "country": "the Netherlands ("
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "M",
+                "middle": [
+                    "P G"
+                ],
+                "last": "Koopmans",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Bonn",
+                    "location": {
+                        "addrLine": "Sigmund Freud Strasse 25",
+                        "postCode": "53105",
+                        "settlement": "Bonn",
+                        "country": "Germany"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Middle East respiratory syndrome coronavirus (MERS-CoV) has caused an ongoing outbreak of severe acute respiratory tract infection in humans in the Arabian Peninsula since 2012. Dromedaries have been implicated as possible viral reservoirs. We used serologic assays to analyze 651 dromedary serum samples from the United Arab Emirates; 151 of 651 samples were obtained in 2003, well before onset of the current epidemic, and 500 serum samples were obtained in 2013. Recombinant spike protein-specific immunofluorescence and virus neutralization tests enabled clear discrimination between MERS-CoV and bovine CoV infections. Most (632/651, 97.1%) dromedaries had antibodies against MERS-CoV. This result included all 151 serum samples obtained in 2003. Most (389/651, 59.8%) serum samples had MERS-CoV-neutralizing antibody titers >1,280. Dromedaries from the United Arab Emirates were infected at high rates with MERS-CoV or a closely related, probably conspecific, virus long before the first human MERS cases.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "CoV) is an emerging pathogen associated with severe respiratory symptoms and renal failure in infected patients (1, 2) . Globally, 156 laboratory-confirmed cases of infection with MERS-CoV, including 65 deaths, were reported as of early November 2013. All human cases were linked to the Arabian Peninsula (Saudi Arabia, Jordan, Oman, Qatar, Kuwait, and the United Arab Emirates). Imported cases were detected in countries in Europe and Africa (United Kingdom, Germany, Italy, France, and Tunisia) (3) .",
+            "cite_spans": [
+                {
+                    "start": 112,
+                    "end": 115,
+                    "text": "(1,",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 116,
+                    "end": 118,
+                    "text": "2)",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 497,
+                    "end": 500,
+                    "text": "(3)",
+                    "ref_id": "BIBREF2"
+                }
+            ],
+            "ref_spans": [],
+            "section": "M iddle East respiratory syndrome coronavirus (MERS-"
+        },
+        {
+            "text": "Transmission patterns, including the putative zoonotic source of the virus, remain unclear. Hypotheses include frequent zoonotic infections with limited subsequent human-to-human transmission chains and existence of a self-sustained epidemic in humans (4) . A recent study found evidence to support the existence of epidemiologically unlinked cases in a large outbreak in the al-Hasa region, Saudi Arabia (5) . It was speculated that zoonotic introductions of MERS-CoV from an unknown reservoir might occur at high rates, in addition to obvious human-tohuman transmission.",
+            "cite_spans": [
+                {
+                    "start": 252,
+                    "end": 255,
+                    "text": "(4)",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 405,
+                    "end": 408,
+                    "text": "(5)",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": "M iddle East respiratory syndrome coronavirus (MERS-"
+        },
+        {
+            "text": "Coronaviruses (CoV) are positive-sense RNA viruses. Viruses in the genera Alphacoronavirus and Betacoronavirus are associated with mammals and show a particularly high level of diversification in bats. Viruses in the genera Gammacoronavirus and Deltacoronavirus are mostly avian-associated viruses (6, 7) . MERS-CoV belongs to Betacoronavirus phylogenetic lineage C that, in addition to MERS-CoV, contains 2 distinct bat-associated CoV species (HKU4 and HKU5) (1, 8) .",
+            "cite_spans": [
+                {
+                    "start": 298,
+                    "end": 301,
+                    "text": "(6,",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 302,
+                    "end": 304,
+                    "text": "7)",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 460,
+                    "end": 463,
+                    "text": "(1,",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 464,
+                    "end": 466,
+                    "text": "8)",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": "M iddle East respiratory syndrome coronavirus (MERS-"
+        },
+        {
+            "text": "Insectivorous bats of the family Vespertilionidae were recently shown to carry viruses that are probably conspecific with MERS-CoV (9) . However, the limited rate of contact between humans and insectivorous bats makes a continuous and frequent acquisition of MERS-CoV from bats an unlikely scenario. In a manner similar to observations regarding severe acute respiratory syndrome CoV (SARS-CoV), an intermediate reservoir host might exist from which human infections are acquired. Dromedaries from different regions in Africa and the Arabian Peninsula have been shown to have antibodies against MERS-CoV (10, 11) . Animals from the Arabian Peninsula had high neutralizing serum activities overall and reciprocal antibody titers <320-1,280, which support recent infection with MERS-CoV or a highly related virus. Thus, dromedaries might serve as intermediate hosts. However, detailed serologic studies in countries with actual incidence of MERS-CoV infections in humans have not been conducted.",
+            "cite_spans": [
+                {
+                    "start": 131,
+                    "end": 134,
+                    "text": "(9)",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 604,
+                    "end": 608,
+                    "text": "(10,",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 609,
+                    "end": 612,
+                    "text": "11)",
+                    "ref_id": "BIBREF10"
+                }
+            ],
+            "ref_spans": [],
+            "section": "M iddle East respiratory syndrome coronavirus (MERS-"
+        },
+        {
+            "text": "Serologic analysis of CoVs is challenging because of cross-reactivity between CoVs infecting the same host and the broad distribution of CoVs in diverse mammalian species (6, 7, (12) (13) (14) . Antibodies directed against some of the major antigens of different CoVs are known to crossreact in standard serologic assays (15, 16) . Potential crossreactivity is a diagnostic challenge because camelids are known to be infected with bovine CoV (BCoV), a distinct betacoronavirus of phylogenetic lineage A unrelated to the MERS-CoV (17, 18) . As an additional challenge, camel immunoglobulins lack a light chain peptide, which affects specific physical properties, such as altered size and stability, compared with immunoglobulins of other mammals (19, 20) . The influence of this feature on serologic assays has not been thoroughly investigated. Thus, serologic assays should be applied with caution, and different assay formats should be tested concurrently.",
+            "cite_spans": [
+                {
+                    "start": 171,
+                    "end": 174,
+                    "text": "(6,",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 175,
+                    "end": 177,
+                    "text": "7,",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 178,
+                    "end": 182,
+                    "text": "(12)",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 183,
+                    "end": 187,
+                    "text": "(13)",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 188,
+                    "end": 192,
+                    "text": "(14)",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 321,
+                    "end": 325,
+                    "text": "(15,",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 326,
+                    "end": 329,
+                    "text": "16)",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 529,
+                    "end": 533,
+                    "text": "(17,",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 534,
+                    "end": 537,
+                    "text": "18)",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 745,
+                    "end": 749,
+                    "text": "(19,",
+                    "ref_id": null
+                },
+                {
+                    "start": 750,
+                    "end": 753,
+                    "text": "20)",
+                    "ref_id": "BIBREF19"
+                }
+            ],
+            "ref_spans": [],
+            "section": "M iddle East respiratory syndrome coronavirus (MERS-"
+        },
+        {
+            "text": "We reported a 2-staged approach for MERS-CoV serologic analysis in humans (15, 16) . Expanding upon these studies, we used in the present study a recombinant MERS-CoV spike protein immunofluroescence assay (rIFA) augmented by a validated protein microarray (10, 21) , followed by MERS-CoV-specific neutralization assay, to screen 651 dromedary serum samples from the United Arabian Emirates. Cross-reactivity against clade A betacoronaviruses was assessed by using a immunofluorescence assay (IFA) and a BCoV-specific neutralization assay. Serum samples obtained in 2003 and 2013 were compared to obtain information for the time in which MERS-related CoV has been circulating in camels.",
+            "cite_spans": [
+                {
+                    "start": 74,
+                    "end": 78,
+                    "text": "(15,",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 79,
+                    "end": 82,
+                    "text": "16)",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 257,
+                    "end": 261,
+                    "text": "(10,",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 262,
+                    "end": 265,
+                    "text": "21)",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [],
+            "section": "M iddle East respiratory syndrome coronavirus (MERS-"
+        },
+        {
+            "text": "A total of 651 dromedary (Camelus dromedarius) serum samples were systematically sampled in Dubai, United Arab Emirates and the surrounding area in 2003 (collection 4, n = 151) and in 2013 (collections 1A, 1B, 2, and 3; n = 500). The total number of camels in that area was 360,000 in 2010 (22) . Fecal samples were also available for collections 1A and 1B (n = 182), all obtained in 2013. Animals in collection 1B were born and raised at the Dubai Central Veterinary Research Laboratory, which tests \u224870,000 camels per year (23) and had no contact with other camels. Camels in collection 2 were racing camels (age range 2-8 years), and camels in collection 3 were adult livestock camels originally purchased from Saudi Arabia, Sudan, Pakistan and Oman.",
+            "cite_spans": [
+                {
+                    "start": 290,
+                    "end": 294,
+                    "text": "(22)",
+                    "ref_id": null
+                },
+                {
+                    "start": 525,
+                    "end": 529,
+                    "text": "(23)",
+                    "ref_id": "BIBREF22"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Sampling"
+        },
+        {
+            "text": "Dromedary blood was obtained for routine health screening by jugular vein puncture according to standard veterinary procedures by trained personnel. For most serum samples, animal owners requested sample codes to be anonymous. All samples obtained during 2003 and 2013 were stored at -80\u00b0C until further analysis. For comparison, 16 serum samples from C. bactrianus camels in zoologic gardens in Germany were included in the study. All serum samples were shipped in agreement with German import regulations.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Sampling"
+        },
+        {
+            "text": "For screening purposes, an rIFA was used (15, 24) . In brief, Vero B4 cells were transfected with pCG1 eukaryotic expression vector that contained the complete spike sequence of MERS-CoV or human CoV-OC43. Cells were fixed 24-h post-transfection with ice-cold acetone/ methanol and stored dry at 4\u00b0C. Serum samples were applied at a dilution of 1:80 for 1 h at 37\u00b0C, which was optimal for reducing nonspecific reactions and maintaining sensitivity. Secondary detection was conducted by using a goat anti-llama IgG fluorescein isothiocyanate-conjugated antibody. For some negative serum samples, dilutions of 1:20 and 1:40 were also tested.",
+            "cite_spans": [
+                {
+                    "start": 41,
+                    "end": 45,
+                    "text": "(15,",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 46,
+                    "end": 49,
+                    "text": "24)",
+                    "ref_id": "BIBREF23"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Recombinant Spike IFA"
+        },
+        {
+            "text": "A confirmatory assay based on a protein microarray was performed as described (10, 21) by using the spike S1 subunits of MERS-CoV, human CoV-OC43, and SARS-CoV. Serum samples were used at 1:20 dilutions on microarray chips. Relative light units were determined by using secondary cyanine 5-conjugated goat anti-llama IgG.",
+            "cite_spans": [
+                {
+                    "start": 78,
+                    "end": 82,
+                    "text": "(10,",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 83,
+                    "end": 86,
+                    "text": "21)",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Spike Protein Microarray"
+        },
+        {
+            "text": "A MERS-CoV IFA with infected Vero cells was conducted as described (15) by using commercially available MERS-CoV IFA slides (EUROIMMUNAG, L\u00fcbeck Germany). Serum samples were used at dilutions of 1:20-1:5,120. Secondary detection was conducted by using goat anti-llama fluorescein isothiocyanate-labeled IgG (1:200 dilution; Agrisera, V\u00e4nnas, Sweden).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "MERS-CoV Conventional IFA"
+        },
+        {
+            "text": "Serum neutralization tests were conducted as described (10) with camel serum diluted in 25 mL serum-free Dulbecco minimum essential medium. The starting dilution was 1:40. After incubation for 1 h at 37\u00b0C, each well was infected for 1 h at 37\u00b0C with a 50 mL virus-serum mixture. Supernatants were removed and fresh complete Dulbecco minimum essential medium was added. Assays were terminated by fixation with 8% paraformaldehyde for 30 min and stained with crystal violet after 3 days. Neutralization titers were defined as serum dilutions reducing cytopathic effects in 2 parallel wells.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Serum Neutralization Test"
+        },
+        {
+            "text": "Viral RNA was extracted from serum and fecal samples by using the MagNA Pure System (Roche, Basel, Switzerland) and an input volume of 100 \u03bcL of serum or fecal material suspended 1:10 in phosphate-buffered saline buffer. The elution volume was 100 \u03bcL for serum and fecal suspensions. To identify CoV-specific nucleic acids, 2 generic CoV PCRs were performed as described (25) (26) (27) , followed by subsequent Sanger sequencing of the amplified DNA.",
+            "cite_spans": [
+                {
+                    "start": 371,
+                    "end": 375,
+                    "text": "(25)",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 376,
+                    "end": 380,
+                    "text": "(26)",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 381,
+                    "end": 385,
+                    "text": "(27)",
+                    "ref_id": "BIBREF26"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Detection of Virus Nucleic Acid"
+        },
+        {
+            "text": "To characterize reactivity of camel serum samples with MERS-CoV in different assay formats, we chose 11 camel serum samples with weak and strong reactivity predetermined by using a simple IFA. The 11 serum samples were titrated in a 2-fold dilution series in all applied assays. The reactivity pattern of the MERS-CoV spike protein (MERS-S) was compared against that of the human CoV-OC43 spike protein (OC43-S). As in our previous study (10) , human CoV-OC43 was used instead of BCoV in these initial experiments because it is serologically indistinguishable from BCoV and is not subject to handling restrictions of German Animal Diseases Protection Act (28) . Overall titers against MERS-S were higher than those against OC43-S, and several serum samples reacted exclusively against 1 of the 2 viruses (Table 1) , suggesting the absence of general cross-reactivity between spike proteins of both viruses by IFA. Typical patterns of reactivity observed for camel serum samples are shown in the Figure, panel A. A previously published microarray-based assay that used the receptor-binding S1 spike subunit of MERS-CoV (MERS-S1), human CoV-OC43 (OC43-S1), and SARS-CoV (SARS-S1) was also evaluated. In contrast to our previous studies (10,21) we chose a lower fluorescence intensity cutoff of 4,000 instead of 20,000 relative fluorescence units (RFU) to maximize the sensitivity and thereby challenge the target specificity. All 3 MERS IFAnegative serum samples had signal intensities <4000 RFU at serum dilutions of 1:20 (Table 1 ). All rIFA-positive serum samples had saturated signals >65,535 RFU. The OC43-S1 reactivity pattern across the serum panel was comparable with that for the OC43-S rIFA. As expected, all serum samples were negative against the SARS-S1 control antigen. A comparison of typical reactivity patterns in the microarray with those of the IFA is shown in the Figure, panel B. Results for the rIFA and protein microarray were highly congruent.",
+            "cite_spans": [
+                {
+                    "start": 438,
+                    "end": 442,
+                    "text": "(10)",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 655,
+                    "end": 659,
+                    "text": "(28)",
+                    "ref_id": "BIBREF27"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 804,
+                    "end": 813,
+                    "text": "(Table 1)",
+                    "ref_id": null
+                },
+                {
+                    "start": 995,
+                    "end": 1011,
+                    "text": "Figure, panel A.",
+                    "ref_id": null
+                },
+                {
+                    "start": 1521,
+                    "end": 1529,
+                    "text": "(Table 1",
+                    "ref_id": null
+                },
+                {
+                    "start": 1882,
+                    "end": 1889,
+                    "text": "Figure,",
+                    "ref_id": null
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "The panel of camel serum samples was additionally tested in a commercially available IFA that used cells infected with MERS-CoV (vIFA) (EUROIMMUN AG). The use of whole virus provides additional structural and nonstructural protein antigens, including envelope, membrane, nucleocapsid, and diverse replicase proteins. However, because of conserved features of nonstructural proteins among even distantly related CoVs (7,12) cross-reactivity was possible with this assay (15) . In the tested panel of camel serum samples, vIFA titers corresponded well to titers determined by rIFA and generally equal to or higher than titers in the rIFA (Table 1) To confirm results from affinity assays with results from a functional test, we determined endpoint virus neutralization titers by using a microneutralization test against MERS-CoV and BCoV. In most animals MERS-CoV serum neutralization titers were higher than titers against BCoV (serum samples 4-11) ( Table 1) . High IFA titers generally corresponded with high neutralization titers, with exceptions for some BCoV antibody-positive serum samples. Divergence between affinity and neutralization assays can result from waning neutralizing antibody activity for infections that occurred long ago. Neutralization assays confirmed the absence of cross-neutralization between MERS-CoV and BCoV antibodies in either direction even at low dilutions, such as 1:40. However, sample no. 1 (Table  1) neutralized BCoV at a dilution of 1:40 despite showing negative results in all other serologic assays. This finding indicates that nonspecific neutralization activities might be encountered with camel serum samples, suggesting that higher serum dilutions should be used when conducting critical investigations such as viral reservoir studies.",
+            "cite_spans": [
+                {
+                    "start": 469,
+                    "end": 473,
+                    "text": "(15)",
+                    "ref_id": "BIBREF14"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 636,
+                    "end": 645,
+                    "text": "(Table 1)",
+                    "ref_id": null
+                },
+                {
+                    "start": 950,
+                    "end": 958,
+                    "text": "Table 1)",
+                    "ref_id": null
+                },
+                {
+                    "start": 1427,
+                    "end": 1437,
+                    "text": "(Table  1)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "On the basis of the validation studies, we investigated 4 collections of serum samples from dromedaries from the United Arab Emirates that were sampled in 2003 and 2013. For initial screening, we chose the rIFA because of its proven sensitivity and decreased chances of generating false-positive results. All 667 camel serum samples from the United Arab Emirates and Germany were initially screened at dilutions of 1:80. A total of 89.0%-100.0% of serum samples in 4 collections showed positive results ( Table 2) . Seroprevalence was higher for collections from exclusively adult animals (collections 3 and 4) than for a collection from young racing camels (2-8 in the rIFA. Re-testing at lower dilutions of 1:20 and 1:40 confirmed absence of reactivity in these serum samples. Subcollection 1B contained serum samples from 5 animals that were born in, and had never left, a closed animal research facility in Dubai; these animals were seronegative.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 505,
+                    "end": 513,
+                    "text": "Table 2)",
+                    "ref_id": null
+                },
+                {
+                    "start": 658,
+                    "end": 662,
+                    "text": "(2-8",
+                    "ref_id": null
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "A confirmatory microneutralization test was conducted at dilutions of 1:640 and 1:1,280 for all IFA-reactive serum samples. These high dilutions were chosen on the basis of our observation of high levels of neutralizing serum activity in camels (10) . Most (59.8%, 389/651) serum samples had high neutralizing titers >1,280 (Table 2 ). In 18.4% (120/651) of all serum samples, neutralization titers ranged from 640 through 1,280, and 21.8% (142/651) of rIFA-positive serum samples had neutralizing titers <640.",
+            "cite_spans": [
+                {
+                    "start": 245,
+                    "end": 249,
+                    "text": "(10)",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 324,
+                    "end": 332,
+                    "text": "(Table 2",
+                    "ref_id": null
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "To rule out cross-reactivity and to study additional exposure of MERS-CoV-positive camels with BCoV (17, 18) , all serum samples having MERS-CoV neutralizing titers >640 were tested by using a BCoVspecific microneutralization assay. At a dilution of 1:640, a total of 19.2% (23/120) of MERS-CoV-neutralizing serum samples had concomitant neutralizing activities against BCoV (Table 3 ). Of serum samples that had MERS-CoV neutralizing antibody titers >1,280, a total of 24.2% (94/389) had concomitant neutralizing activities against BCoV.",
+            "cite_spans": [
+                {
+                    "start": 100,
+                    "end": 104,
+                    "text": "(17,",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 105,
+                    "end": 108,
+                    "text": "18)",
+                    "ref_id": "BIBREF17"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 375,
+                    "end": 383,
+                    "text": "(Table 3",
+                    "ref_id": "TABREF2"
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "Fecal samples were available for 182 dromedaries in collection 1. All samples were tested by using a subfamily Coronavirinae-specific broad-range reverse transcription PCR (RT-PCR) and a highly sensitive RT-PCR specific for genus Betacoronavirus phylogenetic lineage C. Both assays were specific for the viral RNAdependent RNA polymerase gene. Two positive fecal samples were identified by both assays. Sequencing of amplified cDNA fragments of 182 nt and 404 nt identified sequences 99% identical with BCoV strain Mebus (GenBank accession nos. KF894801 and U00735.2). To further confirm virus identity, we amplified a region within the spike protein gene (positions 24303-24702 in BCoV strain Mebus) by using RT-PCR and sequencing it.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Results"
+        },
+        {
+            "text": "Amplicons from both animals were 97% identical at nucleotide level with BCoV strain Mebus, indicating the presence of BCoV in camels as reported (10) . We tested all serum samples in the same way by RT-PCR and obtained uniformly negative results.",
+            "cite_spans": [
+                {
+                    "start": 145,
+                    "end": 149,
+                    "text": "(10)",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Results"
+        },
+        {
+            "text": "We have shown that dromedaries from the United Arab Emirates, a country with human cases of MERS-CoV infection, have antibodies that can neutralize MERS-CoV at high rates. Antibodies were detected in serum samples obtained in 2013 and in serum samples obtained >10 years earlier, which indicated the longstanding presence of MERS-CoV or a closely related virus in dromedaries in that region. Our data add to previous studies in which our group and others have reported wide antibody prevalence in camels in various regions, including Oman, Egypt, and the Canary Islands (10, 11) . A 10% lower seroprevalence in collection 2, which contained young racing camels, suggests that animals might be infected as juveniles. However, because only limited data were made available by owners, a definite statement awaits confirmation.",
+            "cite_spans": [
+                {
+                    "start": 570,
+                    "end": 574,
+                    "text": "(10,",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 575,
+                    "end": 578,
+                    "text": "11)",
+                    "ref_id": "BIBREF10"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "The absence of antibodies in a control cohort from Germany might be explained by the fact that these animals belonged to a different camelid species (C. bactrianus vs. C. dromedarius). However, because MERS-CoV has a highly conserved receptor structure, we did not assign high priority to the hypothesis that the closely related camel species C. bactrianus, should be less susceptible than C. dromedarius camels to MERS-CoV (29, 30) . Differences in antibody prevalence rates might reflect a restricted geographic distribution of the virus, which corresponds to our previous finding of a relatively lower prevalence of antibodies against MERS CoV in camels from the Canary Islands, which have been isolated from their point of origin in Africa for many years (10) . Therefore, MERS-CoV-like viruses in camelids might be spreading across a region covering at least the eastern Arabian Peninsula, including Oman, the United Arab Emirates, Egypt, and Morocco from where some of the antibody-positive camels described by Reusken et al. originated (10) . The high rates of antibody prevalence in contemporary serum samples and samples from 2003 suggest that the virus has spread in camelids for some time. However, recognition of camelids as the bona fide reservoir for MERS-CoV has to await sequencing of camelid-associated MERS-related CoV. In this context, only animals infected with conspecific viruses can be regarded as reservoirs for a given virus. Although neutralization assays can provide evidence of infection with a virus belonging to the same serotype, no systematic studies have defined whether serotypes correlate with CoVs species. Nevertheless, for several CoV clades, serotypes defined by neutralization assay will not include >1 viral species. Members of the species Betacoronavirus 1, including CoV-OC43 and BCoV, show cross-neutralization with each other, but the closely related sister species (human CoV-HKU1) does not show cross-neutralization (31) .",
+            "cite_spans": [
+                {
+                    "start": 424,
+                    "end": 428,
+                    "text": "(29,",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 429,
+                    "end": 432,
+                    "text": "30)",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 759,
+                    "end": 763,
+                    "text": "(10)",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 1043,
+                    "end": 1047,
+                    "text": "(10)",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 1963,
+                    "end": 1967,
+                    "text": "(31)",
+                    "ref_id": "BIBREF31"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Feline CoV (FCoV) comprises 2 subserotypes that show limited cross-reactivity but are considered 1 virus species. Transmissible gastroenteritis virus of swine shows more efficient cross-neutralization with 1 of these FCoV subserotypes than the other and is classified as 1 species with FCoV even though it is carried by a different host (32) . Human CoVs 229E and NL63, which form 2 closely related sister taxa, do not show cross-neutralization and concordantly form 2 different species by genetic criteria (33) . Therefore, our finding of high neutralizing antibody titers in camelids is suggestive (but not evidentiary) of the presence of viruses conspecific with MERS-CoV in camelids. Final confirmation will depend on the identification of virus sequences in camelids, which should expectably be closely related to human-specific MERS-CoV sequences.",
+            "cite_spans": [
+                {
+                    "start": 337,
+                    "end": 341,
+                    "text": "(32)",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 507,
+                    "end": 511,
+                    "text": "(33)",
+                    "ref_id": "BIBREF33"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Camels probably acquired MERS-CoV at some unknown time. Potential sources include bats of the family Vespertilionidae, in which a virus with a close phylogenetic relationship with MERS-CoV has been detected (9). This virus, which is carried by vespertilionid bats of the genus Neoromicia, has been confirmed to be conspecific with MERS-CoV. Lineage C betacoronaviruses in other bat taxa have also been proposed to be related to MERS-CoV (34, 35) . However, although these viruses cluster phylogenetically with MERS-CoV, they are not conspecific with MERS-CoV on the basis of sequence distance criteria, such as that were proposed by Drexler et al. (36) .",
+            "cite_spans": [
+                {
+                    "start": 437,
+                    "end": 441,
+                    "text": "(34,",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 442,
+                    "end": 445,
+                    "text": "35)",
+                    "ref_id": "BIBREF35"
+                },
+                {
+                    "start": 633,
+                    "end": 652,
+                    "text": "Drexler et al. (36)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "In vespertilionid bats, including those in the genus Neoromicia, virus conspecific with MERS-CoV differs from human MERS-CoV, even if formally a member of the same species. The observed degree of sequence divergence between this virus and MERS-CoV makes any direct and recent transmission from bats to humans seem unlikely. Nevertheless, it cannot be excluded from available data that the virus source population in bats has not been detected. For example, a recent investigation of Rhinolophus bats in China identified viruses with close relationships to the bona fide ancestor of SARS-CoV, and viruses described in many studies yielded only conspecific yet less related viruses (37) . In that study, viruses from civet cats, which are deemed to be intermediary hosts in the transition of SARS-CoV from bats to humans, were still more closely related to human SARS-CoV than even the closest bat-borne virus.",
+            "cite_spans": [
+                {
+                    "start": 680,
+                    "end": 684,
+                    "text": "(37)",
+                    "ref_id": "BIBREF38"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "If camelids should function as intermediary hosts in a similar manner, we should expect a virus in camelids that has a closer phylogenetic relationship with any bat-borne CoV and thus should be easily detectable with available RT-PCRs. Larger studies to confirm the presence of MERS-CoV in camelids should receive high priority so as to define the animal reservoir of MERS-CoV and possibly control it by such measures as vaccination or control of animal movement. However, before implementation of any control measures, whether camelids are a continuous source of infection for humans needs to be firmly established. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Isolation of a novel coronavirus from a man with pneumonia in Saudi Arabia",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Zaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Van Boheemen",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Bestebroer",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Osterhaus",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Fouchier",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "N Engl J Med",
+            "volume": "367",
+            "issn": "",
+            "pages": "1814--1834",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa1211721"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Clinical features and virological analysis of a case of Middle East respiratory syndrome coronavirus infection",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Drosten",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Seilmaier",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Corman",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Hartmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Scheible",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Sack",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Lancet Infect Dis",
+            "volume": "13",
+            "issn": "",
+            "pages": "745--51",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1473-3099(13)70154-3"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Middle East respiratory syndrome coronavirus (MERS-CoV)-update",
+            "authors": [],
+            "year": 2013,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Transmission scenarios for Middle East respiratory syndrome coronavirus (MERS-CoV) and how to tell them apart",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Cauchemez",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Van Kerkhove",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Riley",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Donnelly",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Fraser",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Ferguson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Euro Surveill",
+            "volume": "18",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Transmission and evolution of the Middle East respiratory syndrome coronavirus in Saudi Arabia: a descriptive genomic study",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Cotten",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Watson",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Kellam",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Al-Rabeeah",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "Q"
+                    ],
+                    "last": "Makhdoom",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Assiri",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Lancet",
+            "volume": "382",
+            "issn": "13",
+            "pages": "61887--61892",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Discovery of seven novel mammalian and avian coronaviruses in the genus deltacoronavirus supports bat coronaviruses as the gene source of alphacoronavirus and betacoronavirus and avian coronaviruses as the gene source of gammacoronavirus and deltacoronavirus",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Woo",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Lau",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Lam",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Lau",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Tsang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Lau",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "J Virol",
+            "volume": "86",
+            "issn": "",
+            "pages": "3995--4008",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.06540-11"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Genomic characterization of SARS-related coronavirus in European bats and classification of coronaviruses based on partial RNA-dependent RNA polymerase gene sequences",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Drexler",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Gloza-Rausch",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Glende",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Corman",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Muth",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Goettsche",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J Virol",
+            "volume": "84",
+            "issn": "",
+            "pages": "11336--11385",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.00650-10"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Genomic characterization of a newly discovered coronavirus associated with acute respiratory distress syndrome in humans",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Van Boheemen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "De Graaf",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Lauber",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Bestebroer",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Raj",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Zaki",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "MBio",
+            "volume": "3",
+            "issn": "",
+            "pages": "473--485",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/mBio"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Close relative of human middle East respiratory syndrome coronavirus in bat",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Ithete",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Stoffberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Corman",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Cottontail",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Richards",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Schoeman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "South Africa. Emerg Infect Dis",
+            "volume": "19",
+            "issn": "",
+            "pages": "1697--1706",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid1910.130946"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Middle East respiratory syndrome coronavirus neutralising serum antibodies in dromedary camels: a comparative serological study",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Reusken",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Haagmans",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Muller",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Gutierrez",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Godeke",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Meyer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Lancet Infect Dis",
+            "volume": "13",
+            "issn": "13",
+            "pages": "70164--70170",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1473-3099"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Seroepidemiology for MERS coronavirus using microneutralisation and pseudoparticle virus neutralisation assays reveal a high prevalence of antibody in dromedary camels in Egypt",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Perera",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Gomaa",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "El-Shesheny",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kandeil",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Bagato",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Euro Surveill",
+            "volume": "18",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Molecular diversity of coronaviruses in bats",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Woo",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Lau",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Poon",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Wong",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Tsoi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Virology",
+            "volume": "351",
+            "issn": "",
+            "pages": "180--187",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.virol.2006.02.041"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Distant relatives of severe acute respiratory syndrome coronavirus and close relatives of human coronavirus 229E in bats",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Pfefferle",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Oppong",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Drexler",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Gloza-Rausch",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ipsen",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Seebens",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Ghana. Emerg Infect Dis",
+            "volume": "15",
+            "issn": "",
+            "pages": "1377--84",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid1509.090224"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Detection and prevalence patterns of group I coronaviruses in bats, northern Germany",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Gloza-Rausch",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ipsen",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Seebens",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Gottsche",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Panning",
+                    "suffix": ""
+                },
+                {
+                    "first": "Felix",
+                    "middle": [],
+                    "last": "Drexler",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Emerg Infect Dis",
+            "volume": "14",
+            "issn": "",
+            "pages": "626--657",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid1404.071439"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Contact investigation of a case of human novel coronavirus infection treated in a German hospital",
+            "authors": [
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Buchholz",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Muller",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Nitsche",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sanewski",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Wevering",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Bauer-Balci",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Euro Surveill",
+            "volume": "18",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Investigation of anti-Middle East respiratory syndrome antibodies in blood donors and slaughtethouse workers in Jeddah and Makkah, Saudi Arabia, fall 2013",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Aburizaiza",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Mattes",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Azhar",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Hassan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Memish",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Muth",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "J Infect Dis",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/infdis/jit589"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Analysis of the genome sequence of an alpaca coronavirus",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Jin",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Cebra",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Baker",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Mattson",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Cohen",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Alvarado",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Virology",
+            "volume": "365",
+            "issn": "",
+            "pages": "198--203",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.virol.2007.03.035"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Enteric coronavirus infection in a juvenile dromedary (Camelus dromedarius)",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "W\u00fcnschmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Frank",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Pomeroy",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kapil",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J Vet Diagn Invest",
+            "volume": "14",
+            "issn": "",
+            "pages": "441--445",
+            "other_ids": {
+                "DOI": [
+                    "10.1177/104063870201400518"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Comparison of physical chemical properties of llama VHH antibody fragments and mouse monoclonal antibodies",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Der Linden",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Frenken",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "De Geus",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Harmsen",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Ruuls",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Stok",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Biochim Biophys Acta",
+            "volume": "1431",
+            "issn": "",
+            "pages": "37--46",
+            "other_ids": {
+                "DOI": [
+                    "doi.org/10.1016/S0167-4838(99)00030-8"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Naturally occurring antibodies devoid of light chains",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Hamers-Casterman",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Atarhouch",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Muyldermans",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Robinson",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Hamers",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Songa",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Nature",
+            "volume": "363",
+            "issn": "",
+            "pages": "446--454",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/363446a0"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Specific serology for emerging human coronaviruses by protein microarray",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Reusken",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Mou",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Godeke",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Van Der Hoek",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Meyer",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Muller",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Euro Surveill",
+            "volume": "18",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "CVRL. 26th annual report",
+            "authors": [],
+            "year": 2012,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Detection of a novel human coronavirus by realtime reverse-transcription polymerase chain reaction",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Corman",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Eckerle",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Bleicker",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Zaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Landt",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Eschbach-Bludau",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Euro Surveill",
+            "volume": "17",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Human betacoronavirus 2c EMC/2012-related viruses in bats, Ghana and Europe",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Annan",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Baldwin",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Corman",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Klose",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Owusu",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Nkrumah",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Emerg Infect Dis",
+            "volume": "19",
+            "issn": "",
+            "pages": "456--465",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid1903.121503"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Assays for laboratory confirmation of novel human coronavirus (hCoV-EMC) infections",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Corman",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Muller",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Costabel",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Timm",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Binger",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Meyer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Euro Surveill",
+            "volume": "17",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Generic detection of coronaviruses and differentiation at the prototype strain level by reverse transcription-PCR and nonfluorescent low-density microarray",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "De Souza Luna",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Heiser",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Regamey",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Panning",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Drexler",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Mulangu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J Clin Microbiol",
+            "volume": "45",
+            "issn": "",
+            "pages": "1049--52",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JCM.02426-06"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Antigenic and biological relationships between human coronavirus OC43 and neonatal calf diarrhoea coronavirus",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Gerna",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Cereda",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Revello",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Cattaneo",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Battaglia",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Gerna",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Human coronavirus EMC does not require the SARS-coronavirus receptor and maintains broad replicative capability in mammalian cell lines",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "M\u00fcller",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Raj",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Muth",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Meyer",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kallies",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Smits",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "MBio",
+            "volume": "3",
+            "issn": "",
+            "pages": "515--527",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/mBio"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Dipeptidyl peptidase 4 is a functional receptor for the emerging human coronavirus-EMC",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Raj",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Mou",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Smits",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Dekkers",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Muller",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Dijkman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Nature",
+            "volume": "495",
+            "issn": "",
+            "pages": "251--255",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nature12005"
+                ]
+            }
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Examination of seroprevalence of coronavirus HKU1 infection with S protein-based ELISA and neutralization assay against viral spike pseudotyped virus",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Tse",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Wong",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Woo",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Lau",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J Clin Virol",
+            "volume": "45",
+            "issn": "",
+            "pages": "54--60",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jcv.2009.02.011"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Antigenic relationships among homologous structural polypeptides of porcine, feline, and canine coronaviruses",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Horzinek",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Lutz",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Pedersen",
+                    "suffix": ""
+                }
+            ],
+            "year": 1982,
+            "venue": "Infect Immun",
+            "volume": "37",
+            "issn": "",
+            "pages": "1148--55",
+            "other_ids": {}
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Human coronavirus NL63 employs the severe acute respiratory syndrome coronavirus receptor for cellular entry",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Hofmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Pyrc",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Van Der Hoek",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Geier",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Berkhout",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Pohlmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Proc Natl Acad Sci U S A",
+            "volume": "102",
+            "issn": "",
+            "pages": "7988--93",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0409465102"
+                ]
+            }
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "Coronaviruses in bats from Mexico",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Anthony",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Ojeda-Flores",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Rico-Chavez",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Navarrete-Macias",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Zambrana-Torrelio",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Rostal",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "J Gen Virol",
+            "volume": "94",
+            "issn": "",
+            "pages": "1028--1066",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/vir.0.049759-0"
+                ]
+            }
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "Group C betacoronavirus in bat guano fertilizer",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Wacharapluesadee",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Sintunawa",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Kaewpom",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Khongnomnan",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Olival",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Epstein",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Thailand. Emerg Infect Dis",
+            "volume": "19",
+            "issn": "",
+            "pages": "1349--51",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid1908.130119"
+                ]
+            }
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "Genomic characterization of severe acute respiratory syndrome-related coronavirus in European bats and classification of coronaviruses based on partial RNA-dependent RNA polymerase gene sequences",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Drexler",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Gloza-Rausch",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Glende",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Corman",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Muth",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Goettsche",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "Isolation and characterization of a bat SARS-like coronavirus that uses the ACE2 receptor",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Ge",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Chmura",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Epstein",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Nature",
+            "volume": "503",
+            "issn": "",
+            "pages": "535--543",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nature12711"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "by using Vero B4 (MERS-CoV) or PT (BCoV) cells. To reduce volumes of serum needed, all neutralization tests were performed in a 96-well format. Reactions contained 50 PFUs of MERS-CoV (EMC/2012 strain) or BCoV (Nebraska strain) in 25 mL of medium mixed 1:1",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": ". Despite the absence of cross-reactivity between MERS-Spositive and OC43-S-positive serum samples in this test (Figure, panel A), in previous studies the vIFA showed false-positive results with human CoV-OC43-positive serum samples, in particular if used at lower dilutions, such as 1:10 or 1:20 (15,16).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "years of age, collection 2). Clear seropositive results included 151 dromedary serum samples obtained in 2003 (collection 4). All 16 serum samples from German zoologic gardens were tested at the same dilution and showed no reactivity Emerging Infectious Diseases \u2022 www.cdc.gov/eid \u2022 Vol. 20, No. -S), overexpressed human CoV-OC43 spike protein (OC43-S), and Vero cells infected with MERS-CoV (MERS-V). Fluorescence intensities were evaluated as follows: -, negative; +, weakly reactive; ++, reactive; +++, strongly reactive. Scale bar indicates 20 \u03bcm. B) Relative fluorescence units (RFU) were determined for the same serum samples by microarray using S1 domains of MERS-CoV and human CoV-OC43.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": ",",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "BCoV neutralization test results for MERS-CoV-positive dromedary serum samples, United Arab Emirates, 2003 and 2013* No. BCoV positive/no. MERS-CoV positive *BCoV, bovine coronavirus; MERS-CoV, Middle East respiratory syndrome coronavirus.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "We thank Tobias Bleicker for providing excellent technical assistance.The work was supported by a European research project on emerging diseases detection and response (EMPERIE; www.emperie.eu/emp/) (contract no. 223498) and ANTIGONE (contract no. 278976). C.D. has received infrastructural support from the German Centre for Infection Research, the German Ministry for Research and Education, and the German Research Council (grants 01KIO701 and DR 772/3-1).Mr Meyer is a doctoral student at the Bonn Institute of Virology, Bonn, Germany. His research interests are spike protein-mediated entry of bat-borne coronaviruses into cells and advancement of specific serologic tests for antibodies against coronaviruses.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgment"
+        }
+    ]
+}

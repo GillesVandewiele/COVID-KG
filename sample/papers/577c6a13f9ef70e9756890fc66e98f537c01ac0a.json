@@ -1,0 +1,2366 @@
+{
+    "paper_id": "577c6a13f9ef70e9756890fc66e98f537c01ac0a",
+    "metadata": {
+        "title": "Replication and shedding of MERS- CoV in Jamaican fruit bats (Artibeus jamaicensis) OPEN",
+        "authors": [
+            {
+                "first": "Vincent",
+                "middle": [
+                    "J"
+                ],
+                "last": "Munster",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Laboratory of Virology",
+                    "institution": "National Institutes of Health",
+                    "location": {
+                        "settlement": "Hamilton",
+                        "region": "Montana",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Danielle",
+                "middle": [
+                    "R"
+                ],
+                "last": "Adney",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Colorado State University",
+                    "location": {
+                        "addrLine": "Fort Collins",
+                        "region": "Colorado",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Neeltje",
+                "middle": [],
+                "last": "Van Doremalen",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Laboratory of Virology",
+                    "institution": "National Institutes of Health",
+                    "location": {
+                        "settlement": "Hamilton",
+                        "region": "Montana",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Vienna",
+                "middle": [
+                    "R"
+                ],
+                "last": "Brown",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Colorado State University",
+                    "location": {
+                        "addrLine": "Fort Collins",
+                        "region": "Colorado",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Kerri",
+                "middle": [
+                    "L"
+                ],
+                "last": "Miazgowicz",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Laboratory of Virology",
+                    "institution": "National Institutes of Health",
+                    "location": {
+                        "settlement": "Hamilton",
+                        "region": "Montana",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Shauna",
+                "middle": [],
+                "last": "Milne-Price",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Laboratory of Virology",
+                    "institution": "National Institutes of Health",
+                    "location": {
+                        "settlement": "Hamilton",
+                        "region": "Montana",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Trenton",
+                "middle": [],
+                "last": "Bushmaker",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Laboratory of Virology",
+                    "institution": "National Institutes of Health",
+                    "location": {
+                        "settlement": "Hamilton",
+                        "region": "Montana",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Rebecca",
+                "middle": [],
+                "last": "Rosenke",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "National Institutes of Health",
+                    "location": {
+                        "settlement": "Hamilton",
+                        "region": "Montana",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Dana",
+                "middle": [],
+                "last": "Scott",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "National Institutes of Health",
+                    "location": {
+                        "settlement": "Hamilton",
+                        "region": "Montana",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Ann",
+                "middle": [],
+                "last": "Hawkinson",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Northern Colorado",
+                    "location": {
+                        "settlement": "Greeley",
+                        "region": "Colorado",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Emmie",
+                "middle": [],
+                "last": "De Wit",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Laboratory of Virology",
+                    "institution": "National Institutes of Health",
+                    "location": {
+                        "settlement": "Hamilton",
+                        "region": "Montana",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Tony",
+                "middle": [],
+                "last": "Schountz",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Arthropod-borne and Infectious Diseases Laboratory",
+                    "institution": "Colorado State University",
+                    "location": {
+                        "addrLine": "Fort Collins",
+                        "region": "Colorado",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Richard",
+                "middle": [
+                    "A"
+                ],
+                "last": "Bowen",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Colorado State University",
+                    "location": {
+                        "addrLine": "Fort Collins",
+                        "region": "Colorado",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "The emergence of Middle East respiratory syndrome coronavirus (MERS-CoV) highlights the zoonotic potential of Betacoronaviruses. Investigations into the origin of MERS-CoV have focused on two potential reservoirs: bats and camels. Here, we investigated the role of bats as a potential reservoir for MERS-CoV. In vitro, the MERS-CoV spike glycoprotein interacted with Jamaican fruit bat (Artibeus jamaicensis) dipeptidyl peptidase 4 (DPP4) receptor and MERS-CoV replicated efficiently in Jamaican fruit bat cells, suggesting there is no restriction at the receptor or cellular level for MERS-CoV. To shed light on the intrinsic host-virus relationship, we inoculated 10 Jamaican fruit bats with MERS-CoV. Although all bats showed evidence of infection, none of the bats showed clinical signs of disease. Virus shedding was detected in the respiratory and intestinal tract for up to 9 days. MERS-CoV replicated transiently in the respiratory and, to a lesser extent, the intestinal tracts and internal organs; with limited histopathological changes observed only in the lungs. Analysis of the innate gene expression in the lungs showed a moderate, transient induction of expression. Our results indicate that MERS-CoV maintains the ability to replicate in bats without clinical signs of disease, supporting the general hypothesis of bats as ancestral reservoirs for MERS-CoV.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "In 2012 a novel coronavirus, Middle East respiratory syndrome coronavirus (MERS-CoV), was isolated from a patient with a fatal case of pneumonia and renal failure in the Kingdom of Saudi Arabia 1 . Since then, more than 1600 human cases of MERS-CoV have been reported with a case-fatality rate of ~30% 2 . MERS-CoV cases were initially largely confined to six countries on the Arabian Peninsula: Jordan, Qatar, United Arab Emirates, Oman, Kuwait, and the majority of cases have been detected in the Kingdom of Saudi Arabia 2 . Travel-related cases have been identified in Europe, Asia, Africa and North America 3 . The recent outbreak caused by a single imported case in South Korea highlights the potential of MERS-CoV to cause large outbreaks when appropriate infection control measures are lacking in health care settings 3,4 .",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "MERS-CoV is classified within the group C Betacoronaviruses 4,5 . Since the emergence of MERS-CoV, considerable effort has been expended to identify potential natural and intermediate reservoir hosts. A variety of closely related coronavirus sequences have been obtained from numerous bat species in Africa, Asia, the Americas and Eurasia 6-19 , suggesting widespread distribution of MERS-CoV related viruses among bat species belonging to the order Chiroptera. A 190 nucleotide RNA fragment with 100% match to the RNA dependent RNA polymerase (RdRp) of MERS-CoV was detected in a fecal sample of an Egyptian tomb bat (Taphozous perforates) roosting in the vicinity of a MERS-CoV index case in Bisha, Kingdom of Saudi Arabia 20 . In addition, the detection of MERS-CoV-specific antibodies in dromedary camels in the Middle East and northern and eastern Africa suggest the widespread circulation of MERS-CoV-like viruses in dromedary camels 21-27 . MERS-CoV infection of dromedary camels was detected by qRT-PCR and virus isolation in the Kingdom",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Scientific RepoRts | 6:21878 | DOI: 10 .1038/srep21878",
+            "cite_spans": [
+                {
+                    "start": 36,
+                    "end": 38,
+                    "text": "10",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Arab Emirates and Egypt 23, [28] [29] [30] . MERS-CoV sequences and virus isolates obtained from dromedary camels in Qatar and the Kingdom of Saudi Arabia showed high sequence identity with those obtained from epidemiologically linked human cases 28, 31 . Together, these data suggest that rather than direct zoonotic transmission from a bat reservoir, dromedary camels are involved as the primary reservoir host for MERS-CoV. Phylogenetic and epidemiological data suggest that rather than a single introduction in the human population, MERS-CoV appears to continue to be transmitted by multiple independent spillover events from dromedary camels 32, 33 .",
+            "cite_spans": [
+                {
+                    "start": 24,
+                    "end": 27,
+                    "text": "23,",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 28,
+                    "end": 32,
+                    "text": "[28]",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 33,
+                    "end": 37,
+                    "text": "[29]",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 38,
+                    "end": 42,
+                    "text": "[30]",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 247,
+                    "end": 250,
+                    "text": "28,",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 251,
+                    "end": 253,
+                    "text": "31",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 647,
+                    "end": 650,
+                    "text": "32,",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 651,
+                    "end": 653,
+                    "text": "33",
+                    "ref_id": "BIBREF32"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "After the emergence of severe acute respiratory syndrome coronavirus (SARS-CoV) in 2003, the targeted focus on reservoir studies in bats has resulted in a vast increase of our knowledge on the genetic diversity of bat coronaviruses. Despite the increase in genetic data on coronavirus diversity in their natural reservoirs, only very limited data are available on the impact of these viruses on the reservoir host and controlled infection experiments with coronaviruses in their reservoir hosts have not been performed. To understand the drivers of MERS-CoV emergence, a more comprehensive understanding of the interaction between the virus and its natural and intermediate reservoir hosts is needed. Here we present data on the first experimental infection of bats with MERS-CoV to model the infection kinetics in a coronavirus host species, the Jamaican fruit bat (Artibeus jamaicensis).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Artibeus jamaicensis DPP4 receptor and cell susceptibility. The MERS-CoV receptor DPP4 is the main host restriction factor 34 ; therefore, we first studied the interaction between MERS-CoV and Jamaican fruit bat DPP4. The pAJ-DPP4 plasmid expressing the DPP4 coding sequence of Jamaican fruit bat under control of a CMV promoter was transfected into BHK cells, which are not permissive to MERS-CoV 34 . The expression of AJ-DPP4 in transfected cells was confirmed by flow cytometry, showing the presence of bat DPP4 on the surface of transfected BHK cells by determining the increase over untransfected cells ( Figure S1 ). Transient expression of bat DPP4 in BHK cells supported MERS-CoV replication, whereas transient expression of hamster DPP4 in BHK cells did not (Fig. 1A) . Subsequently, the replication kinetics of MERS-CoV were compared in LLC-MK2 cells (Macaca mulatta) and Jamaican fruit bat primary kidney cells. MERS-CoV replicated efficiently to high titers in both cell lines (Fig. 1B) , indicating that there is no restriction at the receptor or cellular level for MERS-CoV replication in Jamaican fruit bat cells.",
+            "cite_spans": [
+                {
+                    "start": 123,
+                    "end": 125,
+                    "text": "34",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 398,
+                    "end": 400,
+                    "text": "34",
+                    "ref_id": "BIBREF33"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 611,
+                    "end": 620,
+                    "text": "Figure S1",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 768,
+                    "end": 777,
+                    "text": "(Fig. 1A)",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 990,
+                    "end": 999,
+                    "text": "(Fig. 1B)",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "Clinical signs in bats inoculated with MERS-CoV. Ten adult Jamaican fruit bats were inoculated via the intranasal and intraperitoneal routes with 10 5 TCID 50 of MERS-CoV strain EMC/2012; 2 mock inoculated Jamaican fruit bats, housed in a separate cage, were used as controls, the mock inoculated animals were inoculated with tissue culture medium via the same routes and volumes. The bats were observed at least once daily for signs of disease. Bodyweight and temperature were measured throughout the experiment for a maximum of 28 days post inoculation (dpi) for bat 9 and 10 (MERS-CoV inoculated) and bat 11 and 12 (mock inoculated controls). None of the bats showed signs of disease, weight loss or increased body temperature throughout the experiment ( Figure S2 ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 758,
+                    "end": 767,
+                    "text": "Figure S2",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "To examine MERS-CoV shedding in inoculated bats, oral and rectal swabs were collected for the duration of the experiment. MERS-CoV shedding was first detected on 1 dpi, as indicated by the presence of viral RNA in throat and rectal swabs and continued for a maximum duration of 9 days. All animals, except bat 10, shed MERS-CoV from the respiratory tract ( Fig. 2A) ; all bats except 4 and 10, shed MERS-CoV from the intestinal tract (Fig. 2B ). Viral loads in swabs collected from the respiratory tract were higher than viral loads in swabs from the intestinal tract.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 357,
+                    "end": 365,
+                    "text": "Fig. 2A)",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 434,
+                    "end": 442,
+                    "text": "(Fig. 2B",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": "MERS-CoV shedding in bats inoculated with MERS-CoV."
+        },
+        {
+            "text": "Tissues collected at the sequential necropsy dates of 2, 4, 7, 14 and 28 dpi were analyzed for the presence of viral RNA, infectious virus, and evaluated by histopathology and immunohistochemistry. MERS-CoV viral RNA was detected in various tissues of all inoculated bats, except bat 8 on 14 dpi and bat 9 on 28 dpi. The highest viral loads were detected in the lower respiratory tract (Fig. 3) . MERS-CoV viral RNA was detected at 2 dpi in trachea, lung, liver, spleen, bladder and nasal turbinates; at 4 dpi in lung, spleen, duodenum, colon, bladder, turbinates and brain; at 7 dpi in lung, liver, turbinates and brain; at 14 dpi in heart, lung, liver, spleen and duodenum. No MERS-CoV viral RNA was detected at 28 dpi (Fig. 3) . In additon, MERS-CoV viral RNA was detected in blood on 2 and 4 dpi, in bats 1-3, indicative of viremia ( Figure S3 ). MERS-CoV mRNA was detected in tissues of bats 1 to 7, confirming MERS-CoV replication on the transcriptional level (Table S2) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 386,
+                    "end": 394,
+                    "text": "(Fig. 3)",
+                    "ref_id": "FIGREF4"
+                },
+                {
+                    "start": 721,
+                    "end": 729,
+                    "text": "(Fig. 3)",
+                    "ref_id": "FIGREF4"
+                },
+                {
+                    "start": 838,
+                    "end": 847,
+                    "text": "Figure S3",
+                    "ref_id": "FIGREF4"
+                },
+                {
+                    "start": 966,
+                    "end": 976,
+                    "text": "(Table S2)",
+                    "ref_id": null
+                }
+            ],
+            "section": "MERS-CoV replication in Jamaican fruit bats."
+        },
+        {
+            "text": "Infectious MERS-CoV was isolated from the lungs of bats 1 (2 dpi) and 6 (7 dpi), the bladder and nasal turbinates of bat 7 (14 dpi), and the duodenum of bat 10 (28 dpi), indicating active virus replication, mainly in the respiratory tract.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "MERS-CoV replication in Jamaican fruit bats."
+        },
+        {
+            "text": "Only two of ten bats (bat 3 and bat 5) exhibited histopathology associated with MERS-CoV infection, which was mild. All MERS-CoV associated lesions were detected in the respiratory tract of the infected bats (Fig. 4 , Table S1 ). Bat 3 and bat 4 (4 dpi) displayed a mild acute rhinitis, but MERS-CoV replication was not detected by immunohistochemistry (Table S1 and S2). Bat 3 and 5 displayed a multifocal interstitial pneumonia that was characterized by minimal alveolar interstitial thickening by small numbers of macrophages and neutrophils (Fig. 4 , Table S1 ). The adjacent alveolar spaces contained small numbers of alveolar macrophages. MERS-CoV antigen and RNA was detected by immunothroughout the lungs of bat 1 (2 dpi), but no associated pulmonary pathology was detected (Fig. 4 , Table S2 ). Cytokeratin and anti-MERS-CoV co-staining demonstrated MERS-CoV antigen in type I pneumocytes of the lungs of bat 1 (Fig. 5 ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 208,
+                    "end": 215,
+                    "text": "(Fig. 4",
+                    "ref_id": "FIGREF5"
+                },
+                {
+                    "start": 218,
+                    "end": 226,
+                    "text": "Table S1",
+                    "ref_id": null
+                },
+                {
+                    "start": 353,
+                    "end": 362,
+                    "text": "(Table S1",
+                    "ref_id": null
+                },
+                {
+                    "start": 545,
+                    "end": 552,
+                    "text": "(Fig. 4",
+                    "ref_id": "FIGREF5"
+                },
+                {
+                    "start": 555,
+                    "end": 563,
+                    "text": "Table S1",
+                    "ref_id": null
+                },
+                {
+                    "start": 782,
+                    "end": 789,
+                    "text": "(Fig. 4",
+                    "ref_id": "FIGREF5"
+                },
+                {
+                    "start": 792,
+                    "end": 800,
+                    "text": "Table S2",
+                    "ref_id": null
+                },
+                {
+                    "start": 920,
+                    "end": 927,
+                    "text": "(Fig. 5",
+                    "ref_id": "FIGREF6"
+                }
+            ],
+            "section": "MERS-CoV replication in Jamaican fruit bats."
+        },
+        {
+            "text": "Scientific RepoRts | 6:21878 | DOI: 10.1038/srep21878",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "MERS-CoV replication in Jamaican fruit bats."
+        },
+        {
+            "text": "Innate immune response to MERS-CoV. MERS-CoV was most consistently detected in the lower respiratory tract of the bats. The Mx1, ISG56 and RANTES gene expression in the lungs of Jamaican fruit bats was analyzed as an indicator of the induction of an innate immune response to MERS-CoV infection. A 6-fold increase in expression of Mx1was observed in the lungs of the infected Jamaican fruit bats at 2 dpi. A statistically significant upregulation of Mx1 gene expression was detected when comparing the lungs of bats collected on 2 dpi and 28 dpi (two-tailed unpaired t-tests, p < 0.034). The maximum ISG56 expression of 7.4-fold occurred at 2 dpi. Statistically significant differences were observed between the 2 dpi and 7 dpi, 14 dpi and 28 dpi animals (two-tailed unpaired t-tests, p < 0.035, p < 0.0178 and p < 0.0192 respectively. In addition significant differences were observed between the 7 dpi and the 14 and 28 dpi animals (two-tailed unpaired t-tests, p < 0.0009 and p < 0.0085). The RANTES expression at its peak at 2 dpi was increased 22.5 fold. Statistically significant differences were observed between the 2 versus the 14 and 28 dpi animals (two-tailed unpaired t-tests, p < 0.0147 and p < 0.0136), the 4 versus the 14 and 28 dpi animals (two-tailed unpaired t-tests, p < 0.0092 and p < 0.0075), and the 7 dpi versus the 14 and 28 dpi animals (two-tailed unpaired t-tests, p < 0.0390 and p < 0.0366) (Fig. 6 ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 1418,
+                    "end": 1425,
+                    "text": "(Fig. 6",
+                    "ref_id": "FIGREF7"
+                }
+            ],
+            "section": "MERS-CoV replication in Jamaican fruit bats."
+        },
+        {
+            "text": "Antibody response to MERS-CoV. Sera were collected prior to inoculation and at the scheduled necropsy dates. Each of the bats was seronegative for MERS-CoV prior to inoculation. Only bat 7 developed a MERS-CoV specific antibody response, both by ELISA and virus neutralization assay. The sera obtained from bat 7 had a neutralizing titer of 320 at 14 days post inoculation.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "MERS-CoV replication in Jamaican fruit bats."
+        },
+        {
+            "text": "The high sequence similarity of MERS-CoV to coronavirus sequences detected in bats suggests that MERS-CoV or its immediate ancestor originated in bats 35 . Direct contact between bats and humans is uncommon, and a domestic or peridomestic intermediate species often plays a role in the emergence of zoonotic viruses from natural reservoirs to humans [36] [37] [38] [39] . Similar to the emergence of SARS-CoV in 2002 from the masked palm civet (Paguma larvata) as an intermediate host 40 , the dromedary camel appears to have initially served as the intermediate host for MERS-CoV 41 . Several aspects of the emergence of MERS-CoV are currently still unknown, including the role of the natural reservoir and the relationship between the natural and intermediate reservoirs. with their ability to support efficient replication of MERS-CoV, the availability of an annotated transcriptome 45 , and the relative easy housing and husbandry practices of Jamaican fruit bats suggest that this bat species can become an important model system to investigate the relationship between coronaviruses and their bat hosts 46 . Although the Jamaican fruit bat is not the direct ancestral reservoir for MERS-CoV, as it is a new world bat species, generalized responses towards viruses of bat-origin rather than a direct host-pathogen relationships can be modelled.",
+            "cite_spans": [
+                {
+                    "start": 151,
+                    "end": 153,
+                    "text": "35",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 350,
+                    "end": 354,
+                    "text": "[36]",
+                    "ref_id": "BIBREF35"
+                },
+                {
+                    "start": 355,
+                    "end": 359,
+                    "text": "[37]",
+                    "ref_id": "BIBREF36"
+                },
+                {
+                    "start": 360,
+                    "end": 364,
+                    "text": "[38]",
+                    "ref_id": "BIBREF37"
+                },
+                {
+                    "start": 365,
+                    "end": 369,
+                    "text": "[39]",
+                    "ref_id": "BIBREF38"
+                },
+                {
+                    "start": 485,
+                    "end": 487,
+                    "text": "40",
+                    "ref_id": "BIBREF39"
+                },
+                {
+                    "start": 581,
+                    "end": 583,
+                    "text": "41",
+                    "ref_id": "BIBREF40"
+                },
+                {
+                    "start": 886,
+                    "end": 888,
+                    "text": "45",
+                    "ref_id": "BIBREF45"
+                },
+                {
+                    "start": 1109,
+                    "end": 1111,
+                    "text": "46",
+                    "ref_id": "BIBREF46"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "The ability of MERS-CoV to use DPP4 of multiple species as a receptor, including DPP4 of human, dromedary camel, and bat origin 34, 47 , suggests that no prior adaptation was needed on the DPP4 receptor level for cross-species and zoonotic transmission to occur. With batCoV-HKU4, a closely related coronavirus, it was shown that replication in human cells required two mutations in the spike protein 48 . These amino acid residues, which are conserved in MERS-CoV, results in the activation of the batCoV-HKU4 spike protein by human cellular proteases. This suggests that batCoV-HKU4 needs these residues for replication in humans. Interestingly, our data show that MERS-CoV replicates efficiently in Jamaican fruit bat cells, suggesting that the MERS-CoV spike can efficiently be processed by Jamaican fruit bat cellular proteases and that there is no host restriction on the post-translational modification level of the MERS-CoV spike in dromedary camels, humans and bats.",
+            "cite_spans": [
+                {
+                    "start": 128,
+                    "end": 131,
+                    "text": "34,",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 132,
+                    "end": 134,
+                    "text": "47",
+                    "ref_id": "BIBREF47"
+                },
+                {
+                    "start": 401,
+                    "end": 403,
+                    "text": "48",
+                    "ref_id": "BIBREF48"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Bat coronaviruses have been primarily detected in fecal samples in field studies suggesting that these viruses have a intestinal tract tropism 9,19,43 . MERS-CoV was able to replicate to higher titers in the respiratory tract in comparison with the intestinal tract of the Jamaican fruit bats. The tissue tropism of MERS-CoV in Jamaican fruit bats is comparable to the respiratory tract tropism observed in dromedary camels and humans 49, 50 . This might suggest that MERS-CoV, upon cross-species transmission from bats into dromedary camels evolved from a gastrointestinal tract virus into a respiratory tract virus, similar to influenza A viruses 51 .",
+            "cite_spans": [
+                {
+                    "start": 435,
+                    "end": 438,
+                    "text": "49,",
+                    "ref_id": "BIBREF49"
+                },
+                {
+                    "start": 439,
+                    "end": 441,
+                    "text": "50",
+                    "ref_id": "BIBREF50"
+                },
+                {
+                    "start": 649,
+                    "end": 651,
+                    "text": "51",
+                    "ref_id": "BIBREF51"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "The ability for MERS-CoV to antagonize the innate immune response appears to correlate with its pathogenic potential in humans. MERS-CoV and related batCoV-HKU4 can inhibit innate immune signaling in a variety of human cell lines in vitro via the ORF4b-encoded accessory proteins 52 Lungs of Jamaican fruit bat 5 were stained with \u03b1 -cytokeratin as an epithelial marker (purple) and with a polyclonal \u03b1 -coronavirus antibody (brown-red) to demonstrate that viral antigen was located along the basement membrane of alveolar pneumocytes of bat 1 at 2 dpi (indicated by black arrows). Original magnification: 40\u00d7 .",
+            "cite_spans": [
+                {
+                    "start": 280,
+                    "end": 282,
+                    "text": "52",
+                    "ref_id": "BIBREF52"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "with 2% fetal calf serum (Hyclone, Logan), 1 mM L-glutamine (Lonza), 50 U/ml penicillin and 50 \u03bc g/ml streptomycin (Gibco). Vero E6, LLC-MK2, BHK and Jamaican fruit bat primary kidney cells were maintained in Dulbecco's modified Eagle's media (DMEM) supplemented with 10% fetal calf serum, 50 U/ml penicillin and 50 \u03bc g/ml of streptomycin.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Sequencing and cloning of the Jamaican fruit bat DPP4 sequence. Total RNA was extracted from primary kidney cells using the RNeasy Mini Kit (Qiagen) and cDNA was synthesized using random hexamer primers and SuperScript III Reverse Transcriptase (Applied Biosystems). DPP4 was then amplified using iProof High-Fidelity DNA Polymerase (BioRad) and primers DPP4UnvF1 and DPP4UnvR12 (primer sequences are available upon request). The obtained DPP4 gene sequence was synthesized in expression plasmid pcDNA3.1(+ ) ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "cate with MERS-CoV with a multiplicity of infection (MOI) of 0.01 (cell lines) or 1 (transfected cell lines) 50% tissue culture infectious dose (TCID 50 ) per cell. One hour after inoculation, cells were washed once with DMEM and culture medium replaced. Supernatants were sampled at 0, 24, 48 and 72 h after inoculation. MERS-CoV was titrated by end-point titration in quadruplicate in Vero E6 cells cultured in DMEM supplemented with 2% fetal calf serum, 1 mM L-glutamine (Lonza), 50 U/ml penicillin and 50 \u03bc g/ml streptomycin. Cells were inoculated with ten-fold serial dilutions of virus, and scored for cytopathic effect 5 days later. The TCID 50 was calculated by the method of Spearman-Karber.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Replication kinetics. Multistep replication kinetics were determined by inoculating wells of cells in tripli-"
+        },
+        {
+            "text": "Animal experiments. Twelve captive-bred Jamaican fruit bats were used for this work 46, 57 . Ten bats were inoculated with 10 5 TCID 50 EMC/2012 via a combination of intranasal (25 \u03bc l each nostril) and intraperitoneal (100 \u03bc l) routes. Two mock inoculated bats were included as controls for histopathology and gene expression analyses. Mock inoculated bats were inoculated with standard tissue culture media via the same routes and volumes. Bats were injected with an IPTT-300 temperature transponder (BMDS) to monitor body temperature daily. Animals were weighed daily and observed for signs of disease. Oropharyngeal and rectal swabs were obtained on 1, 2, 3, 4, 5, 6, 7, 9 and 11 dpi and analyzed for the presence of viral RNA. On 2, 4, 7, 14 and 28 days post inoculation (dpi), two bats were euthanized and trachea, heart, lung, liver, spleen, kidney, duodenum, colon, bladder, nasal turbinates and brain were collected for virological and histopathological analysis.",
+            "cite_spans": [
+                {
+                    "start": 84,
+                    "end": 87,
+                    "text": "46,",
+                    "ref_id": "BIBREF46"
+                },
+                {
+                    "start": 88,
+                    "end": 90,
+                    "text": "57",
+                    "ref_id": "BIBREF57"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Replication kinetics. Multistep replication kinetics were determined by inoculating wells of cells in tripli-"
+        },
+        {
+            "text": "Histopathology. Histopathology was performed on bat tissues. After fixation for at least 7 days in 10% neutral-buffered formalin and embedding in paraffin, tissue sections were stained with hematoxylin and eosin (H & E) staining. Immunohistochemistry was performed using a MERS-CoV EMC/2012 polyclonal rabbit antibody at a 1:1000 dilution and in situ hybridization was performed using probes directed against the MERS-CoV EMC/2012 N gene as described previously 62 . RNA extraction. RNA was extracted from swab samples using the QiaAmp Viral RNA kit (Qiagen). RNA was eluted in 60 \u03bc l. Tissues (30 mg) were homogenized in RLT buffer and RNA was extracted using the RNeasy kit (Qiagen). RNA was eluted in 50 \u03bc l.",
+            "cite_spans": [
+                {
+                    "start": 462,
+                    "end": 466,
+                    "text": "62 .",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Replication kinetics. Multistep replication kinetics were determined by inoculating wells of cells in tripli-"
+        },
+        {
+            "text": "Quantitative PCR. For detection of viral RNA in samples, 5 \u03bc l RNA was used in a one-step real-time RT-PCR upE assay 63 using the Rotor-Gene TM probe kit (Qiagen) according to the manufacturer instructions. In each run, standard dilutions of a titered MERS-CoV stock were run in parallel, to calculate TCID 50 equivalents in the samples. For the detection of viral mRNA, 5 \u03bc l RNA was used in a one-step real-time RT-PCR using the MERS-CoV M mRNA assay in the Rotor-Gene TM probe kit 64 . Artibeus jamaicensis orthomyxovirus resistance gene 1 (Mx1) gene expression was determined by qRT-PCR using Mx1, ISG56 and RANTES specific primers (derived from transcriptome sequencing 45 ). The fold-change of each gene was calculated by normalizing the change in CT (cycle threshold) value of Mx1 (\u0394 CT) to the CT values for hypoxanthine phosphoribosyltransferase (HPRT) as an internal reference gene for each sample and comparing this to the CT values of mock inoculated bats 11 and 12 (2 \u2227 (\u2212\u0394 \u0394 CT). Mx1 specific primers: 5\u2032 -CCAGACCTGACCCTGATAGA-3\u2032 , 5\u2032 -TGGATGTACTTCCTGAATGAGTTG-3\u2032 and 5\u2032 -FAM-ATCTAGTGTCCGATGTCAGCTGGC-IABkFQ-3\u2032 . ISG56 specific primers: 5\u2032 -GCTGTCTATCGTCTGAATGGG-3\u2032 , 5\u2032 -TTCTTGTCCGATGTCCTGAAG-3\u2032 and 5\u2032 -HEX-CGATGAGGC/Zen/ATTTTGTCTGCAAACCC-IABkFQ-3\u2032 . RANTES specific primers: 5\u2032 -AGTTGTCCTAATCACCCGAAAG-3\u2032 , 5\u2032 -CAGAGTGTTGATGTAGTCCCG-3\u2032 and 5\u2032 -FAM-TGTGCCGA C/Zen/CCGGAGAAGAAAT-IABkFQ-3\u2032 . HPRT specific primers: 5\u2032 -AGATGGTGAAGGTCGCAAG-3\u2032 , 5\u2032 -CCTGAAGTATTCATTATAGTCAAGGG-3\u2032 and 5\u2032 -FAM-ACTTTGTTGGATTTGAAATTCCAG ACAAGTTTG-BHQ1.",
+            "cite_spans": [
+                {
+                    "start": 484,
+                    "end": 486,
+                    "text": "64",
+                    "ref_id": "BIBREF64"
+                },
+                {
+                    "start": 675,
+                    "end": 677,
+                    "text": "45",
+                    "ref_id": "BIBREF45"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Replication kinetics. Multistep replication kinetics were determined by inoculating wells of cells in tripli-"
+        },
+        {
+            "text": "Virus isolation. Tissue samples were homogenized in a TissueLyzer II (Qiagen) after addition of 1ml DMEM.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Replication kinetics. Multistep replication kinetics were determined by inoculating wells of cells in tripli-"
+        },
+        {
+            "text": "Homogenates were centrifuged to pellet cellular debris and subsequently inoculated onto VeroE6 and LLC-MK2 cells. After 1hr adsorption, cells were washed once with DMEM and media was replaced.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Replication kinetics. Multistep replication kinetics were determined by inoculating wells of cells in tripli-"
+        },
+        {
+            "text": "ELISA. Antibody responses were measured in an enzyme-linked immunosorbent assay (ELISA) using hCoV-EMC/2012 as described previously 65 . Briefly, EMC/2012 containing cell culture supernatant was used to coat immuno 96 microwell maxisorp plates (NUNC) at 4 \u00b0C overnight and diluted serum samples were added. Bound antibodies were detected using a secondary protein A/G conjugated with horseradish peroxidase (HRP; Pierce). Sera were considered positive when absorbance was higher than three standard deviations above the mean of negative control sera. Sera obtained from rabbits immunized with EMC/2012 were used as a positive control.",
+            "cite_spans": [
+                {
+                    "start": 132,
+                    "end": 134,
+                    "text": "65",
+                    "ref_id": "BIBREF65"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Replication kinetics. Multistep replication kinetics were determined by inoculating wells of cells in tripli-"
+        },
+        {
+            "text": "Virus Neutralization Assay. Two-fold serial dilutions of heat-inactivated sera were prepared in a 96 microwell tissue culture plate and 100 TCID 50 of MERS-CoV was added and incubated for 1 hour at 37 \u00b0C. After incubation the virus-sera mixture was transferred to a 96 microwell tissue culture plate with a 95% confluent Scientific RepoRts | 6:21878 | DOI: 10.1038/srep21878 monolayer of VeroE6 cells. The virus neutralization titer was expressed as the reciprocal value of the highest dilution of the serum, that still inhibited EMC/2012 virus replication.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Replication kinetics. Multistep replication kinetics were determined by inoculating wells of cells in tripli-"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Isolation of a novel coronavirus from a man with pneumonia in Saudi Arabia",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Zaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Van Boheemen",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Bestebroer",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Osterhaus",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Fouchier",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "N Engl J Med",
+            "volume": "367",
+            "issn": "",
+            "pages": "1814--1820",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa1211721"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "WHO. Middle East respiratory syndrome coronavirus (MERS-CoV)",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Full-genome deep sequencing and phylogenetic analysis of novel human betacoronavirus",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Cotten",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Emerg Infect Dis",
+            "volume": "19",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid1905.130057"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Genomic characterization of a newly discovered coronavirus associated with acute respiratory distress syndrome in humans",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Van Boheemen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "",
+            "volume": "3",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/mBio.00473-12"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "A coronavirus detected in the vampire bat Desmodus rotundus",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Brandao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Braz J Infect Dis",
+            "volume": "12",
+            "issn": "",
+            "pages": "466--468",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Highly diversified coronaviruses in neotropical bats",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Corman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1984,
+            "venue": "J Gen Virol",
+            "volume": "94",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/vir.0.054841-0"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Close relative of human Middle East respiratory syndrome coronavirus in bat",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Ithete",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "South Africa. Emerg Infect Dis",
+            "volume": "19",
+            "issn": "",
+            "pages": "1697--1699",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid1910.130946"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Novel bat coronaviruses, Brazil and Mexico",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Goes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Emerg Infect Dis",
+            "volume": "19",
+            "issn": "",
+            "pages": "1711--1713",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid1910.130525"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Detection of a virus related to betacoronaviruses in Italian greater horseshoe bats",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Balboni",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Palladini",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Bogliani",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Battilani",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Epidemiol Infect",
+            "volume": "139",
+            "issn": "",
+            "pages": "216--219",
+            "other_ids": {
+                "DOI": [
+                    "10.1017/S0950268810001147"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Circulation of group 2 coronaviruses in a bat species common to urban areas in Western Europe",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Reusken",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Vector Borne Zoonotic Dis",
+            "volume": "10",
+            "issn": "",
+            "pages": "785--791",
+            "other_ids": {
+                "DOI": [
+                    "10.1089/vbz.2009.0173"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Human betacoronavirus 2c EMC/2012-related viruses in bats, Ghana and Europe",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Annan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Emerg Infect Dis",
+            "volume": "19",
+            "issn": "",
+            "pages": "456--459",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid1903.121503"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Coronaviruses in bats from Mexico",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Anthony",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "J Gen Virol",
+            "volume": "94",
+            "issn": "",
+            "pages": "1028--1038",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/vir.0.049759-0"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Identification of a novel coronavirus in bats",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Poon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J Virol",
+            "volume": "79",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.79.4.2001-2009.2005"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Molecular diversity of coronaviruses in bats",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Woo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Virology",
+            "volume": "351",
+            "issn": "",
+            "pages": "180--187",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.virol.2006.02.041"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Comparative analysis of twelve genomes of three novel group 2c and group 2d coronaviruses reveals unique group and subgroup features",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Woo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J Virol",
+            "volume": "81",
+            "issn": "",
+            "pages": "1574--1585",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.02182-06"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "MERS-related betacoronavirus in Vespertilio superans bats",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "China. Emerg Infect Dis",
+            "volume": "20",
+            "issn": "",
+            "pages": "1260--1262",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Bat coronaviruses and experimental infection of bats, the Philippines",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Watanabe",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Emerg Infect Dis",
+            "volume": "16",
+            "issn": "",
+            "pages": "1217--1223",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid1608.100208"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Isolation and characterization of a bat SARS-like coronavirus that uses the ACE2 receptor",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Ge",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Nature",
+            "volume": "503",
+            "issn": "",
+            "pages": "535--538",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nature12711"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Middle East respiratory syndrome coronavirus in bats, Saudi Arabia",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Memish",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Emerg Infect Dis",
+            "volume": "19",
+            "issn": "",
+            "pages": "1819--1823",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid1911.131172"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Middle East Respiratory Syndrome Coronavirus Infection in Dromedary Camels in Saudi Arabia",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Alagaili",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Mbio",
+            "volume": "5",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "ARTNe00884DOI10.1128/mBio.00884-14"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Middle East respiratory syndrome coronavirus in dromedary camels: an outbreak investigation",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Haagmans",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Lancet Infect Dis",
+            "volume": "14",
+            "issn": "",
+            "pages": "140--145",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1473-3099(13)70690-X"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "MERS Coronavirus in Dromedary Camel Herd, Saudi Arabia",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Hemida",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Emerg Infect Dis",
+            "volume": "20",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid2007.140571"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Antibodies against MERS coronavirus in dromedary camels",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Meyer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Emerg Infect Dis",
+            "volume": "20",
+            "issn": "",
+            "pages": "552--559",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid2004.131746"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Seroepidemiology for MERS coronavirus using microneutralisation and pseudoparticle virus neutralisation assays reveal a high prevalence of antibody in dromedary camels in Egypt",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Perera",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Eurosurveillance",
+            "volume": "18",
+            "issn": "",
+            "pages": "8--14",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Middle East respiratory syndrome coronavirus neutralising serum antibodies in dromedary camels: a comparative serological study",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "B E M"
+                    ],
+                    "last": "Reusken",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Lancet Infect Dis",
+            "volume": "13",
+            "issn": "",
+            "pages": "859--866",
+            "other_ids": {
+                "DOI": [
+                    "Doi10.1016/S1473-3099(13)70164-6"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "MERS coronavirus neutralizing antibodies in camels",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Muller",
+                    "suffix": ""
+                }
+            ],
+            "year": 1983,
+            "venue": "Emerg Infect Dis",
+            "volume": "20",
+            "issn": "",
+            "pages": "2093--2095",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid2012.141026"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Evidence for camel-to-human transmission of MERS coronavirus",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Azhar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "N Engl J Med",
+            "volume": "370",
+            "issn": "",
+            "pages": "2499--2505",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Middle East respiratory syndrome coronavirus (MERS-CoV) in dromedary camels",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Nowotny",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Kolodziejek",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Euro Surveill",
+            "volume": "19",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Prevalence of Middle East respiratory syndrome coronavirus (MERS-CoV) in dromedary camels in Abu Dhabi Emirate",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Yusof",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Virus Genes",
+            "volume": "50",
+            "issn": "",
+            "pages": "509--513",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s11262-015-1174-0"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Isolation of MERS coronavirus from a dromedary camel",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Raj",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Emerg Infect Dis",
+            "volume": "20",
+            "issn": "",
+            "pages": "1339--1342",
+            "other_ids": {}
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Transmission and evolution of the Middle East respiratory syndrome coronavirus in Saudi Arabia: a descriptive genomic study",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Cotten",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Lancet",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(13)61887-5"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Spread, circulation, and evolution of the Middle East respiratory syndrome coronavirus",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Cotten",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "MBio",
+            "volume": "5",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Host species restriction of Middle East respiratory syndrome coronavirus through its receptor, dipeptidyl peptidase 4",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Van Doremalen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "J Virol",
+            "volume": "88",
+            "issn": "",
+            "pages": "9220--9232",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.00676-14"
+                ]
+            }
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "Genomic Characterization of a Newly Discovered Coronavirus Associated with Acute Respiratory Distress Syndrome in Humans",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Van Boheemen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Mbio",
+            "volume": "3",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "ARTNe00473-12DOI10.1128/mBio.00473-12"
+                ]
+            }
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "The natural history of Hendra and Nipah viruses",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Field",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Microb Infect/Institut Pasteur",
+            "volume": "3",
+            "issn": "",
+            "pages": "307--314",
+            "other_ids": {}
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "Isolation and characterization of viruses related to the SARS coronavirus from animals in southern China",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Luo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1087139"
+                ]
+            }
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "Hendra virus: an emerging paramyxovirus in Australia",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Mahalingam",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Lancet Infect Dis",
+            "volume": "12",
+            "issn": "12",
+            "pages": "70158--70163",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1473-3099"
+                ]
+            }
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "Discrepancies in data reporting for rabies",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Nel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Africa. Emerg Infect Dis",
+            "volume": "19",
+            "issn": "",
+            "pages": "529--533",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid1904.120185"
+                ]
+            }
+        },
+        "BIBREF39": {
+            "ref_id": "b39",
+            "title": "A decade after SARS: strategies for controlling emerging coronaviruses",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Graham",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Donaldson",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Baric",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Nat Rev Microbiol",
+            "volume": "11",
+            "issn": "",
+            "pages": "836--848",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nrmicro3143"
+                ]
+            }
+        },
+        "BIBREF40": {
+            "ref_id": "b40",
+            "title": "The emergence of the Middle East Respiratory Syndrome coronavirus",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Milne-Price",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Miazgowicz",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Munster",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "",
+            "volume": "71",
+            "issn": "",
+            "pages": "119--134",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/2049-632X.12166"
+                ]
+            }
+        },
+        "BIBREF41": {
+            "ref_id": "b41",
+            "title": "Walker's bats of the world",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Nowak",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Walker",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF43": {
+            "ref_id": "b43",
+            "title": "Detection and phylogenetic analysis of group 1 coronaviruses in South American bats",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Carrington",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Emerg Infect Dis",
+            "volume": "14",
+            "issn": "",
+            "pages": "1890--1893",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid1412.080642"
+                ]
+            }
+        },
+        "BIBREF44": {
+            "ref_id": "b44",
+            "title": "Neotropical Bats from Costa Rica harbour Diverse Coronaviruses",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Moreira-Soto",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF45": {
+            "ref_id": "b45",
+            "title": "Transcriptome sequencing and annotation for the Jamaican fruit bat (Artibeus jamaicensis)",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Shaw",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "PLoS One",
+            "volume": "7",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0048472"
+                ]
+            }
+        },
+        "BIBREF46": {
+            "ref_id": "b46",
+            "title": "Immunology of bats and their viruses: challenges and opportunities",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Schountz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Viruses",
+            "volume": "6",
+            "issn": "",
+            "pages": "4880--4901",
+            "other_ids": {
+                "DOI": [
+                    "10.3390/v6124880"
+                ]
+            }
+        },
+        "BIBREF47": {
+            "ref_id": "b47",
+            "title": "Dipeptidyl peptidase 4 is a functional receptor for the emerging human coronavirus-EMC",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Raj",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Nature",
+            "volume": "495",
+            "issn": "",
+            "pages": "251--254",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nature12005"
+                ]
+            }
+        },
+        "BIBREF48": {
+            "ref_id": "b48",
+            "title": "Two mutations were critical for bat-to-human transmission of MERS coronavirus",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "J Virol",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.01279-15"
+                ]
+            }
+        },
+        "BIBREF49": {
+            "ref_id": "b49",
+            "title": "Replication and shedding of MERS-CoV in upper respiratory tract of inoculated dromedary camels",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Adney",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Emerg Infect Dis",
+            "volume": "20",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid2012.141280"
+                ]
+            }
+        },
+        "BIBREF50": {
+            "ref_id": "b50",
+            "title": "Respiratory Tract Samples, Viral Load, and Genome Fraction Yield in Patients With Middle East Respiratory Syndrome",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Memish",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "J Infect Dis",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/infdis/jiu292"
+                ]
+            }
+        },
+        "BIBREF51": {
+            "ref_id": "b51",
+            "title": "Practical considerations for high-throughput influenza A virus surveillance studies of wild birds by use of molecular diagnostic tests",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Munster",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J Clin Microbiol",
+            "volume": "47",
+            "issn": "",
+            "pages": "666--673",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JCM.01625-08"
+                ]
+            }
+        },
+        "BIBREF52": {
+            "ref_id": "b52",
+            "title": "The ORF4b-encoded accessory proteins of Middle East respiratory syndrome coronavirus and two related bat coronaviruses localize to the nucleus and inhibit innate immune signalling",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Matthews",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Coleman",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Van Der Meer",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Snijder",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Frieman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "J Gen Virol",
+            "volume": "95",
+            "issn": "",
+            "pages": "874--882",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/vir.0.062059-0"
+                ]
+            }
+        },
+        "BIBREF53": {
+            "ref_id": "b53",
+            "title": "Comparison of serological assays in human Middle East respiratory syndrome (MERS)-coronavirus infection",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Park",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Euro Surveill",
+            "volume": "20",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.2807/1560-7917.ES.2015.20.41.30042"
+                ]
+            }
+        },
+        "BIBREF54": {
+            "ref_id": "b54",
+            "title": "Presence of Middle East respiratory syndrome coronavirus antibodies in Saudi Arabia: a nationwide, crosssectional, serological study",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Muller",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Lancet Infect Dis",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1473-3099(15)70090-3"
+                ]
+            }
+        },
+        "BIBREF55": {
+            "ref_id": "b55",
+            "title": "Experimental Nipah virus infection in pteropid bats (Pteropus poliocephalus)",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Middleton",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J Comp Pathol",
+            "volume": "136",
+            "issn": "",
+            "pages": "266--272",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jcpa.2007.03.002"
+                ]
+            }
+        },
+        "BIBREF56": {
+            "ref_id": "b56",
+            "title": "Pteropid Bats are Confirmed as the Reservoir Hosts of Henipaviruses: A Comprehensive Experimental Study of Virus Transmission",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Halpin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Am J Trop Med Hyg",
+            "volume": "85",
+            "issn": "",
+            "pages": "946--951",
+            "other_ids": {
+                "DOI": [
+                    "10.4269/ajtmh.2011.10-0567"
+                ]
+            }
+        },
+        "BIBREF57": {
+            "ref_id": "b57",
+            "title": "Tacaribe virus causes fatal infection of an ostensible reservoir host, the Jamaican fruit bat",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Cogswell-Hawkinson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "J Virol",
+            "volume": "86",
+            "issn": "",
+            "pages": "5791--5799",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.00201-12"
+                ]
+            }
+        },
+        "BIBREF58": {
+            "ref_id": "b58",
+            "title": "Experimental inoculation of plants and animals with Ebola virus",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Swanepoel",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Emerg Infect Dis",
+            "volume": "2",
+            "issn": "",
+            "pages": "321--325",
+            "other_ids": {}
+        },
+        "BIBREF59": {
+            "ref_id": "b59",
+            "title": "Seasonal pulses of Marburg virus circulation in juvenile Rousettus aegyptiacus bats coincide with periods of increased risk of human infection",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Amman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "PLoS Pathog",
+            "volume": "8",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.ppat.1002877"
+                ]
+            }
+        },
+        "BIBREF60": {
+            "ref_id": "b60",
+            "title": "Bats and lyssaviruses",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Banyard",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Hayman",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Johnson",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Mcelhinney",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Fooks",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Adv Virus Res",
+            "volume": "79",
+            "issn": "",
+            "pages": "239--289",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/B978-0-12-387040-7.00012-3"
+                ]
+            }
+        },
+        "BIBREF61": {
+            "ref_id": "b61",
+            "title": "Experimental rabies virus infection in Artibeus jamaicensis bats with CVS-24 variants",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Reid",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Jackson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J Neurovirol",
+            "volume": "7",
+            "issn": "",
+            "pages": "511--517",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/135502801753248097"
+                ]
+            }
+        },
+        "BIBREF62": {
+            "ref_id": "b62",
+            "title": "Middle East respiratory syndrome coronavirus (MERS-CoV) causes transient lower respiratory tract infection in rhesus macaques",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "De Wit",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Proc Natl Acad Sci U S A",
+            "volume": "110",
+            "issn": "",
+            "pages": "16598--16603",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.1310744110"
+                ]
+            }
+        },
+        "BIBREF63": {
+            "ref_id": "b63",
+            "title": "Detection of a novel human coronavirus by real-time reverse-transcription polymerase chain reaction. Euro surveillance : bulletin Europ\u00e9en sur les maladies transmissibles",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Corman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "European communicable disease bulletin",
+            "volume": "17",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF64": {
+            "ref_id": "b64",
+            "title": "Growth and Quantification of MERS-CoV Infection",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Coleman",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Frieman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Curr Protoc Toxicol",
+            "volume": "64",
+            "issn": "",
+            "pages": "11--19",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/9780471729259.mc15e02s37"
+                ]
+            }
+        },
+        "BIBREF65": {
+            "ref_id": "b65",
+            "title": "The Middle East respiratory syndrome coronavirus (MERS-CoV) does not replicate in Syrian hamsters",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "De Wit",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "PLoS One",
+            "volume": "8",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0069127"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Artibeus spp. bats inhabit a large geographical area throughout the tropical North and South Americas 42 . A wide variety of alpha-and betacoronaviruses have been detected in Artibeus spp. bats in Costa Rica, Ecuador, Mexico, Panama and Trinidad & Tobago 7,13,43,44 . The wide diversity of coronaviruses detected in bats, combined",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Replication kinetics of MERS-CoV in cells expressing bat DPP4. (A) Hamster BHK transfected to express Jamaican fruit bat (red) and hamster DPP4 (blue) and inoculated with MERS-CoV (MOI of 1 TCID 50 / cell). (B) Jamaican fruit bat primary kidney (red) and VeroE6 (blue) cell lines inoculated with MERS-CoV (MOI of 0.01 TCID 50 /cell). Supernatants were harvested at 0, 24, 48 and 72 hpi and viral titers were determined by end-point titration in quadruplicate in VeroE6 cells. Geometric mean titers were calculated from three independent experiments. Error bars indicate standard deviations.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": ". The ability of MERS-CoV and batCoV-HKU4 to evade this innate immune sensing must have evolved in the reservoir bat host, and may therefore have benefitted the virus by limiting the bat immune response without negatively impacting the population level of the bat host. The modest, transient upregulation of Mx1, ISG56 and RANTES observed in Jamaican fruit bats may permit MERS-CoV replication without causing clinical signs. The transient nature of the MERS-CoV infection suggests that the virus is cleared by immune mechanisms, but the isolation of MERS-CoV in the duodenum of bat 10 at 28 dpi indicates that the virus might persist at low levels for a longer period of time. The limited seroconversion observed in the Jamaican fruit bats suggest that the immunogenicity of the MERS-CoV proteins in the context of experimental infection in bats in absence of clinical signs is very low. In humans",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "MERS-CoV shedding in Jamaican fruit bats. (A) from the respiratory tract of Jamaican fruit bats. (B) from the intestinal tract of Jamaican fruit bats. Oral and rectal swabs were collected at exam and necropsy dates. RNA was extracted and qRT-PCR was performed. Viral load was expressed as TCID 50 equivalents.Scientific RepoRts | 6:21878 | DOI: 10.1038/srep21878 seroconversion was observed in clinically ill patients between 21 and 28 days after infection with MERS-CoV with titers between 80 and 320 53 . Limited seroprevalance was observed in healthy people with a high occupational risk for MERS-CoV exposure (shepherds and slaughterhouse workers), combined with the extensive circulation of MERS-CoV in dromedary camels this suggests that unrecognized infections that cause no or mild symptoms might result in no to limited seroconversion22,54 .Although of considerable interest, the number of experimental infection studies in bats are limited. Experimental bat infection studies have been performed with coronavirus bat intestine samples derived from field studies18 , Nipah virus and Hendra virus 55,56 , Tacaribe virus 57 , Ebola virus and Marburg virus 58,59 and the majority of experimental infection studies have been performed with Lyssaviruses60 . In these studies replication, shedding, morbidity and mortality varied greatly. Severe morbidity and mortality were observed after inoculation of Jamaican fruit bats with Tacaribe virus and rabies virus 57,61 ; Jamaican fruit bats are the presumed host reservoir for both viruses. After oral inoculation of Leschenault's Rousette bats (Rousettus leschenaulti) with homogenates of intestinal tract samples obtained from bats caught during field studies in the Philippines and positive by PCR for a group 2 Betacoronavirus (closely related to MERS-CoV) no clinical signs were observed, but replication and limited virus shedding were observed in and from the intestinal tract18 . Our experimental infection data show that MERS-CoV maintains the ability to efficiently replicate in a bat host. In our bat infection model all Jamaican fruit bats became infected with MERS-CoV in the absence of clinical signs. This supports the hypothesis that bats are the ancestral reservoir for MERS-CoV. In addition, it highlights the host-range plasticity of MERS-CoV, and potentially of those of highly related coronaviruses circulating in bat population.Materials and MethodsEthics Statement. All animal experiments were approved by the Institutional Animal Care and Use Committee of Colorado State University, and performed following the guidelines of the Association for Assessment and Accreditation of Laboratory Animal Care, International (AAALAC) in an AAALAC-approved facility. All work with MERS-CoV was performed under BSL3 containment at Colorado State University or the",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "MERS-CoV viral load in tissues collected from Jamaican fruit bats inoculated with MERS-CoV.Tissues were collected at necropsy on the indicated days post-inoculation. RNA was extracted and qRT-PCR was performed. Viral load was expressed as TCID50 equivalents per gram tissue. Scientific RepoRts | 6:21878 | DOI: 10.1038/srep21878 Rocky Mountain Laboratories, Division of Intramural Research, National Institute of Allergy and Infectious Diseases, National Institutes of Health and was approved by their respective Institutional Biosafety Committees. Virus and cells. MERS-CoV strain EMC/2012 was kindly provided by the Viroscience Laboratory, Erasmus Medical Center, Rotterdam, The Netherlands and propagated in Vero E6 cells in DMEM (Sigma) supplemented",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF5": {
+            "text": "Histopathological changes in Jamaican fruit bats inoculated with MERS-CoV. Jamaican fruit bats were euthanized on day 2, 4, 7, 14 and 28 days post inoculation and tissue was collected, formalin fixed and stained with hematoxylin and eosin (H&E; panels A,C) or immunohistochemistry using a polyclonal \u03b1 -MERS-CoV antibody (IHC; panels B,D). Shown are bat 1 (panel A-C) and bat 5 (panel D-F). (A) Bat 1, no pulmonary pathology detected on 2 dpi visible is apparently normal lungtissue. (B) IHC staining of sequential section of panel A reveals abundance of MERS-CoV antigen in bat 1. (C) ISH staining of sequential section of panel (A) reveals abundance of MERS-CoV RNA in bat 1. (D) Bat 5, minimal alveolar thickening with infiltration of small numbers of foamy macrophages and fewer neutrophils (indicated by black arrow). (E) IHC staining of sequential section of panel C reveals abundance of MERS-CoV antigen in affected areas in bat 5. (F) ISH staining of sequential section of panel A reveals abundance of MERS-CoV RNA in bat 5. Original magnification: 20\u00d7 for (A, B, D) and (E) and 40\u00d7 for (C) and (F).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF6": {
+            "text": "MERS-CoV replicates in alveolar pneumocytes.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF7": {
+            "text": "Mx1, ISG56 and RANTES upregulation after MERS-CoV infection in Jamaican fruit bats.Gene expression was determined by qRT-PCR and normalized using HPRT expression. Data are the mean and standard error of mean calculated from two Jamaican fruit bats at each time point and is represented as fold increase over uninfected controls. Statistical significance was calculated using two-tailed unpaired t-tests.Expression of DPP4. BHK cells were transiently transfected with 3 \u03bc g pAJ-DPP4 using 8 \u03bc l of Lipofectamine 2000 (Life Technologies). Expression of DPP4 was confirmed by flow cytometry as described previously34 .",
+            "latex": null,
+            "type": "figure"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "The authors would like to thank Drs. Bart ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgements"
+        }
+    ]
+}

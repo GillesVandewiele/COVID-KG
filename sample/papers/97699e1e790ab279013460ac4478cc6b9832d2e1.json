@@ -1,0 +1,2994 @@
+{
+    "paper_id": "97699e1e790ab279013460ac4478cc6b9832d2e1",
+    "metadata": {
+        "title": "Middle East Respiratory Syndrome Coronavirus (MERS-CoV) origin and animal reservoir",
+        "authors": [
+            {
+                "first": "Hamzah",
+                "middle": [
+                    "A"
+                ],
+                "last": "Mohd",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Jaffar",
+                "middle": [
+                    "A"
+                ],
+                "last": "Al-Tawfiq",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Ziad",
+                "middle": [
+                    "A"
+                ],
+                "last": "Memish",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Middle East Respiratory Syndrome-Coronavirus (MERS-CoV) is a novel coronavirus discovered in 2012 and is responsible for acute respiratory syndrome in humans. Though not confirmed yet, multiple surveillance and phylogenetic studies suggest a bat origin. The disease is heavily endemic in dromedary camel populations of East Africa and the Middle East. It is unclear as to when the virus was introduced to dromedary camels, but data from studies that investigated stored dromedary camel sera and geographical distribution of involved dromedary camel populations suggested that the virus was present in dromedary camels several decades ago. Though bats and alpacas can serve as potential reservoirs for MERS-CoV, dromedary camels seem to be the only animal host responsible for the spill over human infections.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "have a crown appearance under the electron microscopy due to the spike protein on the surface. The coronavirus subfamily is classified into genera: alpha, beta, gama, and delta. Human coronaviruses belong to alpha, and beta coronaviruses [4] .",
+            "cite_spans": [
+                {
+                    "start": 238,
+                    "end": 241,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "MERS-CoV is a lineage C betacoronavirus with a genotype that is very closely related to bat coronaviruses from the same lineage, such as BtCoV-HKU4 and BtCoV-HKU5, though its evolutionary pathway is still unclear [5] .",
+            "cite_spans": [
+                {
+                    "start": 213,
+                    "end": 216,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "A limited number of coronaviruses is known to cause human disease. Most of known coronaviruses infect and circulate in animals, mainly bats. So when it comes to a new novel coronavirus with limited geographic distribution, one would think of a zoonotic disease with animal reservoir. This proved to be true with SARS and seems to be the case with MERS-CoV. The origin of the virus and the extent of its involvement in both human and animal populations remain hot topics that are being explored with phylogenicity and surveillance studies. In this review we summarize the current evidence about MERS-CoV origin and animal reservoir.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "It is believed that MERS-CoV, like many other coronaviruses, originated in bats. This is based on the isolation of other lineage C beta-coronaviruses that are very closely related to MERS-CoV on phylogenetic analysis [6, 7] .",
+            "cite_spans": [
+                {
+                    "start": 217,
+                    "end": 220,
+                    "text": "[6,",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 221,
+                    "end": 223,
+                    "text": "7]",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": "MERS-CoV origin"
+        },
+        {
+            "text": "A large screening study for beta-coronaviruses from 5030 bats' fecal specimens was conducted between 2009 and 2011. In that study 4758 bats of ten different species from Ghana, and 272 Pipistrellus bats from four European countries were included [8] . Reverse Transcription Polymerase Chain Reaction (RT-PCR) was used to detect coronavirus RNA. Of the ten bat species tested in Ghana, only Nycteris gambiensis was found to carry 2c betacoronavirus. A round one fourth of the 185 Nycteris bats tested positive; this accounted for 1 % of whole tested bat's population from Ghana. Of the Pipistrellus bat species tested in Europe, 40 out of 272 (14.7 %) carried 2c betacoronavirus. Both 2c beta-coronaviruses isolated are genetically very closely related to MERS-CoV. This relatedness indicates that MERS-CoV likely originated from bats [8] . Though the study had a good sample size and screened different geographical areas, none of those areas is known for MERS-CoV infection in humans or domestic animals.",
+            "cite_spans": [
+                {
+                    "start": 246,
+                    "end": 249,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 834,
+                    "end": 837,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": "MERS-CoV origin"
+        },
+        {
+            "text": "A report from South Africa identified a bat derived coronavirus that has a very close phylogenetic relationship to MERS-CoV [9] . The virus was isolated from a Neoromicia cf. zuluensis bat sampled in 2011 [9] . In Saudi Arabia, bat fecal samples collected in October of 2012 were tested for MERS-CoV RNA. A product obtained by PCR amplification of nucleic acid from a fecal pellet of a Taphozous perforatus bat captured in Bisha showed 100 % nucleotide match to the MERS-CoV cloned from an index case patient living in the same area [10] . Though it was a single 190-nucleotide segment, it does give a clue that MERS-CoV might be circulating in bats and that Taphozous perforatus (Egyptian tomb bat) might be a source of MERS-CoV.",
+            "cite_spans": [
+                {
+                    "start": 124,
+                    "end": 127,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 205,
+                    "end": 208,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 533,
+                    "end": 537,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": "MERS-CoV origin"
+        },
+        {
+            "text": "A study of 821 bats captured in Egypt and Lebanon between February 2013 and April 2015 did not detect MERS-CoV in any of the bats sampled [11] . In that study three species: Taphozous perforatus, Pipistrellus deserti, and Rousettus aegyptiacus, were sampled from Egypt, and four species: Rhinolophus hipposideros, Miniopterus schribersii, Rhinolophus ferrumequinum, and Rousettus aegyptiacus, were sampled from Lebanon [11] . Serum samples, oral and rectal swabs were collected and tested from live bats. Homogenized lung and liver material was tested from 72 bats that died or were euthanized upon capture [11] . One limitation of this study is that most of the bats screened belong to one species, R. aegyptiacus (85 %), and limited numbers of the other species were tested, especially T. perforatus (10 %).",
+            "cite_spans": [
+                {
+                    "start": 138,
+                    "end": 142,
+                    "text": "[11]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 419,
+                    "end": 423,
+                    "text": "[11]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 607,
+                    "end": 611,
+                    "text": "[11]",
+                    "ref_id": "BIBREF10"
+                }
+            ],
+            "ref_spans": [],
+            "section": "MERS-CoV origin"
+        },
+        {
+            "text": "To further investigate the role of bats as a potential reservoir for MERS-CoV, an experimental study was conducted on Jamaican fruit bat (Artibeus jamaicensis). Ten bats were inoculated through intranasal and intraperitoneal routes with MERS-CoV [12] . All bats showed evidence of infection as they shed the virus from their respiratory and, to a lesser extent, intestinal tract, but none of the bats showed clinical signs of disease [12] . The ability of MERS-CoV to replicate in bats without clinical signs of disease indicates that they can serve as a reservoir for MERS-CoV.",
+            "cite_spans": [
+                {
+                    "start": 246,
+                    "end": 250,
+                    "text": "[12]",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 434,
+                    "end": 438,
+                    "text": "[12]",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [],
+            "section": "MERS-CoV origin"
+        },
+        {
+            "text": "Thus, MERS-CoV, or its immediate ancestor, could have likely originated in bats, and that bats can serve as an ideal reservoir for MERS-CoV. It is difficult to proof that bats are the direct source of human disease, based on the available bats' screening studies. In addition, here is no clear direct contact between bats and humans, especially in Saudi Arabia where most of the cases are being diagnosed. A summary of important studies that screened bats for beta-coronaviruses and MERS-CoV is shown in Table 1 .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 504,
+                    "end": 511,
+                    "text": "Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "MERS-CoV origin"
+        },
+        {
+            "text": "Does MERS-CoV infect dromedary camels? Is there a role for dromedary camels in human disease?",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Animal reservoir"
+        },
+        {
+            "text": "The first evidence to link MERS-CoV to dromedary camels came from a serological study that investigated different animals: dromedary camels, cattle, sheep, goats and various other camelid species. MERS-CoV specific antibodies were only found in dromedary camels [13] .",
+            "cite_spans": [
+                {
+                    "start": 262,
+                    "end": 266,
+                    "text": "[13]",
+                    "ref_id": "BIBREF12"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Animal reservoir"
+        },
+        {
+            "text": "Another evidence to link MERS-CoV to dromedaries was found after two human cases of MERS-CoV infection, diagnosed in October of 2013, and were linked to a farm in Qatar [14] . In response, all the 14 dromedary camels on that farm were tested with RT-PCR. Eleven dromedary camels had positive nasal swabs for MERS-CoV. The nucleotide sequence of an ORF1a fragment and a 4 \u00b7 2 kb concatenated fragment of three dromedary camel samples were very similar to the sequence from the two human cases linked to that farm [14] . Another study from Saudi Arabia described a 43 year old male who owned nine dromedary camels and was in direct contact with them up until he was diagnosed with MERS-CoV infection in November 2013 [15] . Four of his dromedary camels were sick before his symptoms started. Cell cultures from a laboratory confirmed dromedary camel and the patient grew genetically identical MERS-CoV viruses [15] .",
+            "cite_spans": [
+                {
+                    "start": 169,
+                    "end": 173,
+                    "text": "[14]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 512,
+                    "end": 516,
+                    "text": "[14]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 715,
+                    "end": 719,
+                    "text": "[15]",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 908,
+                    "end": 912,
+                    "text": "[15]",
+                    "ref_id": "BIBREF14"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Animal reservoir"
+        },
+        {
+            "text": "In addition to providing a virological confirmation of MERS-CoV in dromedary camels, the last two studies indicated a potential cross infection between dromedary camels and humans and that the virus could be transmitted from dromedary camels to humans through close contact [14, 15] . A study that obtained the full genome of MERS-CoV from a dromedary camel in Qatar showed that MERS-CoVs from dromedary camel and humans are nearly identical [16] .",
+            "cite_spans": [
+                {
+                    "start": 274,
+                    "end": 278,
+                    "text": "[14,",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 279,
+                    "end": 282,
+                    "text": "15]",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 442,
+                    "end": 446,
+                    "text": "[16]",
+                    "ref_id": "BIBREF15"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Animal reservoir"
+        },
+        {
+            "text": "A nation-wide cross-sectional serological study done in Saudi Arabia between December 1st 2012 and December 1st 2013 in which serum samples from slightly over ten thousand individuals, whom age and sex distribution largely matched the general population, were tested for MERS-CoV antibodies [17] . Positive results were confirmed in 15 individuals (0.15 %). Of note, seropositivity was significantly higher in dromedary camel exposed individuals compared to the rest of the study population; fifteen times higher in shepherds and twenty three times higher in slaughterhouse workers [17] . This study does not only support the theory of dromedary camel role in human infection but also indicates a higher prevalence of human seropositivity than expected, based on reported cases from Saudi Arabia.",
+            "cite_spans": [
+                {
+                    "start": 291,
+                    "end": 295,
+                    "text": "[17]",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 582,
+                    "end": 586,
+                    "text": "[17]",
+                    "ref_id": "BIBREF16"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Animal reservoir"
+        },
+        {
+            "text": "In another study, 498 serum samples obtained from Qatar and Europe between 2013 and 2014 were tested for MERS-CoV antibodies. 294 samples were obtained from persons with occupational dromedary camel contact in Qatar; the remaining 204 samples were obtained from persons with no dromedary camel contacts from both Qatar and Europe. Around 7 % of those with dromedary camel contact tested positive for MERS-CoV antibodies, while none of the samples from persons with no dromedary camel contacts tested positive [18] .",
+            "cite_spans": [
+                {
+                    "start": 509,
+                    "end": 513,
+                    "text": "[18]",
+                    "ref_id": "BIBREF17"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Animal reservoir"
+        },
+        {
+            "text": "A case control study assessed differences in environmental exposure between thirty laboratory confirmed primary MERS-CoV cases and 116 controls. The study was conducted between March and November of 2014, and the cases represented 8 out of 13 regions in Saudi Arabia. The study concluded that direct dromedary camel exposure within two weeks of symptoms onset is independently associated with MERS-CoV infection [19] .",
+            "cite_spans": [
+                {
+                    "start": 412,
+                    "end": 416,
+                    "text": "[19]",
+                    "ref_id": "BIBREF18"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Animal reservoir"
+        },
+        {
+            "text": "So the evidence points to a close dromedary camel contact as a major risk for human infection. In order to better understand the ecology of MERS-CoV infection in dromedary camels, three adult dromedary camels were inoculated with a human isolate of MERS-CoV. Each dromedary camel was inoculated though intratracheal, intranasal and conjunctival routes. Transient, primarily upper respiratory tract infection developed in each of the three camels. Each dromedary camel shed large quantities of virus from the upper respiratory tract, evidenced by the presence of infectious viruses in nasal swab samples and, to a lesser extent, in oral samples. No infectious virus or viral RNA was detected in fecal, urine, serum or whole blood samples [20] . After authentication, the virus was recovered from respiratory tissues and some lymph nodes draining the respiratory system of one dromedary camel, but not in any other organs. These findings were consistent with the data from naturally infected dromedary camels [6, 15, 21, 22] . Some studies reported the detection of MERS-CoV virus from fecal specimen, though virus detection rates were far lower than in nasal swab specimens [22] [23] [24] . One study in particular reported detection of MERS-CoV RNA in the milk of five out of seven infected dromedary camels [23] .",
+            "cite_spans": [
+                {
+                    "start": 737,
+                    "end": 741,
+                    "text": "[20]",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 1007,
+                    "end": 1010,
+                    "text": "[6,",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 1011,
+                    "end": 1014,
+                    "text": "15,",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 1015,
+                    "end": 1018,
+                    "text": "21,",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 1019,
+                    "end": 1022,
+                    "text": "22]",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 1173,
+                    "end": 1177,
+                    "text": "[22]",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 1178,
+                    "end": 1182,
+                    "text": "[23]",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 1183,
+                    "end": 1187,
+                    "text": "[24]",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 1308,
+                    "end": 1312,
+                    "text": "[23]",
+                    "ref_id": "BIBREF22"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Animal reservoir"
+        },
+        {
+            "text": "A vaccine expressing the MERS-CoV spike protein was shown to confer mucosal immunity in dromedary camels with evidence of serum neutralizing antibodies and significant reduction in excreted infectious virus and viral RNA transcripts in vaccinated animals [25] .",
+            "cite_spans": [
+                {
+                    "start": 255,
+                    "end": 259,
+                    "text": "[25]",
+                    "ref_id": "BIBREF24"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Animal reservoir"
+        },
+        {
+            "text": "Based on surveillance and epidemiological studies, it is obvious that MERS-CoV infects dromedary camels, which serve as a reservoir with spell over human infections through close dromedary camel contacts [13-15, 17-19, 24] . The exact routes of transmission are not very well understoodbut direct contacts with Dromedary camels or the handling of surfaces or objects contaminated with dromedary camels' respiratory or fecal material may as well pose a risk for infection.",
+            "cite_spans": [
+                {
+                    "start": 204,
+                    "end": 222,
+                    "text": "[13-15, 17-19, 24]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Animal reservoir"
+        },
+        {
+            "text": "Multiple surveillance studies explored the extent of MERS-CoV infection in dromedaries. Presence of specific MERS-CoV antibodies in dromedary camels' sera was used as an indicator of previous exposure to the virus, while the presence of MERS-CoV RNA material in nasal secretions, usually identified through RT-PCR, indicated current infection and active viral shedding.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "What is the extent of MERS-CoV infection in dromedary camels?"
+        },
+        {
+            "text": "Serum samples from 303 dromedary camels from Saudi Arabia were screened in 2013 and found to have a high seropositivity of 72 % to MERS-CoV [21] .",
+            "cite_spans": [
+                {
+                    "start": 140,
+                    "end": 144,
+                    "text": "[21]",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [],
+            "section": "What is the extent of MERS-CoV infection in dromedary camels?"
+        },
+        {
+            "text": "All serum samples from 50 dromedary camels in Oman were positive for MERS-CoV specific antibodies [13] . Similar results were reached from a larger study conducted in United Arab Emirates (UAE), where 500 dromedary camels' sera screened in 2013 revealed 96 % seropositivity [26] .",
+            "cite_spans": [
+                {
+                    "start": 98,
+                    "end": 102,
+                    "text": "[13]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 274,
+                    "end": 278,
+                    "text": "[26]",
+                    "ref_id": "BIBREF25"
+                }
+            ],
+            "ref_spans": [],
+            "section": "What is the extent of MERS-CoV infection in dromedary camels?"
+        },
+        {
+            "text": "In Africa, a study assessed the geographic distribution of MERS-CoV among dromedaries by investigating serum samples from Nigeria, Tunisia, and Ethiopia. In Nigeria, serum samples collected between 2010 and 2011 from 358 adult dromedaries distributed over 4 provinces were tested, and 94 % were positive for MERS-CoV antibodies. In Tunisia, serum samples collected in 2009 and 2013 from 204 dromedaries distributed over 3 provinces were tested and 48.5 % were positive for MERS-CoV. In Ethiopia, 96.3 % of the serum samples collected between 2011 and 2013 from 188 dromedaries, distributed over 3 provinces, were positive for MERS-CoV antibodies [27] .",
+            "cite_spans": [
+                {
+                    "start": 646,
+                    "end": 650,
+                    "text": "[27]",
+                    "ref_id": "BIBREF26"
+                }
+            ],
+            "ref_spans": [],
+            "section": "What is the extent of MERS-CoV infection in dromedary camels?"
+        },
+        {
+            "text": "Another study was conducted in Kano, Nigeria in January 2015. Nasal swabs and blood samples were collected from dromedary camels shortly after slaughter at a slaughterhouse. The samples were tested for the presence of MERS-CoV RNA using RT-PCR from nasal swabs. Sera were tested for the presence of specific MERS-CoV antibodies. Of the 132 dromedary camels screened with nasal swabs, 14 were found to carry the virus RNA (11 %). The overall seropositivity was 95 % [28] .",
+            "cite_spans": [
+                {
+                    "start": 465,
+                    "end": 469,
+                    "text": "[28]",
+                    "ref_id": "BIBREF27"
+                }
+            ],
+            "ref_spans": [],
+            "section": "What is the extent of MERS-CoV infection in dromedary camels?"
+        },
+        {
+            "text": "A random group of 105 dromedary camels presented for slaughter in Qatar at two occasions in 2014 were sampled for MERS-CoV. Nasal, oral, bronchial and rectal swabs were tested for MERS-CoV. A high proportion (59 %) of them was actively shedding the virus at the time of slaughter. The percentage of positive samples was the highest for nasal samples, followed by oral swabs, fecal swabs, and bronchial swabs. Co-circulation of multiple MERS-CoV variants, evidenced by five different sequence types, demonstrates multiple virus introductions likely related to the flow of new dromedary camels from different origins [24] .",
+            "cite_spans": [
+                {
+                    "start": 615,
+                    "end": 619,
+                    "text": "[24]",
+                    "ref_id": "BIBREF23"
+                }
+            ],
+            "ref_spans": [],
+            "section": "What is the extent of MERS-CoV infection in dromedary camels?"
+        },
+        {
+            "text": "Those findings indicate a widespread exposure to MERS-CoV in the dromedary camel populations of Africa and the Arabian Peninsula, to the extent that almost every adult dromedary camel got infected at some point in life.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "What is the extent of MERS-CoV infection in dromedary camels?"
+        },
+        {
+            "text": "Two hundred and three samples from live dromedary camels in Saudi Arabia were collected in 2013 and found to have a high seropositivity (72 %) to MERS-CoV [21] . Seropositivity was higher among adults dromedary camels (two years and older) compared to juvenile dromedary camels (less than two years of age), 95 % vs. 55 % respectively [21] . Increasing seropositivity with age might be related to increased likelihood of exposure and subsequent infection over time.",
+            "cite_spans": [
+                {
+                    "start": 155,
+                    "end": 159,
+                    "text": "[21]",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 335,
+                    "end": 339,
+                    "text": "[21]",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Do dromedary camels differ in their vulnerability to MERS-CoV infection based on age?"
+        },
+        {
+            "text": "In the same study, 202 dromedary camels' nasal swabs were tested for the presence of MERS-CoV RNA material using RT-PCR; 25 % were positive. In other words, one fourth of the tested dromedary camel population was shedding the virus and was potentially infectious. Of those shedding the virus 71 % were juvenile and 29 % were adult dromedary camels older than two years [21] . The results indicate that juvenile dromedary camels might be at higher risk of contracting the virus. An explanation could be that they are naive to the virus and lack neutralizing antibodies.",
+            "cite_spans": [
+                {
+                    "start": 369,
+                    "end": 373,
+                    "text": "[21]",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Do dromedary camels differ in their vulnerability to MERS-CoV infection based on age?"
+        },
+        {
+            "text": "In an attempt to investigate the time frame of MERS-CoV introduction to dromedary camel population, multiple studies screened stored serum samples. 100 % seropositivity was found in 151 dromedary camel serum samples obtained in 2003 from UAE dromedary camels [26] . Archived serum samples, obtained from dromedary camels in Saudi Arabia from1992 through 2010, were found to have a high seropositivity ranging from 72 % to 100 % [21] . 189 stored dromedary camel serum samples from Egypt, collected in 1997, and from Sudan and Somalia, collected between 1983 and 1984, were tested, and 81 % were found to have neutralizing antibodies to MERS-CoV [29] . Another study from Kenya showed similar results [30] . This implies that MERS-CoV has been heavily endemic in both the Middle East and East Africa's dromedary camels for decades.",
+            "cite_spans": [
+                {
+                    "start": 259,
+                    "end": 263,
+                    "text": "[26]",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 428,
+                    "end": 432,
+                    "text": "[21]",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 645,
+                    "end": 649,
+                    "text": "[29]",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 700,
+                    "end": 704,
+                    "text": "[30]",
+                    "ref_id": "BIBREF29"
+                }
+            ],
+            "ref_spans": [],
+            "section": "When was the virus introduced to dromedary camels?"
+        },
+        {
+            "text": "In addition to evaluating MERS-CoV distribution and the infection burden in dromedary camel populations, screening different geographic areas might also help predict when MERS-CoV was introduced to dromedary camels. Historically and up to the early twentieth century, both dromedary and bactrian camels played a vital role in carrying passengers and goods in North Africa, the Middle East, and East Asia. For the same reason, they were imported to Australia in the nineteenth century. After the invention of automobile and the use of trains, use and travel of dromedary and bactrian camels between countries was limited.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "When was the virus introduced to dromedary camels?"
+        },
+        {
+            "text": "Serum samples collected from 105 dromedary camels living in the Canary Islands, a Spanish archipelago located just off the southern coast of Morocco, between 2012 and 2013 were tested, and 14 % were found to have antibodies against MERS-CoV [13] . This indicates that a small proportion of Canary Island dromedary camels were exposed to the virus at some point in time. This low percentage, compared to East Africa and the Arabian Peninsula, might be related to the isolated nature of the Canary Islands, as they are off the West African coast and are governed by Spain. Those two factors might limit the interaction of the island's dromedary camels with those from other parts of Africa. This theory was later supported by another study conducted in early 2015. In this study, a representative sample of 170 dromedary camels on the Canary Islands was investigated; only 4.1 % were seropositive for MERS-CoV. All the seropositive dromedary camels were imported from Africa 20 or more years prior. This led to the conclusion that active infection and shedding didn't take place on the Canary Islands [31] .",
+            "cite_spans": [
+                {
+                    "start": 241,
+                    "end": 245,
+                    "text": "[13]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 1099,
+                    "end": 1103,
+                    "text": "[31]",
+                    "ref_id": "BIBREF30"
+                }
+            ],
+            "ref_spans": [],
+            "section": "When was the virus introduced to dromedary camels?"
+        },
+        {
+            "text": "In an attempt to screen feral camels in Australia, 307 dromedary camels' sera from two different locations were sampled between December 2013 and June 2014. All tested negative for specific MERS-CoV antibodies [32] .",
+            "cite_spans": [
+                {
+                    "start": 210,
+                    "end": 214,
+                    "text": "[32]",
+                    "ref_id": "BIBREF31"
+                }
+            ],
+            "ref_spans": [],
+            "section": "When was the virus introduced to dromedary camels?"
+        },
+        {
+            "text": "In Kazakhstan 550 camels' sera: 455 dormeday and 95 bactrian, camels with two humps (Camelus bactrianus), were screened for MERS-CoV between February and March 2015, and all tested negative [33] . Another surveillance study was conducted in southern Mongolia in November of 2014. In that study, 210 bactrian camels from 12 herds were screened. All samples tested negative, and the study concluded that MERS-CoV was not present in bactrian camels of the screened areas [34] .",
+            "cite_spans": [
+                {
+                    "start": 190,
+                    "end": 194,
+                    "text": "[33]",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 468,
+                    "end": 472,
+                    "text": "[34]",
+                    "ref_id": "BIBREF33"
+                }
+            ],
+            "ref_spans": [],
+            "section": "When was the virus introduced to dromedary camels?"
+        },
+        {
+            "text": "A serological and virological surveillance study of ten bactrian camel herds in three areas of the West of Inner Mongolia Autonomous Region (IMAR) was conducted in 2015. One hundred and ninety Bactrian camels were sampled; nasal swab and serum samples were collected from each Bactrian camel. All samples turned negative and the study concluded that there was no MERS-CoV circulating among Bactrian camels in the West IMAR [35] .",
+            "cite_spans": [
+                {
+                    "start": 423,
+                    "end": 427,
+                    "text": "[35]",
+                    "ref_id": "BIBREF34"
+                }
+            ],
+            "ref_spans": [],
+            "section": "When was the virus introduced to dromedary camels?"
+        },
+        {
+            "text": "Based on the above studies, it seems that MERS-CoV infection is limited to dromedary camel populations in Africa and the Middle East. This may indicate that dromedary camel infection could have been introduced at a point in time when the dromedary camel caravans between Asia, Middle East, and Africa were no longer active.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "When was the virus introduced to dromedary camels?"
+        },
+        {
+            "text": "In an attempt to investigate the possibility of other reservoirs, multiple domestic animal populations were screened. In a serological study, conducted in Saudi Arabia between 2010 and 2013, sera from 100 sheep, 45 goats, 50 cattle, and 240 chickens representing different geographical areas within the country were collected. All samples tested negative for MERS-CoV [36] . In another study, serum samples from 36 goats and 102 sheep from central Saudi Arabia tested negative for MERS-CoV antibodies as well [21] . In 2013 a similar study was conducted in Jordan. None of the 150 goats, 126 sheep and 91 cows tested was found positive for MERS-CoV antibodies [37] . Sera from European sheep, goats, and cattle had no evidence of MERS-CoV antibodies as well [13] .",
+            "cite_spans": [
+                {
+                    "start": 368,
+                    "end": 372,
+                    "text": "[36]",
+                    "ref_id": "BIBREF35"
+                },
+                {
+                    "start": 509,
+                    "end": 513,
+                    "text": "[21]",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 660,
+                    "end": 664,
+                    "text": "[37]",
+                    "ref_id": "BIBREF36"
+                },
+                {
+                    "start": 758,
+                    "end": 762,
+                    "text": "[13]",
+                    "ref_id": "BIBREF12"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Are there other domestic animal reservoirs for MERS-CoV?"
+        },
+        {
+            "text": "Equids were also screened for MERS-CoV antibodies. 192 adult horse samples from UAE and 861 samples from Spain (697 horses, 82 donkeys, and 82 mules) were screened. All were seronegative for MERS-CoV [38] .",
+            "cite_spans": [
+                {
+                    "start": 200,
+                    "end": 204,
+                    "text": "[38]",
+                    "ref_id": "BIBREF37"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Are there other domestic animal reservoirs for MERS-CoV?"
+        },
+        {
+            "text": "Dromedary camels seemed to be the only domestic animal reservoir for MERS-CoV up until a recent study conducted in Qatar in April of 2015 investigated the MERS-CoV infection status of 15 healthy alpacas (Vicugna pacos) in a herd of 20 that shared a barn complex with dromedaries. All tested alpacas were seropositive to MERS-CoV (100 %). Of note, MERS-CoV is endemic in Qatar's dromedaries, and nine out of ten dromedary camels that shared the same barn complex were seropositive for MERS-CoV [39] . This indicates the susceptibility of alpacas for natural MERS-CoV infection and the potential for a new MERS-CoV animal reservoir. Of note, a previous study found no evidence for MERS-CoV infection in alpacas from regions where MERS-CoV is not endemic [13] .",
+            "cite_spans": [
+                {
+                    "start": 493,
+                    "end": 497,
+                    "text": "[39]",
+                    "ref_id": "BIBREF38"
+                },
+                {
+                    "start": 752,
+                    "end": 756,
+                    "text": "[13]",
+                    "ref_id": "BIBREF12"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Are there other domestic animal reservoirs for MERS-CoV?"
+        },
+        {
+            "text": "In another study 3 alpacas were experimentally infected through intranasal insulation of MERS-CoV viruses. All got infected and shed the virus; they also transmitted the infection to two out of three other alpacas that shared the same room. Similar to dromedary camels, infected alpacas didn't develop fever, but unlike dromedary camels, none of the alpacas had any observable nasal discharge over the course of infection. All infected animals were able to mount neutralizing antibodies to MERS-CoV [40] .",
+            "cite_spans": [
+                {
+                    "start": 499,
+                    "end": 503,
+                    "text": "[40]",
+                    "ref_id": "BIBREF40"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Are there other domestic animal reservoirs for MERS-CoV?"
+        },
+        {
+            "text": "Those studies indicate that alpacas, similar to dromedary camels, can be infected and potentially serve as a reservoir.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Are there other domestic animal reservoirs for MERS-CoV?"
+        },
+        {
+            "text": "Our experience with MERS-CoV is of zoonotic nature, transmitted to humans from infected dromedary camels. The origin of MERS-CoV viral infection is not very well understood. It could have originated in bats and transmitted to dromedary camels at some unknown time in the past.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusion"
+        },
+        {
+            "text": "The virus seems to be well maintained in dromedaries, which serve as a reservoir with a spill over human infections. Sporadic human cases in areas where MERS-CoV is endemic in dromedary camels are likely to continue to happen.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusion"
+        },
+        {
+            "text": "The awareness of the disease and the easy access to a more developed health care system could explain the higher incidence of MERS-CoV diagnosis in Saudi Arabia compared to other countries in Africa where the disease is likely to be overlooked.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusion"
+        },
+        {
+            "text": "Larger scale serological screening of human populations in areas where MERS-CoV is endemic in dromedary camels should be considered. More extensive screening of bats in Saudi Arabia and East Africa, especially the Egyptian tomb bat, needs to be considered. Screening dromedary camel populations in Africa (Sahara desert and surrounding areas), and East Asia (Pakistan, Afghanistan, and Iran) will help better delineate the geographical distribution of dromedaries involvement.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusion"
+        },
+        {
+            "text": "Experimental MERS-CoV inoculation of other domestic animals will help define predisposed groups and should be considered so as to guide screening efforts for other potential reservoirs. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusion"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Isolation of a novel coronavirus from a man with pneumonia in Saudi Arabia",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Zaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Boheemena",
+                    "suffix": ""
+                },
+                {
+                    "first": "Tim",
+                    "middle": [],
+                    "last": "Bestebroer",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Osterhaus",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Fouchier",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "N Engl J Med",
+            "volume": "367",
+            "issn": "",
+            "pages": "1814--1834",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa1211721"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Ministry of Health (MOH) -Kingdom of Saudi Arabia",
+            "authors": [
+                {
+                    "first": "Control",
+                    "middle": [],
+                    "last": "Command",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Center",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Cultivation of a novel type of common cold virus in organ culture",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Tyrel",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Bynoe",
+                    "suffix": ""
+                }
+            ],
+            "year": 1965,
+            "venue": "Br Med J",
+            "volume": "1",
+            "issn": "5448",
+            "pages": "1467--70",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Middle East respiratory syndrome coronavirus: another zoonotic betacoronavirus causing SARS-like disease",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Lau",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "To",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Cheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Woo",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Yuen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Clin Microbiol Rev",
+            "volume": "28",
+            "issn": "",
+            "pages": "465--522",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/CMR.00102-14"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Genomic characterization of a newly discovered coronavirus associated with acute respiratory distress syndrome in humans",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Boheemena",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Graafa",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Lauberb",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Bestebroera",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Raja",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Zaki",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "mBio",
+            "volume": "3",
+            "issn": "6",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/mBio.00473-12"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Al-pha and lineage C betaCoV infections in Italian bats",
+            "authors": [
+                {
+                    "first": "De",
+                    "middle": [],
+                    "last": "Benedictis",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Marciano",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Scaravelli",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Priori",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Zecchin",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Capua",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Virus Genes",
+            "volume": "48",
+            "issn": "",
+            "pages": "366--71",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s11262-013-1008-x"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Group C betacorona-virus in bat guano fertilizer",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Wacharapluesadee",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Sintunawa",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Kaewpom",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Khongnomnan",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Olival",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Epstein",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Thailand. Emerg Infect Dis",
+            "volume": "19",
+            "issn": "",
+            "pages": "1349--51",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid1908.130119"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Human betacoronavirus 2c EMC/2012-related viruses in bats, Ghana and Europe",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Annan",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Baldwin",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Corman",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Klose",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Owusu",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Nkrumah",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Emerg Infect Dis",
+            "volume": "19",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid1903.121503"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Close relative of human middle East respiratory syndrome coronavirus in bat",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Ithete",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Stoffberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Corman",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Cottontail",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Richards",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Schoeman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "South Africa. Emerg Infect Dis",
+            "volume": "19",
+            "issn": "",
+            "pages": "1697--1706",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid1910.130946"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Middle East respiratory syndrome coronavirus in bats, Saudi Arabia",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Memish",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Mishra",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Olival",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Fagbo",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Kapoor",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Epstein",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Emerg Infect Dis",
+            "volume": "19",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid1911.131172"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Surveillance for coronaviruses in bats",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Shehata",
+                    "suffix": ""
+                },
+                {
+                    "first": "Dkw",
+                    "middle": [],
+                    "last": "Chu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Gomaa",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Abisaid",
+                    "suffix": ""
+                },
+                {
+                    "first": "El",
+                    "middle": [],
+                    "last": "Shesheny",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Kandeil",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Lebanon and Egypt",
+            "volume": "22",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid2201.151397"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Replication and shedding of MERSCoV in Jamaican fruit bats (Artibeus jamaicensis)",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Munster",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Adney",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Doremalen",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Brown",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Miazgowicz",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Milne-Price",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Sci.Rep",
+            "volume": "6",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/srep21878"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Middle East respiratory syndrome coronavirus neutralising serum antibodies in dromedary camels: a comparative serological study",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Reusken",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Haagmans",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Muller",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Gutierrez",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Godeke",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Meyer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Lancet Infect Dis",
+            "volume": "13",
+            "issn": "13",
+            "pages": "70164--70170",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1473-3099(13)70164-6"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Middle East respiratory syndrome coronavirus in dromedary camels: an outbreak investigation",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Haagmans",
+                    "suffix": ""
+                },
+                {
+                    "first": "Al",
+                    "middle": [],
+                    "last": "Dhahiry",
+                    "suffix": ""
+                },
+                {
+                    "first": "Shs",
+                    "middle": [],
+                    "last": "Reusken",
+                    "suffix": ""
+                },
+                {
+                    "first": "Cbem",
+                    "middle": [],
+                    "last": "Raj",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Galiano",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Myers",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Lancet Infect Dis",
+            "volume": "14",
+            "issn": "13",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1473-3099(13)70690-X"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Evidence for camel-to-human transmission of MERS coronavirus",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Azhar",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "El-Kafrawy",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Farraj",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "N Engl J Med",
+            "volume": "370",
+            "issn": "",
+            "pages": "2499--505",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa1401505"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Isolation of MERS coronavirus from a dromedary camel",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Raj",
+                    "suffix": ""
+                },
+                {
+                    "first": "Eabs",
+                    "middle": [],
+                    "last": "Farag",
+                    "suffix": ""
+                },
+                {
+                    "first": "Cbem",
+                    "middle": [],
+                    "last": "Reusken",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Lamers",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Pas",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Voermans",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Emerg Infect Dis",
+            "volume": "20",
+            "issn": "8",
+            "pages": "1339--1381",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid2008.140663"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Presence of Middle East respiratory syndrome coronavirus antibodies in Saudi Arabia: a nationwide, cross-sectional, serological study",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "M\u00fcller",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Meyer",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Corman",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Al-Masri",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Turkestani",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Ritz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Lancet Infect Dis",
+            "volume": "15",
+            "issn": "",
+            "pages": "559--64",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1473-3099(15)70090-3"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Occupational exposure to dromedaries and risk for MERS-CoV infection",
+            "authors": [
+                {
+                    "first": "Cbem",
+                    "middle": [],
+                    "last": "Reusken",
+                    "suffix": ""
+                },
+                {
+                    "first": "Eaba",
+                    "middle": [],
+                    "last": "Farag",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Haagmans",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Mohran",
+                    "suffix": ""
+                },
+                {
+                    "first": "G-J",
+                    "middle": [],
+                    "last": "Godeke",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Raj",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Emerg Infect Dis",
+            "volume": "21",
+            "issn": "8",
+            "pages": "1422--1427",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid2108.150481"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Risk factors for primary Middle East respiratory syndrome coronavirus illness in humans, Saudi Arabia",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Alraddadi",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Watson",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Almarashi",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Abedi",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Turkistani",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Sadran",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Emerg Infect Dis",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid2201.151340"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Replication and shedding of MERS-CoV in upper respiratory tract of inoculated dromedary camels",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Adney",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Van Doremalen",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Brown",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Hassan",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Al-Saeed",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Hashem",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Madani",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Emerg Infect Dis",
+            "volume": "20",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid2012.141280"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Middle East respiratory syndrome coronavirus infection in dromedary camels in Saudi Arabia",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Alagaili",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Briese",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Mishra",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Kapoor",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Sameroff",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Wit",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "mBio",
+            "volume": "5",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/mBio.00884-14"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "MERS coronavirus in dromedary camel herd, Saudi Arabia",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Hemida",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Chu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Poon",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Perera",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Alhammadi",
+                    "suffix": ""
+                },
+                {
+                    "first": "H-Y",
+                    "middle": [],
+                    "last": "Ng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Emerg Infect Dis",
+            "volume": "20",
+            "issn": "",
+            "pages": "1231--1235",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Middle East respiratory syndrome coronavirus (MERS-CoV) RNA and neutralising antibodies in milk collected according to local customs from dromedary camels",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Reusken",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Farag",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Jonges",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Godeke",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "El-Sayed",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Pas",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Euro Surveill",
+            "volume": "19",
+            "issn": "23",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "High proportion of MERS-CoV shedding dromedaries at slaughterhouse with a potential epidemiological link to human cases",
+            "authors": [
+                {
+                    "first": "Eaba",
+                    "middle": [],
+                    "last": "Farag",
+                    "suffix": ""
+                },
+                {
+                    "first": "Cbem",
+                    "middle": [],
+                    "last": "Reusken",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Haagmans",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Mohran",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Raj",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Pas",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Inf Ecol Epidemiol",
+            "volume": "5",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3402/iee.v5.28305"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "An orthopoxvirus-based vaccine reduces virus excretion after MERS-CoV infection in dromedary camels",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Haagmans",
+                    "suffix": ""
+                },
+                {
+                    "first": "Jma",
+                    "middle": [],
+                    "last": "Brand",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Raj",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Volz",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Wohlsein",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Smits",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Science",
+            "volume": "351",
+            "issn": "6268",
+            "pages": "77--81",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.aad1283"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Antibodies against MERS coronavirus in dromedary camels",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Meyer",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "M\u00fcller",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Corman",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Reusken",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Ritz",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Godeke",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Emerg Infect Dis",
+            "volume": "20",
+            "issn": "4",
+            "pages": "552--561",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid2004.131746"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Geographic distribution of MERS coronavirus among dromedary camels",
+            "authors": [
+                {
+                    "first": "Cbem",
+                    "middle": [],
+                    "last": "Reusken",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Messadi",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Feyisa",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Ularamu",
+                    "suffix": ""
+                },
+                {
+                    "first": "G-J",
+                    "middle": [],
+                    "last": "Godeke",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Danmarwa",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Africa. Emerg Infect Dis",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid2008.140590"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Middle East respiratory syndrome coronavirus (MERS-CoV) in dromedary camels in Nigeria",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Chu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Oladipo",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Perera",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kuranga",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Poon",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Peiris",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Euro Surveill",
+            "volume": "20",
+            "issn": "49",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.2807/1560-7917.ES.2015.20.49.30086"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "MERS coronavirus neutralizing antibodies in camels",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "M\u00fcller",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Corman",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Jores",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Meyer",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Younan",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Liljander",
+                    "suffix": ""
+                }
+            ],
+            "year": 1983,
+            "venue": "Emerg Infect Dis",
+            "volume": "20",
+            "issn": "12",
+            "pages": "2093--2098",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid2012.141026"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Antibodies against MERS coronavirus in dromedary camels",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Corman",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Jores",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Meyer",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Younan",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Liljander",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Said",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Emerg Infect Dis",
+            "volume": "20",
+            "issn": "",
+            "pages": "1319--1341",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid2008.140596"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Presence of antibodies but no evidence for circulation of MERS-CoV in dromedaries on the Canary Islands",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Guti\u00e9rrez",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Tejedor-Junco",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Gonz\u00e1lez",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Lattwein",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Renneker",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Euro Surveill",
+            "volume": "20",
+            "issn": "37",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.2807/1560-7917.ES.2015.20.37.30019"
+                ]
+            }
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Absence of MERS-CoV antibodies in feral camels in Australia: implications for the pathogen's origin and spread",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Crameri",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Durr",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Barr",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Graham",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Williams",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Kayali",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "One Health",
+            "volume": "1",
+            "issn": "",
+            "pages": "76--82",
+            "other_ids": {}
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Absence of Middle East respiratory syndrome coronavirus in camelids",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Miguel",
+                    "suffix": ""
+                },
+                {
+                    "first": "Rapm",
+                    "middle": [],
+                    "last": "Perera",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Baubekova",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Chevalier",
+                    "suffix": ""
+                },
+                {
+                    "first": "Faye",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Akhmetsadykov",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Emerg Infect Dis",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid2203.151284"
+                ]
+            }
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Absence of MERS-Coronavirus in Bactrian Camels",
+            "authors": [
+                {
+                    "first": "Sms",
+                    "middle": [],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Damdinjav",
+                    "suffix": ""
+                },
+                {
+                    "first": "Rapm",
+                    "middle": [],
+                    "last": "Perera",
+                    "suffix": ""
+                },
+                {
+                    "first": "Dkw",
+                    "middle": [],
+                    "last": "Chu",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Khishgee",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Enkhbold",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Emerg Infect Dis",
+            "volume": "21",
+            "issn": "",
+            "pages": "1269--71",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid2107.150178"
+                ]
+            }
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "Absence of Middle East respiratory syndrome coronavirus in Bactrian camels in the West Inner Mongolia Autonomous Region of China: surveillance study results from",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Wen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ge",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Bu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Emerg Microbes Infect",
+            "volume": "4",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/emi.2015.73"
+                ]
+            }
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "Middle East Respiratory Syndrome (MERS) coronavirus seroprevalence in domestic livestock in Saudi Arabia",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Hemida",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Perera",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Alhammadi",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Siu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Euro Surveill",
+            "volume": "18",
+            "issn": "50",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.2807/1560-7917.ES2013.18.50.20659"
+                ]
+            }
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "Middle East Respiratory Syndrome coronavirus (MERS-CoV) serology in major livestock species in an affected region in Jordan",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Reusken",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ababneh",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Raj",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Meyer",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Eljarah",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Abutarbush",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Euro Surveill",
+            "volume": "18",
+            "issn": "50",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.2807/1560-7917.ES2013.18.50.20662"
+                ]
+            }
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "Serologic assessment of possibility for MERS-CoV infection in equids",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Meyer",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Garc\u00eda-Bocanegra",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Wernery",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Wernery",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sieberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "M\u00fcller",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Emerg Infect Dis",
+            "volume": "21",
+            "issn": "1",
+            "pages": "181--183",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid2101.141342"
+                ]
+            }
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "MERS-CoV infection of alpaca in a region where MERS-CoV is endemic",
+            "authors": [
+                {
+                    "first": "Cbem",
+                    "middle": [],
+                    "last": "Reusken",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Schilp",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Raj",
+                    "suffix": ""
+                },
+                {
+                    "first": "De",
+                    "middle": [],
+                    "last": "Bruin",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Kohl",
+                    "suffix": ""
+                },
+                {
+                    "first": "Rhg",
+                    "middle": [],
+                    "last": "Farag",
+                    "suffix": ""
+                },
+                {
+                    "first": "Eaba",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF39": {
+            "ref_id": "b39",
+            "title": "Emerg Infect Dis",
+            "authors": [],
+            "year": 2016,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid2206.152113"
+                ]
+            }
+        },
+        "BIBREF40": {
+            "ref_id": "b40",
+            "title": "Infection, replication, and transmission of Middle East respiratory syndrome coronavirus in alpacas. Emerg Infect Dis",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Adney",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Bielefeldt-Ohmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Hartwig",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Bowen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid2206.160192"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Abbreviations IMAR, Inner Mongolia Autonomous Region; MERS-CoV, Middle East Respiratory Syndrome -Coronavirus; RT-PCR, Reverse Transcription -Polymerase Chain Reaction; SARS-CoV, Severe Acute Respiratory Syndrome -Coronavirus; UAE, United Arab Emirates",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Summary of important studies that screened bats for beta-coronaviruses and MERS-CoV Coleura afra, Hipposiderosabae, H. cf. gigas, H. fuliginosus, H. jonesi, H. cf. ruber, Rhinolophus alcyone, R. landeri, Taphozous perforates Chaerephonpumilus, Mops condylurus, Tadaridaaegyptiaca, H.caffer, Miniopterus natalensis, Nycteristhebaica, R.clivosus, R. darlingi, Neoromicia capensis, N. nana, N. cf. zuluensis, Scotophilus viridis, Rousettus aegyptiacus",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "None. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgement"
+        },
+        {
+            "text": "None.Availability of data and materials None.Authors' contributions HM carried the literature review and wrote the first draft, JAT and ZAM finalized the manuscript and the literature review. All authors read and approved the final manuscript.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Funding"
+        },
+        {
+            "text": "The authors declare that they have no competing interests.\u2022 We accept pre-submission inquiries \u2022 Our selector tool helps you to find the most relevant journal Submit your next manuscript to BioMed Central and we will help you at every step:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Competing interests"
+        }
+    ]
+}

@@ -1,0 +1,1563 @@
+{
+    "paper_id": "18acb42cf96716cbb91dd26e491e253cc130cb78",
+    "metadata": {
+        "title": "Isolation and characterization of a bat SARS-like coronavirus that uses the ACE2 receptor",
+        "authors": [
+            {
+                "first": "Xing-Yi",
+                "middle": [],
+                "last": "Ge",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "State Key Laboratory of Virology",
+                    "institution": "Chinese Academy of Sciences",
+                    "location": {
+                        "postCode": "430071",
+                        "settlement": "Wuhan",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Jia-Lu",
+                "middle": [],
+                "last": "Li",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "State Key Laboratory of Virology",
+                    "institution": "Chinese Academy of Sciences",
+                    "location": {
+                        "postCode": "430071",
+                        "settlement": "Wuhan",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Xing-Lou",
+                "middle": [],
+                "last": "Yang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "State Key Laboratory of Virology",
+                    "institution": "Chinese Academy of Sciences",
+                    "location": {
+                        "postCode": "430071",
+                        "settlement": "Wuhan",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Aleksei",
+                "middle": [
+                    "A"
+                ],
+                "last": "Chmura",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "EcoHealth Alliance",
+                    "location": {
+                        "postCode": "10001",
+                        "settlement": "New York",
+                        "region": "NY",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Guangjian",
+                "middle": [],
+                "last": "Zhu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "EcoHealth Alliance",
+                    "location": {
+                        "postCode": "10001",
+                        "settlement": "New York",
+                        "region": "NY",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Jonathan",
+                "middle": [
+                    "H"
+                ],
+                "last": "Epstein",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "EcoHealth Alliance",
+                    "location": {
+                        "postCode": "10001",
+                        "settlement": "New York",
+                        "region": "NY",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Jonna",
+                "middle": [
+                    "K"
+                ],
+                "last": "Mazet",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of California",
+                    "location": {
+                        "settlement": "Davis",
+                        "region": "CA",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Ben",
+                "middle": [],
+                "last": "Hu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "State Key Laboratory of Virology",
+                    "institution": "Chinese Academy of Sciences",
+                    "location": {
+                        "postCode": "430071",
+                        "settlement": "Wuhan",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Wei",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "State Key Laboratory of Virology",
+                    "institution": "Chinese Academy of Sciences",
+                    "location": {
+                        "postCode": "430071",
+                        "settlement": "Wuhan",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Cheng",
+                "middle": [],
+                "last": "Peng",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "State Key Laboratory of Virology",
+                    "institution": "Chinese Academy of Sciences",
+                    "location": {
+                        "postCode": "430071",
+                        "settlement": "Wuhan",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Yu-Ji",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Chu-Ming",
+                "middle": [],
+                "last": "Luo",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "State Key Laboratory of Virology",
+                    "institution": "Chinese Academy of Sciences",
+                    "location": {
+                        "postCode": "430071",
+                        "settlement": "Wuhan",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Bing",
+                "middle": [],
+                "last": "Tan",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "State Key Laboratory of Virology",
+                    "institution": "Chinese Academy of Sciences",
+                    "location": {
+                        "postCode": "430071",
+                        "settlement": "Wuhan",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Ning",
+                "middle": [],
+                "last": "Wang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "State Key Laboratory of Virology",
+                    "institution": "Chinese Academy of Sciences",
+                    "location": {
+                        "postCode": "430071",
+                        "settlement": "Wuhan",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Yan",
+                "middle": [],
+                "last": "Zhu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "State Key Laboratory of Virology",
+                    "institution": "Chinese Academy of Sciences",
+                    "location": {
+                        "postCode": "430071",
+                        "settlement": "Wuhan",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Gary",
+                "middle": [],
+                "last": "Crameri",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "State Key Laboratory of Virology",
+                    "institution": "Chinese Academy of Sciences",
+                    "location": {
+                        "postCode": "430071",
+                        "settlement": "Wuhan",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Shu-Yi",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "East Normal University",
+                    "location": {
+                        "postCode": "200062",
+                        "settlement": "Shanghai",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Lin-Fa",
+                "middle": [],
+                "last": "Wang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "CSIRO Australian Animal Health Laboratory",
+                    "location": {
+                        "postCode": "3220",
+                        "settlement": "Geelong",
+                        "country": "Australia"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Peter",
+                "middle": [],
+                "last": "Daszak",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "EcoHealth Alliance",
+                    "location": {
+                        "postCode": "10001",
+                        "settlement": "New York",
+                        "region": "NY",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Zheng-Li",
+                "middle": [],
+                "last": "Shi",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "State Key Laboratory of Virology",
+                    "institution": "Chinese Academy of Sciences",
+                    "location": {
+                        "postCode": "430071",
+                        "settlement": "Wuhan",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "The 2002-3 pandemic caused by severe acute respiratory syndrome coronavirus (SARS-CoV) was one of the most significant public health events in recent history 1",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Rs3367. These viruses are far more closely related to SARS-CoV than any previously identified bat CoVs, particularly in the receptor binding domain (RDB) of the S protein. Most importantly, we report the first recorded isolation of a live SL-CoV (bat SL-CoV-WIV1) from bat fecal samples in Vero E6 cells, which has typical coronavirus morphology, 99.9% sequence identity to Rs3367 and uses the ACE2s from human, civet and Chinese horseshoe bat for cell entry. Preliminary in vitro testing indicates that WIV1 also has a broad species tropism. Our results provide the strongest evidence to date that Chinese horseshoe bats are natural reservoirs of SARS-CoV, and that intermediate hosts may not be necessary for direct human infection by some bat SL-CoVs. They also highlight the importance of pathogen discovery programs targeting high-risk wildlife groups in emerging disease hotspots as a strategy for pandemic preparedness.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The 2002-3 pandemic of severe acute respiratory syndrome (SARS) 1 and the ongoing emergence of the Middle East respiratory syndrome coronavirus (MERS-CoV) 2 demonstrate that coronaviruses (CoVs) are a significant public health threat. SARS-CoV was shown to use the human angiotensin converting enzyme II (ACE2) molecule as its entry receptor, and this is considered a hallmark of its cross-species transmissibility 11 . The receptor binding domain (RBD) located in the N-terminal region (aa 318-510) of the SARS-CoV spike (S) protein is directly involved in binding to ACE2 12 . However, despite phylogenetic evidence that SARS-CoV evolved from bat SARS-like coronaviruses (SL-CoVs), all previously identified SL-CoVs have major sequence differences from SARS-CoV in the RBD of their S proteins, including one or two deletions 6, 9 . Replacing the RBD of one SL-CoV S protein with SARS-CoV S conferred ability to use human ACE2 and efficiently replicate in mice 9, 13 . However, to date, no SL-CoVs have been isolated from bats, and no wild-type SL-CoV of bat origin has been shown to use ACE2.",
+            "cite_spans": [
+                {
+                    "start": 155,
+                    "end": 156,
+                    "text": "2",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 415,
+                    "end": 417,
+                    "text": "11",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 827,
+                    "end": 829,
+                    "text": "6,",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 830,
+                    "end": 831,
+                    "text": "9",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 962,
+                    "end": 964,
+                    "text": "9,",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 965,
+                    "end": 967,
+                    "text": "13",
+                    "ref_id": "BIBREF12"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "We conducted a 12-month longitudinal survey (April 2011-September 2012) of SL-CoVs in a colony of Rhinolophus sinicus at a single location in Kunming, Yunnan Province, China (Extended Data Table 1 ). A total of 117 anal swabs or fecal samples were collected from individual bats using a previously published method 5, 14 . A one-step reverse transcription (RT)-nested PCR was conducted to amplify the RNA dependent RNA polymerase (RdRp) motifs A and C, which are conserved among Alphaand Betacoronavirus 15 .",
+            "cite_spans": [
+                {
+                    "start": 315,
+                    "end": 317,
+                    "text": "5,",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 318,
+                    "end": 320,
+                    "text": "14",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 504,
+                    "end": 506,
+                    "text": "15",
+                    "ref_id": "BIBREF14"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 189,
+                    "end": 196,
+                    "text": "Table 1",
+                    "ref_id": null
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": "Twenty seven of the 117 samples (23%) were positive by PCR and subsequently confirmed by sequencing. The species origin of all positive samples was confirmed to be Rhinolophus sinicus by cytB sequence analysis as described previously 16 . A higher prevalence was observed in samples collected in October (30% in 2011 and 48.7% in 2012) than those in April (7.1% in 2011) or May (7.4% in 2012) (Extended Data Table 1 ). Analysis of the S protein RBD sequences indicated the presence of seven different strains of SL-CoVs (Fig.  1a , Extended Data Figure 1 and 2). In addition to RBD sequences which closely matched previously described SL-CoVs (Rs672, Rf1 and HKU3) 5, 8, 17, 18 , two novel strains (designated SL-CoV RsSHC014 and Rs3367) were discovered. Their full-length genome sequences were determined and both are 29,787-bp in size (excluding the polyA tail). The overall nucleotide sequence identity of these two genomes with human SARS-CoV (Tor 2 strain) is 95%, significantly higher than that observed previously for bat SL-CoVs in China (88-92%) 5, 8, 17, 18 or Europe (76%) 6 (Extended Data Table 2 and Extended Data Figure 3 and 4). Higher sequence identities were observed at the protein level between these new SL-CoVs and SARS-CoVs (Extended Data Table 3 and 4) . To understand the evolutionary origin of these two novel SL-CoV strains, we conducted recombination analysis with the Recombination Detection Program 4.0 package 19 using available genome sequences of bat SL-CoVs strains (Rf1, Rp3, Rs672, Rm1, HKU3, and BM48-31) and human and civet representative SARS-CoV strains (BJ01, SZ3, Tor2, and GZ02). Three breakpoints were detected with strong P-values (<10 \u221220 ) and supported by similarity plot and bootscan analysis (Extended Data Figure 5A and B). Breakpoints were located at nt 20,827, 26,553, and 28,685 in 3367 (or SHC014) genome, and generated recombination fragments covering nt 20,827-26,533 (5,727 nt) (including partial ORF 1b, full-length S, ORF3, E and partial M gene) and nt 26,534-28,685 (2,133 nt) (including partial ORF M, full-length ORF6, ORF7, ORF8 and partial N gene). Phylogenetic analysis using the major and minor parental regions suggested that 3367 or SHC014 is the descendent of a recombination of lineages that ultimately lead to SARS-CoV and SL-CoV 672 (Fig. 1b) .",
+            "cite_spans": [
+                {
+                    "start": 234,
+                    "end": 236,
+                    "text": "16",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 665,
+                    "end": 667,
+                    "text": "5,",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 668,
+                    "end": 670,
+                    "text": "8,",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 671,
+                    "end": 674,
+                    "text": "17,",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 675,
+                    "end": 677,
+                    "text": "18",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 1055,
+                    "end": 1057,
+                    "text": "5,",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 1058,
+                    "end": 1060,
+                    "text": "8,",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 1061,
+                    "end": 1064,
+                    "text": "17,",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 1065,
+                    "end": 1067,
+                    "text": "18",
+                    "ref_id": "BIBREF17"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 408,
+                    "end": 415,
+                    "text": "Table 1",
+                    "ref_id": null
+                },
+                {
+                    "start": 520,
+                    "end": 529,
+                    "text": "(Fig.  1a",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 546,
+                    "end": 554,
+                    "text": "Figure 1",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 1101,
+                    "end": 1108,
+                    "text": "Table 2",
+                    "ref_id": null
+                },
+                {
+                    "start": 1127,
+                    "end": 1135,
+                    "text": "Figure 3",
+                    "ref_id": "FIGREF4"
+                },
+                {
+                    "start": 1246,
+                    "end": 1275,
+                    "text": "(Extended Data Table 3 and 4)",
+                    "ref_id": null
+                },
+                {
+                    "start": 1756,
+                    "end": 1765,
+                    "text": "Figure 5A",
+                    "ref_id": null
+                },
+                {
+                    "start": 2305,
+                    "end": 2314,
+                    "text": "(Fig. 1b)",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": "The most significant sequence differences between these two new SL-CoVs and previously identified SL-CoVs is in the RBD regions of their S proteins. Firstly, they have higher aa sequence identity (85% and 96% for RsSHC014 and Rs3367, respectively). Secondly, there are no deletions and they have perfect sequence alignment with the SARS-CoV RBD region (Extended Data Figure 1 & 2). Structural and mutagenesis studies have previously identified five key residues (aa 442, 472, 479, 487 and 491) in the RBD of the SARS-CoV S protein that play a pivotal role in receptor binding 20, 21 . While all five residues in the RsSHC014 S protein were found to be different from those of SARS-CoV, two of the five residues in the Rs3367 RBD were conserved (Fig. 1 , Extended Data Figure 1 ).",
+            "cite_spans": [
+                {
+                    "start": 576,
+                    "end": 579,
+                    "text": "20,",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 580,
+                    "end": 582,
+                    "text": "21",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 367,
+                    "end": 375,
+                    "text": "Figure 1",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 744,
+                    "end": 751,
+                    "text": "(Fig. 1",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 768,
+                    "end": 776,
+                    "text": "Figure 1",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": "Despite the rapid accumulation of bat CoV sequences in the last decade, there has been no report of successful virus isolation 6, 22, 23 . We attempted isolation from SL-CoV PCRpositive samples. Using an optimized protocol and Vero E6 cells, we obtained one isolate which caused evident cytopathic effect (CPE) during the second blind passage. Purified virions displayed typical coronavirus morphology under electron microscopy (Fig. 2) . Sequence analysis using a sequence-independent amplification method 14 to avoid PCRintroduced contamination indicated that the isolate was almost identical to Rs3367 with 99.9% nt genome sequence identity and 100% aa sequence identity for the S1 region. The new isolate was named SL-CoV-WIV1.",
+            "cite_spans": [
+                {
+                    "start": 127,
+                    "end": 129,
+                    "text": "6,",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 130,
+                    "end": 133,
+                    "text": "22,",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 134,
+                    "end": 136,
+                    "text": "23",
+                    "ref_id": "BIBREF22"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 428,
+                    "end": 436,
+                    "text": "(Fig. 2)",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": "To determine whether WIV1 can use ACE2 as a cellular entry receptor, we conducted virus infectivity studies using HeLa cells with or without expressing ACE2 from human, civet, or Chinese horseshoe bat. We found that WIV1 is able to use ACE2 of different origins as an entry receptor and replicated efficiently in the ACE2 expressing cells (Fig. 3) . This is the first identification of a wild-type bat SL-CoV capable of using ACE2 as an entry receptor.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 339,
+                    "end": 347,
+                    "text": "(Fig. 3)",
+                    "ref_id": "FIGREF4"
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": "To assess its cross-species transmission potential, we conducted infectivity assays in cell lines from a range of species. Our results ( Fig. 4 and Extended Data Table 5 ) indicate that bat SL-CoV-WIV1 can grow in human alveolar basal epithelial (A549), pig kidney-15 (PK15) and Rhinolophus sinicus kidney (RSKT) cell lines, but not in human cervix (HeLa), Syrian golden hamster kidney (BHK21), Myotis davidii kidney (BK), Myotis chinensis kidney (MCKT), Rousettus leschenaulti kidney (RLK) or Pteropus alecto kidney (PaKi) cell lines. Real-time RT-PCR indicated that WIV1 replicated much less efficiently in A549, P15 and RSKT cells than in Vero E6 cells (Fig. 4) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 137,
+                    "end": 143,
+                    "text": "Fig. 4",
+                    "ref_id": "FIGREF5"
+                },
+                {
+                    "start": 162,
+                    "end": 169,
+                    "text": "Table 5",
+                    "ref_id": null
+                },
+                {
+                    "start": 656,
+                    "end": 664,
+                    "text": "(Fig. 4)",
+                    "ref_id": "FIGREF5"
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": "To assess the cross neutralization activity of human SARS-CoV sera against WIV1, we conducted serum neutralization assays using nine convalescent sera from SARS patients collected in 2003. The results showed that seven of them totally neutralize 100 TCID50 WIV1 at dilutions of 1:10 to 1:40, further confirming the close relationship between WIV1 and SARS-CoV.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Our findings have important implications for public health. Firstly, they provide the clearest evidence yet that SARS-CoV originated in bats. Our previous work provided phylogenetic evidence of this 5 , but the lack of an isolate or evidence that bat SL-CoVs can naturally infect human cells, until now, had cast doubt on this hypothesis. Secondly, the lack of capacity of SL-CoVs to use of ACE2 receptors has previously been considered as the key barrier for their direct spillover into humans, supporting the suggestion that civets were intermediate hosts for SARS-CoV adaptation to human transmission during the SARS outbreak 24 . However, the ability of SL-CoV-WIV1 to use human ACE2 argues against the necessity of this step for SL-CoV-WIV1 and suggests that direct bat-to-human infection is a plausible scenario for some bat SL-CoVs. This has implications for public health control measures in the face of potential spillover of a diverse and growing pool of SARS-like CoVs with a wide geographic distribution.",
+            "cite_spans": [
+                {
+                    "start": 629,
+                    "end": 631,
+                    "text": "24",
+                    "ref_id": "BIBREF23"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Our findings suggest that the diversity of bat CoVs is substantially higher than that previously reported. In this study we were able to demonstrate the circulation of at least 7 different strains of SL-CoVs within a single colony of Rhinolopus sinicus during a 12-month period. The high genetic diversity of SL-CoVs within this colony was mirrored by high phenotypic diversity in the differential use of ACE2 by different strains. It would therefore not be surprising if further surveillance reveals a broad diversity of bat SL-CoVs that are able to use ACE2, some of which may have even closer homology to SARS-CoV than SL-CoV-WIV1. Our results, the recent demonstration of MERS-CoV in a Saudi Arabian bat 25 , and of bat CoVs closely related to MERS-CoV in China, Africa, Europe and North America 3,26,27 , suggest that bat coronaviruses remain a substantial global threat to public health.",
+            "cite_spans": [
+                {
+                    "start": 708,
+                    "end": 710,
+                    "text": "25",
+                    "ref_id": "BIBREF24"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Finally, this study demonstrates the public health importance of pathogen discovery programs targeting wildlife that aim to identify the \"known unknowns\" -previously unknown viral strains closely related to known pathogens. These programs, focused on specific high-risk wildlife groups, and hotspots of disease emergence, may be a critical part of future global strategies to predict, prepare for, and prevent pandemic emergence 28 .",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Bats were trapped in their natural habitat as described previously 5 . Throat and fecal swab samples were collected in viral transport medium (VTM) composed of Hank's balanced salt solution at pH7.4 containing BSA (1%), amphotericin (15 \u03bcg/ml), penicillin G (100 U/ml), and streptomycin (50 \u03bcg/ml). To collect fresh fecal samples, clean plastic sheets measuring 2.0 by 2.0 m were placed under known bat roosting sites at about 18:00 hours each evening. Relatively fresh fecal samples were collected from sheets at approximately 5:30 to 6:00 the next morning and placed in VTM. Samples were transported to the laboratory and stored at \u221280\u00b0C until use. All animals trapped for this study were released back to their habitat after sample collection. All sampling processes were performed by veterinarians with approval from Animal Ethics Committee of the Wuhan Institute of Virology and EcoHealth Alliance under an inter-institutional agreement with UC Davis.",
+            "cite_spans": [
+                {
+                    "start": 67,
+                    "end": 68,
+                    "text": "5",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Sampling"
+        },
+        {
+            "text": "RNA was extracted from 140 \u03bcl of swab or fecal samples with Viral RNA Mini Kit (Qiagen) following the manufacturer's instructions. RNA was eluted in 60 \u03bcl AVE buffer, then aliquoted and stored at \u221280\u00b0C. One-step RT-PCR (Invitrogen) was used to detect coronavirus sequences as described previously 15 . First round PCR was conducted in a 25-\u03bcl reaction mix containing 12.5 \u03bcl PCR 2 x reaction mix Buffer, 10 pmol of each primer, 2.5 mM MgSO4, RNase Inhibitor 20 U, 1 \u03bcl SuperScript III/Platinum Taq Enzyme Mix, and 5 \u03bcl RNA. Amplification of the RdRp-gene fragment was performed as follows: 50\u00b0C for 30 min, 94\u00b0C for 2 min, followed by 40 cycles consisting of 94\u00b0C for 15 sec, 62\u00b0C for 15 sec, 68\u00b0C for 40 sec, and a final extension of 68\u00b0C for 5 min. Second round PCR was conducted in a 25-\u03bcl reaction mix containing 2.5 \u03bcl PCR reaction buffer, 5 pmol of each primer, 50 mM MgCl 2 , 0.5 mM dNTP, 0.1 \u03bcl Platinum Taq Enzyme (Invitrogen), and 1 \u03bcl first round PCR product. The amplification of RdRp-gene fragment was performed as follows: 94\u00b0C for 5 min followed by 35 cycles consisting of 94\u00b0C for 30 sec, 52\u00b0C for 30 sec, 72\u00b0C for 40 sec, and a final extension of 72\u00b0C for 5 min.",
+            "cite_spans": [
+                {
+                    "start": 297,
+                    "end": 299,
+                    "text": "15",
+                    "ref_id": "BIBREF14"
+                }
+            ],
+            "ref_spans": [],
+            "section": "RNA extraction, PCR and sequencing"
+        },
+        {
+            "text": "To amplify the RBD region, one-step RT-PCR was performed with primers designed based on available SARS-CoV or bat SL-CoVs (first round PCR primers:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "RNA extraction, PCR and sequencing"
+        },
+        {
+            "text": "CoVS931F-5\u2032-VWGADGTTGTKAGRTTYCCT-3\u2032 and CoVS1909R-5\u2032-TAARACAVCCWGCYTGWGT-3\u2032; second PCR primers:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "RNA extraction, PCR and sequencing"
+        },
+        {
+            "text": "CoVS951F -5\u2032-TGTKAGRTTYCCTAAYATTAC-3\u2032 and CoVS1805R-5\u2032-ACATCYTGATANARAACAGC-3\u2032). First round PCR was conducted in a 25-\u03bcl reaction mix as described above except primers specific for the S gene were used. The amplification of the RBD region of the S gene was performed as follows: 50\u00b0C for 30 min, 94\u00b0C for 2 min, followed by 35 cycles consisting of 94\u00b0C for 15 sec, 43\u00b0C for 15 sec, 68\u00b0C for 90 sec, and a final extension of 68\u00b0C for 5 min. Second round PCR was conducted in a 25-\u03bcl reaction mix containing 2.5 \u03bcl PCR reaction Buffer, 5 pmol of each primer, 50 mM MgCl2, 0.5 mM dNTP, 0.1 \u03bcl Platinum Taq Enzyme (Invitrogen), and 1 \u03bcl first round PCR product. Amplification was performed as follows: 94\u00b0C for 5 min followed by 40 cycles consisting of 94\u00b0C for 30 sec, 41\u00b0C for 30 sec, 72\u00b0C for 60 sec, and a final extension of 72\u00b0C for 5 min.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "RNA extraction, PCR and sequencing"
+        },
+        {
+            "text": "PCR products were gel purified and cloned into pGEM-T Easy Vector (Promega). At least four independent clones were sequenced to obtain a consensus sequence for each of the amplified regions.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "RNA extraction, PCR and sequencing"
+        },
+        {
+            "text": "Degenerate coronavirus primers were designed based on all available SARS-CoV and bat SL-CoV sequences in GenBank and specific primers were designed from genome sequences generated from previous rounds of sequencing in this study (primer sequences will be provided upon request). All PCRs were conducted using One-Step RT-PCR kit (Invitrogen). The 5\u2032 and 3\u2032 genomic ends were determined using 5\u2032 or 3\u2032 RACE kit (Roche), respectively. PCR products were gel purified and sequenced directly or following cloning into pGEM-T Easy Vector (Promega). At least four independent clones were sequenced to obtain a consensus sequence for each of the amplified regions and each region was sequenced at least twice.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Sequencing full-length genomes"
+        },
+        {
+            "text": "Routine sequence management and analysis was carried out using DNAStar or Geneious. Sequence alignment and edit was conducted using ClustalW, BioEdit or GeneDoc. Maximum Likelihood phylogenetic trees based on the protein sequences were constructed using a Poisson model with bootstrap values determined by 1,000 replicates in the MEGA5 software package. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Sequence analysis and databank accession numbers"
+        },
+        {
+            "text": "Construction of expression clones for human and civet ACE2 in pcDNA3.1 has been described previously 29 . Bat ACE2 was amplified from a Rhinolophus sinicus (sample no. 3357). Briefly, total RNA was extracted from bat rectal tissue using RNeasy Mini Kit (Qiagen). First-strand cDNA was synthesized from total RNA by reverse transcription with random hexamers. Full-length bat ACE2 fragments were amplified using forward primer bAF2 and reverse primer bAR2 29 . The ACE2 gene was cloned into pCDNA3.1 with KpnI and XhoI, and verified by sequencing. Purified ACE2 plasmids were transfected to HeLa cells. After 24 h, lysates of HeLa cells expressing human, civet, or bat ACE2 were confirmed by western-blot or immunofluorescence assay (IFA).",
+            "cite_spans": [
+                {
+                    "start": 101,
+                    "end": 103,
+                    "text": "29",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 455,
+                    "end": 457,
+                    "text": "29",
+                    "ref_id": "BIBREF28"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Amplification, cloning and expression of the bat ACE2 gene"
+        },
+        {
+            "text": "Lysates of cells or filtered supernatants containing pseudoviruses were separated by 10% sodium dodecyl sulfate-polyacrylamide gel electrophoresis (SDS-PAGE), followed by transfer to a nitrocellulose membrane (Millipore). For detection of S protein, the membrane was incubated with rabbit anti-Rp3 S fragment aa 561-666 polyantibodies (1:200) , and the bound antibodies were detected by AP-conjugated goat anti-rabbit IgG (1:1,000) . For detection of HIV-1 p24 in supernatants, monoclonal antibody against HIV p24 (p24 MAb) was used as the primary antibody at a dilution of 1:1,000, followed by incubation with APconjugated goat anti-mouse IgG at the same dilution. To detect the expression of ACE2 in HeLa cells, goat antibody against the huACE2 ectodomain (1:500) was used as the first antibody, followed by incubation with HRP-conjugated donkey anti-goat IgG (1:1000).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 335,
+                    "end": 342,
+                    "text": "(1:200)",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 422,
+                    "end": 431,
+                    "text": "(1:1,000)",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "Western blot analysis"
+        },
+        {
+            "text": "Vero E6 cell monolayers were maintained in DMEM medium supplemented with 10% fetal calf serum (FCS). PCR-positive samples (in 200 \u03bcl buffer) were gradient centrifuged at 3,000-12,000 rpm, and supernatant were diluted 1:10 in DMEM medium before being added to Vero E6 cells. After incubation at 37\u00b0C for 1 h, inocula were removed and replaced with fresh DMEM medium with 2% FCS. Cells were incubated at 37\u00b0C for 3 days and checked daily for cytopathetic effect (CPE). Double dose triple antibiotics penicillin/ streptomycin/amphotericin (Gibco) were included in all tissue culture media (penicillin 200 IU/ml, streptomycin 0.2 mg/ml, amphotericin 0.5 \u03bcg/ml). Three blind passages were carried out for each sample. After each passage, both the culture supernatant and cell pellet were examined for presence of virus by RT-PCR using primers targeting the RdRp or S gene. Virions in supernatant (10 ml) were collected and inactivated using 0.1% formaldehyde for 4 h, then concentrated by ultracentrifugation through a 20% sucrose cushion (5 ml) at 80,000g for 90 min using a Ty90 rotor (Beckman). The pelleted viral particles were dissolved in 100 \u03bcl phosphate-buffered saline (PBS), stained with 2% phosphtungstic acid (pH 7.0) and examined using a Tecnai transmission electron microscope (FEI) at 200 kV.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Virus isolation"
+        },
+        {
+            "text": "Cell lines used for this study and their culture conditions are summarized in Extended Data Table 5 . Virus titer was determined in Vero E6 cells by CPE counts. Cell lines from different origins and HeLa cells expressing ACE2s from human (hACE2), civet (cACE2) or Chinese horseshoe bat (bACE2) were grown on coverslips in 24-well plates (Corning) incubated with bat SL-CoV-WIV1 at MOI=10 for 1 h. The inoculum was removed and washed twice with PBS and supplemented with medium. HeLa cells without ACE2 expression and Vero E6 cells were used as negative and positive controls, respectively. At 24 h post-infection, cells were washed with PBS and fixed with 4% formaldehyde in PBS (pH 7.4) for 20 min at 4\u00b0C. ACE2 expression was detected using goat anti-hACE2 immunoglobulin (Ig) (R&D Systems) followed by FITC-labeled donkey anti-goat Ig from PTGLab (Chicago, IL). Virus replication was detected using rabbit antibody against the SL-CoV Rp3 nucleocapsid protein followed by cyanin 3-conjugated mouse anti-rabbit IgG. Nuclei were stained with 4\u2032,6\u2032-diamidino-2-phenylindole (DAPI). Staining patterns were examined using a FV1200 confocal microscope (Olympus).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 92,
+                    "end": 99,
+                    "text": "Table 5",
+                    "ref_id": null
+                }
+            ],
+            "section": "Virus infectivity detected by IFA"
+        },
+        {
+            "text": "Vero E6, A549, PK15, RSKT, HeLa cells with or without expressing ACE2s of different origins were inoculated with 0.1 TCID 50 WIV-1 and incubated for 1 h at 37\u00b0C. After removing the inoculum, the cells were cultured with medium containing 1% fetal bovine serum. Supernatants were collected at 0, 12, 24 and 48 h. RNA from 140 \u03bcl of each supernatant was extracted with the Viral RNA Mini Kit (Qiagen) following manufacturer's instructions and eluted in 60 \u03bcl AVE buffer. RNA was quantified on the ABI StepOne \u2122 system, with the TaqMan AgPath-ID \u2122 One-Step RT-PCR Kit (Applied Biosystems) in a 25 \u03bcl reaction mix containing 4 \u03bcl RNA, 1 x RT-PCR enzyme mix, 1 x RT-PCR buffer, 40 pmol forward primer (5\u2032-GTGGTGGTGACGGCAAAATG-3\u2032), 40 pmol reverse primer (5\u2032-AAGTGAAGCTTCTGGGCCAG-3\u2032) and 12 pmol probe (5\u2032-FAM-AAAGAGCTCAGCCCCAGATG-BHQ1-3\u2032). Amplification parameters were 10 min at 50 \u00b0C, 10 min at 95 \u00b0C and 50 cycles of 15 s at 95 \u00b0C and 20 s at 60\u00b0C. RNA dilutions from purified WIV-1 stock were used as a standard.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Virus infectivity detected by Real-time RT-PCR"
+        },
+        {
+            "text": "SARS patient sera were inactivated at 56\u00b0C for 30 min and then used for virus neutralization testing. Sera were diluted starting with 1:10 and then serially 2-fold diluted in 96-well cell plates to 1:40. Each 100 \u03bcl serum dilution was mixed with 100 \u03bcl viral supernatant containing 100 TCID50 of WIV1 and incubated at 37\u00b0C for 1 h. The mixture was added in triplicate wells of 96-well cell plates with plated monolayers of Vero E6 cells and further incubated at 37\u00b0C for 2 days. Serum from a healthy blood donor was used as a negative control in each experiment. CPE was observed using an inverted microscope at 2 days postinoculation. The neutralizing antibody titer was read as the highest dilution of serum which completely suppressed CPE in infected wells. The neutralization test was repeated twice.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Serum neutralization test"
+        },
+        {
+            "text": "Full-length genomic sequences of SL-CoV Rs3367 or SHC014 were aligned with those of selected SARS-CoVs and bat SL-CoVs using Clustal X. The aligned sequences were preliminarily scanned for recombination events using Recombination Detection Program (RDP) 4.0 19 . The potential recombination events suggested by RDP due to their strong Pvalues (<10-20) were further investigated by similarity plot and bootscan analyses implemented in Simplot 3.5.1. Phylogenetic origin of the major and minor parental regions of the 3367 or SHC014 were constructed from the concatenated sequences of the essential ORFs of the major and minor parental regions of selected SARS-CoV and SL-CoVs. Two genome regions between three estimated breakpoints (20,827-26,553, and 26,554-28,685) were aligned independently using ClustalX and generated two alignments of 5,727 bp and 2,133 bp. The two alignments were used to construct maximum likehood trees to better infer the fragment parents. All nucleotide numberings in this study are based on 3367 genome position. Detection of potential recombination events. Similarity plot (a) and bootscan analysis (b) detected three recombination breakpoints in the bat SL-CoV Rs3367 or SHC014 genome. The three breakpoints were located at ORF1b (nt 20,827), M (nt 26,553) and N (nt 28,685) gene, respectively. Both analyses were performed with an F84 distance model, a window size of 1,500 bp and a step size of 300 bp. The ORFs in the genome were predicted and potential protein sequences were translated. The pairwise comparisons were conducted for all ORFs at nucleotide acids (nt) and amino acids (aa) levels. The s2m were compared at nt level. TRS: Transcription regulating-sequences; N/D, not done; N/A, not available. a, SARS-CoV S protein aa residues 310 to 520 were aligned with homologous regions of bat SL-CoVs using the ClustalW software. A maximum-likelihood phylogenetic tree was constructed using Poisson model with bootstrap values determined by 1,000 replicates in the MEGA5 software package. The RBD sequences identified in this study are in bold and named by the sample numbers. The key amino acids residues involved in interacting with human ACE2 molecule are indicated on the right of tree. SARS-CoV GZ02, BJ01 and Tor2 were isolated from patients of early, middle and late phase, respectively, during the SARS outbreak in 2003. SARS-CoV SZ3 was identified from Paguma larvata in 2003 collected in Guangdong, China. SL-CoV Rp3, Rs_672 and HKU3-1 were identified from Rhinolophus Virions from a 10-ml culture were collected, inactivated and concentrated/purified by sucrose gradient centrifugation. The pelleted viral particles were dissolved in 100 \u03bcl PBS, stained with 2% phosphtungstic acid (pH 7.0) and examined directly using a Tecnai transmission electron microscope (FEI) at 200 kV. Determination of virus infectivity in HeLa cells with and without the expression of ACE2 (abbreviations: h, human; c, civet; and b, bat). ACE2 expression was detected with goat anti-humanACE2 antibody followed by FITC-conjugated donkey anti-goat IgG. Virus replication was detected with rabbit antibody against the SL-CoV Rp3 nucleocapsid protein followed by Cy3-conjugated mouse anti-rabbit IgG. Nucleus was stained with DAPI. The columns (from left to right) show staining of nuclei (blue), ACE2 expression (green), virus replication (red), merged triple-stained images and real-time PCR results, respectively. (n = 3). Error bars represent standard deviation. ",
+            "cite_spans": [
+                {
+                    "start": 258,
+                    "end": 260,
+                    "text": "19",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 731,
+                    "end": 765,
+                    "text": "(20,827-26,553, and 26,554-28,685)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Recombination analysis"
+        },
+        {
+            "text": "Extended",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Extended Data"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "A novel coronavirus associated with severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Ksiazek",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "N Engl J Med",
+            "volume": "348",
+            "issn": "",
+            "pages": "1953--1966",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Isolation of a novel coronavirus from a man with pneumonia in Saudi Arabia",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Zaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Van Boheemen",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Bestebroer",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Osterhaus",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Fouchier",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "N Engl J Med",
+            "volume": "367",
+            "issn": "",
+            "pages": "1814--1820",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Coronaviruses in bats from Mexico",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Anthony",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "J Gen Virol",
+            "volume": "94",
+            "issn": "",
+            "pages": "1028--1038",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Dipeptidyl peptidase 4 is a functional receptor for the emerging human coronavirus-EMC",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Raj",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Nature",
+            "volume": "495",
+            "issn": "",
+            "pages": "251--254",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Bats are natural reservoirs of SARS-like coronaviruses",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Science",
+            "volume": "310",
+            "issn": "",
+            "pages": "676--679",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Genomic characterization of severe acute respiratory syndrome-related coronavirus in European bats and classification of coronaviruses based on partial RNA-dependent RNA polymerase gene sequences",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Drexler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J Virol",
+            "volume": "84",
+            "issn": "",
+            "pages": "11336--11349",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Detection of novel SARS-like and other coronaviruses in bats from Kenya",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Tong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Emerg Infect Dis",
+            "volume": "15",
+            "issn": "",
+            "pages": "482--485",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Severe acute respiratory syndrome coronavirus-like virus in Chinese horseshoe bats",
+            "authors": [
+                {
+                    "first": "Skp",
+                    "middle": [],
+                    "last": "Lau",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Proc Natl Acad Sci U S A",
+            "volume": "102",
+            "issn": "",
+            "pages": "14040--14045",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Difference in receptor usage between severe acute respiratory syndrome (SARS) coronavirus and SARS-like coronavirus of bat origin",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Ren",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J Virol",
+            "volume": "82",
+            "issn": "",
+            "pages": "1899--1907",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Evidence of the recombinant origin of a bat severe acute respiratory syndrome (SARS)-like coronavirus and its implications on the direct ancestor of SARS coronavirus",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Hon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J Virol",
+            "volume": "82",
+            "issn": "",
+            "pages": "1819--1826",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Angiotensin-converting enzyme 2 is a functional receptor for the SARS coronavirus",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nature",
+            "volume": "426",
+            "issn": "",
+            "pages": "450--454",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "A 193-amino acid fragment of the SARS coronavirus S protein efficiently binds angiotensin-converting enzyme 2",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Wong",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Moore",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Choe",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Farzan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J Biol Chem",
+            "volume": "279",
+            "issn": "",
+            "pages": "3197--3201",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Synthetic recombinant bat SARS-like coronavirus is infectious in cultured cells and in mice",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Becker",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Proc Natl Acad Sci U S A",
+            "volume": "105",
+            "issn": "",
+            "pages": "19944--19949",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Host range, prevalence, and genetic diversity of adenoviruses in bats",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J Virol",
+            "volume": "84",
+            "issn": "",
+            "pages": "3889--3897",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Generic detection of coronaviruses and differentiation at the prototype strain level by reverse transcription-PCR and nonfluorescent low-density microarray",
+            "authors": [
+                {
+                    "first": "Lkd",
+                    "middle": [],
+                    "last": "Luna",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J Clin Microbiol",
+            "volume": "45",
+            "issn": "",
+            "pages": "1049--1052",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Evolutionary relationships between bat coronaviruses and their hosts",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Cui",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Emerg Infect Dis",
+            "volume": "13",
+            "issn": "",
+            "pages": "1526--1532",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Intraspecies diversity of SARS-like coronaviruses in Rhinolophus sinicus and its implications for the origin of SARS coronaviruses in humans",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Yuan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J Gen Virol",
+            "volume": "91",
+            "issn": "",
+            "pages": "1058--1062",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Full-length genome sequences of two SARS-like coronaviruses in horseshoe bats and genetic variation analysis",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Ren",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J Gen Virol",
+            "volume": "87",
+            "issn": "",
+            "pages": "3355--3359",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "RDP3: a flexible and fast computer program for analyzing recombination",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Martin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Bioinformatics",
+            "volume": "26",
+            "issn": "",
+            "pages": "2462--2463",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Mechanisms of host receptor adaptation by severe acute respiratory syndrome coronavirus",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Peng",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Wilken",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Geraghty",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "J Biol Chem",
+            "volume": "287",
+            "issn": "",
+            "pages": "8904--8911",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Receptor and viral determinants of SARS-coronavirus adaptation to human ACE2",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Embo J",
+            "volume": "24",
+            "issn": "",
+            "pages": "1634--1643",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Ecoepidemiology and complete genome comparison of different strains of severe acute respiratory syndrome-related Rhinolophus bat coronavirus in China reveal bats as a reservoir for acute, self-limiting infection that allows recombination events",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Lau",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J Virol",
+            "volume": "84",
+            "issn": "",
+            "pages": "2808--2819",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Coexistence of different genotypes in the same bat and serological characterization of Rousettus bat coronavirus HKU9 belonging to a novel Betacoronavirus subgroup",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Lau",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J Virol",
+            "volume": "84",
+            "issn": "",
+            "pages": "11385--11394",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Cross-host evolution of severe acute respiratory syndrome coronavirus in palm civet and human",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Song",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Proc Natl Acad Sci U S A",
+            "volume": "102",
+            "issn": "",
+            "pages": "2430--2435",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Middle East respiratory syndrome coronavirus in bats, Saudi Arabia. Emerg Infect Dis",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Memish",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid1911.131172"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Is the discovery of the novel human betacoronavirus 2c EMC/2012 (HCoV-EMC) the beginning of another SARS-like pandemic?",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Chan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "J Infect",
+            "volume": "65",
+            "issn": "",
+            "pages": "477--489",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Close relative of human Middle East respiratory syndrome coronavirus in bat, South Africa. Emerg Infect Dis",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Ithete",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid1910.130946"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Prediction and prevention of the next pandemic zoonosis",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Morse",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Lancet",
+            "volume": "380",
+            "issn": "",
+            "pages": "1956--1965",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Angiotensin-converting enzyme 2 (ACE2) proteins of different bat species confer variable susceptibility to SARS-CoV entry",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Hou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Arch Virol",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Bat SARS-related CoV BM48-31 was identified from R. blasii collected in Bulgaria in 2008. BtCoV_HKU9-1 was identified from Rousettus leschenaultii collected in Guangdong, China in 2005/2006 and used as an outgroup. Filled triangles, circles, and diamond indicate samples with co-infection by two different SL-CoVs. -indicates the amino acid deletion. b, Phylogenetic origins of the two parental regions of 3367 or SHC014. ML phylogenetic trees were constructed from alignments of two fragments covering nt",
+            "authors": [
+                {
+                    "first": ";",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                },
+                {
+                    "first": "Hong",
+                    "middle": [],
+                    "last": "Kong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "China (respectively: Guangxi",
+            "volume": "20",
+            "issn": "",
+            "pages": "534--562",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Sequences obtained in this study have been deposited in GenBank as follows (accession numbers given in parenthesis): full-length genome sequence of SL-CoV RsSHC014 and Rs3367 (KC881005, KC881006); full-length sequence of WIV1 S (KC881007); RBD (KC880984-KC881003); ACE2(KC8810040). SARS-CoV sequences used in this study: human SARS-CoV strains Tor2 (AY274119), BJ01 (AY278488), GZ02 (AY390556), and civet SARS-CoV strain SZ3 (AY304486). Bat coronavirus sequences used in this study: Rs672 (FJ588686), Rp3 (DQ071615), Rf1 (DQ412042), Rm1 (DQ412043), HKU3-1 (DQ022305), BM48-31 (NC_014470), HKU9-1 (NC_009021), HKU4 (NC_009019), HKU5 (NC_009020), HKU8 (DQ249228), HKU2 (EF203067), BtCoV512 (NC_009657), 1A (NC_010437). Other coronavirus sequences used in this study: HCoV-229E (AF304460), HCoV-OC43 (AY391777), HCoV-NL63 (AY567487), HKU1 (NC_006577), EMC (JX869059), FIPV (NC_002306), PRCV (DQ811787), BWCoV (NC_010646), MHV (AY700211), IBV (AY851295).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Sequence alignment of CoV S protein receptor binding domain SARS-CoV S protein (aa 310 to 520) is aligned with homologous regions of bat SL-CoVs using the ClustalW. The newly discovered bat SL-CoVs are indicated with a bold vertical line on the left. The key amino acids residues involved in interacting with human ACE2 molecule are numbered on the top of the aligned sequences. Extended Data Figure 4. Phylogenetic tree of bat SL-CoVs and SARS-CoVs based on complete S protein sequences (1256 aa). Bat SL-CoV-SHC014 and 3367 are highlighted by filled circles. Bat CoV HKU9 was used as an outgroup. . Author manuscript; available in PMC 2017 April 12.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Phylogenetic tree based on amino acid sequences of the S RBD region (a) and the two parental regions of bat SL-CoV 3367 or SHC014 (b)",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Electron micrograph of purified virions",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "Analysis of receptor usage of SL-CoV-WIV1 determined by immufluorenscence assay and real-time PCR",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF5": {
+            "text": "Analysis of host range of SL-CoV-WIV1 determined by immufluorenscence assay and real-time PCRVirus infection in A549, RSKT, Vero E6 and PK15 cells. Virus replication was detected as described forFigure 4. The columns (from left to right) show staining of nuclei (blue), virus replication (red), merged double-stained images and real-time PCR results, respectively. (n = 3). Error bars represent standard deviation.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Summary of sampling detail and CoV prevalenceSampling time Total number of swab or fecal samples collected Number of CoV PCR positive samples (%)Genomic sequence identities of the two novel bat SL-CoVs (RsSHC014 and Rs3367) with SARS-CoVs from human (GZ02, BJ01, Tor2) and civet (SZ3), as well as previously identified bat SL-CoVs in China (Rp3, Rf1, Rm1, Rs672, HKU3-1) and Europe (BM48-31) * S1, the N-terminal domain of the coronavirus S protein responsible for receptor binding. S2, the S protein C-terminal domain responsible for membrane fusion.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": " Table 3 Genomic annotation and comparison of bat SL-CoV Rs3367 with human/civet SARS-CoVs and other bat SL-CoVs. The ORFs in the genome were predicted and potential protein sequences were translated. Pairwise comparisons were conducted for all ORFs at nucleotide (nt) and amino acid (aa) levels. The s2m were compared at nt level. TRS: Transcription regulating-sequences; N/D, not done; N/A, not available The ORFs in the genome were predicted and potential protein sequences were translated. The pairwise comparisons were conducted for all ORFs at nucleotide acids (nt) and amino acids (aa) levels. The s2m were compared at nt level. TRS: Transcription regulating-sequences; N/D, not done; N/A, not available. Table 5 Cell lines used for virus isolation and susceptibility tests ",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 1,
+                    "end": 8,
+                    "text": "Table 3",
+                    "ref_id": null
+                },
+                {
+                    "start": 712,
+                    "end": 719,
+                    "text": "Table 5",
+                    "ref_id": null
+                }
+            ],
+            "section": "Extended Data"
+        }
+    ]
+}

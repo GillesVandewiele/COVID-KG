@@ -1,0 +1,5193 @@
+{
+    "paper_id": "319004f23d1af4357edb2a3862f2619be23a21a6",
+    "metadata": {
+        "title": "An updated roadmap for MERS-CoV research and product development: focus on diagnostics Analysis",
+        "authors": [
+            {
+                "first": "Cassandra",
+                "middle": [],
+                "last": "Kelly-Cirino",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Laura",
+                "middle": [
+                    "T"
+                ],
+                "last": "Mazzola",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Arlene",
+                "middle": [],
+                "last": "Chua",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "WHO",
+                    "location": {
+                        "settlement": "Geneva",
+                        "country": "Switzerland"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Christopher",
+                "middle": [
+                    "J"
+                ],
+                "last": "Oxenford",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Health Emergencies Programme",
+                    "location": {
+                        "addrLine": "WHO",
+                        "settlement": "Lyon",
+                        "country": "France"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Maria",
+                "middle": [
+                    "D"
+                ],
+                "last": "Van Kerkhove",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "\u25ba The Middle East respiratory syndrome-coronavirus is a high-priority pathogen identified by the WHO R&D Blueprint because of its high fatality rate, large geographical range of the dromedary camel reservoir and lack of medical interventions. \u25ba Accurate and accessible diagnostic tests are essential to outbreak containment and case management, as well as surveillance in both humans and animals, but available diagnostic tests are limited by inconsistent quality assessment, specimen acquisition issues and infrastructure requirements. \u25ba Diagnostic research and development (R&D) needs to include point-of-care testing options, syndromic panels for differential diagnosis, a greater understanding of viral and antibody kinetics, improved access to clinical specimens, and establishment of international reference standards.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Summary box"
+        },
+        {
+            "text": "Diagnostics play a central role in the early detection and control of outbreaks and can enable a more nuanced understanding of the disease kinetics and risk factors for the Middle East respiratory syndrome-coronavirus (MERS-CoV), one of the high-priority pathogens identified by the WHO. In this review we identified sources for molecular and serological diagnostic tests used in MERS-CoV detection, case management and outbreak investigations, as well as surveillance for humans and animals (camels), and summarised the performance of currently available tests, diagnostic needs, and associated challenges for diagnostic test development and implementation. A more detailed understanding of the kinetics of infection of MERS-CoV is needed in order to optimise the use of existing assays. Notably, MERS-CoV point-of-care tests are needed in order to optimise supportive care and to minimise transmission risk. However, for new test development, sourcing clinical material continues to be a major challenge to achieving assay validation. Harmonisation and standardisation of laboratory methods are essential for surveillance and for a rapid and effective international response to emerging diseases. Routine external quality assessment, along with well-characterised and up-to-date proficiency panels, would provide insight into MERS-CoV diagnostic performance worldwide. A defined set of Target Product Profiles for diagnostic technologies will be developed by WHO to address these gaps in MERS-CoV outbreak management.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "AbSTrACT"
+        },
+        {
+            "text": "The Middle East respiratory syndrome-coronavirus (MERS-CoV) is an emerging virus associated with severe respiratory illness, first detected in 2012 in Saudi Arabia. 1 5 provides an overview to the current status of MERS-CoV diagnostics, including feedback from subject matter expert and developer interviews on the common challenges with test development and implementation, and identifies gaps for further research and development (R&D). ",
+            "cite_spans": [
+                {
+                    "start": 165,
+                    "end": 166,
+                    "text": "1",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 167,
+                    "end": 168,
+                    "text": "5",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": "InTroduCTIon"
+        },
+        {
+            "text": "MERS-CoV is a zoonotic virus, and dromedary camels (Camelus dromedarius) are the reservoir host and the source of zoonotic transmission to humans. [6] [7] [8] Dromedaries appear to be only mildly symptomatic following infection and present a significant reservoir risk for spillover events. 2 6 9 MERS-CoV RNA has been detected in dromedary camels in a number of countries, including Egypt, Oman, Qatar and Saudi Arabia, with evidence suggesting that MERS-CoV is also widespread in the Middle East, Africa and South Asia. 5 8 10-35 Infection in camels is notifiable to the OIE. 36 Individuals with close and frequent contact with dromedaries are at a higher risk for MERS-CoV infection than the general population. 37 38 Clinical indications and management Coronaviruses are a family of viruses that can cause diseases in humans, ranging from the common cold to severe acute respiratory syndrome (SARS). The clinical spectrum of MERS ranges from no symptoms (or asymptomatic infection), mild symptoms including fever, cough, gastrointestinal illness and shortness of breath, to severe disease including pneumonia, acute respiratory distress syndrome and death. 2 39 Severe cases of MERS can result in respiratory failure, requiring mechanical ventilation and support in intensive care. Risk factors for severe disease include a weakened immune system, older age (>60 years), and comorbidities such as diabetes, cancer, renal disease and chronic lung disease. 40 41 Human-tohuman transmission spreads through close and unprotected human contact, and more than half of reported MERS cases have occurred through nosocomial transmission. [42] [43] [44] [45] To prevent nosocomial infections, WHO and others recommend using standard infection and prevention control measures when caring for patients. [46] [47] [48] WHO also recommends that contact tracing of all symptomatic and asymptomatic close contacts of the primary patient should be conducted routinely. 49 ",
+            "cite_spans": [
+                {
+                    "start": 147,
+                    "end": 150,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 151,
+                    "end": 154,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 155,
+                    "end": 158,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 291,
+                    "end": 296,
+                    "text": "2 6 9",
+                    "ref_id": null
+                },
+                {
+                    "start": 522,
+                    "end": 531,
+                    "text": "5 8 10-35",
+                    "ref_id": null
+                },
+                {
+                    "start": 578,
+                    "end": 580,
+                    "text": "36",
+                    "ref_id": "BIBREF35"
+                },
+                {
+                    "start": 715,
+                    "end": 720,
+                    "text": "37 38",
+                    "ref_id": null
+                },
+                {
+                    "start": 1161,
+                    "end": 1165,
+                    "text": "2 39",
+                    "ref_id": null
+                },
+                {
+                    "start": 1459,
+                    "end": 1464,
+                    "text": "40 41",
+                    "ref_id": null
+                },
+                {
+                    "start": 1634,
+                    "end": 1638,
+                    "text": "[42]",
+                    "ref_id": "BIBREF41"
+                },
+                {
+                    "start": 1639,
+                    "end": 1643,
+                    "text": "[43]",
+                    "ref_id": "BIBREF42"
+                },
+                {
+                    "start": 1644,
+                    "end": 1648,
+                    "text": "[44]",
+                    "ref_id": "BIBREF43"
+                },
+                {
+                    "start": 1649,
+                    "end": 1653,
+                    "text": "[45]",
+                    "ref_id": "BIBREF44"
+                },
+                {
+                    "start": 1796,
+                    "end": 1800,
+                    "text": "[46]",
+                    "ref_id": "BIBREF45"
+                },
+                {
+                    "start": 1801,
+                    "end": 1805,
+                    "text": "[47]",
+                    "ref_id": "BIBREF46"
+                },
+                {
+                    "start": 1806,
+                    "end": 1810,
+                    "text": "[48]",
+                    "ref_id": "BIBREF47"
+                },
+                {
+                    "start": 1957,
+                    "end": 1959,
+                    "text": "49",
+                    "ref_id": "BIBREF48"
+                }
+            ],
+            "ref_spans": [],
+            "section": "MErS-CoV reservoir"
+        },
+        {
+            "text": "The molecular epidemiology for MERS-CoV has not changed significantly since the initial human cases were detected in 2012. The current virus remains 99% identical to the sequences seen in the first human cases from 2012 as well as archived camel sera from 1983, with no increase in pathogenicity observed in the animal host. [50] [51] [52] As genetic mutations could impact detection, BMJ Global Health immunotherapy and vaccine development efforts, 53 sequencing of MERS-CoV strains from camels and humans (after a zoonotic spillover) is important and is regularly being conducted in affected member states (WHO, personal communication, 2018).",
+            "cite_spans": [
+                {
+                    "start": 325,
+                    "end": 329,
+                    "text": "[50]",
+                    "ref_id": "BIBREF49"
+                },
+                {
+                    "start": 330,
+                    "end": 334,
+                    "text": "[51]",
+                    "ref_id": "BIBREF50"
+                },
+                {
+                    "start": 335,
+                    "end": 339,
+                    "text": "[52]",
+                    "ref_id": "BIBREF51"
+                },
+                {
+                    "start": 450,
+                    "end": 452,
+                    "text": "53",
+                    "ref_id": "BIBREF52"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Molecular epidemiology"
+        },
+        {
+            "text": "There are currently no prophylactic or therapeutic interventions of proven efficacy for any coronavirus infections. Without a specific therapy for MERS, treatment is supportive. 5 54 55 Effective MERS therapeutics are still in the early stages of research and evaluation. Several broad-spectrum antiviral agents including nitazoxanide, 56 viral methyltransferase inhibition 57 and nucleotide prodrugs 58 have shown in vitro activity against MERS-CoV. Early results for novel MERS-specific therapeutics that inhibit viral replication or have specific neutralising activity are promising. 47 59 60 The WHO R&D Blueprint for MERS has called for three types of vaccines: (1) dromedary camel vaccine to prevent zoonotic transmission, (2) human vaccine for long-term protection of persons at high exposure risk and (3) human vaccine for reactive use in outbreak settings. 55 61 MERS-CoV vaccines are in the early stages of development, 55 62 63 with one candidate vaccine in phase I clinical trials (NCT02670187). 64 Neutralising monoclonal antibodies have been designed to target the MERS-CoV spike protein, 53 65 with ChAdOx1 and modified vaccinia Ankara vectors also strong vaccine candidates, 60 66 but none have yet advanced to clinical trials. To accelerate the process, the Coalition for Epidemic Preparedness Innovation has recently launched a call for proposals for the development of a human MERS-CoV vaccine in order to engage with developers interested in supporting these efforts. 67",
+            "cite_spans": [
+                {
+                    "start": 178,
+                    "end": 185,
+                    "text": "5 54 55",
+                    "ref_id": null
+                },
+                {
+                    "start": 401,
+                    "end": 403,
+                    "text": "58",
+                    "ref_id": "BIBREF57"
+                },
+                {
+                    "start": 587,
+                    "end": 589,
+                    "text": "47",
+                    "ref_id": "BIBREF46"
+                },
+                {
+                    "start": 590,
+                    "end": 595,
+                    "text": "59 60",
+                    "ref_id": null
+                },
+                {
+                    "start": 866,
+                    "end": 871,
+                    "text": "55 61",
+                    "ref_id": null
+                },
+                {
+                    "start": 930,
+                    "end": 932,
+                    "text": "55",
+                    "ref_id": "BIBREF54"
+                },
+                {
+                    "start": 933,
+                    "end": 938,
+                    "text": "62 63",
+                    "ref_id": null
+                },
+                {
+                    "start": 1008,
+                    "end": 1010,
+                    "text": "64",
+                    "ref_id": "BIBREF63"
+                },
+                {
+                    "start": 1103,
+                    "end": 1108,
+                    "text": "53 65",
+                    "ref_id": null
+                },
+                {
+                    "start": 1191,
+                    "end": 1196,
+                    "text": "60 66",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Therapeutic and vaccine efforts"
+        },
+        {
+            "text": "The WHO laboratory guidelines recommend nucleic acid amplification tests (NAAT) for diagnosis, using serology for diagnosis only when NAAT is not available. 68 In suspected patients, a single negative test result does not exclude diagnosis. Repeat sequential sampling and testing is strongly recommended. The kinetics of MERS-CoV infection has been shown to vary widely across cases, 40 69-72 prompting a more detailed investigation of viral and antibody dynamics across the broad range of sample types, disease states and host factors. 73 74 The best NAAT test sensitivity is achieved using specimens from the lower respiratory tract (sputum, tracheal aspirates or bronchoalveolar lavage), where MERS-CoV replication occurs at higher and more prolonged levels of MERS-CoV RNA, typically between 10 6 and 10 10 copies/mL. 72 75 MERS-CoV viral load is generally higher for severe cases, with more prolonged viral shedding than mild cases. Viral load concentrations, which may be undetectable at early-stage infection, generally peak in the second week after symptom onset, and then drop to undetectable in survivors by the fourth week from onset. Upper respiratory tract specimens (nasopharyngeal or oropharyngeal swabs) may also be used, but demonstrate 100\u00d7-1000\u00d7 lower viral load and can test negative for mild cases. 76 77 If possible, both upper and lower respiratory tract sampling are advised. Specimens outside the respiratory tract are not recommended for diagnosis, as they can test negative in both severe and mild presentation. Viral RNA has been detected in stool samples (10 4 copies/mL), serum samples (10 3 copies/mL) and urine (10 2 copies/mL), more likely an indicator of severity as it typically precedes a poor clinical outcome. 71 76 78 Serological diagnosis can be made using paired samples, more often used for research rather than diagnostic purposes, preferably with the initial sample collected in the first week of illness and the second collected 3-4 weeks later. If only a single serum sample can be collected, this should occur at least 3-4 weeks after onset of symptoms for determination of a probable case. Table 1 presents an overview of the implementation requirements for MERS-CoV diagnostics (detailed commercial product information is presented in online supplementary tables S1 and S2). Molecular diagnostics such as NAAT (eg, PCR) typically require sophisticated laboratory infrastructure including biosafety cabinets, 79 while most serological tests (ELISA, indirect immunofluorescence test (IIFT)) can be run on the benchtop in a more modest laboratory environment, depending on sample preparation precautions. 80 81 Point-of-care (POC) tests are designed to be used outside of a traditional laboratory; near-POC tests are defined for rapid use in a laboratory near the patient, but are more automated and easy to use than the traditional laboratory test. 72 75 POC tests such as low-complexity rapid diagnostic tests (RDTs) can be used at the bedside, typically with non-invasive samples after minimal training. Inhouse tests are described in sections below; commercial sources are listed in online supplementary tables S1 and S2.",
+            "cite_spans": [
+                {
+                    "start": 157,
+                    "end": 159,
+                    "text": "68",
+                    "ref_id": "BIBREF67"
+                },
+                {
+                    "start": 384,
+                    "end": 392,
+                    "text": "40 69-72",
+                    "ref_id": null
+                },
+                {
+                    "start": 537,
+                    "end": 542,
+                    "text": "73 74",
+                    "ref_id": null
+                },
+                {
+                    "start": 822,
+                    "end": 827,
+                    "text": "72 75",
+                    "ref_id": null
+                },
+                {
+                    "start": 1320,
+                    "end": 1325,
+                    "text": "76 77",
+                    "ref_id": null
+                },
+                {
+                    "start": 1748,
+                    "end": 1750,
+                    "text": "71",
+                    "ref_id": "BIBREF70"
+                },
+                {
+                    "start": 1751,
+                    "end": 1756,
+                    "text": "76 78",
+                    "ref_id": null
+                },
+                {
+                    "start": 2457,
+                    "end": 2459,
+                    "text": "79",
+                    "ref_id": "BIBREF79"
+                },
+                {
+                    "start": 2651,
+                    "end": 2656,
+                    "text": "80 81",
+                    "ref_id": null
+                },
+                {
+                    "start": 2896,
+                    "end": 2898,
+                    "text": "72",
+                    "ref_id": "BIBREF71"
+                },
+                {
+                    "start": 2899,
+                    "end": 2901,
+                    "text": "75",
+                    "ref_id": "BIBREF74"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 2138,
+                    "end": 2145,
+                    "text": "Table 1",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "MErS-CoV dIAgnoSTICS Specimens and sampling"
+        },
+        {
+            "text": "NAATs are currently the standard for MERS-CoV diagnosis, as these tests (typically reverse transcriptase PCR (RT-PCR)) have the highest sensitivity at the earliest time point during the acute phase of infection. Following the WHO guidelines, two different targets on the MERS-CoV need to be detected by RT-PCR to confirm a case. MERS-CoV assays to detect the upstream envelope gene (upE) followed by confirmation of open reading frame 1A (orf1a), 1B (orf1b) genes or nucleocapsid (N) genes for confirmation have been developed. 55 82 Most commercial PCR tests perform parallel screening for the upE gene with confirmation by the orf1a, orf1b or N genes (most commonly upE + orf1a).",
+            "cite_spans": [
+                {
+                    "start": 528,
+                    "end": 533,
+                    "text": "55 82",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Molecular diagnostics"
+        },
+        {
+            "text": "Initial NAAT tests for MERS-CoV were developed as inhouse tests, following the first detection of MERS-CoV in the Middle East. [83] [84] [85] [86] Inhouse tests are not necessarily subject to quality control or regulation, and may not be rigorously validated; in some cases, inhouse tests are eventually developed into commercial products through collaboration and licensing efforts. 50 83 84 87-89 Commercial assays may undergo an international and/or incountry regulatory process; once on the market they can be independently evaluated for sensitivity, specificity and limit of detection. 78 90 As of 2018, there are several commercial NAAT tests available for MERS-CoV, including duplex and multiplex panels (see online supplementary table S1).",
+            "cite_spans": [
+                {
+                    "start": 127,
+                    "end": 131,
+                    "text": "[83]",
+                    "ref_id": "BIBREF83"
+                },
+                {
+                    "start": 132,
+                    "end": 136,
+                    "text": "[84]",
+                    "ref_id": "BIBREF84"
+                },
+                {
+                    "start": 137,
+                    "end": 141,
+                    "text": "[85]",
+                    "ref_id": "BIBREF85"
+                },
+                {
+                    "start": 142,
+                    "end": 146,
+                    "text": "[86]",
+                    "ref_id": "BIBREF86"
+                },
+                {
+                    "start": 384,
+                    "end": 386,
+                    "text": "50",
+                    "ref_id": "BIBREF49"
+                },
+                {
+                    "start": 387,
+                    "end": 398,
+                    "text": "83 84 87-89",
+                    "ref_id": null
+                },
+                {
+                    "start": 591,
+                    "end": 596,
+                    "text": "78 90",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Molecular diagnostics"
+        },
+        {
+            "text": "Serology is not widely performed for diagnosing acute MERS-CoV infection; however, it has been a useful tool BMJ Global Health to determine the extent of infection around clusters and in seroepidemiological studies in animals and humans. Seroconversion typically occurs during the second and third week after symptom onset; data suggest that low antibody titre in the second week or delayed seroconversion is more closely associated with mortality than high viral load. 71 74 MERS-CoV seroconversion may not be observed for some patients, notably with mild or asymptomatic infection, and can show cross-reactivity with antibodies to other coronaviruses. 42 69 Serological methods for the detection of antibodies against MERS-CoV include ELISA, IIFT and neutralisation tests. MERS-CoV serological assays can employ commercial reagents or proprietary monoclonal antibodies as capture agents. 87 91 92 Many MERS-CoV ELISA tests are labelled for research use only, with little or no clinical validation data available. Similar to the ELISA, IIFT is used when it is difficult to evaluate specific antigens individually by enzyme immunoassays or there is a preference for broader analysis of an immobilised specimen. IIFT microscopy assay can probe the entire antigen spectrum of the specimen, and is often designed for simultaneous detection of antibodies against biochemically distinct antigens. Neutralisation is a method for detecting anti-MERS-CoV antibody activity via inhibition of infection or replication, 69 93 performed as plaque reduction neutralisation, microneutralisation (MN) and pseudoparticle neutralisation (ppNT). MN is labour-intensive and slow, requiring at least 3-5 days for results; neutralisation techniques other than ppNT require biosafety level 3 containment as they involve live virus cultures. 94 RDTs can leverage the same antibody/antigen capture agents as ELISA but in a lateral flow strip cartridge. 95 This enables a fast 10-30 min time to result, but with a 100-fold lower detection sensitivity than ELISA. 91 92 Follow-up confirmatory testing is therefore required. RDTs are typically paired with minimally invasive specimen collection (blood, oral fluid, nasal swabs) so that they can be used with minimal training outside of laboratory settings. Early prototypes for MERS-CoV RDTs have been developed, 87 92 96 with commercial RDTs for detection of MERS-CoV in camels and humans available (online supplementary table S2). The human MERS-CoV RDT does not appear to be widely used, perhaps due to the more invasive processing required for lower respiratory specimens, as well as sensitivity issues for upper respiratory specimens. The camel MERS-CoV RDT is used with upper respiratory specimens; however, test sensitivity varies depending on specimen sampling and infection kinetics. 97 Multiplex panels At the early stages, the symptoms of MERS-CoV infection can mimic diseases such as influenza, pneumonia, SARS and other respiratory infections. A syndromic approach involves testing for pathogens based on a syndrome such as fever or acute respiratory distress; a shift from individual tests to multiplex panels can quickly identify or eliminate likely pathogens from a single specimen. For analysis of circulating reservoirs, multiplex microbead-based immunoassays have been used to detect IgG antibodies for multiple pathogens. 98 99 Multiplex, syndromic panels that include MERS-CoV have been demonstrated using PCR-based panels including MERS-CoV, showing similar limits of detection to single assays. 89 100 101 Commercial respiratory panel tests including MERS-CoV have also recently been developed (see online supplementary table S1).",
+            "cite_spans": [
+                {
+                    "start": 470,
+                    "end": 475,
+                    "text": "71 74",
+                    "ref_id": null
+                },
+                {
+                    "start": 654,
+                    "end": 659,
+                    "text": "42 69",
+                    "ref_id": null
+                },
+                {
+                    "start": 890,
+                    "end": 892,
+                    "text": "87",
+                    "ref_id": "BIBREF87"
+                },
+                {
+                    "start": 893,
+                    "end": 898,
+                    "text": "91 92",
+                    "ref_id": null
+                },
+                {
+                    "start": 1509,
+                    "end": 1514,
+                    "text": "69 93",
+                    "ref_id": null
+                },
+                {
+                    "start": 1819,
+                    "end": 1821,
+                    "text": "94",
+                    "ref_id": "BIBREF94"
+                },
+                {
+                    "start": 1929,
+                    "end": 1931,
+                    "text": "95",
+                    "ref_id": "BIBREF95"
+                },
+                {
+                    "start": 2038,
+                    "end": 2043,
+                    "text": "91 92",
+                    "ref_id": null
+                },
+                {
+                    "start": 2336,
+                    "end": 2344,
+                    "text": "87 92 96",
+                    "ref_id": null
+                },
+                {
+                    "start": 2816,
+                    "end": 2818,
+                    "text": "97",
+                    "ref_id": "BIBREF97"
+                },
+                {
+                    "start": 3365,
+                    "end": 3370,
+                    "text": "98 99",
+                    "ref_id": null
+                },
+                {
+                    "start": 3541,
+                    "end": 3543,
+                    "text": "89",
+                    "ref_id": "BIBREF89"
+                },
+                {
+                    "start": 3544,
+                    "end": 3551,
+                    "text": "100 101",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Serological assays"
+        },
+        {
+            "text": "There is a need for international consensus and adoption of minimum standards for tests used in diagnosis, surveillance and research, following WHO's recommended algorithm for human cases 82 and OIE recommendation for animal health. 36 Harmonisation of the testing process can be achieved by building consensus and capacity across international and incountry laboratories. In order to enable and sustain the capacity for a rapid outbreak response, laboratories must have access to high-quality reagents and instrumentation, along with technical support and cold-chain transport when necessary. In addition, international reference panels would achieve a more standardised training for external quality assessment (EQA) and quality control. Building on mandatory case reporting, 102 an international MERS-CoV data sharing platform that includes case exposure history and sequence data would greatly facilitate the knowledge base across the MERS-CoV community. [103] [104] [105] [106] Clinical validation Understanding MERS-CoV viral dynamics across a broad range of specimen types is critical to establishing the limits of detection and timing of diagnostics in order to make the greatest impact for diagnosis, case management and surveillance. Ensuring a test has appropriate sensitivity and specificity is a major challenge in the development of diagnostics for novel and rare pathogens, as there is often a very limited supply of well-characterised clinical material. Especially during the early stage of an outbreak, clinical evaluation must often be performed in the affected countries by laboratories working closely with the Ministries of Health. Typically only a small number of patient specimens are shared outside of the affected countries due to strict import and export regulations, particularly for 'dual-use' pathogens. 107 108 Specifically, the provisions of the Nagoya protocol have significant impact on the access to genetic materials for both commercial and non-commercial applications. 109 110 In particular, the development and validation process for new diagnostics could be accelerated if well-characterised specimens and reference standards could be more easily obtained. EQA can be useful for evaluation of test performance, as shown with evaluations of both inhouse and commercial assays for MERS-CoV, [111] [112] [113] and BMJ Global Health more recently a global proficiency testing programme used to assess laboratory detection of MERS-CoV. 114 Even after validation, a substantial amount of reference material is required for quality control; often manufacturers must develop their own calibration standards to maintain supply and to control lot-to-lot variability. International reference standards and qualified specimen panels can accelerate the development and validation of diagnostic tests. In particular, the WHO International Biological Reference Preparations (as provided by member states) serve as reference sources for ensuring the reliability of in vitro biological diagnostic procedures used for diagnosis of diseases and treatment monitoring, including MERS-CoV. Several international institutes also provide specimens for validation; these groups typically have a defined pathogen/disease focus with a corresponding archive of biological reference materials; however, the supplies may be limited (see online supplementary material 1).",
+            "cite_spans": [
+                {
+                    "start": 188,
+                    "end": 190,
+                    "text": "82",
+                    "ref_id": "BIBREF82"
+                },
+                {
+                    "start": 233,
+                    "end": 235,
+                    "text": "36",
+                    "ref_id": "BIBREF35"
+                },
+                {
+                    "start": 778,
+                    "end": 781,
+                    "text": "102",
+                    "ref_id": "BIBREF102"
+                },
+                {
+                    "start": 959,
+                    "end": 964,
+                    "text": "[103]",
+                    "ref_id": "BIBREF103"
+                },
+                {
+                    "start": 965,
+                    "end": 970,
+                    "text": "[104]",
+                    "ref_id": "BIBREF104"
+                },
+                {
+                    "start": 971,
+                    "end": 976,
+                    "text": "[105]",
+                    "ref_id": "BIBREF105"
+                },
+                {
+                    "start": 977,
+                    "end": 982,
+                    "text": "[106]",
+                    "ref_id": "BIBREF106"
+                },
+                {
+                    "start": 1833,
+                    "end": 1840,
+                    "text": "107 108",
+                    "ref_id": null
+                },
+                {
+                    "start": 2005,
+                    "end": 2012,
+                    "text": "109 110",
+                    "ref_id": null
+                },
+                {
+                    "start": 2327,
+                    "end": 2332,
+                    "text": "[111]",
+                    "ref_id": "BIBREF111"
+                },
+                {
+                    "start": 2333,
+                    "end": 2338,
+                    "text": "[112]",
+                    "ref_id": "BIBREF112"
+                },
+                {
+                    "start": 2339,
+                    "end": 2344,
+                    "text": "[113]",
+                    "ref_id": "BIBREF113"
+                },
+                {
+                    "start": 2469,
+                    "end": 2472,
+                    "text": "114",
+                    "ref_id": "BIBREF114"
+                }
+            ],
+            "ref_spans": [],
+            "section": "CHAllEngES for MErS-CoV dIAgnoSTICS Harmonisation and communication"
+        },
+        {
+            "text": "Currently, MERS-CoV diagnosis by PCR requires a laboratory with sophisticated facilities and biosafety cabinets. The turnaround time to receive a test result can take days to weeks, depending on laboratory proximity, sample transport options and laboratory processing capacity, 72 75 and infrastructure requirements place most PCR systems in reference laboratories, which may not be ideal for diseases like MERS-CoV that recommend immediate isolation for infections detected across a variety of settings. 81 115 116 A more nimble approach is needed for MERS-CoV case detection and triage, 92 117 and at border crossings for animal surveillance, quarantine and targeted vaccination. 11 21 87 118 The FAO-OIE-WHO MERS Technical Working Group has given a clear call for the development of an RDT to improve identification and isolation of primary human cases in healthcare facilities. 5 Serological RDTs are ideal for low infrastructure settings such as a primary health clinic, home or field testing. However, specimen collection remains a key challenge for MERS-CoV, as the recommended lower respiratory specimens are difficult to obtain outside of a hospital setting. Upper respiratory specimens such as nasal swabs are easy to obtain and work well in conjunction with RDTs for camels, but these specimens generally have low virus titre in humans, thus limiting current use of RDTs to animal testing. 87 92 96 Improvement of the current RDT detection chemistry, if feasible, may support the future use of these tests in humans, at least for rapid triage in highly infectious cases.",
+            "cite_spans": [
+                {
+                    "start": 278,
+                    "end": 283,
+                    "text": "72 75",
+                    "ref_id": null
+                },
+                {
+                    "start": 505,
+                    "end": 507,
+                    "text": "81",
+                    "ref_id": "BIBREF81"
+                },
+                {
+                    "start": 508,
+                    "end": 515,
+                    "text": "115 116",
+                    "ref_id": null
+                },
+                {
+                    "start": 589,
+                    "end": 595,
+                    "text": "92 117",
+                    "ref_id": null
+                },
+                {
+                    "start": 682,
+                    "end": 684,
+                    "text": "11",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 685,
+                    "end": 694,
+                    "text": "21 87 118",
+                    "ref_id": null
+                },
+                {
+                    "start": 882,
+                    "end": 883,
+                    "text": "5",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 1401,
+                    "end": 1403,
+                    "text": "87",
+                    "ref_id": "BIBREF87"
+                },
+                {
+                    "start": 1404,
+                    "end": 1409,
+                    "text": "92 96",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "PoC testing"
+        },
+        {
+            "text": "POC and near-POC microfluidic platforms enable a more flexible, but still highly sensitive approach for near-patient NAAT testing in decentralised settings. Near-POC NAAT platforms are compact and self-contained, with automated sample preparation for processing in minimal laboratory settings, which most healthcare workers can be trained to operate within a day. [119] [120] [121] Recent publications describe MERS-CoV assays designed for POC PCR, 89 loop-mediated isothermal amplification assay 122 and paper-based sensor detection 123 ; however, no MERS-CoV assays are currently available for the existing near-POC platforms. Given that PCR is now the standard for MERS-CoV diagnosis, it would be highly desirable to have an automated, self-contained NAAT assay that can be readily deployed in a field or clinic setting.",
+            "cite_spans": [
+                {
+                    "start": 364,
+                    "end": 369,
+                    "text": "[119]",
+                    "ref_id": "BIBREF119"
+                },
+                {
+                    "start": 370,
+                    "end": 375,
+                    "text": "[120]",
+                    "ref_id": "BIBREF120"
+                },
+                {
+                    "start": 376,
+                    "end": 381,
+                    "text": "[121]",
+                    "ref_id": "BIBREF121"
+                },
+                {
+                    "start": 449,
+                    "end": 451,
+                    "text": "89",
+                    "ref_id": "BIBREF89"
+                }
+            ],
+            "ref_spans": [],
+            "section": "PoC testing"
+        },
+        {
+            "text": "Syndromic testing can be valuable during the early stages of an outbreak, in order to distinguish MERS-CoV from other respiratory infections or identify cases of coinfection. 100 124 A syndromic panel could be effective in expediting pathogen and outbreak identification, especially with technologies that can screen for multiple pathogens simultaneously. 125 Using the panel approach, a definitive diagnosis could enable timely decisions about triage, treatment, infection control and contact tracing. 126 While the per-test cost rises with test complexity, including additional reagents and more sophisticated instrumentation, a rapid and efficient diagnosis scheme can impact intervention and infection control and can be cost-saving overall. 127 128 As respiratory diseases are both regional and seasonal, 129-131 region-specific panels may be more cost-effective. 132 Multiplex panels offer the alternative for a 'bundled' testing paradigm; however, if not routinely used (if the market is small), then developers may be reluctant to support the test for diagnostic use, which requires additional investment for validation and regulation.",
+            "cite_spans": [
+                {
+                    "start": 175,
+                    "end": 178,
+                    "text": "100",
+                    "ref_id": "BIBREF100"
+                },
+                {
+                    "start": 179,
+                    "end": 182,
+                    "text": "124",
+                    "ref_id": "BIBREF124"
+                },
+                {
+                    "start": 356,
+                    "end": 359,
+                    "text": "125",
+                    "ref_id": "BIBREF125"
+                },
+                {
+                    "start": 503,
+                    "end": 506,
+                    "text": "126",
+                    "ref_id": "BIBREF126"
+                },
+                {
+                    "start": 746,
+                    "end": 753,
+                    "text": "127 128",
+                    "ref_id": null
+                },
+                {
+                    "start": 869,
+                    "end": 872,
+                    "text": "132",
+                    "ref_id": "BIBREF132"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Syndromic approach"
+        },
+        {
+            "text": "Surveillance can be an effective method to identify the initial stages of outbreak, but it requires routine and effective sampling. The impact of surveillance testing depends on the test sensitivity and specificity, sampling rates, kinetics of the disease, and whether the target is animal or human populations. Most surveillance sampling is performed in the field, either through population-based or 'hot spot' sampling. For MERS-CoV, it may be difficult and expensive to implement routine surveillance in dromedary camel stock, as they represent a significantly large reservoir but may suffer only mild effects from MERS-CoV infection, if any. The ideal surveillance tool would be a highly sensitive and field-appropriate screening test. Per-test cost is also an important factor along with ease of implementation.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Surveillance"
+        },
+        {
+            "text": "This review has identified diagnostics currently available for MERS-CoV and highlighted ongoing challenges caused by critical gaps in diagnostics to support outbreak management. RDTs offer the potential for rapid POC screening for MERS-CoV; however, there are practical limits to implementing lower respiratory sample acquisition outside of a hospital setting, limiting feasibility. POC or near-POC NAAT platforms provide an opportunity for implementation of automated, self-contained BMJ Global Health testing in hospitals and clinics with limited training in endemic-prone areas. Expansion of test menu options for existing POC or near-POC NAAT platforms will strengthen incountry response capacity to endemic diseases and simultaneously ensure countries are prepared for future pandemics. Syndromic multiplex panels may expedite differential diagnosis of MERS-CoV from other endemic respiratory diseases, but further analysis is needed to inform implementation and cost-effectiveness in the context of regional and seasonal detection. There is also a need for more sensitive serological assays with lower cost and minimum cross-reactivity that can be used as surveillance tools.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "ConCluSIon"
+        },
+        {
+            "text": "A more detailed understanding of MERS-CoV viral and antibody kinetics is needed across the broad range of sample types in order to optimise the use of existing assays and to address ongoing technical challenges in the detection of mild and asymptomatic infections. Surveillance continues to be important for the detection of MERS-CoV spillover events; however, questions remain on the cost-effectiveness of routine screening of the large reservoir camel population. In addition, support towards sample biobanks with well-characterised specimens and reference standards will facilitate diagnostic development and quality assurance for MERS-CoV diagnostics worldwide. In order to achieve the goals of the R&D Blueprint efforts, WHO is identifying key Target Product Profiles for diagnostics in order to mobilise funding and resources to support the development and implementation of the most critically needed tests.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "ConCluSIon"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Isolation of a novel coronavirus from a man with pneumonia in Saudi Arabia",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Zaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Van Boheemen",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Bestebroer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "N Engl J Med",
+            "volume": "367",
+            "issn": "",
+            "pages": "1814--1834",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa1211721"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "WHO | Middle East respiratory syndrome coronavirus (MERS-CoV). WHO MERS-COV",
+            "authors": [],
+            "year": 2017,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "R&D Blueprint Plan of Action",
+            "authors": [],
+            "year": 2016,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "R&D Blueprint for action to prevent epidemics",
+            "authors": [],
+            "year": 2017,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Progress on the global response, remaining challenges and the way forward",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Aguanno",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Elidrissi",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Elkholy",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Antiviral Res",
+            "volume": "159",
+            "issn": "",
+            "pages": "35--44",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.antiviral.2018.09.002"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Evidence for camel-tohuman transmission of MERS coronavirus",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Azhar",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "El-Kafrawy",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Farraj",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "N Engl J Med Overseas Ed",
+            "volume": "370",
+            "issn": "",
+            "pages": "2499--505",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa1401505"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Human-dromedary camel interactions and the risk of acquiring zoonotic middle east respiratory syndrome coronavirus infection",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Gossner",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Danielson",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Gervelmeyer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Zoonoses Public Health",
+            "volume": "63",
+            "issn": "",
+            "pages": "1--9",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/zph.12171"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Middle East respiratory syndrome coronavirus neutralising serum antibodies in dromedary camels: a comparative serological study",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Reusken",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Haagmans",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "M\u00fcller",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Lancet Infect Dis",
+            "volume": "13",
+            "issn": "",
+            "pages": "859--66",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1473-3099(13)70164-6"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Middle East Respiratory Syndrome Coronavirus (MERS-CoV) origin and animal reservoir",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Mohd",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Al-Tawfiq",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Memish",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Virol J",
+            "volume": "13",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s12985-016-0544-0"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Risk factors for MERS coronavirus infection in dromedary camels in Burkina Faso",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Miguel",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Chevalier",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Ayelet",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Euro Surveill",
+            "volume": "22",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.2807/1560-7917.ES.2017.22.13.30498"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Cross-sectional surveillance of Middle East respiratory syndrome coronavirus (MERS-CoV) in dromedary camels and other mammals in Egypt",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ali",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "El-Shesheny",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kandeil",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Euro Surveill",
+            "volume": "22",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.2807/1560-7917.ES.2017.22.11.30487"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "MERS coronaviruses in dromedary camels",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Chu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Poon",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Gomaa",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Egypt. Emerg Infect Dis",
+            "volume": "20",
+            "issn": "",
+            "pages": "1049--53",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid2006.140299"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Geographic distribution of MERS coronavirus among dromedary camels",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Reusken",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Messadi",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Feyisa",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Africa. Emerg Infect Dis",
+            "volume": "20",
+            "issn": "",
+            "pages": "1370--1374",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid2008.140590"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Middle East Respiratory Syndrome coronavirus (MERS-CoV) serology in major livestock species in an affected region in Jordan",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Reusken",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ababneh",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Raj",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Euro Surveill",
+            "volume": "18",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.2807/1560-7917.ES2013.18.50.20662"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Absence of Middle East Respiratory Syndrome Coronavirus in Camelids",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Miguel",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Perera",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Baubekova",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Emerg Infect Dis",
+            "volume": "22",
+            "issn": "",
+            "pages": "555--562",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid2203.151284"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Antibodies against MERS coronavirus in dromedary camels",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Corman",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Jores",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Meyer",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Emerg Infect Dis",
+            "volume": "20",
+            "issn": "",
+            "pages": "1319--1341",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid2008.140596"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Serological Evidence of MERS-CoV Antibodies in Dromedary Camels (Camelus dromedaries) in Laikipia County",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Deem",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "F\u00e8vre",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kinnaird",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "PLoS One",
+            "volume": "10",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0140125"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Middle East respiratory syndrome coronavirus infection in dromedary camels in Saudi Arabia",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Alagaili",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Briese",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Mishra",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "MBio",
+            "volume": "5",
+            "issn": "",
+            "pages": "884--00814",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/mBio.00884-14"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Middle East respiratory syndrome coronavirus quasispecies that include homologues of human isolates revealed through whole-genome analysis and virus cultured from dromedary camels in Saudi Arabia",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Briese",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Mishra",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Jain",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "MBio",
+            "volume": "5",
+            "issn": "",
+            "pages": "1146--01114",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/mBio.01146-14"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Longitudinal study of Middle East Respiratory Syndrome coronavirus infection in dromedary camel herds in Saudi Arabia",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Hemida",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Alnaeem",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Chu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Emerg Microbes Infect",
+            "volume": "6",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/emi.2017.44"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Middle East Respiratory Syndrome (MERS) coronavirus seroprevalence in domestic livestock in Saudi Arabia",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Hemida",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Perera",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Euro Surveill",
+            "volume": "18",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.2807/1560-7917.ES2013.18.50.20659"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Lack of middle East respiratory syndrome coronavirus transmission from infected camels",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Hemida",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Al-Naeem",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Perera",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Emerg Infect Dis",
+            "volume": "21",
+            "issn": "",
+            "pages": "699--701",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid2104.141949"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "MERS coronavirus in dromedary camel herd, Saudi Arabia",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Hemida",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Chu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Poon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Emerg Infect Dis",
+            "volume": "20",
+            "issn": "",
+            "pages": "1231--1235",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid2007.140571"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Cross-sectional study of MERS-CoV-specific RNA and antibodies in animals that have had contact with MERS patients in Saudi Arabia",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kasem",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Qasim",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Al-Hufofi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "J Infect Public Health",
+            "volume": "11",
+            "issn": "",
+            "pages": "331--339",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jiph.2017.09.022"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Human infection with MERS coronavirus after exposure to infected camels, Saudi Arabia",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Memish",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Cotten",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Meyer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Emerg Infect Dis",
+            "volume": "20",
+            "issn": "",
+            "pages": "1012--1017",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid2006.140402"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Dromedary camels in northern Mali have high seropositivity to MERS-CoV",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Falzarano",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Kamissoko",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "De Wit",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "One Health",
+            "volume": "3",
+            "issn": "",
+            "pages": "41--44",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.onehlt.2017.03.003"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Middle East respiratory syndrome coronavirus (MERS-CoV) in dromedary camels in Nigeria",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Chu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Oladipo",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Perera",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Euro Surveill",
+            "volume": "20",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.2807/1560-7917.ES.2015.20.49.30086"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Middle East respiratory syndrome coronavirus (MERS-CoV) in dromedary camels",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Nowotny",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Kolodziejek",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Eurosurveillance",
+            "volume": "19",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.2807/1560-7917.ES2014.19.16.20781"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Serologic Evidence for MERS-CoV Infection in Dromedary Camels",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Saqib",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sieberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Hussain",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Emerg Infect Dis",
+            "volume": "23",
+            "issn": "",
+            "pages": "550--551",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid2303.161285"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Middle East respiratory syndrome coronavirus in dromedary camels: an outbreak investigation",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Haagmans",
+                    "suffix": ""
+                },
+                {
+                    "first": "Al",
+                    "middle": [],
+                    "last": "Dhahiry",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Reusken",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Lancet Infect Dis",
+            "volume": "14",
+            "issn": "",
+            "pages": "140--145",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1473-3099(13)70690-X"
+                ]
+            }
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "MERS-CoV situation update, Map 1. MERS-CoV livestock field surveys by country",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Fao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Epidemiological investigation of Middle East respiratory syndrome coronavirus in dromedary camel farms linked with human infection in Abu Dhabi Emirate",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Muhairi",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Hosani",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Eltahir",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Virus Genes",
+            "volume": "52",
+            "issn": "",
+            "pages": "848--54",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s11262-016-1367-1"
+                ]
+            }
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Middle East respiratory syndrome coronavirus antibody reactors among camels in Dubai",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Alexandersen",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Kobinger",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Soule",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Transbound Emerg Dis",
+            "volume": "61",
+            "issn": "",
+            "pages": "105--113",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/tbed.12212"
+                ]
+            }
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "Identification of diverse viruses in upper respiratory samples in dromedary camels from United Arab Emirates",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Khalafalla",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Paden",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "PLoS One",
+            "volume": "12",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0184718"
+                ]
+            }
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "MERS CoV: OIE -World organisation for animal health",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Oie Mers-Cov",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "Occupational exposure to dromedaries and risk for MERS-CoV Infection",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Reusken",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Farag",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Haagmans",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Emerg Infect Dis",
+            "volume": "21",
+            "issn": "",
+            "pages": "1422--1427",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid2108.150481"
+                ]
+            }
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "Risk Factors for Primary Middle East Respiratory Syndrome Coronavirus Infection in Camel Workers in Qatar During 2013-2014: A Case-Control Study",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Sikkema",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Farag",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Himatt",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "J Infect Dis",
+            "volume": "215",
+            "issn": "",
+            "pages": "1702--1707",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/infdis/jix174"
+                ]
+            }
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "Middle East Respiratory Syndrome (MERS) | Symptoms & Complications | CDC",
+            "authors": [],
+            "year": 2016,
+            "venue": "CDC",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF39": {
+            "ref_id": "b39",
+            "title": "Middle East respiratory syndrome coronavirus disease in children",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Memish",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Al-Tawfiq",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Assiri",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Pediatr Infect Dis J",
+            "volume": "33",
+            "issn": "",
+            "pages": "904--910",
+            "other_ids": {
+                "DOI": [
+                    "10.1097/INF.0000000000000325"
+                ]
+            }
+        },
+        "BIBREF40": {
+            "ref_id": "b40",
+            "title": "Middle East respiratory syndrome coronavirus disease is rare in children: An update from Saudi Arabia",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Al-Tawfiq",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Kattan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Memish",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "World J Clin Pediatr",
+            "volume": "5",
+            "issn": "",
+            "pages": "391--397",
+            "other_ids": {
+                "DOI": [
+                    "10.5409/wjcp.v5.i4.391"
+                ]
+            }
+        },
+        "BIBREF41": {
+            "ref_id": "b41",
+            "title": "Transmission of MERScoronavirus in household contacts",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Drosten",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Meyer",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "M\u00fcller",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "N Engl J Med",
+            "volume": "371",
+            "issn": "",
+            "pages": "828--863",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa1405858"
+                ]
+            }
+        },
+        "BIBREF42": {
+            "ref_id": "b42",
+            "title": "Hospital-associated outbreak of Middle East respiratory syndrome coronavirus: a serologic, epidemiologic, and clinical description",
+            "authors": [
+                {
+                    "first": "Al-Abdallat Mm",
+                    "middle": [],
+                    "last": "Payne",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Alqasrawi",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Clin Infect Dis",
+            "volume": "59",
+            "issn": "",
+            "pages": "1225--1258",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/cid/ciu359"
+                ]
+            }
+        },
+        "BIBREF43": {
+            "ref_id": "b43",
+            "title": "The Role of Super-Spreaders in Infectious Disease",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wong",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Cell Host Microbe",
+            "volume": "18",
+            "issn": "",
+            "pages": "398--401",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.chom.2015.09.013"
+                ]
+            }
+        },
+        "BIBREF44": {
+            "ref_id": "b44",
+            "title": "Super-spreading events of MERS-CoV infection",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Hui",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Lancet",
+            "volume": "388",
+            "issn": "",
+            "pages": "942--945",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(16)30828-5"
+                ]
+            }
+        },
+        "BIBREF45": {
+            "ref_id": "b45",
+            "title": "MERS-CoV outbreak following a single patient exposure in an emergency room in South Korea: an epidemiological outbreak study",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Cho",
+                    "suffix": ""
+                },
+                {
+                    "first": "J-M",
+                    "middle": [],
+                    "last": "Kang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Ha",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "The Lancet",
+            "volume": "388",
+            "issn": "",
+            "pages": "994--1001",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(16)30623-7"
+                ]
+            }
+        },
+        "BIBREF46": {
+            "ref_id": "b46",
+            "title": "Development of Medical Countermeasures to Middle East Respiratory Syndrome Coronavirus",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Uyeki",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Erlandson",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Korch",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Emerg Infect Dis",
+            "volume": "22",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid2207.160022"
+                ]
+            }
+        },
+        "BIBREF47": {
+            "ref_id": "b47",
+            "title": "WHO | Infection prevention and control (IPC) guidance summary. WHO",
+            "authors": [],
+            "year": 2014,
+            "venue": "WHO",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF48": {
+            "ref_id": "b48",
+            "title": "WHO recommended surveillance standards",
+            "authors": [],
+            "year": 2018,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF49": {
+            "ref_id": "b49",
+            "title": "An observational, laboratorybased study of outbreaks of middle East respiratory syndrome coronavirus in Jeddah and Riyadh, kingdom of Saudi Arabia",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Drosten",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Muth",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Corman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Clin Infect Dis",
+            "volume": "60",
+            "issn": "",
+            "pages": "369--77",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/cid/ciu812"
+                ]
+            }
+        },
+        "BIBREF50": {
+            "ref_id": "b50",
+            "title": "Microevolution of outbreakassociated middle east respiratory syndrome coronavirus, South Korea",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Seong",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Corman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Emerg Infect Dis",
+            "volume": "22",
+            "issn": "",
+            "pages": "327--357",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid2202.151700"
+                ]
+            }
+        },
+        "BIBREF51": {
+            "ref_id": "b51",
+            "title": "Middle East respiratory syndrome coronavirus: Virology, pathogenesis, and epidemiology",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Mcintosh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF52": {
+            "ref_id": "b52",
+            "title": "Middle East respiratory syndrome coronavirus vaccines: current status and novel approaches",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Okba",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Raj",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Haagmans",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Curr Opin Virol",
+            "volume": "23",
+            "issn": "",
+            "pages": "49--58",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.coviro.2017.03.007"
+                ]
+            }
+        },
+        "BIBREF53": {
+            "ref_id": "b53",
+            "title": "Challenges presented by MERS corona virus, and SARS corona virus to global health",
+            "authors": [
+                {
+                    "first": "Al-Hazmi A",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Saudi J Biol Sci",
+            "volume": "23",
+            "issn": "",
+            "pages": "507--518",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.sjbs.2016.02.019"
+                ]
+            }
+        },
+        "BIBREF54": {
+            "ref_id": "b54",
+            "title": "A roadmap for MERS-CoV research and product development: report from a World Health Organization consultation",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Modjarrad",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Moorthy",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ben",
+                    "middle": [],
+                    "last": "Embarek",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Nat Med",
+            "volume": "22",
+            "issn": "",
+            "pages": "701--706",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nm.4131"
+                ]
+            }
+        },
+        "BIBREF55": {
+            "ref_id": "b55",
+            "title": "Nitazoxanide, a new drug candidate for the treatment of Middle East respiratory syndrome coronavirus",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Rossignol",
+                    "suffix": ""
+                },
+                {
+                    "first": "Rj-F",
+                    "middle": [],
+                    "last": "Nitazoxanide",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "J Infect Public Health",
+            "volume": "9",
+            "issn": "",
+            "pages": "227--257",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jiph.2016.04.001"
+                ]
+            }
+        },
+        "BIBREF56": {
+            "ref_id": "b56",
+            "title": "Toward the identification of viral cap-methyltransferase inhibitors by fluorescence screening assay",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Aouadi",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Eydoux",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Coutard",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Antiviral Res",
+            "volume": "144",
+            "issn": "",
+            "pages": "330--339",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.antiviral.2017.06.021"
+                ]
+            }
+        },
+        "BIBREF57": {
+            "ref_id": "b57",
+            "title": "Broad-spectrum antiviral GS-5734 inhibits both epidemic and zoonotic coronaviruses",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Sheahan",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Sims",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Graham",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Sci Transl Med",
+            "volume": "9",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/scitranslmed.aal3653"
+                ]
+            }
+        },
+        "BIBREF58": {
+            "ref_id": "b58",
+            "title": "Coronaviruses -drug discovery and therapeutic options",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Zumla",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Azhar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Nat Rev Drug Discov",
+            "volume": "15",
+            "issn": "",
+            "pages": "327--374",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nrd.2015.37"
+                ]
+            }
+        },
+        "BIBREF59": {
+            "ref_id": "b59",
+            "title": "A novel neutralizing monoclonal antibody targeting the N-terminal domain of the MERS-CoV spike protein",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Jia",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Emerg Microbes Infect",
+            "volume": "6",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/emi.2017.50"
+                ]
+            }
+        },
+        "BIBREF61": {
+            "ref_id": "b61",
+            "title": "Vaccine development for emerging virulent infectious diseases",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Maslow",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Vaccine",
+            "volume": "35",
+            "issn": "",
+            "pages": "5437--5480",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.vaccine.2017.02.015"
+                ]
+            }
+        },
+        "BIBREF62": {
+            "ref_id": "b62",
+            "title": "Rapid development of vaccines against emerging pathogens: The replication-deficient simian adenovirus platform technology",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Gilbert",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Warimwe",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Vaccine",
+            "volume": "35",
+            "issn": "",
+            "pages": "4461--4465",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.vaccine.2017.04.085"
+                ]
+            }
+        },
+        "BIBREF63": {
+            "ref_id": "b63",
+            "title": "Report from the World Health Organization's third Product Development for Vaccines Advisory Committee (PDVAC) meeting",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Giersing",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Vekemans",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Nava",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.vaccine.2016.10.090"
+                ]
+            }
+        },
+        "BIBREF64": {
+            "ref_id": "b64",
+            "title": "Middle East respiratory syndrome vaccines",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Perlman",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Vijay",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Int J Infect Dis",
+            "volume": "47",
+            "issn": "",
+            "pages": "23--31",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ijid.2016.04.008"
+                ]
+            }
+        },
+        "BIBREF65": {
+            "ref_id": "b65",
+            "title": "ChAdOx1 and MVA based vaccine candidates against MERS-CoV elicit neutralising antibodies and cellular immune responses in mice",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Alharbi",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Padron-Regalado",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Thompson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Vaccine",
+            "volume": "35",
+            "issn": "",
+            "pages": "3780--3788",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.vaccine.2017.05.032"
+                ]
+            }
+        },
+        "BIBREF66": {
+            "ref_id": "b66",
+            "title": "Emerging infectious diseases: A proactive approach",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Bloom",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Black",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Rappuoli",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Proc Natl Acad Sci U S A",
+            "volume": "114",
+            "issn": "",
+            "pages": "4055--4064",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.1701410114"
+                ]
+            }
+        },
+        "BIBREF67": {
+            "ref_id": "b67",
+            "title": "Laboratory testing for Middle East Respiratory Syndrome Coronavirus",
+            "authors": [],
+            "year": 2018,
+            "venue": "WHO",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF68": {
+            "ref_id": "b68",
+            "title": "Kinetics of serologic responses to MERS Coronavirus Infection in Humans",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Park",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Perera",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Choe",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "South Korea. Emerg Infect Dis",
+            "volume": "21",
+            "issn": "",
+            "pages": "2186--2195",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid2112.151421"
+                ]
+            }
+        },
+        "BIBREF69": {
+            "ref_id": "b69",
+            "title": "Viral Load Kinetics of MERS Coronavirus Infection",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Oh",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Park",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Choe",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "N Engl J Med",
+            "volume": "375",
+            "issn": "",
+            "pages": "1303--1308",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMc1511695"
+                ]
+            }
+        },
+        "BIBREF70": {
+            "ref_id": "b70",
+            "title": "Viral Shedding and Antibody Response in 37 Patients With Middle East Respiratory Syndrome Coronavirus Infection",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Corman",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Albarrak",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Omrani",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Clin Infect Dis",
+            "volume": "62",
+            "issn": "",
+            "pages": "477--83",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/cid/civ951"
+                ]
+            }
+        },
+        "BIBREF71": {
+            "ref_id": "b71",
+            "title": "The role of laboratory diagnostics in emerging viral infections: the example of the Middle East respiratory syndrome epidemic",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Sridhar",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Yip",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "J Microbiol",
+            "volume": "55",
+            "issn": "",
+            "pages": "172--82",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s12275-017-7026-y"
+                ]
+            }
+        },
+        "BIBREF72": {
+            "ref_id": "b72",
+            "title": "MERS coronavirus: data gaps for laboratory preparedness",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "De Sousa",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Reusken",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Koopmans",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "J Clin Virol",
+            "volume": "59",
+            "issn": "",
+            "pages": "4--11",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jcv.2013.10.030"
+                ]
+            }
+        },
+        "BIBREF73": {
+            "ref_id": "b73",
+            "title": "Predictors of mortality in Middle East respiratory syndrome (MERS)",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Hong",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Choi",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Hong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Thorax",
+            "volume": "73",
+            "issn": "",
+            "pages": "286--295",
+            "other_ids": {
+                "DOI": [
+                    "10.1136/thoraxjnl-2016-209313"
+                ]
+            }
+        },
+        "BIBREF74": {
+            "ref_id": "b74",
+            "title": "MERS-CoV diagnosis: An update",
+            "authors": [
+                {
+                    "first": "Al",
+                    "middle": [],
+                    "last": "Johani",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Hajeer",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "J Infect Public Health",
+            "volume": "9",
+            "issn": "",
+            "pages": "216--225",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jiph.2016.04.005"
+                ]
+            }
+        },
+        "BIBREF75": {
+            "ref_id": "b75",
+            "title": "Clinical features and virological analysis of a case of Middle East respiratory syndrome coronavirus infection",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Drosten",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Seilmaier",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Corman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Lancet Infect Dis",
+            "volume": "13",
+            "issn": "",
+            "pages": "745--51",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1473-3099(13)70154-3"
+                ]
+            }
+        },
+        "BIBREF76": {
+            "ref_id": "b76",
+            "title": "Kinetics and pattern of viral excretion in biological specimens of two MERS-CoV cases",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Poissy",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Goffard",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Parmentier-Decrucq",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "J Clin Virol",
+            "volume": "61",
+            "issn": "",
+            "pages": "275--283",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jcv.2014.07.002"
+                ]
+            }
+        },
+        "BIBREF78": {
+            "ref_id": "b78",
+            "title": "Spread of Mutant Middle East Respiratory Syndrome Coronavirus with Reduced Affinity to Human CD26 during the South Korean Outbreak",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Cheon",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Min",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "MBio",
+            "volume": "7",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/mBio.00019-16"
+                ]
+            }
+        },
+        "BIBREF79": {
+            "ref_id": "b79",
+            "title": "WHO | Laboratory Biosafety Manual -Third Edition",
+            "authors": [],
+            "year": 2004,
+            "venue": "WHO",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF80": {
+            "ref_id": "b80",
+            "title": "Challenges and opportunities for the implementation of virological testing in resource-limited settings",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Roberts",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Bygrave",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Fajardo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "J Int AIDS Soc",
+            "volume": "15",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.7448/IAS.15.2.17324"
+                ]
+            }
+        },
+        "BIBREF81": {
+            "ref_id": "b81",
+            "title": "Advances in addressing technical challenges of point-of-care diagnostics in resource-limited settings",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Lifson",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Inci",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Expert Rev Mol Diagn",
+            "volume": "16",
+            "issn": "",
+            "pages": "449--59",
+            "other_ids": {
+                "DOI": [
+                    "10.1586/14737159.2016.1142877"
+                ]
+            }
+        },
+        "BIBREF82": {
+            "ref_id": "b82",
+            "title": "WHO | Laboratory testing for Middle East Respiratory Syndrome Coronavirus. WHO MERS-COV Lab",
+            "authors": [],
+            "year": 2014,
+            "venue": "Test. Available",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF83": {
+            "ref_id": "b83",
+            "title": "Detection of a novel human coronavirus by real-time reverse-transcription polymerase chain reaction",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Corman",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Eckerle",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Bleicker",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Euro Surveill",
+            "volume": "17",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.2807/ese.17.39.20285-en"
+                ]
+            }
+        },
+        "BIBREF84": {
+            "ref_id": "b84",
+            "title": "Performance and clinical validation of the RealStar MERS-CoV Kit for detection of Middle East respiratory syndrome coronavirus RNA",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Corman",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "\u00d6lschl\u00e4ger",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Wendtner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "J Clin Virol",
+            "volume": "60",
+            "issn": "",
+            "pages": "168--71",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jcv.2014.03.012"
+                ]
+            }
+        },
+        "BIBREF85": {
+            "ref_id": "b85",
+            "title": "Real-time reverse transcription-PCR assay panel for Middle East respiratory syndrome coronavirus",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Whitaker",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Sakthivel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "J Clin Microbiol",
+            "volume": "52",
+            "issn": "",
+            "pages": "67--75",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JCM.02533-13"
+                ]
+            }
+        },
+        "BIBREF86": {
+            "ref_id": "b86",
+            "title": "Development of dual taqman based one-step rrt-pcr assay panel for rapid and accurate diagnostic test of MERS-CoV: a novel human coronavirus, ahead of hajj pilgrimage",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Hashemzadeh",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Rasouli",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Zahraei",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Iran Red Crescent Med J",
+            "volume": "18",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.5812/ircmj.23874"
+                ]
+            }
+        },
+        "BIBREF87": {
+            "ref_id": "b87",
+            "title": "Development and validation of a rapid immunochromatographic assay for detection of Middle East respiratory syndrome coronavirus antigen in dromedary camels",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Song",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Ha",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Serhan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "J Clin Microbiol",
+            "volume": "53",
+            "issn": "",
+            "pages": "1178--82",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JCM.03096-14"
+                ]
+            }
+        },
+        "BIBREF88": {
+            "ref_id": "b88",
+            "title": "An isothermal, label-free, and rapid one-step RNA amplification/detection assay for diagnosis of respiratory viral infections",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Koo",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Jin",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Lee",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Biosens Bioelectron",
+            "volume": "90",
+            "issn": "",
+            "pages": "187--94",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.bios.2016.11.051"
+                ]
+            }
+        },
+        "BIBREF89": {
+            "ref_id": "b89",
+            "title": "Comparison of ePlex respiratory pathogen panel with laboratory-developed real-time pcr assays for detection of respiratory pathogens",
+            "authors": [
+                {
+                    "first": "Rht",
+                    "middle": [],
+                    "last": "Nijhuis",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Guerendiain",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ecj",
+                    "middle": [],
+                    "last": "Claas",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "J Clin Microbiol",
+            "volume": "55",
+            "issn": "",
+            "pages": "1938--1983",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JCM.00221-17"
+                ]
+            }
+        },
+        "BIBREF90": {
+            "ref_id": "b90",
+            "title": "Clinical validation of 3 commercial real-time reverse transcriptase polymerase chain reaction assays for the detection of Middle East respiratory syndrome coronavirus from upper respiratory tract specimens",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Mohamed",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Alhetheel",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Mohamud",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Diagn Microbiol Infect Dis",
+            "volume": "87",
+            "issn": "",
+            "pages": "320--324",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.diagmicrobio.2017.01.003"
+                ]
+            }
+        },
+        "BIBREF91": {
+            "ref_id": "b91",
+            "title": "A sensitive and specific antigen detection assay for Middle East respiratory syndrome coronavirus",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Kang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Emerg Microbes Infect",
+            "volume": "4",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/emi.2015.26"
+                ]
+            }
+        },
+        "BIBREF92": {
+            "ref_id": "b92",
+            "title": "A highly specific rapid antigen detection assay for on-site diagnosis of MERS",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Hong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "J Infect",
+            "volume": "73",
+            "issn": "",
+            "pages": "82--86",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jinf.2016.04.014"
+                ]
+            }
+        },
+        "BIBREF93": {
+            "ref_id": "b93",
+            "title": "Seroepidemiology for MERS coronavirus using microneutralisation and pseudoparticle virus neutralisation assays reveal a high prevalence of antibody in dromedary camels in Egypt",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Perera",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Gomaa",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Euro Surveill",
+            "volume": "18",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.2807/1560-7917.ES2013.18.36.20574"
+                ]
+            }
+        },
+        "BIBREF94": {
+            "ref_id": "b94",
+            "title": "Seroepidemiology of Middle East respiratory syndrome (MERS) coronavirus in Saudi Arabia (1993) and Australia (2014) and characterisation of assay specificity",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Hemida",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Perera",
+                    "suffix": ""
+                },
+                {
+                    "first": "Al",
+                    "middle": [],
+                    "last": "Jassim",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Euro Surveill",
+            "volume": "19",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.2807/1560-7917.ES2014.19.23.20828"
+                ]
+            }
+        },
+        "BIBREF95": {
+            "ref_id": "b95",
+            "title": "Lateral flow assays",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Koczula",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Gallotta",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Lflow",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Essays Biochem",
+            "volume": "60",
+            "issn": "",
+            "pages": "111--131",
+            "other_ids": {
+                "DOI": [
+                    "10.1042/EBC20150012"
+                ]
+            }
+        },
+        "BIBREF96": {
+            "ref_id": "b96",
+            "title": "Development of monoclonal antibody and diagnostic test for middle east respiratory syndrome coronavirus using cell-free synthesized nucleocapsid antigen",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Yamaoka",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Matsuyama",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Fukushi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Front Microbiol",
+            "volume": "7",
+            "issn": "e26",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3389/fmicb.2016.00509"
+                ]
+            }
+        },
+        "BIBREF97": {
+            "ref_id": "b97",
+            "title": "Middle East respiratory syndrome (MERS) coronavirus and dromedaries",
+            "authors": [
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Wernery",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Lau",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Woo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Vet J",
+            "volume": "220",
+            "issn": "",
+            "pages": "75--84",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.tvjl.2016.12.020"
+                ]
+            }
+        },
+        "BIBREF98": {
+            "ref_id": "b98",
+            "title": "Identification of Mycoplasma suis antigens and development of a multiplex microbead immunoassay",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Guimaraes",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Santos",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Timenetsky",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "J Vet Diagn Invest",
+            "volume": "26",
+            "issn": "",
+            "pages": "203--215",
+            "other_ids": {
+                "DOI": [
+                    "10.1177/1040638713520542"
+                ]
+            }
+        },
+        "BIBREF99": {
+            "ref_id": "b99",
+            "title": "Serosurveillance of viral pathogens circulating in West Africa",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "O&apos;hearn",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Voorhees",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Fetterer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Virol J",
+            "volume": "13",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s12985-016-0621-4"
+                ]
+            }
+        },
+        "BIBREF100": {
+            "ref_id": "b100",
+            "title": "Two-tube multiplex real-time reverse transcription PCR to detect six human coronaviruses",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Niu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Shen",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Virol Sin",
+            "volume": "31",
+            "issn": "",
+            "pages": "85--93",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s12250-015-3653-9"
+                ]
+            }
+        },
+        "BIBREF101": {
+            "ref_id": "b101",
+            "title": "A multiplex liquid-chip assay based on Luminex xMAP technology for simultaneous detection of six common respiratory viruses",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Luo",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Oncotarget",
+            "volume": "8",
+            "issn": "",
+            "pages": "96913--96936",
+            "other_ids": {
+                "DOI": [
+                    "10.18632/oncotarget.18533"
+                ]
+            }
+        },
+        "BIBREF102": {
+            "ref_id": "b102",
+            "title": "Surveillance and testing for middle east respiratory syndrome coronavirus",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Saeed",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Abedi",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Alzahrani",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Emerg Infect Dis",
+            "volume": "23",
+            "issn": "",
+            "pages": "682--687",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid2304.161793"
+                ]
+            }
+        },
+        "BIBREF103": {
+            "ref_id": "b103",
+            "title": "Using Healthmap to analyse Middle East Respiratory Syndrome (MERS) data",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Hossain",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Househ",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Stud Health Technol Inform",
+            "volume": "226",
+            "issn": "",
+            "pages": "213--219",
+            "other_ids": {}
+        },
+        "BIBREF104": {
+            "ref_id": "b104",
+            "title": "Progress in promoting data sharing in public health emergencies",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Littler",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Boon",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Carson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Bull World Health Organ",
+            "volume": "95",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.2471/BLT.17.192096"
+                ]
+            }
+        },
+        "BIBREF105": {
+            "ref_id": "b105",
+            "title": "WHO | Influenza surveillance outputs",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Who Surveillance",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF106": {
+            "ref_id": "b106",
+            "title": "Data sharing: make outbreak research open access",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Yozwiak",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Schaffner",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Sabeti",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Nature",
+            "volume": "518",
+            "issn": "",
+            "pages": "477--486",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/518477a"
+                ]
+            }
+        },
+        "BIBREF107": {
+            "ref_id": "b107",
+            "title": "The weapon potential of a microbe",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Casadevall",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Pirofski",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Trends Microbiol",
+            "volume": "12",
+            "issn": "",
+            "pages": "259--63",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.tim.2004.04.007"
+                ]
+            }
+        },
+        "BIBREF108": {
+            "ref_id": "b108",
+            "title": "Biological agents: weapons of warfare and bioterrorism",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Broussard",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Mol Diagn",
+            "volume": "6",
+            "issn": "",
+            "pages": "323--356",
+            "other_ids": {
+                "DOI": [
+                    "10.2165/00066982-200106040-00013"
+                ]
+            }
+        },
+        "BIBREF109": {
+            "ref_id": "b109",
+            "title": "Explanation of the Nagoya Protocol on Access and Benefit Sharing and its implication for microbiology",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Da Silva",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Jackson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Microbiology",
+            "volume": "163",
+            "issn": "",
+            "pages": "289--96",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/mic.0.000425"
+                ]
+            }
+        },
+        "BIBREF110": {
+            "ref_id": "b110",
+            "title": "Global scientific research commons under the Nagoya Protocol: Towards a collaborative economy model for the sharing of basic research assets",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Dedeurwaerdere",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Melindi-Ghidi",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Broggiato",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Environ Sci Policy",
+            "volume": "55",
+            "issn": "",
+            "pages": "1--10",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.envsci.2015.08.006"
+                ]
+            }
+        },
+        "BIBREF111": {
+            "ref_id": "b111",
+            "title": "First international external quality assessment of molecular diagnostics for Mers-CoV",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Pas",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Patel",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Reusken",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "J Clin Virol",
+            "volume": "69",
+            "issn": "",
+            "pages": "81--86",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jcv.2015.05.022"
+                ]
+            }
+        },
+        "BIBREF112": {
+            "ref_id": "b112",
+            "title": "External quality assessment of MERS-CoV molecular diagnostics during the 2015 Korean outbreak",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Seong",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Cho",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Ann Lab Med",
+            "volume": "36",
+            "issn": "",
+            "pages": "230--234",
+            "other_ids": {
+                "DOI": [
+                    "10.3343/alm.2016.36.3.230"
+                ]
+            }
+        },
+        "BIBREF113": {
+            "ref_id": "b113",
+            "title": "External quality assessment for the molecular detection of MERS-CoV in China",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Hao",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "J Clin Virol",
+            "volume": "75",
+            "issn": "",
+            "pages": "5--9",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jcv.2015.12.001"
+                ]
+            }
+        },
+        "BIBREF114": {
+            "ref_id": "b114",
+            "title": "Proficiency testing for the detection of Middle East respiratory syndrome coronavirus demonstrates global capacity to detect Middle East respiratory syndrome coronavirus",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Theis",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Lau",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Gray",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "J Med Virol",
+            "volume": "90",
+            "issn": "",
+            "pages": "1827--1860",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/jmv.25266"
+                ]
+            }
+        },
+        "BIBREF115": {
+            "ref_id": "b115",
+            "title": "Point-of-care testing for infectious diseases: diversity, complexity, and barriers in low-and middle-income countries",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Pai",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Vadnais",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Denkinger",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "PLoS Med",
+            "volume": "9",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pmed.1001306"
+                ]
+            }
+        },
+        "BIBREF116": {
+            "ref_id": "b116",
+            "title": "Diagnostic point-of-care tests in resource-limited settings",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Drain",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Hyle",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Noubary",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Lancet Infect Dis",
+            "volume": "14",
+            "issn": "",
+            "pages": "239--288",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1473-3099(13)70250-0"
+                ]
+            }
+        },
+        "BIBREF117": {
+            "ref_id": "b117",
+            "title": "Response to emergence of middle east respiratory syndrome coronavirus",
+            "authors": [
+                {
+                    "first": "Al",
+                    "middle": [],
+                    "last": "Hosani",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Pringle",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                },
+                {
+                    "first": "Al",
+                    "middle": [],
+                    "last": "Mulla",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Emerg Infect Dis",
+            "volume": "22",
+            "issn": "",
+            "pages": "1162--1170",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid2207.160040"
+                ]
+            }
+        },
+        "BIBREF118": {
+            "ref_id": "b118",
+            "title": "An orthopoxvirusbased vaccine reduces virus excretion after MERS-CoV infection in dromedary camels",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Haagmans",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Van Den Brand",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Raj",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Science",
+            "volume": "351",
+            "issn": "",
+            "pages": "77--81",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.aad1283"
+                ]
+            }
+        },
+        "BIBREF119": {
+            "ref_id": "b119",
+            "title": "Evaluation of the whole-blood alere Q NAT Point-of-Care RNA Assay for HIV-1 Viral load monitoring in a primary health care setting in mozambique",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Jani",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Meggi",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Vubil",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "J Clin Microbiol",
+            "volume": "54",
+            "issn": "",
+            "pages": "2104--2112",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JCM.00362-16"
+                ]
+            }
+        },
+        "BIBREF120": {
+            "ref_id": "b120",
+            "title": "Point-of-Care Cepheid Xpert HIV-1 Viral load test in rural african communities is feasible and reliable",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Moyo",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Mohammed",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Wirth",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "J Clin Microbiol",
+            "volume": "54",
+            "issn": "",
+            "pages": "3050--3055",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JCM.01594-16"
+                ]
+            }
+        },
+        "BIBREF121": {
+            "ref_id": "b121",
+            "title": "Performance of the SAMBA I and II HIV-1 Semi-Q Tests for viral load monitoring at the point-of-care",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Goel",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Ritchie",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Mtapuri-Zinyowera",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "J Virol Methods",
+            "volume": "244",
+            "issn": "",
+            "pages": "39--45",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jviromet.2017.03.001"
+                ]
+            }
+        },
+        "BIBREF122": {
+            "ref_id": "b122",
+            "title": "One-pot reverse transcriptional loop-mediated isothermal amplification (RT-LAMP) for detecting MERS-CoV",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Baek",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Kim",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Front Microbiol",
+            "volume": "7",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3389/fmicb.2016.02166"
+                ]
+            }
+        },
+        "BIBREF123": {
+            "ref_id": "b123",
+            "title": "Multiplex paperbased colorimetric dna sensor using pyrrolidinyl peptide nucleic acid-induced AgNPs aggregation for detecting MERS-CoV, MTB, and HPV Oligonucleotides",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Teengam",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Siangproh",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Tuantranont",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Anal Chem",
+            "volume": "89",
+            "issn": "",
+            "pages": "5428--5463",
+            "other_ids": {
+                "DOI": [
+                    "10.1021/acs.analchem.7b00255"
+                ]
+            }
+        },
+        "BIBREF124": {
+            "ref_id": "b124",
+            "title": "The impact of co-infection of influenza A virus on the severity of Middle East Respiratory Syndrome Coronavirus",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Alfaraj",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Al-Tawfiq",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Alzahrani",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "J Infect",
+            "volume": "74",
+            "issn": "",
+            "pages": "521--524",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jinf.2017.02.001"
+                ]
+            }
+        },
+        "BIBREF125": {
+            "ref_id": "b125",
+            "title": "WPRO | second meeting on laboratory strengthening for emerging infectious diseases in the Asia Pacific Region",
+            "authors": [],
+            "year": 2014,
+            "venue": "WHO",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF126": {
+            "ref_id": "b126",
+            "title": "Point-Counterpoint: Large Multiplex PCR Panels Should Be First-Line Tests for Detection of Respiratory and Intestinal Pathogens",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Schreckenberger",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Mcadam",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "J Clin Microbiol",
+            "volume": "53",
+            "issn": "",
+            "pages": "3110--3115",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JCM.00382-15"
+                ]
+            }
+        },
+        "BIBREF127": {
+            "ref_id": "b127",
+            "title": "Cost analysis of multiplex PCR testing for diagnosing respiratory virus infections",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Mahony",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Blackhouse",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Babwah",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J Clin Microbiol",
+            "volume": "47",
+            "issn": "",
+            "pages": "2812--2819",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JCM.00556-09"
+                ]
+            }
+        },
+        "BIBREF128": {
+            "ref_id": "b128",
+            "title": "Impact of a rapid respiratory panel test on patient outcomes",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Rogers",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Shankar",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Jerris",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Arch Pathol Lab Med",
+            "volume": "139",
+            "issn": "",
+            "pages": "636--677",
+            "other_ids": {
+                "DOI": [
+                    "10.5858/arpa.2014-0257-OA"
+                ]
+            }
+        },
+        "BIBREF129": {
+            "ref_id": "b129",
+            "title": "PCR for detection of respiratory viruses: seasonal variations of virus infections",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Olofsson",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Brittain-Long",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Andersson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Expert Rev Anti Infect Ther",
+            "volume": "9",
+            "issn": "",
+            "pages": "615--641",
+            "other_ids": {
+                "DOI": [
+                    "10.1586/eri.11.75"
+                ]
+            }
+        },
+        "BIBREF130": {
+            "ref_id": "b130",
+            "title": "Global mortality estimates for the 2009 Influenza Pandemic from the GLaMOR project: a modeling study",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Simonsen",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Spreeuwenberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Lustig",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "PLoS Med",
+            "volume": "10",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pmed.1001558"
+                ]
+            }
+        },
+        "BIBREF131": {
+            "ref_id": "b131",
+            "title": "Prevalence and seasonal distribution of respiratory viruses during the 2014 -2015 season in Istanbul",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Goktas",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Sirin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Jundishapur J Microbiol",
+            "volume": "9",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.5812/jjm.39132"
+                ]
+            }
+        },
+        "BIBREF132": {
+            "ref_id": "b132",
+            "title": "Development of a respiratory virus panel test for detection of twenty human respiratory viruses by use of multiplex PCR and a fluid microbead-based assay",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Mahony",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Chong",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Merante",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J Clin Microbiol",
+            "volume": "45",
+            "issn": "",
+            "pages": "2965--70",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JCM.02436-06"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "MERS-CoV transmission and geographical range. Reprinted from emergencies preparedness, response-Middle East respiratory syndrome-coronavirus (MERS-CoV), WHO, MERS-CoV transmission and geographical range. Copyright (2018).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Confirmed global cases of MERS-CoV as of 18 September 2018. Reprinted from emergencies preparedness, response-Middle East respiratory syndrome-coronavirus (MERS-CoV), WHO, MERS-CoV transmission and geographical range. Copyright (2018).",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "The WHO R&D Blueprint for Action to Prevent Epidemics is a global strategy and preparedness plan to strengthen the emergency response to highly infectious diseases, including MERS-CoV, by fast-tracking the development of effective medical technologies that can be brought to patients during epidemics.4 This landscape analysis, complementary to the recent Food and Agriculture Organization (FAO)-Office International des Epizooties (OIE)-WHO MERS Global Technical Meeting report,",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Diagnostic capacity vs setting BSL, biosafety level; IIFT, indirect immunofluorescence test; LDT, lab-developed test; MERS-CoV, Middle East respiratory syndromecoronavirus ; NAAT, nucleic acid amplification test; POC, point of care; RDT, rapid diagnostic test.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "Acknowledgements We gratefully acknowledge input to the roadmap from all those who attended the FAO-OIE-WHO Global Technical Meeting on MERS-CoV in September 2017. The opinions expressed in this article are those of the authors and do not necessarily reflect those of the institutions or organisations with which they are affiliated. Editorial assistance for later drafts was provided by Rachel",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "acknowledgement"
+        }
+    ]
+}

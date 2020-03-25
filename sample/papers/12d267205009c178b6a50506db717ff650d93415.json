@@ -1,0 +1,1352 @@
+{
+    "paper_id": "12d267205009c178b6a50506db717ff650d93415",
+    "metadata": {
+        "title": "A pneumonia outbreak associated with a new coronavirus of probable bat origin",
+        "authors": [
+            {
+                "first": "Peng",
+                "middle": [],
+                "last": "Zhou",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "CAS Key Laboratory of Special Pathogens",
+                    "institution": "Chinese Academy of Sciences",
+                    "location": {
+                        "settlement": "Wuhan",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Xing-Lou",
+                "middle": [],
+                "last": "Yang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "CAS Key Laboratory of Special Pathogens",
+                    "institution": "Chinese Academy of Sciences",
+                    "location": {
+                        "settlement": "Wuhan",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Xian-Guang",
+                "middle": [],
+                "last": "Wang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Wuhan Jin Yin-Tan Hospital",
+                    "location": {
+                        "settlement": "Wuhan",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Ben",
+                "middle": [],
+                "last": "Hu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "CAS Key Laboratory of Special Pathogens",
+                    "institution": "Chinese Academy of Sciences",
+                    "location": {
+                        "settlement": "Wuhan",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Lei",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "CAS Key Laboratory of Special Pathogens",
+                    "institution": "Chinese Academy of Sciences",
+                    "location": {
+                        "settlement": "Wuhan",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Wei",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Hao-Rui",
+                "middle": [],
+                "last": "Si",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "CAS Key Laboratory of Special Pathogens",
+                    "institution": "Chinese Academy of Sciences",
+                    "location": {
+                        "settlement": "Wuhan",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Yan",
+                "middle": [],
+                "last": "Zhu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "CAS Key Laboratory of Special Pathogens",
+                    "institution": "Chinese Academy of Sciences",
+                    "location": {
+                        "settlement": "Wuhan",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Bei",
+                "middle": [],
+                "last": "Li",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "CAS Key Laboratory of Special Pathogens",
+                    "institution": "Chinese Academy of Sciences",
+                    "location": {
+                        "settlement": "Wuhan",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Chao-Lin",
+                "middle": [],
+                "last": "Huang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "CAS Key Laboratory of Special Pathogens",
+                    "institution": "Chinese Academy of Sciences",
+                    "location": {
+                        "settlement": "Wuhan",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Hui-Dong",
+                "middle": [],
+                "last": "Chen",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Wuhan Jin Yin-Tan Hospital",
+                    "location": {
+                        "settlement": "Wuhan",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Jing",
+                "middle": [],
+                "last": "Chen",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "CAS Key Laboratory of Special Pathogens",
+                    "institution": "Chinese Academy of Sciences",
+                    "location": {
+                        "settlement": "Wuhan",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Yun",
+                "middle": [],
+                "last": "Luo",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "CAS Key Laboratory of Special Pathogens",
+                    "institution": "Chinese Academy of Sciences",
+                    "location": {
+                        "settlement": "Wuhan",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Hua",
+                "middle": [],
+                "last": "Guo",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "CAS Key Laboratory of Special Pathogens",
+                    "institution": "Chinese Academy of Sciences",
+                    "location": {
+                        "settlement": "Wuhan",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Ren-Di",
+                "middle": [],
+                "last": "Jiang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "CAS Key Laboratory of Special Pathogens",
+                    "institution": "Chinese Academy of Sciences",
+                    "location": {
+                        "settlement": "Wuhan",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Mei-Qin",
+                "middle": [],
+                "last": "Liu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "CAS Key Laboratory of Special Pathogens",
+                    "institution": "Chinese Academy of Sciences",
+                    "location": {
+                        "settlement": "Wuhan",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Ying",
+                "middle": [],
+                "last": "Chen",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Xu-Rui",
+                "middle": [],
+                "last": "Shen",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "CAS Key Laboratory of Special Pathogens",
+                    "institution": "Chinese Academy of Sciences",
+                    "location": {
+                        "settlement": "Wuhan",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Xi",
+                "middle": [],
+                "last": "Wang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "CAS Key Laboratory of Special Pathogens",
+                    "institution": "Chinese Academy of Sciences",
+                    "location": {
+                        "settlement": "Wuhan",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Xiao-Shuang",
+                "middle": [],
+                "last": "Zheng",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "CAS Key Laboratory of Special Pathogens",
+                    "institution": "Chinese Academy of Sciences",
+                    "location": {
+                        "settlement": "Wuhan",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Kai",
+                "middle": [],
+                "last": "Zhao",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "CAS Key Laboratory of Special Pathogens",
+                    "institution": "Chinese Academy of Sciences",
+                    "location": {
+                        "settlement": "Wuhan",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Quan-Jiao",
+                "middle": [],
+                "last": "Chen",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Fei",
+                "middle": [],
+                "last": "Deng",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "CAS Key Laboratory of Special Pathogens",
+                    "institution": "Chinese Academy of Sciences",
+                    "location": {
+                        "settlement": "Wuhan",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Lin-Lin",
+                "middle": [],
+                "last": "Liu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "CAS Key Laboratory of Special Pathogens",
+                    "institution": "Chinese Academy of Sciences",
+                    "location": {
+                        "settlement": "Wuhan",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Bing",
+                "middle": [],
+                "last": "Yan",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "CAS Key Laboratory of Special Pathogens",
+                    "institution": "Chinese Academy of Sciences",
+                    "location": {
+                        "settlement": "Wuhan",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Fa-Xian",
+                "middle": [],
+                "last": "Zhan",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "CAS Key Laboratory of Special Pathogens",
+                    "institution": "Chinese Academy of Sciences",
+                    "location": {
+                        "settlement": "Wuhan",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Yan-Yi",
+                "middle": [],
+                "last": "Wang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "CAS Key Laboratory of Special Pathogens",
+                    "institution": "Chinese Academy of Sciences",
+                    "location": {
+                        "settlement": "Wuhan",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Geng-Fu",
+                "middle": [],
+                "last": "Xiao",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "CAS Key Laboratory of Special Pathogens",
+                    "institution": "Chinese Academy of Sciences",
+                    "location": {
+                        "settlement": "Wuhan",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Zheng-Li",
+                "middle": [],
+                "last": "Shi",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "CAS Key Laboratory of Special Pathogens",
+                    "institution": "Chinese Academy of Sciences",
+                    "location": {
+                        "settlement": "Wuhan",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "Since the outbreak of severe acute respiratory syndrome (SARS) 18 years ago, a large number of SARS-related coronaviruses (SARSr-CoVs) have been discovered in their natural reservoir host, bats [1] [2] [3] [4] . Previous studies have shown that some bat SARSr-CoVs have the potential to infect humans [5] [6] [7] . Here we report the identification and characterization of a new coronavirus (2019-nCoV), which caused an epidemic of acute respiratory syndrome in humans in Wuhan, China. The epidemic, which started on 12 December 2019, had caused 2,794 laboratory-confirmed infections including 80 deaths by 26 January 2020. Full-length genome sequences were obtained from five patients at an early stage of the outbreak. The sequences are almost identical and share 79.6% sequence identity to SARS-CoV. Furthermore, we show that 2019-nCoV is 96% identical at the whole-genome level to a bat coronavirus. Pairwise protein sequence analysis of seven conserved non-structural proteins domains show that this virus belongs to the species of SARSr-CoV. In addition, 2019-nCoV virus isolated from the bronchoalveolar lavage fluid of a critically ill patient could be neutralized by sera from several patients. Notably, we confirmed that 2019-nCoV uses the same cell entry receptor-angiotensin converting enzyme II (ACE2)-as SARS-CoV.",
+            "cite_spans": [
+                {
+                    "start": 194,
+                    "end": 197,
+                    "text": "[1]",
+                    "ref_id": null
+                },
+                {
+                    "start": 198,
+                    "end": 201,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 202,
+                    "end": 205,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 206,
+                    "end": 209,
+                    "text": "[4]",
+                    "ref_id": null
+                },
+                {
+                    "start": 301,
+                    "end": 304,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 305,
+                    "end": 308,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 309,
+                    "end": 312,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Coronaviruses have caused two large-scale pandemics in the past two decades, SARS and Middle East respiratory syndrome (MERS) 8, 9 . It has generally been thought that SARSr-CoV-which is mainly found in bats-could cause a future disease outbreak 10, 11 . Here we report on a series of cases caused by an unidentified pneumonia disease outbreak in Wuhan, Hubei province, central China. This disease outbreak-which started from a local seafood market-has grown substantially to infect 2,761 people in China, is associated with 80 deaths and has led to the infection of 33 people in 10 additional countries as of 26 January 2020 12 . Typical clinical symptoms of these patients are fever, dry cough, breathing difficulties (dyspnoea), headache and pneumonia. Disease onset may result in progressive respiratory failure owing to alveolar damage (as observed by transverse chest computerized-tomography images) and even death. The disease was determined to be caused by virus-induced pneumonia by clinicians according to clinical symptoms and other criteria, including a rise in body temperature, decreases in the number of lymphocytes and white blood cells (although levels of the latter were sometimes normal), new pulmonary infiltrates on chest radiography and no obvious improvement after treatment with antibiotics for three days. It appears that most of the early cases had contact history with the original seafood market; however, the disease has now progressed to be transmitted by human-to-human contact.",
+            "cite_spans": [
+                {
+                    "start": 126,
+                    "end": 128,
+                    "text": "8,",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 246,
+                    "end": 249,
+                    "text": "10,",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Samples from seven patients with severe pneumonia (six of whom are sellers or deliverymen from the seafood market), who were admitted to the intensive care unit of Wuhan Jin Yin-Tan Hospital at the beginning of the outbreak, were sent to the laboratory at the Wuhan Institute of Virology (WIV) for the diagnosis of the causative pathogen (Extended Data Table 1 ). As a laboratory investigating CoV, we first used pan-CoV PCR primers to test these samples 13 , given that the outbreak occurred in winter and in a market-the same environment as SARS infections. We found five samples to be PCR-positive for CoVs. One sample (WIV04), collected from the bronchoalveolar lavage fluid (BALF), was analysed by metagenomics analysis using next-generation sequencing to identify potential aetiological agents. Of the 10,038,758 total reads-of which 1,582 total reads were retained after filtering of reads from the human genome-1,378 (87.1%) sequences matched the sequence of SARSr-CoV (Fig. 1a) . By de novo assembly and targeted PCR, we obtained a 29,891-base-pair CoV genome that shared 79.6% sequence identity to SARS-CoV BJ01 (GenBank accession number AY278488.2). High genome coverage was obtained by remapping the total reads to this genome (Extended Data Fig. 1 ). This sequence has been submitted to GISAID (https://www.gisaid.org/) (accession number EPI_ISL_402124). Following the name given by the World Health Organization (WHO), we tentatively call it novel coronavirus 2019 (2019-nCoV). Four more full-length genome sequences of 2019-nCoV (WIV02, WIV05, WIV06 and WIV07) (GISAID accession numbers EPI_ISL_402127-402130) that were more than 99.9% identical to each other were subsequently obtained from four additional patients using next-generation sequencing and PCR (Extended Data Table 2 ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 353,
+                    "end": 360,
+                    "text": "Table 1",
+                    "ref_id": null
+                },
+                {
+                    "start": 977,
+                    "end": 986,
+                    "text": "(Fig. 1a)",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 1254,
+                    "end": 1260,
+                    "text": "Fig. 1",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 1788,
+                    "end": 1795,
+                    "text": "Table 2",
+                    "ref_id": null
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": "The virus genome consists of six major open-reading frames (ORFs) that are common to coronaviruses and a number of other accessory genes (Fig. 1b) . Further analysis indicates that some of the 2019-nCoV genes shared less than 80% nucleotide sequence identity to SARS-CoV. However, the amino acid sequences of the seven conserved replicase domains in ORF1ab that were used for CoV species classification were 94.4% identical between 2019-nCoV and SARS-CoV, suggesting that the two viruses belong to the same species, SARSr-CoV.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 137,
+                    "end": 146,
+                    "text": "(Fig. 1b)",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": "We then found that a short region of RNA-dependent RNA polymerase (RdRp) from a bat coronavirus (BatCoV RaTG13)-which was previously detected in Rhinolophus affinis from Yunnan province-showed high sequence identity to 2019-nCoV. We carried out full-length sequencing on this RNA sample (GISAID accession number EPI_ISL_402131). Simplot analysis showed that 2019-nCoV was highly similar throughout the genome to RaTG13 (Fig. 1c) , with an overall genome sequence identity of 96.2%. Using the aligned genome sequences of 2019-nCoV, RaTG13, SARS-CoV and previously reported bat SARSr-CoVs, no evidence for recombination events was detected in the genome of 2019-nCoV. Phylogenetic analysis of the full-length genome and the gene sequences of RdRp and spike (S) showed that-for all sequences-RaTG13 is the closest relative of 2019-nCoV and they form a distinct lineage from other SARSr-CoVs ( Fig. 1d and Extended Data Fig. 2 ). The receptor-binding spike protein encoded by the S gene was highly divergent from other CoVs (Extended Data Fig. 2) , with less than 75% nucleotide sequence identity to all previously described SARSr-CoVs, except for a 93.1% nucleotide identity to RaTG13 (Extended Data Table 3 ). The S genes of 2019-nCoV and RaTG13 are longer than other SARSr-CoVs. The major differences in the sequence of the S gene of 2019-nCoV are the three short insertions in the N-terminal domain as well as changes in four out of five of the key residues in the receptor-binding motif compared with the sequence of SARS-CoV (Extended Data Fig. 3 ). Whether the insertions in the N-terminal domain of the S protein of 2019-nCoV confer sialic-acid-binding activity as it does in MERS-CoV needs to be further studied. The close phylogenetic relationship to RaTG13 provides evidence that 2019-nCoV may have originated in bats.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 419,
+                    "end": 428,
+                    "text": "(Fig. 1c)",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 890,
+                    "end": 897,
+                    "text": "Fig. 1d",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 916,
+                    "end": 922,
+                    "text": "Fig. 2",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 1035,
+                    "end": 1042,
+                    "text": "Fig. 2)",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 1197,
+                    "end": 1204,
+                    "text": "Table 3",
+                    "ref_id": null
+                },
+                {
+                    "start": 1542,
+                    "end": 1548,
+                    "text": "Fig. 3",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": "We rapidly developed a qPCR-based detection method on the basis of the sequence of the receptor-binding domain of the S gene, which was the most variable region of the genome (Fig. 1c) . Our data show that the primers could differentiate 2019-nCoV from all other human coronaviruses including bat SARSr-CoV WIV1, which shares 95% identity with SARS-CoV (Extended Data Fig. 4a, b) . Of the samples obtained from the seven patients, we found that six BALF and five oral swab samples were positive for 2019-nCoV during the first sampling, as assessed by qPCR and conventional PCR. However, we could no longer detect virus-positive samples in oral swabs, anal swabs and blood samples taken from these patients during the second sampling (Fig. 2a) . However, we recommend that other qPCR targets, including the RdRp or envelope (E) genes are used for the routine detection of 2019-nCoV. On the basis of these findings, we propose that the disease could be transmitted by airborne transmission, although we cannot rule out other possible routes of transmission, as further investigation, including more patients, is required. ",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 175,
+                    "end": 184,
+                    "text": "(Fig. 1c)",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 368,
+                    "end": 379,
+                    "text": "Fig. 4a, b)",
+                    "ref_id": null
+                },
+                {
+                    "start": 733,
+                    "end": 742,
+                    "text": "(Fig. 2a)",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": "For serological detection of 2019-nCoV, we used a previously developed nucleocapsid (N) protein from bat SARSr-CoV Rp3 as antigen for IgG and IgM enzyme-linked immunosorbent assays (ELISAs), as this protein shared 92% amino acid identity to N protein of 2019-nCoV (Extended Data Fig. 5 ) and showed no cross-reactivity against other human coronaviruses except SARSr-CoV 7 . We were only able to obtain five serum samples from the seven patients with viral infections. We monitored viral antibody levels in one patient (ICU-06) 7, 8, 9 and 18 days after the onset of disease (Extended Data Table 2 ). A clear trend was observed in the IgG and IgM titres, which increased over time, except that the IgM titre was decreased in the last sample (Fig. 2b) . As a second analysis, we tested samples from 5 of the 7 virus-positive patients around 20 days after disease onset for the presence of viral antibodies (Extended Data Tables 1, 2). All patient samples-but not samples from healthy individuals-were strongly positive for viral IgG (Fig. 2b ). There were also three IgM-positive samples, indicating an acute infection.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 279,
+                    "end": 285,
+                    "text": "Fig. 5",
+                    "ref_id": null
+                },
+                {
+                    "start": 589,
+                    "end": 596,
+                    "text": "Table 2",
+                    "ref_id": null
+                },
+                {
+                    "start": 740,
+                    "end": 749,
+                    "text": "(Fig. 2b)",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 1031,
+                    "end": 1039,
+                    "text": "(Fig. 2b",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "Article"
+        },
+        {
+            "text": "We next successfully isolated the virus (called 2019-nCoV BetaCoV/ Wuhan/WIV04/2019) from both Vero E6 and Huh7 cells using the BALF sample of patient ICU-06. Clear cytopathogenic effects were observed in cells after incubation for three days (Extended Data Fig. 6a, b) . The identity of the strain WIV04 was verified in Vero E6 cells by immunofluorescence microscopy using the cross-reactive viral N antibody (Extended Data Fig. 6c, d) and by metagenomics sequencing, most of the reads of which mapped to 2019-nCoV, and qPCR analysis showed that the viral load increased from day 1 to day 3 (Extended Data Fig. 6e, f) . Viral particles in ultrathin sections of infected cells displayed a typical coronavirus morphology, as visualized by electron microscopy (Extended Data Fig. 6g ). To further confirm the neutralization activity of the viral IgG-positive samples, we conducted serum-neutralization assays in Vero E6 cells using the five patient sera that were IgG-positive. We demonstrate that all samples were able to neutralize 100 TCID 50 (50% tissue-culture-infective dose) of 2019-nCoV at a dilution of 1:40-1:80. We also show that this virus could be cross-neutralized by horse anti-SARS-CoV serum (gift from L.-F. Wang) at dilutions of 1:40; however, the potential for cross-reactivity with SARS-CoV antibodies needs to be confirmed with anti-SARS-CoV serum from humans (Extended Data Table 4 ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 258,
+                    "end": 269,
+                    "text": "Fig. 6a, b)",
+                    "ref_id": null
+                },
+                {
+                    "start": 425,
+                    "end": 436,
+                    "text": "Fig. 6c, d)",
+                    "ref_id": null
+                },
+                {
+                    "start": 607,
+                    "end": 618,
+                    "text": "Fig. 6e, f)",
+                    "ref_id": null
+                },
+                {
+                    "start": 773,
+                    "end": 780,
+                    "text": "Fig. 6g",
+                    "ref_id": null
+                },
+                {
+                    "start": 1389,
+                    "end": 1401,
+                    "text": "Data Table 4",
+                    "ref_id": null
+                }
+            ],
+            "section": "Article"
+        },
+        {
+            "text": "ACE2 is known to be a cell receptor for SARS-CoV 14 . To determine whether 2019-nCoV also uses ACE2 as a cellular entry receptor, we conducted virus infectivity studies using HeLa cells that expressed or did not express ACE2 proteins from humans, Chinese horseshoe bats, civets, pigs and mice. We show that 2019-nCoV is able to use all ACE2 proteins, except for mouse ACE2, as an entry receptor to enter ACE2expressing cells, but not cells that did not express ACE2, indicating that ACE2 is probably the cell receptor through which 2019-nCoV enters cells (Fig. 3) . We also show that 2019-nCoV does not use other coronavirus receptors, such as aminopeptidase N (APN) and dipeptidyl peptidase 4 (DPP4) (Extended Data Fig. 7) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 555,
+                    "end": 563,
+                    "text": "(Fig. 3)",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 711,
+                    "end": 723,
+                    "text": "Data Fig. 7)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Article"
+        },
+        {
+            "text": "The study provides a detailed report on 2019-nCoV, the likely aetiological agent responsible for the ongoing epidemic of acute respiratory syndrome in China and other countries. Virus-specific nucleotidepositive and viral-protein seroconversion was observed in all patients tested and provides evidence of an association between the disease and the presence of this virus. However, there are still many urgent questions that remain to be answered. The association between 2019-nCoV and the disease has not been verified by animal experiments to fulfil the Koch's postulates to establish a causative relationship between a microorganism and a disease. We do not yet know the transmission routine of this virus among hosts. It appears that the virus is becoming more transmissible between humans. We should closely monitor whether the virus continues to evolve to become more virulent. Owing to a shortage of specific treatments and considering the relatedness of 2019-nCoV to SARS-CoV, some drugs and pre-clinical vaccines against Table 2 ). The asterisk indicates data collected from patient ICU-06 on 10 January 2020. b, c, The cut-off was to 0.2 for the IgM analysis and to 0.3 for the IgG analysis, according to the levels of healthy controls.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 1030,
+                    "end": 1037,
+                    "text": "Table 2",
+                    "ref_id": null
+                }
+            ],
+            "section": "Article"
+        },
+        {
+            "text": "SARS-CoV could probably be used to treat this virus. Finally, considering the wide spread of SARSr-CoV in their natural reservoirs, future research should be focused on active surveillance of these viruses for broader geographical regions. In the long term, broad-spectrum antiviral drugs and vaccines should be prepared for emerging infectious diseases that are caused by this cluster of viruses in the future. Most importantly, strict regulations against the domestication and consumption of wildlife should be implemented.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Article"
+        },
+        {
+            "text": "Note added in proof: Since this paper was accepted, the ICTV has designated the virus as SARS-CoV-2 15 ; in addition, the WHO has released the official name of the disease caused by this virus, which is COVID-19 16 .",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Article"
+        },
+        {
+            "text": "Any methods, additional references, Nature Research reporting summaries, source data, extended data, supplementary information, acknowledgements, peer review information; details of author contributions and competing interests; and statements of data and code availability are available at https://doi.org/10.1038/s41586-020-2012-7.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Online content"
+        },
+        {
+            "text": "Publisher's note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations. ACE2. The expression of ACE2 plasmid with S tag was detected using mouse anti-S tag monoclonal antibody. hACE2, human ACE2; bACE2, ACE2 of Rhinolophus sinicus (bat); cACE2, civet ACE2; sACE2, swine ACE2 (pig); mACE2, mouse ACE2. Green, ACE2; red, viral protein (N); blue, DAPI (nuclei). Scale bars, 10 \u03bcm.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Online content"
+        },
+        {
+            "text": "No statistical methods were used to predetermine sample size. The experiments were not randomized and the investigators were not blinded to allocation during experiments and outcome assessment.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Data reporting"
+        },
+        {
+            "text": "Human samples, including oral swabs, anal swabs, blood and BALF samples were collected by Jinyintan hospital (Wuhan, China) with the consent of all patients and approved by the ethics committee of the designated hospital for emerging infectious diseases. Patients were sampled without gender or age preference unless indicated. For swabs, 1.5 ml DMEM containing 2% FBS was added to each tube. The supernatant was collected after centrifugation at 2,500 rpm, vortexing for 60 s and a standing period of 15-30 min. The supernatant from swabs or BALF (no pre-treatment) was added to either lysis buffer for RNA extraction or to viral transport medium for isolation of the virus. The viral transport medium was composed of Hank's balanced salt solution (pH 7.4) containing BSA (1%), amphotericin (15 \u03bcg ml \u22121 ), penicillin G (100 units ml \u22121 ) and streptomycin (50 \u03bcg ml \u22121 ). Serum was separated by centrifugation at 3,000g for 15 min within 24 h of collection, followed by inactivation at 56 \u00b0C for 1 h, and was then stored at 4 \u00b0C until use.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Sample collection"
+        },
+        {
+            "text": "The following cell lines were used for virus isolation in this study: Vero E6 and Huh7 cells, which were cultured in DMEM containing 10% FBS. All cell lines were tested and free of mycoplasma contamination, submitted for species identification and authenticated by morphological evaluation by microscopy. None of the cell lines was on the list of commonly misidentified cell lines (by ICLAC). Cultured cell monolayers were maintained in their respective medium. The PCR-positive BALF sample from ICU-06 patient was spun at 8,000g for 15 min, filtered and diluted 1:2 with DMEM supplemented with 16 \u03bcg ml \u22121 trypsin before it was added to the cells. After incubation at 37 \u00b0C for 1 h, the inoculum was removed and replaced with fresh culture medium containing antibiotics (see below) and 16 \u03bcg ml \u22121 trypsin. The cells were incubated at 37 \u00b0C and observed daily for cytopathogenic effects. The culture supernatant was examined for the presence of virus by qRT-PCR methods developed in this study, and cells were examined by immunofluorescence microscopy using the anti-SARSr-CoV Rp3 N antibody that was generated in-house (1:1,000). Penicillin (100 units ml \u22121 ) and streptomycin (15 \u03bcg ml \u22121 ) were included in all tissue culture media.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Virus isolation, cell infection, electron microscopy and neutralization assay"
+        },
+        {
+            "text": "Vero E6 cells were infected with the new virus at a multiplicity of infection (MOI) of 0.5 and collected 48 h after infection. Cells were fixed with 2.5% (w/v) glutaraldehyde and 1% osmium tetroxide, dehydrated through a graded series of ethanol concentrations (from 30 to 100%) and embedded with epoxy resin. Ultrathin sections (80 nm) of embedded cells were prepared, deposited onto Formvar-coated copper grids (200 mesh), stained with uranyl acetate and lead citrate, and analysed using a 200-kV Tecnai G2 electron microscope.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Virus isolation, cell infection, electron microscopy and neutralization assay"
+        },
+        {
+            "text": "The virus neutralization test was carried out in a 96-well plate. The patient serum samples were heat-inactivated by incubation at 56 \u00b0C for 1 h before use. The serum samples were diluted to 1:10, 1:20, 1:40 or 1:80, and then an equal volume of virus stock was added and incubated at 37 \u00b0C for 60 min in a 5% CO 2 incubator. Diluted horse anti-SARS-CoV serum or serum samples from healthy individuals were used as control. After incubation, 100 \u03bcl mixtures were inoculated onto a monolayer of Vero E6 cells in a 96-well plate for 1 h. Each serum was assessed in triplicate. After removing the supernatant, the plate was washed twice with DMEM medium. Cells were incubated with DMEM supplemented with 2% FBS for 3 days. Subsequently, the cells were checked for cytopathogenic effects.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Virus isolation, cell infection, electron microscopy and neutralization assay"
+        },
+        {
+            "text": "Whenever commercial kits were used, the manufacturer's instructions were followed without modification. RNA was extracted from 200 \u03bcl of samples with the High Pure Viral RNA kit (Roche). RNA was eluted in 50 \u03bcl of elution buffer and used as the template for RT-PCR.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "RNA extraction and PCR"
+        },
+        {
+            "text": "For qPCR analysis, primers based on the S gene of 2019-nCoV were designed: RBD-qF1, 5\u2032-CAATGGTTTAACAGGCACAGG-3\u2032; RBD-qR1, 5\u2032-CTCAAGTGTCTGTGGATCACG-3\u2032. RNA extracted as described above was used for qPCR using the HiScript II One Step qRT-PCR SYBR Green Kit (Vazyme Biotech). Conventional PCRs were also performed using the following primer pairs: ND-CoVs-951F, 5\u2032-TGT-KAGRTTYCCTAAYATTAC-3\u2032; ND-CoVs-1805R, 5\u2032-ACATCYTGATAN-ARAACAGC-3\u2032. The 20-\u03bcl qPCR reaction mix contained 10 \u03bcl 2\u00d7 One",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "RNA extraction and PCR"
+        },
+        {
+            "text": "Step SYBR Green mix, 1 \u03bcl One Step SYBR Green Enzyme mix, 0.4 \u03bcl 50\u00d7 ROX Reference Dye 1, 0.4 \u03bcl of each primer (10 \u03bcM) and 2 \u03bcl template RNA. Amplification was performed as follows: 50 \u00b0C for 3 min, 95 \u00b0C for 30 s followed by 40 cycles consisting of 95 \u00b0C for 10 s and 60 \u00b0C for 30 s, and a default melting curve step in an ABI 7500 Real-time PCR machine.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "RNA extraction and PCR"
+        },
+        {
+            "text": "In-house anti-SARSr-CoV IgG and IgM ELISA kits were developed using SARSr-CoV Rp3 N protein as antigen, which shared more than 90% amino acid identity to all SARSr-CoVs 2 . For IgG analyses, MaxiSorp Nunc-immuno 96-well ELISA plates were coated (100 ng per well) overnight with recombinant N protein. Human sera were used at a dilution of 1:20 for 1 h at 37 \u00b0C. An anti-human IgG HRP-conjugated monoclonal antibody (Kyab Biotech) was used at a dilution of 1:40,000. The OD value (450-630 nm) was calculated. For IgM analyses, MaxiSorp Nuncimmuno 96-well ELISA plates were coated (500 ng per well) overnight with anti-human IgM (\u03bc chain). Human sera were used at a 1:100 dilution for 40 min at 37 \u00b0C, followed by incubation with an anti-Rp3 N HRP-conjugated antibody (Kyab Biotech) at a dilution of 1:4,000. The OD value (450-630 nm) was calculated.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Serological test"
+        },
+        {
+            "text": "HeLa cells transiently expressing ACE2 were prepared using Lipofectamine 3000 (Thermo Fisher Scientific) in a 96-well plate; mock-transfected cells were used as controls. 2019-nCoV grown in Vero E6 cells was used for infection at a MOI of 0.5. APN and DPP4 were analysed in the same way. The inoculum was removed after absorption for 1 h and washed twice with PBS and supplemented with medium. At 24 h after infection, cells were washed with PBS and fixed with 4% formaldehyde in PBS (pH 7.4) for 20 min at room temperature. ACE2 expression was detected using a mouse anti-S tag monoclonal antibody and a FITC-labelled goat antimouse IgG H&L (Abcam, ab96879). Viral replication was detected using a rabbit antibody against the Rp3 N protein (generated in-house, 1:1,000) and a Cy3-conjugated goat anti-rabbit IgG (1:200, Abcam, ab6939). Nuclei were stained with DAPI (Beyotime). Staining patterns were examined using confocal microscopy on a FV1200 microscope (Olympus).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Examination of ACE2 receptor for 2019-nCoV infection"
+        },
+        {
+            "text": "High-throughput sequencing, pathogen screening and genome assembly Samples from patient BALF or from the supernatant of virus cultures were used for RNA extraction and next-generation sequencing (NGS) using BGI MGISEQ2000 and Illumina MiSeq 3000 sequencers. Metagenomic analysis was carried out mainly based on the bioinformatics platform MGmapper (PE_2.24 and SE_2.24). The raw NGS reads were first processed by Cutadapt (v.1.18) with minimum read length of 30 base pairs. BWA (v.0.7.12-r1039) was used to align reads to a local database with a filter hits parameter of 0.8 FMM ((match + mismatch)/read length \u2265 fraction] value and minimum alignment score of 30. Parameters for post-processing of assigned reads were set to a minimum size normalized abundance of 0.01, minimum read count of 20 and were otherwise set to default parameters. A local nucleic acid database for human and mammals was used to filter reads of host genomes before mapping reads to the virus database. The results of the metagenomic analysis were displayed as pie charts using Microsoft Office 2010. NGS reads were assembled into genomes using Geneious (v.11.0.3) and MEGAHIT (v.1.2.9). PCR and Sanger sequencing was performed to fill gaps in the genome. 5\u2032-rapid amplification of cDNA ends (RACE) was performed to determine the 5\u2032-end of the genomes using a SMARTer RACE 5\u2032/3\u2032 kit (Takara). Genomes were annotated using the Clone Manager Professional Suite 8 (Sci-Ed Software).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Examination of ACE2 receptor for 2019-nCoV infection"
+        },
+        {
+            "text": "Routine sequence management and analysis was carried out using DNAStar. The sequence alignment of complete genome sequences was performed using MAFFT (v.7.307) with default parameters. The codon alignments of full-length S and RdRp gene sequences were converted from the corresponding protein alignments by PAL2NAL (v.14); the protein alignments were created by Clustal Omega (v.1.2.4) using default parameters. Maximum likelihood phylogenetic trees were generated using RAxML (v.0.9.0) with GTR+G substitution model and 1,000 bootstrap replicates.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Phylogenetic analysis"
+        },
+        {
+            "text": "Further information on research design is available in the Nature Research Reporting Summary linked to this paper.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Reporting summary"
+        },
+        {
+            "text": "Sequence data that support the findings of this study have been deposited in GISAID (https://www.gisaid.org/) with accession numbers EPI_ISL_402124, EPI_ISL_402127-EPI_ISL_402130 and EPI_ISL_402131; GenBank with accession numbers MN996527-MN996532; National Genomics Data Center, Beijing Institute of Genomics, Chinese Academy of Sciences (https://bigd.big.ac.cn/databases?lang=en) with accession numbers SAMC133236-SAMC133240 and SAMC133252. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Data availability"
+        },
+        {
+            "text": "For all statistical analyses, confirm that the following items are present in the figure legend, table legend, main text, or Methods section.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistics"
+        },
+        {
+            "text": "The exact sample size (n) for each experimental group/condition, given as a discrete number and unit of measurement A statement on whether measurements were taken from distinct samples or whether the same sample was measured repeatedly",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "n/a Confirmed"
+        },
+        {
+            "text": "The statistical test(s) used AND whether they are one-or two-sided Only common tests should be described solely by name; describe more complex techniques in the Methods section.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "n/a Confirmed"
+        },
+        {
+            "text": "A description of all covariates tested A description of any assumptions or corrections, such as tests of normality and adjustment for multiple comparisons A full description of the statistical parameters including central tendency (e.g. means) or other basic estimates (e.g. regression coefficient) AND variation (e.g. standard deviation) or associated estimates of uncertainty (e.g. confidence intervals)",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "n/a Confirmed"
+        },
+        {
+            "text": "For null hypothesis testing, the test statistic (e.g. F, t, r) with confidence intervals, effect sizes, degrees of freedom and P value noted For manuscripts utilizing custom algorithms or software that are central to the research but not yet described in published literature, software must be made available to editors/reviewers. We strongly encourage code deposition in a community repository (e.g. GitHub). See the Nature Research guidelines for submitting code & software for further information.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "n/a Confirmed"
+        },
+        {
+            "text": "Policy information about availability of data All manuscripts must include a data availability statement. This statement should provide the following information, where applicable:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Data"
+        },
+        {
+            "text": "-Accession codes, unique identifiers, or web links for publicly available datasets -A list of figures that have associated raw data -A description of any restrictions on data availability",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Data"
+        },
+        {
+            "text": "Field-specific reporting Please select the one below that is the best fit for your research. If you are not sure, read the appropriate sections before making your selection. Sequence data that support the findings of this study have been deposited in GISAID with the accession no. EPI_ISL_402124 and EPI_ISL_402127-402131.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Data"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Bats are natural reservoirs of SARS-like coronaviruses",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Science",
+            "volume": "310",
+            "issn": "",
+            "pages": "676--679",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Isolation and characterization of a bat SARS-like coronavirus that uses the ACE2 receptor",
+            "authors": [
+                {
+                    "first": "X.-Y",
+                    "middle": [],
+                    "last": "Ge",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Nature",
+            "volume": "503",
+            "issn": "",
+            "pages": "535--538",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Novel SARS-like betacoronaviruses in bats, China",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Emerg. Infect. Dis",
+            "volume": "19",
+            "issn": "",
+            "pages": "989--991",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Discovery of a rich gene pool of bat SARS-related coronaviruses provides new insights into the origin of SARS coronavirus",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "PLoS Pathog",
+            "volume": "13",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "A SARS-like cluster of circulating bat coronaviruses shows potential for human emergence",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Menachery",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Nat. Med",
+            "volume": "21",
+            "issn": "",
+            "pages": "1508--1513",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "SARS-like WIV1-CoV poised for human emergence",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Menachery",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Proc. Natl Acad. Sci. USA",
+            "volume": "113",
+            "issn": "",
+            "pages": "3048--3053",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Serological evidence of bat SARS-related coronavirus infection in humans",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "China. Virol. Sin",
+            "volume": "33",
+            "issn": "",
+            "pages": "104--107",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Identification of a novel coronavirus in patients with severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Drosten",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "N. Engl. J. Med",
+            "volume": "348",
+            "issn": "",
+            "pages": "1967--1976",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Isolation of a novel coronavirus from a man with pneumonia in Saudi Arabia",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Zaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Van Boheemen",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Bestebroer",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "D M E"
+                    ],
+                    "last": "Osterhaus",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Fouchier",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "N. Engl. J. Med",
+            "volume": "367",
+            "issn": "",
+            "pages": "1814--1820",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Origin and evolution of pathogenic coronaviruses",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Cui",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Shi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Nat. Rev. Microbiol",
+            "volume": "17",
+            "issn": "",
+            "pages": "181--192",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Bat coronaviruses in China",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Fan",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.-L",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Viruses",
+            "volume": "11",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Press statement related to novel coronavirus infection",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Identification of a novel coronavirus in bats",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Poon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J. Virol",
+            "volume": "79",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Angiotensin-converting enzyme 2 is a functional receptor for the SARS coronavirus",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nature",
+            "volume": "426",
+            "issn": "",
+            "pages": "450--454",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Severe acute respiratory syndrome-related coronavirus -the species and its viruses, a statement of the Coronavirus Study Group",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Gorbalenya",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "https:/www.biorxiv.org/content/10.1101/2020.02.07.937862v1"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "WHO. WHO Director-General's remarks at the media briefing on 2019-nCoV on 11",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "African green monkey origin, Vero E6 cell; 2. Human lung cell Huh7 ; 3. Human HeLa cells. All cell lines werefrom (Abcam,ab6939, dilution: 1:200); 6. mouse anti-S tag monoclonal antibody made in house",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Abcam, ab96879, dlilution 1:100); 5. cyanin 3-conjugated goat anti-rabbit IgG Ltd,Wuhan, China, dilution: 1:40000); 3. Anti-Rp3 NP-HRP conjugated",
+            "authors": [],
+            "year": null,
+            "venue": "FITC-labelled goat anti-mouse IgG H&L",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Anti-Human IgG-HRP conjugated monoclonal antibody",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "2",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF1": {
+            "text": "Genome characterization of 2019-nCoV. a, Metagenomics analysis of next-generation sequencing of BALF from patient ICU06. b, Genomic organization of 2019-nCoV WIV04. M, membrane. c, Similarity plot based on the full-length genome sequence of 2019-nCoV WIV04. Full-length genome sequences of SARS-CoV BJ01, bat SARSr-CoV WIV1, bat coronavirus RaTG13 and ZC45 were used as reference sequences. d, Phylogenetic tree based on nucleotide sequences of complete genomes of coronaviruses. MHV, murine hepatitis virus; PEDV, porcine epidemic diarrhoea virus; TGEV, porcine transmissible gastroenteritis virus.The scale bars represent 0.1 substitutions per nucleotide position. Descriptions of the settings and software that was used are included in the Methods.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Molecular and serological investigation of patient samples. a, Molecular detection of 2019-nCoV in seven patients. Patient information can be found in Extended Data Tables 1, 2. Detection methods are described in the Methods. AS, anal swab; OS, oral swab. b, Dynamics of 2019-nCoV antibody levels in one patient who showed signs of disease on 23 December 2019 (ICU-06). OD ratio, optical density at 450-630 nm. The right and left y axes indicate ELISA OD ratios for IgM and IgG, respectively. c, Serological test of 2019-nCoV antibodies in five patients (Extended Data",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit http://creativecommons.org/licenses/by/4Analysis of the receptor use of 2019-nCoV. Determination of virus infectivity in HeLa cells that expressed or did not express (untransfected)",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "wishes to improve the reproducibility of the work that we publish. This form provides structure for consistency and transparency in reporting. For further information on Nature Research policies, see Authors & Referees and the Editorial Policy Checklist.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF5": {
+            "text": "Give P values as exact values whenever suitable.For Bayesian analysis, information on the choice of priors and Markov chain Monte Carlo settingsFor hierarchical and complex designs, identification of the appropriate level for tests and full reporting of outcomes Estimates of effect sizes (e.g. Cohen's d, Pearson's r), indicating how they were calculated Our web collection on statistics for biologists contains articles on many of the points above. v0.712-r1039), Cutadapt (v1.18), Geneious (v11.0.3), MEGAHIT (v1.2.9), Clone Manager Professional Suite 8, MAFFT (v7.307), MGmapper (PE2.24 and SE2.24), PAL2NAL (version 14), Clustal Omega (version 1.2.4), RAxML (version 0.9.0)",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF1": {
+            "text": "Life sciencesBehavioural & social sciences Ecological, evolutionary & environmental sciencesLast updated by author(s): Feb 21, 2020",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "For a reference copy of the document with all sections, see nature.com/documents/nr-reporting-summary-flat.pdf",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "October 2018"
+        },
+        {
+            "text": "All studies must disclose on these points even when the disclosure is negative.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Life sciences study design"
+        },
+        {
+            "text": "Samples of seven pneumonia patients are available from the clinical hospital to be sent to Wuhan Institute of Virology for pathogen identification. The coronavirus genome sequences were obtained from 5 different patients and shared >99.9% identity, suggesting they were infected by the same virus. Therefore, the sample size is sufficient for conducting the following study which aims to identify and characterize the causative agent of this pneumonia outbreak.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Sample size"
+        },
+        {
+            "text": "The authors guarantee the findings are reliably reproducible. At least three independent experiments were performed, which was stated in the text.Randomization Samples were chosen randomly.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Replication"
+        },
+        {
+            "text": "We were blinded when choosing samples.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Blinding"
+        },
+        {
+            "text": "We require information from authors about some types of materials, experimental systems and methods used in many studies. Here, indicate whether each material, system or method listed is relevant to your study. If you are not sure if a list item applies to your research, read the appropriate section before selecting a response. The house-made SARSr-CoV Rp3 NP antibodies and anti-S tag monoclonal antibody were validated in a WB. The cy3-conjugated anti-rabbit IgGs were validated in IFA. The FITC-labelled goat anti-mouse IgG H&L was validated in IHC.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Reporting for specific materials, systems and methods"
+        },
+        {
+            "text": "Cell line source(s) Authentication All monkey and human cells were from ATCC with authentication. The authentication was performed by microscope morphology check, growth curve analysis or identity verification with STR analysis (for human cell lines).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Eukaryotic cell lines Policy information about cell lines"
+        },
+        {
+            "text": "We confirm that all cells were tested as mycoplasma negative.Commonly misidentified lines (See ICLAC register)No commonly misidentified cell lines were used.ATCC.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Mycoplasma contamination"
+        },
+        {
+            "text": "Policy information about studies involving human research participants",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Human research participants"
+        },
+        {
+            "text": "Participants were all 2019-nCoV infected patients.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Population characteristics"
+        },
+        {
+            "text": "Samples were sent to Wuhan Institute of Virology by hospital for pathogen identification.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Recruitment"
+        },
+        {
+            "text": "Wuhan Jinyintan Hospital (the co-authored institution)Note that full information on the approval of the study protocol must also be provided in the manuscript.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Ethics oversight"
+        }
+    ]
+}

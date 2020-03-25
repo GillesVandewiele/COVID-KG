@@ -1,0 +1,2222 @@
+{
+    "paper_id": "74ae352ed6606527cca17ab3b773687251f38590",
+    "metadata": {
+        "title": "",
+        "authors": [
+            {
+                "first": "Danielle",
+                "middle": [
+                    "R"
+                ],
+                "last": "Adney",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Colorado State University",
+                    "location": {
+                        "addrLine": "Foothills Campus, Fort Collins",
+                        "postCode": "W113 ARBL, 80523-1601",
+                        "settlement": "Bldg",
+                        "region": "CO",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Neeltje",
+                "middle": [],
+                "last": "Van Doremalen",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Colorado State University",
+                    "location": {
+                        "addrLine": "Foothills Campus, Fort Collins",
+                        "postCode": "W113 ARBL, 80523-1601",
+                        "settlement": "Bldg",
+                        "region": "CO",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Vienna",
+                "middle": [
+                    "R"
+                ],
+                "last": "Brown",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Colorado State University",
+                    "location": {
+                        "addrLine": "Foothills Campus, Fort Collins",
+                        "postCode": "W113 ARBL, 80523-1601",
+                        "settlement": "Bldg",
+                        "region": "CO",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Trenton",
+                "middle": [],
+                "last": "Bushmaker",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Colorado State University",
+                    "location": {
+                        "addrLine": "Foothills Campus, Fort Collins",
+                        "postCode": "W113 ARBL, 80523-1601",
+                        "settlement": "Bldg",
+                        "region": "CO",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Dana",
+                "middle": [],
+                "last": "Scott",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Colorado State University",
+                    "location": {
+                        "addrLine": "Foothills Campus, Fort Collins",
+                        "postCode": "W113 ARBL, 80523-1601",
+                        "settlement": "Bldg",
+                        "region": "CO",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Emmie",
+                "middle": [],
+                "last": "De Wit",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Colorado State University",
+                    "location": {
+                        "addrLine": "Foothills Campus, Fort Collins",
+                        "postCode": "W113 ARBL, 80523-1601",
+                        "settlement": "Bldg",
+                        "region": "CO",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Richard",
+                "middle": [
+                    "A"
+                ],
+                "last": "Bowen",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Colorado State University",
+                    "location": {
+                        "addrLine": "Foothills Campus, Fort Collins",
+                        "postCode": "W113 ARBL, 80523-1601",
+                        "settlement": "Bldg",
+                        "region": "CO",
+                        "country": "USA"
+                    }
+                },
+                "email": "richard.bowen@colostate.edu"
+            },
+            {
+                "first": "Vincent",
+                "middle": [
+                    "J"
+                ],
+                "last": "Munster",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Colorado State University",
+                    "location": {
+                        "addrLine": "Foothills Campus, Fort Collins",
+                        "postCode": "W113 ARBL, 80523-1601",
+                        "settlement": "Bldg",
+                        "region": "CO",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "T",
+                "middle": [],
+                "last": "Doremalen",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Colorado State University",
+                    "location": {
+                        "addrLine": "Foothills Campus, Fort Collins",
+                        "postCode": "W113 ARBL, 80523-1601",
+                        "settlement": "Bldg",
+                        "region": "CO",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "D",
+                "middle": [],
+                "last": "Bushmaker",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Colorado State University",
+                    "location": {
+                        "addrLine": "Foothills Campus, Fort Collins",
+                        "postCode": "W113 ARBL, 80523-1601",
+                        "settlement": "Bldg",
+                        "region": "CO",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "E",
+                "middle": [],
+                "last": "Scott",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Colorado State University",
+                    "location": {
+                        "addrLine": "Foothills Campus, Fort Collins",
+                        "postCode": "W113 ARBL, 80523-1601",
+                        "settlement": "Bldg",
+                        "region": "CO",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "V",
+                "middle": [
+                    "J"
+                ],
+                "last": "De Wit",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Colorado State University",
+                    "location": {
+                        "addrLine": "Foothills Campus, Fort Collins",
+                        "postCode": "W113 ARBL, 80523-1601",
+                        "settlement": "Bldg",
+                        "region": "CO",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "",
+                "middle": [],
+                "last": "Munster",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Colorado State University",
+                    "location": {
+                        "addrLine": "Foothills Campus, Fort Collins",
+                        "postCode": "W113 ARBL, 80523-1601",
+                        "settlement": "Bldg",
+                        "region": "CO",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "In 2012, a novel coronavirus associated with severe respiratory disease in humans emerged in the Middle East. Epidemiologic investigations identified dromedary camels as the likely source of zoonotic transmission of Middle East respiratory syndrome coronavirus (MERS-CoV).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Here we provide experimental support for camels as a reservoir for MERS-CoV. We inoculated 3 adult camels with a human isolate of MERS-CoV and a transient, primarily upper respiratory tract infection developed in each of the 3 animals. Clinical signs of the MERS-CoV infection were benign, but each of the camels shed large quantities of virus from the upper respiratory tract. We detected infectious virus in nasal secretions through 7 days postinoculation, and viral RNA up to 35 days postinoculation. The pattern of shedding and propensity for the upper respiratory tract infection in dromedary camels may help explain the lack of systemic illness among naturally infected camels and the means of efficient camel-to-camel and camel-tohuman transmission.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "T he Middle East respiratory syndrome coronavirus (MERS-CoV) was first recognized in 2012 related to a fatal human case of pneumonia in Saudi Arabia (1) . Currently, >800 cases of MERS have been identified, and the estimated case-fatality rate is \u224835% (2) . Most cases have been identified on the Arabian Peninsula, but several travel-associated cases have been reported (2) (3) (4) . Human-to-human transmission has been reported, predominantly among persons in health care facilities and households; the rate of human infection by zoonotic transmission from a reservoir source is currently not known (4) (5) (6) .",
+            "cite_spans": [
+                {
+                    "start": 149,
+                    "end": 152,
+                    "text": "(1)",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 252,
+                    "end": 255,
+                    "text": "(2)",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 371,
+                    "end": 374,
+                    "text": "(2)",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 375,
+                    "end": 378,
+                    "text": "(3)",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 379,
+                    "end": 382,
+                    "text": "(4)",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 602,
+                    "end": 605,
+                    "text": "(4)",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 606,
+                    "end": 609,
+                    "text": "(5)",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 610,
+                    "end": 613,
+                    "text": "(6)",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The close phylogenetic relationship of human MERS-CoV isolates with those obtained from bats initially suggested a direct link between the emergence of MERS-CoV and a putative natural reservoir (7) (8) (9) . Anecdotal reports mentioned contact of MERS-CoV-infected patients with camels and goats, suggesting that livestock might be the intermediate reservoir host for MERS-CoV (4,10-12). Serologic studies revealed widespread prevalence of MERS-CoV-specific antibodies in dromedary camels from several countries that reported MERS cases (4, (13) (14) (15) (16) (17) (18) (19) . Further, MERS-CoV RNA was detected in nasal swab samples obtained from 3 camels on a farm linked to 2 human MERS-CoV cases, and the virus was isolated from nasal swab samples from dromedary camels in Qatar (14) . MERS-CoV isolation and subsequent full genome sequencing directly linked a dromedary camel and a fatal MERS-CoV case in a person in Saudi Arabia (20, 21) . Despite these associations, the role of camels as a primary reservoir for MERS-CoV is still debated (22, 23) . Here we report on the experimental inoculation of 3 camels with a human isolate of MERS-CoV.",
+            "cite_spans": [
+                {
+                    "start": 194,
+                    "end": 197,
+                    "text": "(7)",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 198,
+                    "end": 201,
+                    "text": "(8)",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 202,
+                    "end": 205,
+                    "text": "(9)",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 537,
+                    "end": 540,
+                    "text": "(4,",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 541,
+                    "end": 545,
+                    "text": "(13)",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 546,
+                    "end": 550,
+                    "text": "(14)",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 551,
+                    "end": 555,
+                    "text": "(15)",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 556,
+                    "end": 560,
+                    "text": "(16)",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 561,
+                    "end": 565,
+                    "text": "(17)",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 566,
+                    "end": 570,
+                    "text": "(18)",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 571,
+                    "end": 575,
+                    "text": "(19)",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 784,
+                    "end": 788,
+                    "text": "(14)",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 936,
+                    "end": 940,
+                    "text": "(20,",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 941,
+                    "end": 944,
+                    "text": "21)",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 1047,
+                    "end": 1051,
+                    "text": "(22,",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 1052,
+                    "end": 1055,
+                    "text": "23)",
+                    "ref_id": "BIBREF23"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "MERS-CoV (strain HCoV-EMC/2012) was provided by the Department of Viroscience, Erasmus Medical Center, Rotterdam, The Netherlands. The virus was propagated in Vero E6 cells cultured in Dulbecco modified Eagle medium (Invitrogen, Carlsbad, CA, USA) supplemented with 2% fetal bovine serum, 2 mmol/L glutamine, 50 U/mL penicillin, and 50 \u00b5g/mL streptomycin.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Virus and Cells"
+        },
+        {
+            "text": "Three native-born adult male dromedary camels (Camelus dromedarius) were obtained through private sale; the animals tested negative by neutralization assay for MERS-CoV and for bovine coronavirus by ELISA. Camels 1, 2, and 3 were 2, 3, and 5 years old, respectively. Camels 1 and 2 were intact males, and camel 3 had been castrated. Animals were housed in an Animal Biosafety Level 3 facility for the duration of the experiment and fed ad libitum. Camels were acclimated to the facility for 2 weeks before virus inoculation. We sedated the camels with xylazine, then inoculated them with a total dose of 10 7 50% tissue culture infective dose (TCID 50 ) of MERS-CoV (strain HCoV-EMC/2012) in a total volume of 15 mL, by way of intratracheal (8 mL using transcutaneous catheter), intranasal (3.3 mL in each nostril by expulsion from a syringe), and conjunctival (0.2 mL in each conjunctival sac) routes. The routes of inoculation and infectious dose were chosen to reflect a combination of most likely routes of exposure and to increase the potential of infection. The animals were observed at least 1\u00d7 daily for the duration of the experiment for behavior, food consumption, activity level, and nasal discharge. Rectal temperature was taken daily from 2 to 7 days postinoculation, then 3\u00d7 weekly until the animals were euthanized. Nasal and oral swab samples and fecal samples were collected into virus transport medium or virus lysis buffer daily from 0 to 7 days postinoculation (dpi), then 3\u00d7 weekly until the animal was euthanized. Blood was collected into evacuated EDTA and serum-separating tubes daily at 0-7 dpi and 3\u00d7 weekly thereafter. Urine was collected by convenience and at necropsy. To evaluate whether virus is exhaled from infected camels, a funnel was placed over the muzzle of each camel and connected to a vacuum pump to capture exhaled air in tissue culture media (10 mL Dulbecco modified Eagle medium, 1% fetal bovine serum, 0.013% SE-15 (anti-foam) with an All Glass Impinger (Ace Glass Inc., Vineland, NJ, USA). Exhaled breath was collected for \u22482 minutes and analyzed by quantitative real-time PCR (qPCR) and virus titration. On days 5, 28, and 42, camels 1, 2, and 3, respectively, were euthanized, and samples were collected from nasal turbinates, lungs, trachea, larynx, pharynx, liver, spleen, kidney, bladder, urine, duodenum, jejunum, colon, rectum, abomasum, forestomachs, prescapular lymph node, retropharyngeal lymph node, tracheobronchial lymph node, mediastinal lymph node, mesenteric lymph node, medulla, and olfactory cortex.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Replication and Shedding of MERS-CoV in Upper Respiratory Tract of Inoculated Dromedary Camels"
+        },
+        {
+            "text": "We extracted RNA from swab samples, fecal samples, and serum samples using the QIAamp Viral RNA kit (QIA-GEN, Valencia, CA, USA) according to the manufacturer's instructions. For detection of viral RNA, we used 5 mL of RNA in a one-step real-time reverse transcription PCR upE assay (24) using the Rotor-GeneTM probe kit (QIAGEN) according to manufacturer's instructions. Standard dilutions of a titered virus stock were run in parallel, to calculate TCID 50 equivalents in the samples (25) .",
+            "cite_spans": [
+                {
+                    "start": 486,
+                    "end": 490,
+                    "text": "(25)",
+                    "ref_id": "BIBREF25"
+                }
+            ],
+            "ref_spans": [],
+            "section": "RNA Extraction and Quantitative PCR"
+        },
+        {
+            "text": "We titrated swab samples in viral transport medium, whole blood, and homogenized tissues (\u224810% wt/vol) for MERS-CoV virus by plaque assay. Briefly, 10-fold serial dilutions of samples were prepared in BA-1 medium (MEM, 1% bovine serum albumin, 350 mg/L sodium bicarbonate, 50 mM Tris, pH 7.6, 5 mg/L phenol red) containing 100 mg gentamicin, 200,000 U penicillin G, 100 mg streptomycin, and 5 mg amphotericin/L; plaque assay was conducted as Horizontal lines indicate the normal temperature range observed among these dromedary camels as calculated by mean \u00b1 3\u00d7, the SD before inoculation.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Virus Titration and Plaque Reduction Neutralization Test"
+        },
+        {
+            "text": "described for West Nile virus (26) . Plaques were counted on days 1 and 3 after the second overlay and virus titers were expressed as PFUs per mL or gram. We determined neutralizing antibody titers by plaque reduction neutralization test as described (26), using a 90% neutralization cutoff.",
+            "cite_spans": [
+                {
+                    "start": 30,
+                    "end": 34,
+                    "text": "(26)",
+                    "ref_id": "BIBREF26"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Virus Titration and Plaque Reduction Neutralization Test"
+        },
+        {
+            "text": "Tissues were fixed for >7 days in 10% neutral-buffered formalin and embedded in paraffin. Tissue sections were stained with hematoxylin and eosin. To detect MERS-CoV antigen, we completed immunohistochemical testing using a rabbit polyclonal antiserum against HCoV-EMC/2012 (1:1,000) as a primary antibody.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Histopathologic Examination and Immunohistochemical Testing"
+        },
+        {
+            "text": "Each camel showed minor clinical signs of disease, consisting of rhinorrhea (Figure 1, panel A) and a mild elevation in body temperature at 2 dpi and 5-6 dpi ( Figure  1, panel B) ; no other clinical signs were observed. Rhinorrhea developed in all 3 camels beginning at 2 (camels 1 and 3) and 5 (camel 2) dpi, and persisted <2 weeks. The nasal discharge drained from both nares and varied in character from serous to purulent; minor hemorrhage was observed on some occasions, but may have been caused by trauma that occurred during collection of samples. MERS-CoV shedding started during 1-2 dpi, as detected by the presence of infectious virus and viral RNA by qPCR in nasal swab samples. Infectious virus shedding was detected <7 dpi, and shedding of viral RNA was detected <35 dpi in nasal swab samples (Figure 2 ). Low concentrations of infectious virus and viral RNA were detected in oral samples, likely originating in drainage from the nasal cavity ( Figure 3) . No viral RNA was detected in fecal samples or in urine samples collected by convenience or at necropsy at 0, 1, 5, 14, 21, 28, and 42 dpi from the 3 camels. No infectious virus or viral RNA was detected in any of the serum or whole blood samples. Small quantities of MERS-CoV RNA were detected in exhaled breath by qPCR (10 1.2 and 10 1.4 TCID 50 equivalent/mL) at 3 and 5 dpi, but infectious virus was not detected.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 76,
+                    "end": 95,
+                    "text": "(Figure 1, panel A)",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 160,
+                    "end": 179,
+                    "text": "Figure  1, panel B)",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 807,
+                    "end": 816,
+                    "text": "(Figure 2",
+                    "ref_id": null
+                },
+                {
+                    "start": 959,
+                    "end": 968,
+                    "text": "Figure 3)",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "Clinical Signs in Dromedary Camels Inoculated with MERS-CoV"
+        },
+        {
+            "text": "Infectious virus was detected in tissues from camel 1, which was euthanized on 5 dpi, but not in tissues obtained from camels 2 and 3, which were euthanized at28 and 42 dpi, respectively. Infectious virus was detected in tissues of the upper respiratory tract (URT), including nasal turbinates, olfactory epithelium, pharynx, and larynx. In the lower respiratory tract, infectious virus was detected in the trachea and in 1 of 4 lung lobes tested. Infectious virus was also detected in the retropharyngeal, mediastinal, mesenteric, and tracheobronchial lymph nodes (Figure 4 ). On necropsy of camel 1 at 5 dpi, histologic lesions were found in the pseudostratified epithelial cells in the URT and the lower respiratory tract (trachea, bronchi, and bronchioles) but not in the alveoli ( Figure  5) . The lesions were characterized as mild to moderate acute intraepithelial and submucosal inflammation with multifocal necrosis and loss of pseudostratified epithelial cells, comparable to the common cold among humans. Multifocal loss of epithelial polarity and cilia with squamous metaplasia were observed. The epithelium was infiltrated by small-to-moderate numbers of neutrophils with fewer macrophages; similar inflammatory cells also permeated the submucosa. The submucosal glands of the trachea were multifocally necrotic and infiltrated by small numbers of neutrophils. Viral antigen was detected within the epithelial cells of the nasal turbinates, larynx, trachea, bronchi, and bronchioles, but not the alveoli. In addition, viral antigen was present at the follicular mantle zone of the tonsils and mediastinal and retropharyncheal lymph nodes ( Figure 5 ). The nasal turbinates, larynx, and trachea of camel 2 (necropsied at 28 dpi) had similar but milder lesions when compared with those of camel 1. The nasal turbinate, larynx, and bronchus showed small numbers of infiltrating neutrophils; however, in contrast with the condition of camel 1, the cilia and goblet cells were intact. The remainder of the respiratory tract of camel 2 was unaffected. Immunohistochemical testing revealed the presence of limited viral antigen in the nasal turbinate but not in any of the other tissues at that time. No lesions or viral antigens were detected in camel 3 at 42 dpi.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 565,
+                    "end": 574,
+                    "text": "(Figure 4",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 786,
+                    "end": 796,
+                    "text": "Figure  5)",
+                    "ref_id": "FIGREF4"
+                },
+                {
+                    "start": 1653,
+                    "end": 1661,
+                    "text": "Figure 5",
+                    "ref_id": "FIGREF4"
+                }
+            ],
+            "section": "MERS-CoV Tropism and Pathology"
+        },
+        {
+            "text": "Serum samples were collected weekly from the camels to monitor the generation of neutralizing antibodies specific to MERS CoV. Each of the 3 camels was seronegative before inoculation. Robust MERS-CoV specific antibody responses developed in camels 2 and 3 (euthanized on 28 and 42 dpi, respectively), detected first on 14 dpi with a plaque-reduction neutralization test titer from 20 to 40 that increased to 640 at 35 dpi (Table) . Camel 1 was euthanized at 5 dpi and was not tested for development of antibodies against the virus. Tissues were collected at 5 days postinoculation (dpi) for camel 1, 28 dpi for vamel 2 and 42 dpi for camel 3. Detectable infectious virus in the collected tissues was found only in camel 1. Nasal turbinates were sampled in 3 different sections: anterior, medial, and posterior. Infectious titers were determined by plaque assay. LN, lymph node.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 423,
+                    "end": 430,
+                    "text": "(Table)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Humoral Response to MERS-CoV"
+        },
+        {
+            "text": "Epidemiologic and surveillance data on the emergence of MERS-CoV strongly point toward a role for dromedary camels as a reservoir for zoonotic transmission (13) (14) (15) (16) (17) (18) (19) (20) (21) 27, 28) . To understand the ecology of MERS-CoV in the most likely reservoir host, we experimentally inoculated 3 young adult dromedary camels with MERS CoV. The disease observed was clinically benign, in agreement with the absence of overt illness reported from field surveillance studies (14, 17, 19, 21) . A large quantity of MERS-CoV and viral RNA was detected in nasal swab specimens from each of the 3 camels. Infectious virus was detected through 7 dpi, and RNA was detected through 35 dpi in camel 3, which was euthanized on day 42. This route of shedding is consistent with data on naturally infected camels (14, 18, 21, 28, 29) , and the pattern of shedding suggests that the infectious period of camels may be short. MERS-CoV was not detected in either urine or feces, again consistent with field observations (21, 28) .",
+            "cite_spans": [
+                {
+                    "start": 156,
+                    "end": 160,
+                    "text": "(13)",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 161,
+                    "end": 165,
+                    "text": "(14)",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 166,
+                    "end": 170,
+                    "text": "(15)",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 171,
+                    "end": 175,
+                    "text": "(16)",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 176,
+                    "end": 180,
+                    "text": "(17)",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 181,
+                    "end": 185,
+                    "text": "(18)",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 186,
+                    "end": 190,
+                    "text": "(19)",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 191,
+                    "end": 195,
+                    "text": "(20)",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 196,
+                    "end": 200,
+                    "text": "(21)",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 201,
+                    "end": 204,
+                    "text": "27,",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 205,
+                    "end": 208,
+                    "text": "28)",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 491,
+                    "end": 495,
+                    "text": "(14,",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 496,
+                    "end": 499,
+                    "text": "17,",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 500,
+                    "end": 503,
+                    "text": "19,",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 504,
+                    "end": 507,
+                    "text": "21)",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 818,
+                    "end": 822,
+                    "text": "(14,",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 823,
+                    "end": 826,
+                    "text": "18,",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 827,
+                    "end": 830,
+                    "text": "21,",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 831,
+                    "end": 834,
+                    "text": "28,",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 835,
+                    "end": 838,
+                    "text": "29)",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 1022,
+                    "end": 1026,
+                    "text": "(21,",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 1027,
+                    "end": 1030,
+                    "text": "28)",
+                    "ref_id": "BIBREF28"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "The large quantities of MERS-CoV shed in nasal secretions by each of the 3 camels suggest that camel-tocamel and camel-to-human transmission may occur readily through direct contact and large droplet, or possibly fomite transmission. Histopathologic examination revealed that the URT, specifically the respiratory epithelium in the nasal turbinates, is the predominant site of MERS-CoV replication in camels.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Neutralizing antibodies were detected from 14 dpi onward, reaching a maximum neutralizing titer of 640 after 35 days. Serologic studies in camels in the field have reported MERS-CoV neutralizing titers as high as 5,120 (14, 16) , potentially indicative of repeated exposure and re-infection.",
+            "cite_spans": [
+                {
+                    "start": 219,
+                    "end": 223,
+                    "text": "(14,",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 224,
+                    "end": 227,
+                    "text": "16)",
+                    "ref_id": "BIBREF16"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "The study reported here was done on the basis of inoculation of 3 male animals with a human isolate of MERS-CoV, and the study design we used imposed several limitations on how these data inform what occurs in natural infections. The camels we inoculated were exposed to a high dose of virus by 3 simultaneous routes of inoculation. In retrospect, the inoculation dose does not seem excessive, based on the large quantity of virus shed nasally in all 3 animals ( Figure 2 ). The total dose inoculated was relatively equivalent to the amount of virus present in a single nasal swab sample taken during the first days postinoculation, and it seems probable that a camel shedding this quantity of virus would readily infect other camels or humans with which it had direct contact. The fact that we inoculated the camels with the virus by 3 routes precludes drawing conclusions regarding efficiency of transmission by a particular route, which is a topic that should be addressed in future studies. The influence of camel age on susceptibility and dynamics of virus shedding is another notable parameter that requires further study. It seems likely that productive infection and shedding of virus in natural settings occurs predominantly in juvenile camels (28) . This could be the result of an intrinsic difference in age-related susceptibility, but is more likely related to the immunologically na\u00efve status of the animals in the context of a high force of infection after decay of passively acquired antibodies. The animals we infected were young adults, but were seronegative and therefore probably as susceptible as juveniles from MERS-CoV-endemic regions. Another aspect of pathogenesis not addressed here is whether virus is present in milk or meat from infected camels and thereby poses another potential route of exposure to humans who consume such products. Despite these limitations, the magnitude and pattern of virus shedding was essentially identical in all 3 animals and supports the available epidemiologic data indicating that camels are likely a major reservoir host for MERS-CoV. Additional experimental and field studies are clearly required to address the duration of shedding of infectious MERS-CoV from infected camels, to determine whether infection results in protective immunity, and to clarify the burden of illness among humans resulting from transmission from camels. Emerging Infectious Diseases \u2022 www.cdc.gov/eid \u2022 Vol. 20, No. 12, December 2014 ",
+            "cite_spans": [
+                {
+                    "start": 1253,
+                    "end": 1257,
+                    "text": "(28)",
+                    "ref_id": "BIBREF28"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 463,
+                    "end": 471,
+                    "text": "Figure 2",
+                    "ref_id": null
+                }
+            ],
+            "section": "Discussion"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Isolation of a novel coronavirus from a man with pneumonia in Saudi Arabia",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Zaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Van Boheemen",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Bestebroer",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Osterhaus",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Fouchier",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "N Engl J Med",
+            "volume": "367",
+            "issn": "",
+            "pages": "1814--1834",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa1211721"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "World Health Organization. Global Alert and Response. Middle East respiratory syndrome coronavirus (MERS-CoV)-update",
+            "authors": [],
+            "year": 2014,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Investigation of an imported case of Middle East respiratory syndrome coronavirus (MERS-CoV) infection in Florence",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Puzelli",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Azzi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Santini",
+                    "suffix": ""
+                },
+                {
+                    "first": "Di",
+                    "middle": [],
+                    "last": "Martino",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Facchini",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Castrucci",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Euro Surveill",
+            "volume": "18",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "The emergence of the Middle East respiratory syndrome coronavirus",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Milne-Price",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Miazgowicz",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Munster",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Pathog Dis",
+            "volume": "71",
+            "issn": "",
+            "pages": "121--157",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/2049-632X.12166"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Hospital outbreak of Middle East respiratory syndrome coronavirus",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Assiri",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Mcgeer",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Perl",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Price",
+                    "suffix": ""
+                },
+                {
+                    "first": "Al",
+                    "middle": [],
+                    "last": "Rabeeah",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Cummings",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "N Engl J Med",
+            "volume": "369",
+            "issn": "",
+            "pages": "407--423",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa1306742"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Hospital-associated Middle East respiratory syndrome coronavirus infections",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Memish",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Al-Tawfiq",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Assiri",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "N Engl J Med",
+            "volume": "369",
+            "issn": "",
+            "pages": "1761--1763",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMc1308698"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Genomic characterization of a newly discovered coronavirus associated with acute respiratory distress syndrome in humans",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Van Boheemen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "De Graaf",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Lauber",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Bestebroer",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Raj",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Zaki",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "MBio",
+            "volume": "3",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Middle East respiratory syndrome coronavirus in bats, Saudi Arabia",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Memish",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Mishra",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Olival",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Fagbo",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Kapoor",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Epstein",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Emerg Infect Dis",
+            "volume": "19",
+            "issn": "",
+            "pages": "1819--1842",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid1911.131172"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "A decade after SARS: strategies for controlling emerging coronaviruses",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Graham",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Donaldson",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Baric",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Nat Rev Microbiol",
+            "volume": "11",
+            "issn": "",
+            "pages": "836--884",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nrmicro3143"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Recovery from severe novel coronavirus infection",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Albarrak",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Stephens",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Hewson",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Memish",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Saudi Med J",
+            "volume": "33",
+            "issn": "",
+            "pages": "1265--1274",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Contact investigation of a case of human novel coronavirus infection treated in a German hospital",
+            "authors": [
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Buchholz",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Muller",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Nitsche",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sanewski",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Wevering",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Bauer-Balci",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Euro Surveill",
+            "volume": "",
+            "issn": "18",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Clinical features and virological analysis of a case of Middle East respiratory syndrome coronavirus infection",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Drosten",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Seilmaier",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Corman",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Hartmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Scheible",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Sack",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Lancet Infect Dis",
+            "volume": "13",
+            "issn": "13",
+            "pages": "70154--70157",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1473-3099"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Middle East respiratory syndrome coronavirus neutralising serum antibodies in dromedary camels: a comparative serological study",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Reusken",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Haagmans",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Muller",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Gutierrez",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Godeke",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Meyer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Lancet Infect Dis",
+            "volume": "13",
+            "issn": "13",
+            "pages": "70164--70170",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1473-3099"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Middle East respiratory syndrome coronavirus in dromedary camels: an outbreak investigation",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Haagmans",
+                    "suffix": ""
+                },
+                {
+                    "first": "Al",
+                    "middle": [],
+                    "last": "Dhahiry",
+                    "suffix": ""
+                },
+                {
+                    "first": "Shs",
+                    "middle": [],
+                    "last": "Reusken",
+                    "suffix": ""
+                },
+                {
+                    "first": "Cbem",
+                    "middle": [],
+                    "last": "Raj",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Galiano",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Myers",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Lancet Infect Dis",
+            "volume": "14",
+            "issn": "",
+            "pages": "140--145",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1473-3099(13)70690-X"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Middle East respiratory syndrome coronavirus (MERS-CoV) serology in major livestock species in an affected region in Jordan",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Reusken",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ababneh",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Raj",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Meyer",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Eljarah",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Abutarbush",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Euro Surveill",
+            "volume": "18",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Antibodies against MERS coronavirus in dromedary camels",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Meyer",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Muller",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Corman",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Reusken",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Ritz",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Godeke",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Emerg Infect Dis",
+            "volume": "20",
+            "issn": "",
+            "pages": "552--561",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid2004.131746"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Middle East respiratory syndrome coronavirus (MERS-CoV) in dromedary camels",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Nowotny",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Kolodziejek",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Euro Surveill",
+            "volume": "19",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Middle East respiratory syndrome coronavirus infection in dromedary camels in Saudi Arabia",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Alagaili",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Briese",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Mishra",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Kapoor",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Sameroff",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "De Wit",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "MBiol",
+            "volume": "",
+            "issn": "",
+            "pages": "884--898",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/mBio.00884-14"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Middle East respiratory syndrome (MERS) coronavirus seroprevalence in domestic livestock in Saudi Arabia",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Hemida",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Perera",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Alhammadi",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Siu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Euro Surveill",
+            "volume": "18",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Human infection with MERS coronavirus after exposure to infected camels, Saudi Arabia",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Memish",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Cotten",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Meyer",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Watson",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Alsahafi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Al",
+                    "middle": [],
+                    "last": "Rabeeah",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Emerg Infect Dis",
+            "volume": "20",
+            "issn": "",
+            "pages": "1012--1017",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid2006.140402"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Evidence for camel-to-human transmission of MERS coronavirus",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Azhar",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "El-Kafrawy",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Farraj",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Hassan",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Al-Saeed",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Hashem",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "N Engl J Med",
+            "volume": "370",
+            "issn": "",
+            "pages": "2499--505",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa1401505"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Concerns about misinterpretation of recent scientific data implicating dromedary camels in epidemiology of Middle East respiratory syndrome (MERS)",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Samara",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Abdoun",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "MBio",
+            "volume": "5",
+            "issn": "4",
+            "pages": "1430--1444",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/mBio.01430-14"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Concerns about misinterpretation of recent scientific data implicating dromedary camels in epidemiology of Middle East respiratory syndrome (MERS)",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Alagaili",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Briese",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Karesh",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Daszak",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Lipkin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "MBio",
+            "volume": "5",
+            "issn": "4",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/mBio.01482-14"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Assays for laboratory confirmation of novel human coronavirus (hCoV-EMC) infections",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Corman",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Muller",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Costabel",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Timm",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Binger",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Meyer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Euro Surveill",
+            "volume": "17",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Middle East respiratory syndrome coronavirus (MERS-CoV) causes transient lower respiratory tract infection in rhesus macaques",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "De Wit",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Rasmussen",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Falzarano",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Bushmaker",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Feldmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Brining",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Proc Natl Acad Sci U S A",
+            "volume": "110",
+            "issn": "",
+            "pages": "16598--603",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.1310744110"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Dynamics of passive immunity to West Nile virus in domestic chickens (Gallus gallus domesticus)",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Nemeth",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Bowen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Am J Trop Med Hyg",
+            "volume": "76",
+            "issn": "",
+            "pages": "310--317",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Middle East respiratory syndrome coronavirus antibody reactors among camels in Dubai",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Alexandersen",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Kobinger",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Soule",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Wernery",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Transbound Emerg Dis",
+            "volume": "61",
+            "issn": "",
+            "pages": "105--113",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/tbed.12212"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "MERS coronavirus in dromedary camel herd, Saudi Arabia",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Hemida",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Chu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Poon",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Perera",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Alhammadi",
+                    "suffix": ""
+                },
+                {
+                    "first": "H-Y",
+                    "middle": [],
+                    "last": "Ng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Emerg Infect Dis",
+            "volume": "20",
+            "issn": "",
+            "pages": "1231--1235",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid2007.140571"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Middle East respiratory syndrome coronavirus quasispecies that include homologues of human isolates revealed through wholegenome analysis and virus cultured from dromedary camels in Saudi Arabia",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Briese",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Mishra",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Jain",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Zalmout",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Jabado",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Karesh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "MBio",
+            "volume": "5",
+            "issn": "",
+            "pages": "1146--1160",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/mBio"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Clinical signs in dromedary camels inoculated with Middle East respiratory syndrome coronavirus (MERS-CoV). A) Nasal discharge observed in camel 3; each of 3 inoculated camels had nasal discharge during the first 2 weeks of the experiment. B) Rectal temperatures are indicated for each camel by lines with geometric shapes.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Infectious Diseases \u2022 www.cdc.gov/eid \u2022 Vol. 20, No. 12, December 2014 Virus shedding from the upper respiratory tract in dromedary camels inoculated with Middle East respiratory syndrome coronavirus MERS-CoV (MERS-CoV). Shedding was determined by A) infectious titers by plaque assay and B) viral load by quantitative real-time PCR. We extrapolated 50% tissue culture infective dose (TCID 50 ) equivalents from standard curves generated by 10-fold dilutions of a MERS-CoV stock (HCoV-EMC/2012) with known virus titer in parallel to each quantitative real-time PCR run.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Virus shedding determined by oral swabs obtained from dromedary camels inoculated with Middle East respiratory syndrome coronavirus MERS-CoV (MERS-CoV. Shedding was determined by A) determining infectious titers and B) viral RNA. Virus titers were determined by plaque assay and viral load by qRT-PCR. TCID 50 equivalents were extrapolated from standard curves generated by 10-fold dilutions of a MERS-CoV stock (HCoV-EMC/2012) with known virus titer in parallel to each run.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Virus titers in tissues collected from dromedary camel 1 inoculated with Middle East respiratory syndrome coronavirus.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "Histopathologic changes at 5 days postinoculation in camel 1 inoculated with Middle East respiratory syndrome coronavirus. Tissues were collected and stained with hematoxylin and eosin (top row). Anti-MERS-CoV immunohistochemical results (bottom row) are visible as a red-brown stain. Degeneration of the pseudostratified epithelium lining the nasal turbinate, trachea, and bronchus is indicated by the absence of goblet cells, cilia and nuclear regimentation with infiltration of neutrophils (arrows). The arrowheads indicate areas where the cilia remained intact. Original magnification \u00d7400.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "2000Emerging Infectious Diseases \u2022 www.cdc.gov/eid \u2022 Vol. 20, No. 12, December 2014",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Antibody titers against MERS-CoV in dromedary camels inoculated with the virus as determined by 90% plaque reduction assay* *MERS-CoV, Middle East respiratory syndrome coronavirus.\u2020NA, serum samples were not available.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "We thank Bart Haagmans and Ron Fouchier, for providing MERS-CoV (isolate hCoV-EMC/2012); Tina Thomas, Dan Long, and Rebecca Rosenke for histopathologic examination; and Anita Mora and Ryan Kissinger for figure preparation. All animal work in this study was approved by the Institutional Animal Care and Use Committee of Colorado State University and was performed in compliance with recommendations in the Guide for the Care and Use of Laboratory Animals of the National Institute of Health.Ms Adney is a graduate student at Colorado State University in Fort Collins, Colorado. Her research focus is on the pathogenesis of emerging infectious diseases.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgments"
+        }
+    ]
+}

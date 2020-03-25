@@ -1,0 +1,73 @@
+"""
+Create a subset of interesting papers for testing.
+"""
+
+
+import pandas as pd
+import shutil
+import os
+from tqdm import tqdm
+
+# Determined these files by a network analysis (high degree)
+shas = [
+	'ea646b114ea01f978d205ed97405e1f2afed2dfd',
+	'1628fb770b782044ef43a9c63252b5d3b25a38ba',
+	'e4ea49d8e5168e27636315e248bad09766c31a2d',
+	'18acb42cf96716cbb91dd26e491e253cc130cb78',
+	'12d267205009c178b6a50506db717ff650d93415',
+	'3f23d2283c45fc77411d8b9cc748ddf8d1de15e8',
+	'05192151667b1bb4e3405de11f6e4ae2f844e7c5',
+	'abe97b9d4046417edffcac7a7488ae012da5265a',
+	'98513efd2f4e86626a263f1eb350ed2702ecb8ec',
+	'9595fe80c8e79a20286b0bfad42c930623e13805',
+	'55dc3ccae37d88301441558752efbc4700c116e3',
+	'319004f23d1af4357edb2a3862f2619be23a21a6',
+	'5a2b335f389f88025ca1994a95e220479646d581',
+	'82ef5d93dc7dd6b35e8411969e33633b402e5acc',
+	'd90b2c4decfc17d7349325f437a9ab6082742c24',
+	'1ddf28f6c2bc0a7db607b0771748e34fb6659f51',
+	'5b418c0fc9be9eb87329aae74de81b3270e3603d',
+	'b788a8861367f5eefe81794e3c77c4a15a872b03',
+	'f9a60620ca9a4f23b396fbd3b52b48c22dd01aa6',
+	'32da24606ad160166f08cf05349eaadd580ccff0',
+	'30abdf7a423427b001aee5d319abecfb5ad1671b',
+	'ae7e5e5093d61a99b23cbca955555f7884011ec2',
+	'87cc7c4ce4f857e235f5fe0fffc2513cf9e653d9',
+	'27ee82e4db05cf49d789f25d14660daffe743cfd',
+	'15f99a27eec125edd5f2c431344f01883ff72129',
+	'19babdefd145a5becbc2a0b189eabdafa697de75',
+	'0e8f07d17aaa0e83209868716d79a4527952c0ba',
+	'977370a5432431d0680323ce3f9e67db65f5f7b1',
+	'6824b8522fc9b537dd57e4f11f5b0d4313acfe14',
+	'ca5a2024931abd516addf3c4007d9a5b64432275',
+	'dcc46888d647f293c6f9d136aaf7d3a708558372',
+	'8a14b75626a9cad7cac350437b7af5e0e4bd5127',
+	'18d7f4c8e204349b39a037c19874cff1b34d0f97',
+	'8bcf19aa1484447b3f16aa39f5f6efdaedfa5a5d',
+	'1cc16427f0accab0051485dbbb73dbce1d0848e4',
+	'940d88b37322a92e95ae08ab755481bef84805cb',
+	'1adf578fb1c7019c2293b2e9c7cc3f036f9bc15b',
+	'39eadd11ec6d5021711bcfa21f0cb6e183242c71',
+	'4a4570c242b311c2363aec3112b53e445ce983d0',
+	'97699e1e790ab279013460ac4478cc6b9832d2e1',
+	'6909d7db535645308e0b2e726b5dea3b854a1aa5',
+	'351fca8e4bd7321d75ec0227794deb0db3567540',
+	'7c0e41727a796451e68029e772c970246b71824c',
+	'76b7e2b381c3a68161e8aea0975231845f031205',
+	'b2c1c0ce4885d8a926e9ff2b97aeb3ea220286b0',
+	'74ae352ed6606527cca17ab3b773687251f38590',
+	'9450e90f9c678f1eb0ce33caac814ebc1b2e97e7',
+	'210537df55cdf8f3256cd7d95cdcc3e41913d0e5',
+	'b846eb629d90098884d798cbfe4132db5f63562c',
+	'577c6a13f9ef70e9756890fc66e98f537c01ac0a'
+]
+
+metadata = pd.read_csv('data/metadata.csv')
+filtered_metadata = metadata[metadata['sha'].isin(shas)]
+filtered_metadata.to_csv('sample/metadata.csv')
+shas = filtered_metadata['sha'].values
+
+for paper in tqdm(os.listdir('data/papers')):
+	sha = paper.split('/')[-1].split('.')[0]
+	if sha in shas:
+		shutil.copy('data/papers/{}'.format(paper), 'sample/papers/{}'.format(paper))				

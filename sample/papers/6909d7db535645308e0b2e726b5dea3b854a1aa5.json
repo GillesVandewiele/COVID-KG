@@ -1,0 +1,2700 @@
+{
+    "paper_id": "6909d7db535645308e0b2e726b5dea3b854a1aa5",
+    "metadata": {
+        "title": "Middle East Respiratory Syndrome Coronavirus Infection in Dromedary Camels in Saudi Arabia",
+        "authors": [
+            {
+                "first": "Abdulaziz",
+                "middle": [
+                    "N"
+                ],
+                "last": "Alagaili",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Thomas",
+                "middle": [],
+                "last": "Briese",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Laboratory of Virology, Division of Intramural Research, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Rocky Mountain Laboratories",
+                    "institution": "",
+                    "location": {
+                        "settlement": "Hamilton",
+                        "region": "Montana",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Nischay",
+                "middle": [],
+                "last": "Mishra",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Laboratory of Virology, Division of Intramural Research, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Rocky Mountain Laboratories",
+                    "institution": "",
+                    "location": {
+                        "settlement": "Hamilton",
+                        "region": "Montana",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Vishal",
+                "middle": [],
+                "last": "Kapoor",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Laboratory of Virology, Division of Intramural Research, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Rocky Mountain Laboratories",
+                    "institution": "",
+                    "location": {
+                        "settlement": "Hamilton",
+                        "region": "Montana",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Stephen",
+                "middle": [
+                    "C"
+                ],
+                "last": "Sameroff",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Laboratory of Virology, Division of Intramural Research, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Rocky Mountain Laboratories",
+                    "institution": "",
+                    "location": {
+                        "settlement": "Hamilton",
+                        "region": "Montana",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Emmie",
+                "middle": [],
+                "last": "De Wit",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Integrated Research Facility, National Institute of Allergy and Infectious Diseases",
+                    "institution": "National Institutes of Health",
+                    "location": {
+                        "settlement": "Frederick",
+                        "region": "Maryland",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Vincent",
+                "middle": [
+                    "J"
+                ],
+                "last": "Munster",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Integrated Research Facility, National Institute of Allergy and Infectious Diseases",
+                    "institution": "National Institutes of Health",
+                    "location": {
+                        "settlement": "Frederick",
+                        "region": "Maryland",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Lisa",
+                "middle": [
+                    "E"
+                ],
+                "last": "Hensley",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Iyad",
+                "middle": [
+                    "S"
+                ],
+                "last": "Zalmout",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Amit",
+                "middle": [],
+                "last": "Kapoor",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Laboratory of Virology, Division of Intramural Research, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Rocky Mountain Laboratories",
+                    "institution": "",
+                    "location": {
+                        "settlement": "Hamilton",
+                        "region": "Montana",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Jonathan",
+                "middle": [
+                    "H"
+                ],
+                "last": "Epstein",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "William",
+                "middle": [
+                    "B"
+                ],
+                "last": "Karesh",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Peter",
+                "middle": [],
+                "last": "Daszak",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Osama",
+                "middle": [
+                    "B"
+                ],
+                "last": "Mohammed",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "W",
+                "middle": [
+                    "Ian"
+                ],
+                "last": "Lipkin",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Laboratory of Virology, Division of Intramural Research, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Rocky Mountain Laboratories",
+                    "institution": "",
+                    "location": {
+                        "settlement": "Hamilton",
+                        "region": "Montana",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Saudi",
+                "middle": [],
+                "last": "Riyadh",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "",
+                "middle": [],
+                "last": "Arabia",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": ";",
+                "middle": [],
+                "last": "Saudi",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Wildlife",
+                "middle": [],
+                "last": "Authority",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Arturo",
+                "middle": [],
+                "last": "Casadevall",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "The Middle East respiratory syndrome (MERS) is proposed to be a zoonotic disease; however, the reservoir and mechanism for transmission of the causative agent, the MERS coronavirus, are unknown. Dromedary camels have been implicated through reports that some victims have been exposed to camels, camels in areas where the disease has emerged have antibodies to the virus, and viral sequences have been recovered from camels in association with outbreaks of the disease among humans. Nonetheless, whether camels mediate transmission to humans is unresolved. Here we provide evidence from a geographic and temporal survey of camels in the Kingdom of Saudi Arabia that MERS coronaviruses have been circulating in camels since at least 1992, are distributed countrywide, and can be phylogenetically classified into clades that correlate with outbreaks of the disease among humans. We found no evidence of infection in domestic sheep or domestic goats.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "Arabia, where the index case and the majority of cases of MERS have been reported. Citation Alagaili AN, Briese T, Mishra N, Kapoor V, Sameroff SC, de Wit E, Munster VJ, Hensley LE, Zalmout IS, Kapoor A, Epstein JH, Karesh WB, Daszak P, Mohammed OB, Lipkin WI. 2014. Middle East respiratory syndrome coronavirus infection in dromedary camels in Saudi Arabia. mBio 5(2):e00884-14.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Clusters of human infection indicate that human-to-human MERS-CoV transmission can occur (4, 5) . However, the origin of the infection in most cases remains unknown. Analysis of human MERS-CoV sequences by Cotten et al. has revealed the presence of at least three circulating genotypes within the KSA alone (6) . Phylogenetic analyses of 13 complete and 8 partial genome sequences enabled estimates of the timing and geographic origins of individual viral clades. The authors proposed that MERS-CoV emerged in humans in 2011 and noted that sequence divergence between clades is consistent with several sporadic introductions of the virus into the human population, presumably from an animal reservoir.",
+            "cite_spans": [
+                {
+                    "start": 89,
+                    "end": 92,
+                    "text": "(4,",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 93,
+                    "end": 95,
+                    "text": "5)",
+                    "ref_id": null
+                },
+                {
+                    "start": 307,
+                    "end": 310,
+                    "text": "(6)",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Efforts to identify an animal reservoir have focused on bats and camels. Bats harbor a wide range of betacoronaviruses (7) ; furthermore, bat cell lines display the MERS-CoV receptor, dipeptidyl peptidase 4 (8) , and can be experimentally infected. A short sequence fragment consistent with MERS-CoV was reported in a bat in Bisha, KSA, collected in close proximity to the home and workplace of the 2012 index case patient from whom the initial virus isolate was obtained (9) . That same patient owned four pet dromedary camels (DC). Serological analysis of those DC revealed the presence of antibodies reactive with MERS-CoV; however, no MERS-CoV sequences were found by PCR analysis of nasal or rectal swabs or serum. Additional human cases have been associated with exposure to DC, and in some instances, investigators have described both serologic and genetic evidence of MERS-CoV infection in DC. Memish and coworkers reported PCR detection of MERS-CoV sequences in a DC with respiratory illness owned by an individual with MERS-CoV who had no history of contact with other infected humans (10). Haagmans et al. investigated an outbreak of the disease among humans on a Qatari farm and found MERS-CoV sequences in nasal swabs from 6 of 14 seropos-itive DC. Analysis of open reading frame 1a (ORF1a) and fragments representing ORF1b, spike, and ORF4b revealed similarity but not identity to sequences obtained from the MERS-CoVinfected humans at the same farm. The authors provide evidence that MERS-CoV can infect DC but cautiously conclude that data are insufficient to determine whether the infection spread from DC to humans, from humans to DC, or via another host to both species (11) .",
+            "cite_spans": [
+                {
+                    "start": 119,
+                    "end": 122,
+                    "text": "(7)",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 207,
+                    "end": 210,
+                    "text": "(8)",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 472,
+                    "end": 475,
+                    "text": "(9)",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 1689,
+                    "end": 1693,
+                    "text": "(11)",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Several groups have reported serological reactivity with MERS-CoV or a closely related virus in DC in the Middle East (12) (13) (14) (15) (13) . In two regions of the KSA, Hemida and colleagues detected antibodies to MERS-CoV in 90% of 310 DC but not in sheep, goats, cattle, or chickens. The seroprevalence was lower in DC \u03fd1 year of age (72% versus 95%), suggesting widespread infection in early life (15) .",
+            "cite_spans": [
+                {
+                    "start": 118,
+                    "end": 122,
+                    "text": "(12)",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 123,
+                    "end": 127,
+                    "text": "(13)",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 128,
+                    "end": 132,
+                    "text": "(14)",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 133,
+                    "end": 137,
+                    "text": "(15)",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 138,
+                    "end": 142,
+                    "text": "(13)",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 403,
+                    "end": 407,
+                    "text": "(15)",
+                    "ref_id": "BIBREF15"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "To determine the prevalence of MERS-CoV infection in DC throughout the KSA, we undertook a nationwide survey by using both serological and molecular methods.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Serum, whole blood, and rectal and nasal swabs were freshly collected from DC, sheep, and goats in November and December of 2013 in the southwestern (Gizan), western (Taif), northwestern (Tabuk), eastern (Hofuf), and central (Unizah, Riyadh) regions of the KSA (Table 1) . We also collected archived serum samples obtained from DC in 1992 through 2010 (Table 2 ). Sera were initially tested for the presence of antibodies reactive with MERS-CoV by using a cell enzyme-linked immunosorbent assay (ELISA) based on Vero cells infected with MERS-CoV. Subsets of sera positive by ELISA were tested in Western blot assays that used extracts of Vero cells infected with MERS-CoV and a luciferase immunoprecipitation system (LIPS) assay based on recombinant MERS-CoV nucleoprotein. Potential serologic cross-reactivity with bovine coronavirus (Bo-CoV) was addressed by testing for reactivity with Bo-CoV nucleocapsid protein by LIPS assay. The presence of viral nucleic acids in rectal and nasal swabs and a subset of serum and whole blood samples was assayed by reverse transcriptionquantitative PCR (RT-qPCR) with primers targeting the upE and ORF1a genome regions of MERS-CoV (16, 17) .",
+            "cite_spans": [
+                {
+                    "start": 1171,
+                    "end": 1175,
+                    "text": "(16,",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 1176,
+                    "end": 1179,
+                    "text": "17)",
+                    "ref_id": "BIBREF17"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 261,
+                    "end": 270,
+                    "text": "(Table 1)",
+                    "ref_id": "TABREF1"
+                },
+                {
+                    "start": 352,
+                    "end": 360,
+                    "text": "(Table 2",
+                    "ref_id": "TABREF2"
+                }
+            ],
+            "section": "RESULTS"
+        },
+        {
+            "text": "One hundred fifty (74%) of 203 DC sampled countrywide in 2013 were found to have antibodies to MERS-CoV by ELISA. The prevalence of seropositivity was higher in adult DC (\u03fe2 years of age; 93/98, 95%) than in juvenile DC (\u05452 years of age; 57/104, 55%) (P \u03fd 0.0001, 2 test). The lowest prevalence of seropositive juveniles was found in the southwestern region, in proximity to the city of Gizan (1/21, 5%) (Fig. 1A) . A higher prevalence of antibodies to MERS-CoV in older animals was also seen in samples obtained in years prior to 2012. In 2010, the seroprevalence was 76% (16/21) in juveniles versus 91% (21/23) in adults in the central region (Riyadh, Kharj). In 2009, the seroprevalence was 72% (40/56) in juveniles versus 92% (24/26) in adults (Riyadh, Rumah) ( Table 2) . Seroreactivity was also found in samples collected from DC as early as the 1990s: 1/1 (100%) in 1992, 2/2 (100%) in 1993, 114/123 (93%) in 1994, 6/6 (100%) in 1996, and 6/6 (100%) in 2003. Analysis of selected seropositive DC sera by Western immunoblot assay indicated two distinct reaction patterns that showed reactivity either to MERS-CoV spike glycoprotein alone or to spike glycoprotein and nucleocapsid protein.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 404,
+                    "end": 413,
+                    "text": "(Fig. 1A)",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 766,
+                    "end": 774,
+                    "text": "Table 2)",
+                    "ref_id": "TABREF2"
+                }
+            ],
+            "section": "RESULTS"
+        },
+        {
+            "text": "These results were concordant with results of MERS-CoV nucleocapsid LIPS assays ( Fig. 2 ; see Table S1 in the supplemental material).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 82,
+                    "end": 88,
+                    "text": "Fig. 2",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 95,
+                    "end": 103,
+                    "text": "Table S1",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "RESULTS"
+        },
+        {
+            "text": "Potential serologic cross-reactivity to Bo-CoV was addressed by analyzing Bo-CoV nucleocapsid reactivity, which has been shown to be subgroup specific in CoVs (18) . Overall, 17% (35/ 203) of DC were positive for Bo-CoV, ranging from 3% in the southwest (Gizan) to 25% in the east (Hofuf) and 20% in adult animals versus 14% in juvenile animals; 2 animals (juveniles in Taif) were seropositive for Bo-CoV exclusively, while the remaining 16% (33/203) were reactive to Bo-CoV and MERS-CoV, and 58% (117/203) were reactive to MERS-CoV alone (see Table S1 in the supplemental material). Rectal and nasal swabs collected in parallel with serum samples from the same animals were assayed for MERS-CoV nucleic acids by RT-qPCR. Nucleic acids were most frequently detected in nasal swabs; rectal swabs were found positive in only three cases; in two of them, the nasal sample was also positive. The regional distribution of PCR-positive animals is shown in Fig. 1B . In contrast to serology, where MERS-CoV-reactive antibodies were more prevalent in adults than in juveniles (95% versus 55%), MERS-CoV nucleic acids were found more frequently in juveniles (36/104, 35%) than in adults (15/98, 15%) (P \u03ed 0.003, 2 test). The five samples with \u03fe10 6 copies were all from juveniles, four of them from seronegative animals. The prevalence of PCR-positive DC ranged from 66% in Taif in the west to 0% in Gizan in the southwest. PCR analysis of a random selection of serum and whole blood samples collected from nasal or rectal swab PCR-positive, seropositive, and seronegative DC revealed no evidence of viremia (see Table S1 in the supplemental material). These included 13 adults and 29 juveniles phlebotomized in 2009, 15 adults and 14 juveniles phlebotomized in 2010, and 8 adults and 13 juveniles phlebotomized in 2013. These animals included the five juveniles with the highest viral genome sequence load in nasal swabs.",
+            "cite_spans": [
+                {
+                    "start": 159,
+                    "end": 163,
+                    "text": "(18)",
+                    "ref_id": "BIBREF18"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 544,
+                    "end": 552,
+                    "text": "Table S1",
+                    "ref_id": "TABREF1"
+                },
+                {
+                    "start": 950,
+                    "end": 957,
+                    "text": "Fig. 1B",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 1604,
+                    "end": 1612,
+                    "text": "Table S1",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "RESULTS"
+        },
+        {
+            "text": "Serum samples collected from goats (n \u03ed 36) and sheep (n \u03ed 112) in 2013 in the central region (Unizah, Riyadh) were not immunoreactive with MERS-CoV but were immunoreactive with Bo-CoV (25% of goats, n \u03ed 36; 54% of sheep, n \u03ed 24). Nasal swabs from 36 goats and 78 sheep were negative in RT-qPCR assays for MERS-CoV upE.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "RESULTS"
+        },
+        {
+            "text": "To test the validity of RT-qPCR results and determine phylogenetic relationships of viral sequences found in DC in the KSA to previously reported sequences, we amplified and sequenced longer regions of the spike, ORF1ab, and nucleocapsid genes from RT-qPCR-positive samples (for the sequences of the primers used, see Table S2 in the supplemental material). Eleven of 13 swab samples with \u03fe10 5 copies in upE RT-qPCR yielded products for sequencing. No suitable products were obtained from samples with lighter viral sequence loads (\u03fd10 4 copies) (see Table S1 in the supplemental material). Phylogenetic analysis of a 1,044nucleotide (nt) region of the spike gene and a 2,004-nt region of the ORF1ab gene indicated \u03fd1% divergence from previously published MERS-CoV sequences (Fig. 3 ) (GenBank accession no. KJ396756 to KJ396771). The nucleocapsid sequence was identical to the previously reported MERS-CoV sequences.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 318,
+                    "end": 326,
+                    "text": "Table S2",
+                    "ref_id": "TABREF2"
+                },
+                {
+                    "start": 552,
+                    "end": 560,
+                    "text": "Table S1",
+                    "ref_id": "TABREF1"
+                },
+                {
+                    "start": 776,
+                    "end": 783,
+                    "text": "(Fig. 3",
+                    "ref_id": "FIGREF4"
+                }
+            ],
+            "section": "RESULTS"
+        },
+        {
+            "text": "MERS-CoV is posited to be a zoonosis. However, the evolutionary history of MERS-CoV and the reservoirs and vectors for human infection remain obscure. Early anecdotal reports that some MERS-CoV victims had exposure to DC led to serologic investigation of DC in Spain and Oman (14) , Jordan (12), Egypt (13) , and the KSA (15) that revealed antibodies to MERS-CoV. Definitive evidence that DC can be infected with MERS-CoV was obtained when viral sequences were detected in nasal swabs from DC sampled in close proximity to outbreaks of the disease among humans in Qatar (11) and Jeddah, KSA (10) . Nonetheless, as noted by Nishiura and colleagues, current data do not fulfill the two criteria required to implicate DC as a significant reservoir species in the epidemiology of MERS-CoV (19) , i.e., (i) that DC are sufficient to maintain MERS-CoV and (ii) that the presence of DC is essential to the continuous transmission of infection. Results presented here do not establish the latter; however, they do provide evidence for the former.",
+            "cite_spans": [
+                {
+                    "start": 276,
+                    "end": 280,
+                    "text": "(14)",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 302,
+                    "end": 306,
+                    "text": "(13)",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 570,
+                    "end": 574,
+                    "text": "(11)",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 591,
+                    "end": 595,
+                    "text": "(10)",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 785,
+                    "end": 789,
+                    "text": "(19)",
+                    "ref_id": "BIBREF19"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Our study is the first comprehensive countrywide survey of DC from the KSA, the country with the most recorded MERS-CoV cases, to use both serological and molecular diagnostic methods. Analysis of specimens from western regions of the country, from Tabuk in the northwest, Taif in the west, and Gizan in the southwest, revealed regional differences. Although the seroprevalence was high in adults throughout the country at \u03fe80%, in juveniles, it ranged from 90% in the east to 5% in the southwest. The sero-prevalence in DC \u05452 years of age was lower than that in older animals, confirming the results of Hemida et al. (15) . Molecular analysis of nasal and rectal swab specimens indicated the highest prevalence of MERS-CoV sequences in DC in the west and northwest. Nasal swabs with heavy sequence loads (\u03fe10 5 copies) also clustered in the Taif region. A second sample collection in the west (Taif) separated from the first by an interval of 2 months confirmed the presence of heavy viral sequence loads in nasal swabs collected from juvenile animals sampled in this area (data not shown). These findings suggest that continuous, longer-term surveillance is necessary to determine the dynamics of virus circulation in DC populations. Lower prevalence rates of both MERS-CoV and Bo-CoV were evident in samples from the southwest. This may relate in part to the enforcement of restrictions of livestock movement in and out of Gizan Province implemented after the Rift Valley fever outbreak in 2000 but also to the generally lower DC population density in this region than in other regions of the KSA.",
+            "cite_spans": [
+                {
+                    "start": 618,
+                    "end": 622,
+                    "text": "(15)",
+                    "ref_id": "BIBREF15"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Viral nucleic acids were more commonly detected in nasal swabs than in rectal specimens and were more frequent in juvenile than in adult animals. These findings, together with the absence of viremia and the known respiratory tract tropism of several other coronaviruses, suggest that airborne transmission is the most likely mode of MERS-CoV transmission. Although nucleic acid copy numbers were commonly highest in juvenile animals that were seronegative or had low antibody titers, positive findings were also obtained with specimens from highly seropositive and adult animals.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Our findings in archived DC specimens, although restricted to serology, strongly suggest that MERS-CoV or a closely related virus has been circulating in DC in the KSA for at least 2 decades. Complete genomic sequences of MERS-CoV found in contemporary DC in the KSA are identical to sequences of viruses recovered from human MERS-CoV victims (unpublished data). Although we speculate that DC are potential reservoirs for human transmission, we cannot prove this relationship from the current data. Rigorous epidemiological investigation of the potential for exposure to DC in sporadic cases of MERS-CoV (those where there is no opportunity for human-to-human transmission) is required to test this model. If DC can be implicated, other questions will arise. Did MERS-CoV truly emerge as a human pathogen in 2012, or were cases of cryptic infection not appreciated because of a lack of suitable diagnostic tests? We may be able to address this conundrum by using archived human materials. If evidence of human MERS-CoV infections cannot be detected prior to 2012, we must entertain the possibility that mutation facilitated cross-species transmission. However, we see no path to address this possibility absent access to historical DC respiratory tract specimens. The only archived DC specimens we have been able to locate are DC sera; our efforts to recover MERS-CoV sequences from camel blood have been unsuccessful. What are the roles of bats, if any, as reservoirs of MERS-CoV? These limitations notwithstanding, the most urgent public health concern, raised in work we and others have reported that focuses on DC infection, is to determine the role of these animals in sporadic human infection. The evidence is clearly sufficient to support targeted investigation of direct or indirect exposure to DC in the disease among humans. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Sample collection. Samples included DC, sheep, and goat sera; whole blood and nasal and rectal swabs freshly collected in 2013; and archived serum samples from 1992, 1993, 1994, 1996, 2004, 2009, and 2010 . Two rectal and two nasal swabs were obtained from each animal. One rectal swab and one nasal swab were placed into RNAlater (Life Technologies, Carlsbad, CA), and one rectal swab and one nasal swab were placed into viral transport medium (Becton Dickinson, Franklin Lakes, NJ). All were stored at \u03ea80\u00baC. After 24 h in fixative, plates were rinsed three times with phosphate-buffered saline (PBS) and placed in PBS for storage at 4\u00b0C. Plates were loaded with infected and noninfected cells in alternating rows to generate a differential reading for each serum tested. Positivity was defined as an infected-cell optical density of \u03fe0.6 and \u03fe3\u03eb the noninfected-cell optical density. Test sera were diluted 1:3,000 in PBS-0.05% Tween 20 -1% bovine serum albumin; secondary antibodies were rabbit anti-goat IgG (H\u03e9L)-horseradish peroxidase conjugate (1:3,000; Bio-Rad, Hercules, CA), rabbit anti-sheep IgG (H\u03e9L)-horseradish peroxidase conjugate (1:3,000; Bio-Rad), and anti-llama IgG-horseradish peroxidase conjugate (1:10,000; Bethyl Laboratories, Montgomery, TX).",
+            "cite_spans": [
+                {
+                    "start": 155,
+                    "end": 204,
+                    "text": "from 1992, 1993, 1994, 1996, 2004, 2009, and 2010",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "MATERIALS AND METHODS"
+        },
+        {
+            "text": "Western blot. Extracts of noninfected Vero cells or Vero cells infected with MERS-CoV strain EMC were generated at Rocky Mountain Laboratories, loaded onto discontinuous 3 and 7.5% SDS gels (Bio-Rad), and transferred onto nitrocellulose with iBlot Transfer Stacks (Invitrogen iBlot; Life Technologies). Lanes were loaded with alternating infected and noninfected extract samples, and a pair were cut for incubation with DC sera (1:800 in blocking solution) after blocking of the membrane in PBS-0.05% Tween 20 -5% dry milk blocking solution for 1 h. Membranes were washed three times with PBS-0.05% Tween 20 after a 2-h incubation with serum and then incubated for another 1.5 h with secondary antibody (1:7,000 in blocking solution; anti-llama IgG-horseradish peroxidase conjugate; Bethyl Laboratories). Following three more washes, the membranes were developed with WesternSure premium chemiluminescent substrate (LI-COR, Lincoln, NE) and read on a C-DiGit Blot Scanner (LI-COR).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "MATERIALS AND METHODS"
+        },
+        {
+            "text": "LIPS assay. The nucleocapsid proteins of Bo-CoV and MERS-CoV were PCR amplified with primers introducing appropriate restriction sites for cloning into vector pREN-2 fused to the C terminus of the Renilla luciferase reporter (20) . Sequence-confirmed construct DNA was purified from Escherichia coli cultures (Qiagen, Hilden, Germany), and transfected into COS-1 cells (African green monkey kidney, ATCC CRL-1650; 1 g; Lipofectamine; Invitrogen, Life Technologies). Cells were harvested at 48 h posttransfection in lysis buffer (50 mM Tris [pH 7.5], 100 mM NaCl, 5 mM MgCl 2 , 1% Triton X-100, 50% glycerol, protease inhibitors), and the protein extract was clarified by two rounds of centrifugation at 12,000 \u03eb g. The target concentration was determined in relative light units (RLU), and approximately 10 \u03eb 10 6 RLU were incubated with test serum (1:100) in a final volume of 100 l buffer A (50 mM Tris [pH 7.7], 100 mM NaCl, 5 mM MgCl 2 , 1% Triton X-100) per well in 96-well plates (catalog no. 249944; Thermo/Nunc, Waltham, MA). After 1 h of incubation at room temperature, protein A/G beads (catalog no. 53135; Pierce, Junction City, OR) were added and the mixtures were transferred to 96-well filter plates (catalog no. MSBVN1B50; Millipore, Billerica, MA) for another hour of incubation at room temperature with shaking. Bead-bound anti-gen was washed eight times with buffer A and three times with PBS (Tecan Hydroflex, Maennedorf, Switzerland) and then read with coelenterazine substrate (Renilla luciferase assay system; Promega, Madison, WI) on a Centro LB960 luminometer (Berthold, Bad Wildbad, Germany).",
+            "cite_spans": [
+                {
+                    "start": 225,
+                    "end": 229,
+                    "text": "(20)",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [],
+            "section": "MATERIALS AND METHODS"
+        },
+        {
+            "text": "Nucleic acid extraction and PCR. Total nucleic acids were extracted from nasal swabs, serum, and whole blood on a QiaCube with Cador Reagent kits (Qiagen) or RNeasy Reagent kits for extraction of RNA from rectal swabs. Real-time qPCR used a OneStep Real-Time qPCR buffer (Invitrogen, Life Technologies) and primer/probes upE and ORF1a (16, 17) . Products for sequencing were generated by RT-PCR. cDNA was reverse transcribed with Superscript III and random hexamer primers. PCR was performed with Amplitaq Gold (Life Technologies) and primers designed to amplify a 1,044-nt region of the spike gene (heminested PCR), a 913-nt region of the N gene (nested PCR) or a 2,004-nt region of the ORF1ab region (heminested PCR). For the sequences of the primers used, see Table S2 in the supplemental material. Products were purified by agarose gel electrophoresis and with QIAquick Gel Extraction kits (Qiagen) and subsequently sequenced on both strands by the dideoxynucleotide chain termination method (GeneWiz, South Plainfield, NJ).",
+            "cite_spans": [
+                {
+                    "start": 335,
+                    "end": 339,
+                    "text": "(16,",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 340,
+                    "end": 343,
+                    "text": "17)",
+                    "ref_id": "BIBREF17"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 763,
+                    "end": 771,
+                    "text": "Table S2",
+                    "ref_id": "TABREF2"
+                }
+            ],
+            "section": "MATERIALS AND METHODS"
+        },
+        {
+            "text": "Supplemental material for this article may be found at http://mbio.asm.org /lookup/suppl/doi:10.1128/mBio.00884-14/-/DCSupplemental. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "SUPPLEMENTAL MATERIAL"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Middle East respiratory syndrome coronavirus (MERS-CoV)-update. World Health Organization",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Who",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Isolation of a novel coronavirus from a man with pneumonia in Saudi Arabia",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Zaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Van Boheemen",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Bestebroer",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Osterhaus",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Fouchier",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "N. Engl. J. Med",
+            "volume": "367",
+            "issn": "",
+            "pages": "1814--1820",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa1211721"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "State of knowledge and data gaps of Middle East respiratory syndrome coronavirus (MERS-CoV) in humans",
+            "authors": [
+                {
+                    "first": "Who Mers-Cov Research",
+                    "middle": [],
+                    "last": "The",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Group",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "PLoS Curr. Outbreaks",
+            "volume": "12",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/currents.outbreaks.0bf719e352e7478f8ad85fa30127ddb8"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Family cluster of Middle East respiratory syndrome coronavirus infections",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Memish",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Zumla",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Al-Hakeem",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Al-Rabeeah",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Stephens",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "N. Engl. J. Med",
+            "volume": "368",
+            "issn": "",
+            "pages": "2487--2494",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa1303729"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Hospital outbreak of Middle East respiratory syndrome coronavirus",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Alhakeem",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Al-Tawfiq",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Cotten",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Watson",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Kellam",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Zumla",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Memish",
+                    "suffix": ""
+                },
+                {
+                    "first": "Km-Ci",
+                    "middle": [],
+                    "last": "Team",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "N. Engl. J. Med",
+            "volume": "369",
+            "issn": "",
+            "pages": "407--416",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa1306742"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Transmission and evolution of the Middle East respiratory syndrome coronavirus in Saudi Arabia: a descriptive genomic study",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Cotten",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Watson",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Kellam",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Al-Rabeeah",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "Q"
+                    ],
+                    "last": "Makhdoom",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Assiri",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Al-Tawfiq",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Alhakeem",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Madani",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Alrabiah",
+                    "suffix": ""
+                },
+                {
+                    "first": "Al",
+                    "middle": [],
+                    "last": "Hajjar",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                },
+                {
+                    "first": "Al-Nassir",
+                    "middle": [],
+                    "last": "Wn",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Albarrak",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Flemban",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Balkhy",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Alsubaie",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Palser",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Gall",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Bashford-Rogers",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Rambaut",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Zumla",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Memish",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Lancet",
+            "volume": "382",
+            "issn": "13",
+            "pages": "61887--61892",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(13)61887-5"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Human betacoronavirus 2c EMC/2012-related viruses in bats, Ghana and Europe",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Annan",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Baldwin",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Corman",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Klose",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Owusu",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Nkrumah",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Badu",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Anti",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Agbenyega",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Meyer",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Oppong",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Sarkodie",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Kalko",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Lina",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Godlevska",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Reusken",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Seebens",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Gloza-Rausch",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Vallo",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Tschapka",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Drosten",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Drexler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Emerg. Infect. Dis",
+            "volume": "19",
+            "issn": "",
+            "pages": "456--459",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid1903.121503"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Dipeptidyl peptidase 4 is a functional receptor for the emerging human coronavirus-EMC",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Raj",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Mou",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Smits",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Dekkers",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "M\u00fcller",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Dijkman",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Muth",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Demmers",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Zaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Fouchier",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Thiel",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Drosten",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Rottier",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Osterhaus",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Bosch",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Haagmans",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Nature",
+            "volume": "495",
+            "issn": "",
+            "pages": "251--254",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nature12005"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Middle East respiratory syndrome coronavirus in bats, Saudi Arabia",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Memish",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Mishra",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Olival",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Fagbo",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Kapoor",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Epstein",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Alhakeem",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Durosinloun",
+                    "suffix": ""
+                },
+                {
+                    "first": "Al",
+                    "middle": [],
+                    "last": "Asmari",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Islam",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kapoor",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Briese",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Daszak",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                },
+                {
+                    "first": "Al",
+                    "middle": [],
+                    "last": "Rabeeah",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Lipkin",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Emerg. Infect. Dis",
+            "volume": "19",
+            "issn": "",
+            "pages": "1819--1823",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid1911.131172"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "MERS-CoV-eastern Mediterranean (85): animal reservoir, camel, suspected, official. ProMED-mail",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Memish",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Middle East respiratory syndrome coronavirus in dromedary camels: an outbreak investigation",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Haagmans",
+                    "suffix": ""
+                },
+                {
+                    "first": "Al",
+                    "middle": [],
+                    "last": "Dhahiry",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Reusken",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Raj",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Galiano",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Myers",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Godeke",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Jonges",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Farag",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Diab",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ghobashy",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Alhajri",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Al-Thani",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                },
+                {
+                    "first": "Al-Marri",
+                    "middle": [],
+                    "last": "Sa",
+                    "suffix": ""
+                },
+                {
+                    "first": "Al",
+                    "middle": [],
+                    "last": "Romaihi",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                },
+                {
+                    "first": "Al",
+                    "middle": [],
+                    "last": "Khal",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bermingham",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Osterhaus",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Alhajri",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Koopmans",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Lancet Infect. Dis",
+            "volume": "14",
+            "issn": "13",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1473-3099(13)70690-X"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Middle East respiratory syndrome coronavirus (MERS-CoV) serology in major livestock species in an affected region in Jordan",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Reusken",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ababneh",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Raj",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Meyer",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Eljarah",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Abutarbush",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Godeke",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Bestebroer",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Zutt",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Muller",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Bosch",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Rottier",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Osterhaus",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Drosten",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Haagmans",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Koopmans",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Euro Surveill",
+            "volume": "18",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Seroepidemiology for MERS coronavirus using microneutralisation and pseudoparticle virus neutralisation assays reveal a high prevalence of antibody in dromedary camels in Egypt",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Perera",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Gomaa",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "El-Shesheny",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kandeil",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Bagato",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Siu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Shehata",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Kayed",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Moatasim",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Poon",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Webby",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Ali",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Peiris",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Kayali",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Euro Surveill",
+            "volume": "18",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Middle East respiratory syndrome coronavirus neutralising serum antibodies in dromedary camels: a comparative serological study",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Reusken",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Haagmans",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "M\u00fcller",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Gutierrez",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Godeke",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Meyer",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Muth",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Raj",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Smits-De",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Vries",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Corman",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Drexler",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Smits",
+                    "suffix": ""
+                },
+                {
+                    "first": "El",
+                    "middle": [],
+                    "last": "Tahir",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                },
+                {
+                    "first": "De",
+                    "middle": [],
+                    "last": "Sousa",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Van Beek",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Nowotny",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Van Maanen",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Hidalgo-Hermoso",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Bosch",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Rottier",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Osterhaus",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Gort\u00e1zar-Schmidt",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Drosten",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Koopmans",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Lancet Infect. Dis",
+            "volume": "13",
+            "issn": "",
+            "pages": "70164--70170",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1473-3099(13)70164-6"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Middle East respiratory syndrome (MERS) coronavirus seroprevalence in domestic livestock in Saudi Arabia",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Hemida",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Perera",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Alhammadi",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Siu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Poon",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Saif",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Alnaeem",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Peiris",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Euro Surveill",
+            "volume": "18",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Detection of a novel human coronavirus by real-time reverse-transcription polymerase chain reaction",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Corman",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Eckerle",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Bleicker",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Zaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Landt",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Eschbach-Bludau",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Van Boheemen",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Gopal",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ballhause",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Bestebroer",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Muth",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "M\u00fcller",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Drexler",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Zambon",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Osterhaus",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Fouchier",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Drosten",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Euro Surveill",
+            "volume": "17",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Assays for laboratory confirmation of novel human coronavirus (hCoV-EMC) infections",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Corman",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "M\u00fcller",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Costabel",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Timm",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Binger",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Meyer",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Kreher",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Lattwein",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Eschbach-Bludau",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Nitsche",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Bleicker",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Landt",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Schweiger",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Drexler",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Osterhaus",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Haagmans",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Dittmer",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Bonin",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Wolff",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Drosten",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Euro Surveill",
+            "volume": "17",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Evaluation of serologic and antigenic relationships between Middle Eastern respiratory syndrome coronavirus and other coronaviruses to develop vaccine platforms for the rapid response to emerging coronaviruses",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Agnihothram",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Gopal",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Yount",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Jr",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Donaldson",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Menachery",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Graham",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Scobey",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Gralinski",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Denison",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Zambon",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Baric",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "J. Infect. Dis",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/infdis/jit609"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Missing information in animal surveillance of MERS-CoV",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Nishiura",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Ejima",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Mizumoto",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Lancet Infect. Dis",
+            "volume": "14",
+            "issn": "13",
+            "pages": "70699--70705",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1473-3099(13)70699-6"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Antibody-profiling technologies for studying humoral responses to infectious agents",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Burbelo",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Ching",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Bush",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Han",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Iadarola",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Expert Rev. Vaccines",
+            "volume": "9",
+            "issn": "",
+            "pages": "567--578",
+            "other_ids": {
+                "DOI": [
+                    "10.1586/erv.10.50"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "fection with Middle East respiratory syndrome coronavirus (MERS-CoV), 77 of them fatal, have been reported through 30 January 2014 (1) following the identification of the index case in the Kingdom of Saudi Arabia (KSA) in September 2012 (2). The majority of infections have been identified in the KSA with lower numbers in Jordan, Qatar, Tunisia, and the United Arab Emirates. Although cases have also been reported in France, Germany, Italy, and the United Kingdom, all have been linked to the Middle East either by travel of the individuals infected through an area where MERS-CoV has been reported or by direct or indirect contact with others who have a travel history consistent with exposure in the Middle East (3).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "In 2010, 47% (22/47) were Bo-CoV positive (57% [13/23] of adults and 38% [9/24] of juveniles, with 1 adult exclusively positive for Bo-CoV), and in 2009, 20% were Bo-CoV positive (16/80; 8% [2/26] adults and 26% [14/54] juvenile, with 2 juveniles exclusively positive for Bo-CoV).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Prevalence of MERS-CoV antibody reactivity in serum (A) and nucleic acid detection in nasal swabs (B) by geographic region in KSA DC. Images were created with software from ESRI maps.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "MERS-CoV proteins detected by Western blotting in sera from KSA DC. S, spike glycoprotein; N, nucleocapsid protein.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "Relationship of partial spike (A, 1,044 nt) and ORF1ab (B, 2,009 nt) sequences derived from DC with selected human-derived MERS-CoV sequences. Maximum-likelihood trees were inferred on the basis of p distance. The scale bars indicate the base difference per site. GenBank reference sequence accession numbers are shown. Alagaili et al.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF5": {
+            "text": "ELISA. Vero (African green monkey kidney, ATCC CRL-1586) cells were maintained at the Integrated Research Facility (Frederick, MD) in Dulbecco's modified Eagle's medium (Corning Inc., Corning, NY) and 10% fetal bovine serum. Cells were plated at a concentration of 4 \u03eb 10 4 / well in 96-well plates (catalog no. 3603; Corning). When cells were at or near confluence, they were infected with the Jordan strain of MERS-CoV (GenBank accession no. KC776174, MERS-CoV Hu/Jordan-N3/ 2012[41]), kindly provided by Kanta Subbarao (National Institutes of Health, Bethesda, MD) and Gabriel Defang (Naval Medical Research Unit-3, Cairo, Egypt) at a multiplicity of infection of 1.0. At 24 h postinfection, cells were fixed in 10% neutral buffered formalin or 4% paraformaldehyde solution.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "). Reusken et al. found antibodies in 100% of 50 Omani DC and 14% of 105 Canary Island DC but no seropositive northern European DC, domestic sheep, domestic goats, or domestic cattle",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Samples collected in 2013 by animal species, geographic location, age group, and specimen type Juvenile animals were defined as being \u05452 years of age; adults were defined as being \u03fe2 years of age. b Specimens collected from each animal: S, serum; B, blood; N, nasal swab; R, rectal swab. c Domestic sheep were separated into the breeds commonly found in the KSA: Barbari, Harri, Najdi, Naimi, and Sawakni.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "Analysis of archived DC sera from the KSA from 1992 to 2010",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF3": {
+            "text": "DOCX file, 0.1 MB. Table S2, DOCX file, 0.1 MB.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "We are grateful to His Highness, Prince Bandar bin Saud Al Saud, President, Saudi Wildlife Authority, for his unlimited support and encouragement; to Devon Welsh and Kawthar Muhammad for mobile laboratory coordination; to Andrew Schultz for statistical analysis; to Ellie Kahn for editorial contributions; to Aaloki Shah, Parisa Zolfaghari, Mia R. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "ACKNOWLEDGMENTS"
+        }
+    ]
+}

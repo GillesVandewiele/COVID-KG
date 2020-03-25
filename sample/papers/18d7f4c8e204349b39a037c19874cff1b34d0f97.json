@@ -1,0 +1,1781 @@
+{
+    "paper_id": "18d7f4c8e204349b39a037c19874cff1b34d0f97",
+    "metadata": {
+        "title": "Complex structure of MERS-CoV RBD with DPP4 986 Structure of MERS-CoV spike receptor-binding domain complexed with human receptor DPP4",
+        "authors": [
+            {
+                "first": "Nianshuang",
+                "middle": [],
+                "last": "Wang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Tsinghua Uni-versity",
+                    "location": {
+                        "postCode": "100084",
+                        "settlement": "Beijing",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Xuanling",
+                "middle": [],
+                "last": "Shi",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Tsinghua University",
+                    "location": {
+                        "postCode": "100084",
+                        "settlement": "Beijing",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Liwei",
+                "middle": [],
+                "last": "Jiang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Tsinghua University",
+                    "location": {
+                        "postCode": "100084",
+                        "settlement": "Beijing",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Senyan",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Tsinghua Uni-versity",
+                    "location": {
+                        "postCode": "100084",
+                        "settlement": "Beijing",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Dongli",
+                "middle": [],
+                "last": "Wang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Tsinghua Uni-versity",
+                    "location": {
+                        "postCode": "100084",
+                        "settlement": "Beijing",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Pei",
+                "middle": [],
+                "last": "Tong",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Tsinghua Uni-versity",
+                    "location": {
+                        "postCode": "100084",
+                        "settlement": "Beijing",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Dongxing",
+                "middle": [],
+                "last": "Guo",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Tsinghua University",
+                    "location": {
+                        "postCode": "100084",
+                        "settlement": "Beijing",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Lili",
+                "middle": [],
+                "last": "Fu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Tsinghua University",
+                    "location": {
+                        "postCode": "100084",
+                        "settlement": "Beijing",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Ye",
+                "middle": [],
+                "last": "Cui",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Tsinghua Uni-versity",
+                    "location": {
+                        "postCode": "100084",
+                        "settlement": "Beijing",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Xi",
+                "middle": [],
+                "last": "Liu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Tsinghua Uni-versity",
+                    "location": {
+                        "postCode": "100084",
+                        "settlement": "Beijing",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Kelly",
+                "middle": [
+                    "C"
+                ],
+                "last": "Arledge",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Tsinghua University",
+                    "location": {
+                        "postCode": "100084",
+                        "settlement": "Beijing",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Ying-Hua",
+                "middle": [],
+                "last": "Chen",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Tsinghua Uni-versity",
+                    "location": {
+                        "postCode": "100084",
+                        "settlement": "Beijing",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Linqi",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Tsinghua University",
+                    "location": {
+                        "postCode": "100084",
+                        "settlement": "Beijing",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Xinquan",
+                "middle": [],
+                "last": "Wang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Tsinghua Uni-versity",
+                    "location": {
+                        "postCode": "100084",
+                        "settlement": "Beijing",
+                        "country": "China"
+                    }
+                },
+                "email": "xinquanwang@mail.tsinghua.edu.cnbe-mail:zhanglinqi@tsinghua.edu.cn"
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "The spike glycoprotein (S) of recently identified Middle East respiratory syndrome coronavirus (MERS-CoV) targets the cellular receptor, dipeptidyl peptidase 4 (DPP4). Sequence comparison and modeling analysis have revealed a putative receptor-binding domain (RBD) on the viral spike, which mediates this interaction. We report the 3.0 \u00c5resolution crystal structure of MERS-CoV RBD bound to the extracellular domain of human DPP4. Our results show that MERS-CoV RBD consists of a core and a receptor-binding subdomain. The receptor-binding subdomain interacts with DPP4 \u03b2-propeller but not its intrinsic hydrolase domain. MERS-CoV RBD and related SARS-CoV RBD share a high degree of structural similarity in their core subdomains, but are notably divergent in the receptorbinding subdomain. Mutagenesis studies have identified several key residues in the receptor-binding subdomain that are critical for viral binding to DPP4 and entry into the target cell. The atomic details at the interface between MERS-CoV RBD and DPP4 provide structural understanding of the virus and receptor interaction, which can guide development of therapeutics and vaccines against MERS-CoV infection.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "A novel coronavirus, recently named the Middle East respiratory syndrome coronavirus (MERS-CoV), was first identified in humans in the Middle East in 2012, and later in several European countries [1] [2] [3] . A sizable fraction (> 50%) of the infected patients developed severe respiratory illness and clinical symptoms similar to those seen during outbreak of severe acute respiratory symptom (SARS) caused by the coronavirus SARS-CoV in 2003 [4] . In particular, preliminary epidemiology studies suggest human-to-human transmission of this deadly virus, leading to global concern about the potential for a MERS pandemic [5, 6] . Genetic and phy-logenetic characterization has shown that MERS-CoV belongs to lineage C of the genus of betacoronavirus and is closely related to Tylonycteris bat coronavirus HKU4 and Pipistrellus bat coronavirus HKU5, although the direct source and reservoirs of MERS-CoV remain uncertain [2, 7, 8] . Like other coronaviruses, the MERS-CoV virion utilizes a large surface spike (S) glycoprotein for interaction with and entry into the target cell [9, 10] . The S glycoprotein consists of a globular S1 domain at the N-terminal region, followed by membrane-proximal S2 domain, a transmembrane domain and an intracellular domain [11] [12] [13] . Determinants of cellular tropism and interaction with the target cell are within the S1 domain, while mediators of membrane fusion have been identified within the S2 domain [11, 12] . Through co-purification with the MERS-CoV S1 domain, Raj and colleagues [9] recently identified that dipeptidyl peptidase 4 (DPP4, also called CD26) functions as a cellular receptor for MERS-CoV. DPP4 does not share any sequence or structural similarities to the previously identified human coronavirus receptors, such as angiotensin-converting www.cell-research.com | Cell Research Nianshuang Wang et al. 987 npg enzyme 2 (ACE2) for SARS-CoV [14, 15] and HCoV-NL63 [16] , or aminopeptidase N (APN) for HCoV-229E [17] . Like ACE2 and APN, however, DDP4 is expressed on the surface of several cell types, including those found in human airways, and possesses ectopeptidase activity, although this enzymatic function does not appear to be essential for viral entry [18] . Sequence and modeling analysis of S glycoproteins from several human coronaviruses has revealed a potential receptor-binding domain (RBD) of MERS-CoV [10, 19] . However, given the relatively low degree of homology between S glycoprotein sequences and mechanisms of interaction with distinct cell surface receptors, it is likely that there is a significant variability in structural features among respective RBD receptor pairs. Here, we report the crystal structure of MERS-CoV RBD in complex with human DPP4 extracellular domain at a resolution of 3.0 \u00c5.",
+            "cite_spans": [
+                {
+                    "start": 196,
+                    "end": 199,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 200,
+                    "end": 203,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 204,
+                    "end": 207,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 445,
+                    "end": 448,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 623,
+                    "end": 626,
+                    "text": "[5,",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 627,
+                    "end": 629,
+                    "text": "6]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 922,
+                    "end": 925,
+                    "text": "[2,",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 926,
+                    "end": 928,
+                    "text": "7,",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 929,
+                    "end": 931,
+                    "text": "8]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 1080,
+                    "end": 1083,
+                    "text": "[9,",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 1084,
+                    "end": 1087,
+                    "text": "10]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 1260,
+                    "end": 1264,
+                    "text": "[11]",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 1265,
+                    "end": 1269,
+                    "text": "[12]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 1270,
+                    "end": 1274,
+                    "text": "[13]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 1450,
+                    "end": 1454,
+                    "text": "[11,",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 1455,
+                    "end": 1458,
+                    "text": "12]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 1533,
+                    "end": 1536,
+                    "text": "[9]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 1904,
+                    "end": 1908,
+                    "text": "[14,",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 1909,
+                    "end": 1912,
+                    "text": "15]",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 1927,
+                    "end": 1931,
+                    "text": "[16]",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 1974,
+                    "end": 1978,
+                    "text": "[17]",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 2224,
+                    "end": 2228,
+                    "text": "[18]",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 2381,
+                    "end": 2385,
+                    "text": "[10,",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 2386,
+                    "end": 2389,
+                    "text": "19]",
+                    "ref_id": "BIBREF19"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Overall structure of the complex MERS-CoV RBD (E367 to Y606) and soluble DPP4 extracellular domain (S39 to P766) with C-terminal histidine tag were expressed in Sf9 cells and purified by Ni-NTA and size-exclusion chromatography (Supplementary information, Figure S1 ). The two components were then mixed, and the complex was purified by size-exclusion chromatography (Supplementary information, Figure   S1 ). Crystals belong to the P6 1 22 space group with cell dimensions, a = b = 110.6 \u00c5, c = 527.6 \u00c5, \u03b1 = \u03b2 = 90\u00ba, \u03b3 = 120\u00ba. The structure was determined by the molecular replacement method and refined to a resolution of 3.0 \u00c5 with R work of 19.2% and R free of 24.1% (Supplementary information, Table S1 ). There is one complex of DPP4 extracellular domain with MERS-CoV RBD in the asymmetric unit. The final model consists of residues E382 to C585 of the MERS-CoV RBD, S39 to P766 of the DPP4 extracellular domain, and glycans N-linked to residues N85, N92, N150, N219, N229, N281, N321 and N520 of the DPP4 extracellular domain.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 256,
+                    "end": 265,
+                    "text": "Figure S1",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 395,
+                    "end": 406,
+                    "text": "Figure   S1",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 699,
+                    "end": 707,
+                    "text": "Table S1",
+                    "ref_id": null
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "The DPP4 extracellular domain consists of an Nterminal eight-bladed \u03b2-propeller domain (S39 to D496) and a C-terminal \u03b1/\u03b2 hydrolase domain (N497 to P766) ( Figure 1 ). The \u03b2-propeller domain consists of eight blades, each made up of four antiparallel \u03b2-strands (Supplementary information, Figure S2 ). DPP4 utilizes the blades 4 and 5 to contact the MERS-CoV RBD (Supplementary information, Figure S2 ). The contact site is far from the hydrolase domain ( Figure 1 ), which is consistent with the previous findings showing that the addition of DPP4 inhibitors sitagliptin, vildagliptin, saxagliptin or P32/98 does not block MERS-CoV entry [9] .",
+            "cite_spans": [
+                {
+                    "start": 639,
+                    "end": 642,
+                    "text": "[9]",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 156,
+                    "end": 164,
+                    "text": "Figure 1",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 289,
+                    "end": 298,
+                    "text": "Figure S2",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 391,
+                    "end": 400,
+                    "text": "Figure S2",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 456,
+                    "end": 464,
+                    "text": "Figure 1",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "The MERS-CoV RBD contains a core subdomain and a receptor-binding subdomain ( Figure 1 ). The core subdomain is a five-stranded antiparallel \u03b2 sheet (\u03b21, \u03b22, \u03b23, \u03b24 and \u03b29) with two short \u03b1 helices in the connecting loops ( Figure 2C and 2E). Three disulfide bonds, connecting C383 to C407, C425 to C478 and C437 to C585, reside in the core subdomain to maintain the fold ( Figure  2E ). The receptor-binding subdomain is a four-stranded antiparallel \u03b2 sheet (\u03b25, \u03b26, \u03b27 and \u03b28), located between strands \u03b24 and \u03b29 of the core domain ( Figure 2C and 2E). There is a long loop connecting \u03b26 and \u03b27 strands, which crosses perpendicularly to the \u03b2 sheet ( Figure 2C and 2E). The disulfide bond between C503 and C526 connects this loop with strand \u03b25 ( Figure 2E ), thereby providing structural support for the \u03b2 sheet to contact DPP4. Similarly, SARS-CoV RBD also contains the core and receptor-binding subdomains ( Figure 2D and 2F) [14] . Although MERS-CoV and SARS-CoV have low amino acid sequence homology in the RBD (Supplementary information, Figure S3 ), their core subdomains are structurally similar with an r.m.s.d. of 2.0 \u00c5 for 95 aligned C\u03b1 atoms. However, clear differences exist in the receptor-binding subdomain between MERS-CoV and SARS-CoV. The former contains 84 residues (V484 to L567, Figure 2A ), forming a four-stranded antiparallel \u03b2 sheet ( Figure 2C and 2E), whereas the latter has 68 amino acids (T425 to Q492, Figure 2B ), forming a long extended loop with two short antiparallel \u03b2 strands and one disulfide bond between C467 and C474 ( Figure 2D and 2F). ",
+            "cite_spans": [
+                {
+                    "start": 930,
+                    "end": 934,
+                    "text": "[14]",
+                    "ref_id": "BIBREF14"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 78,
+                    "end": 86,
+                    "text": "Figure 1",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 224,
+                    "end": 233,
+                    "text": "Figure 2C",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 374,
+                    "end": 384,
+                    "text": "Figure  2E",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 535,
+                    "end": 544,
+                    "text": "Figure 2C",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 652,
+                    "end": 661,
+                    "text": "Figure 2C",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 748,
+                    "end": 757,
+                    "text": "Figure 2E",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 912,
+                    "end": 921,
+                    "text": "Figure 2D",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 1045,
+                    "end": 1054,
+                    "text": "Figure S3",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 1301,
+                    "end": 1310,
+                    "text": "Figure 2A",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 1361,
+                    "end": 1370,
+                    "text": "Figure 2C",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 1433,
+                    "end": 1442,
+                    "text": "Figure 2B",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 1560,
+                    "end": 1569,
+                    "text": "Figure 2D",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "Structure of MERS-CoV RBD and its comparison with SARS-CoV RBD"
+        },
+        {
+            "text": "The MERS-CoV RBD binds to the DPP4 \u03b2-propeller domain with a buried surface of ~2 550 \u00c5 2 . At the interface, a total of 14 residues of MERS-CoV contact with 15 residues of the DPP4 with a distance cutoff of 3.6 \u00c5 (Supplementary information, Table S2 ). The interface consists of two major binding patches. In patch 1 (~1 250 \u00c5 2 buried surface), the C-terminal end of the long loop connecting the \u03b26 and \u03b27 strands contacts the blade 4 of DPP4 ( Figure 3A ). MERS-CoV acidic residues E536, D537 and D539 at the C-terminal end of the loop form a negatively charged surface, and D539 has salt-bridge interaction with DPP4 basic residue K267 ( Figure 3B ). MERS-CoV residue Y499 forms hydrogen bond with the DPP4 residue R336 in this patch ( Figure 3B ). In patch 2 (~1 300 \u00c5 2 buried surface), there is a slightly concaved outer surface at the far end of the MERS-CoV receptorbinding subdomain, formed by the short \u03b26 strand, Cterminal parts of \u03b25 and \u03b27 strands, N-terminal part of \u03b28 strand and the \u03b25-\u03b26 linking loop ( Figure 3A ). This concaved outer surface accommodates a linker containing a short \u03b1 helix between blade 4 and blade 5 of DPP4 ( Figure  3A ). In this patch, a hydrophobic core is found, consisting of MERS-CoV RBD residues L506, W553 and V555, and DPP4 residues L294 and I295, surrounded by hydrophilic MERS-CoV RBD residues D510, E513 and Y540, and DPP4 residues H298, R317 and Q344 ( Figure  3C ). Among the peripheral hydrophilic residues, MERS-CoV RBD residues D510 and E513 form salt-bridge and hydrogen-bonding interactions with DPP4 residues R317 The actual residue changes in the RBD are indicated above each lane. The DPP4 untagged serves as a negative control to exclude nonspecific binding of untagged DPP4 with Ni-NTA resin. (B) Entry efficiency of pseudotyped viruses bearing the wild-type and mutant forms of viral spike glycoprotein. The percentage of entry efficiency was calculated on the basis of luciferase activity of mutant viruses versus that of the wild-type virus. Soluble RBD (~150 \u03bcg/ml) and DPP4 (~150 \u03bcg/ml) were also tested for their inhibitory activity against wild-type virus. One irrelevant soluble protein with the same concentration was used as a negative control. Error bars represent SD of two replicate experiments. and Q344, respectively ( Figure 3C ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 242,
+                    "end": 250,
+                    "text": "Table S2",
+                    "ref_id": null
+                },
+                {
+                    "start": 447,
+                    "end": 456,
+                    "text": "Figure 3A",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 642,
+                    "end": 651,
+                    "text": "Figure 3B",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 740,
+                    "end": 749,
+                    "text": "Figure 3B",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 1021,
+                    "end": 1030,
+                    "text": "Figure 3A",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 1149,
+                    "end": 1159,
+                    "text": "Figure  3A",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 1406,
+                    "end": 1416,
+                    "text": "Figure  3C",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 2298,
+                    "end": 2307,
+                    "text": "Figure 3C",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "Binding interface"
+        },
+        {
+            "text": "To study the biological relevance of these residues at the interface between MERS-CoV RBD and DPP4, we generated a series of mutant MERS-CoV RBD proteins and characterized their impact on binding activity to DPP4 and the entry efficiency of pseudotyped viruses bearing the mutant S glycoprotein. As shown in Figure  4 , mutations at several residues, either singly or in combination, resulted in a significant reduction in binding to DPP4 and lowered the efficiency of viral entry. In patch 1, for instance, a single-residue substitution of Y499A, expected to eliminate hydrogen bonding between Y499 and R336, significantly interrupted the binding between MERS-CoV RBD and DPP4, as well as hindered viral entry (Figure 4) involving E536R, D537K and D539K, hypothesized to disrupt the native interaction with K267, resulted in profound reduction in the binding and viral entry levels ( Figure 4) . Furthermore, in patch 2, a single-residue substitution of either L506A or W553A, expected to alter the hydrophobic core ( Figure 3C ), significantly reduced both binding and viral entry efficiency (Figure 4) . In particular, combined residue substitutions involving L506A, W553A and V555A resulted in even more profound reduction in viral entry efficiency (Figure 4) , suggesting that the hydrophobic core formed between MERS-CoV RBD and DPP4 plays a critical role in mediating viral binding and entry into the target cells. Finally, a singleresidue substitution of D510A that disrupts its salt-bridge interaction with DPP4 R317, or a change of E513A that disrupts its hydrogen-bonding interaction with DPP4 Q344, also hindered, to variable degrees, both binding and viral entry; while the impact of other mutations such as R511A was not significant (Figure 4 ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 308,
+                    "end": 317,
+                    "text": "Figure  4",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 711,
+                    "end": 721,
+                    "text": "(Figure 4)",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 885,
+                    "end": 894,
+                    "text": "Figure 4)",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 1019,
+                    "end": 1028,
+                    "text": "Figure 3C",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 1094,
+                    "end": 1104,
+                    "text": "(Figure 4)",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 1253,
+                    "end": 1263,
+                    "text": "(Figure 4)",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 1747,
+                    "end": 1756,
+                    "text": "(Figure 4",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": "MERS-CoV critical residues for DPP4 binding and viral entry"
+        },
+        {
+            "text": "In summary, we report the crystal structure of MERS-CoV RBD in complex with the DPP4 extracellular domain and have identified several key residues in the S glycoprotein critical for viral binding and entry into target cells. In general, MERS-CoV RBD consists of two major subdomains, the core and receptor-binding subdomain. While the former shares a high degree of structural similarity to SARS-CoV RBD, the latter is notably divergent from known structures (Figure 2 ). This structural distinction helps to explain receptor specificities of MERS-CoV and SARS-CoV [9, 15] . The high degree of structural similarity in the core subdomain, however, also suggests that there is a selection pressure for structural conservation or convergence in this region, despite profound sequence diversity.",
+            "cite_spans": [
+                {
+                    "start": 565,
+                    "end": 568,
+                    "text": "[9,",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 569,
+                    "end": 572,
+                    "text": "15]",
+                    "ref_id": "BIBREF15"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 459,
+                    "end": 468,
+                    "text": "(Figure 2",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "Discussion"
+        },
+        {
+            "text": "In terms of receptor binding, MERS-CoV RBD specifically binds to blades 4 and 5 (Supplementary information, Figure S2 ) but not other blades in the \u03b2-propeller domain of DPP4, which could be explained by charge and shape complementarities at the binding interface (Supplementary information, Figure S4 ). Specifically, the \u03b2-propeller domain of DPP4 has three positively charged residues at the outer surface of blades 4 and 5 (K267, R336 and R317), which interact with the negatively charged residues on the surface of RBD (D510, E536, D537 and D539) (Supplementary information, Figure  S4 ). Surrounded by these charge-charge interactions, the short \u03b1 helix between blades 4 and 5 of DPP4 docks into the hydrophobic concaved surface of RBD (Supplementary information, Figure S4 ). These structural fea-tures suitable for RBD binding are only observed in the outer surface of blades 4 and 5 of DPP4. Furthermore, it is also clear that the enzymatic site of DPP4 is distant from MERS-CoV RBD-binding site (Figure 1 ), similar to the structure of ACE2 binding with SARS-CoV RBD [14] . This provides a structural explanation for previous findings showing that DPP4 enzymatic inhibitors do not block the viral entry of MERS-CoV [9] . However, the overall structural features of DPP4 are clearly distinct from those of ACE2. Such structural differences, in addition to their potential differences in expression levels and tissue distribution, is expected to play a critical role in determining cell tropism as well as pathogenesis of MERS-CoV and SARS-CoV in vivo. Of note, small degree of sequence variation has been identified in the contact residues among DPP4 from different mammals, which may help to determine the cell susceptibility as well as the host range of MERS-CoV (Supplementary information, Figure S5 ). Nevertheless, our report of structural features of MERS-CoV RBD in complex with the DPP4 has provided atomic understanding of virus and receptor interaction, and will guide development of therapeutics and vaccines against MERS-CoV infection.",
+            "cite_spans": [
+                {
+                    "start": 1077,
+                    "end": 1081,
+                    "text": "[14]",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 1225,
+                    "end": 1228,
+                    "text": "[9]",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 108,
+                    "end": 117,
+                    "text": "Figure S2",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 292,
+                    "end": 301,
+                    "text": "Figure S4",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 580,
+                    "end": 590,
+                    "text": "Figure  S4",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 770,
+                    "end": 779,
+                    "text": "Figure S4",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 1005,
+                    "end": 1014,
+                    "text": "(Figure 1",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 1802,
+                    "end": 1811,
+                    "text": "Figure S5",
+                    "ref_id": null
+                }
+            ],
+            "section": "Discussion"
+        },
+        {
+            "text": "Human DPP4 extracellular domain (residues 39-766) with an N-terminal Hemolin signal peptide for secretion and a C-terminal 6\u00d7 His tag for purification was inserted into pFastBac-Dual vector (Invitrogen). The construct was transformed into bacterial DH10Bac component cells, and the extracted bacmid was then transfected into Sf9 cells using Cellfectin II Reagent (Invitrogen). The low-titer viruses were harvested and then amplified to generate high-titer virus stock, which was used to infect 2 L Sf9 cells at a density of 2 \u00d7 10 6 cells/ml. The supernatant of cell culture containing the secreted DPP4 was harvested 72 h after infection, concentrated and buffer-exchanged to HBS (10 mM HEPES, pH 7.2, 150 mM NaCl). DPP4 was captured by nickel (Ni)-charged resin (GE Healthcare) and eluted with 500 mM imidazole in Tris buffer (50 mM Tris, pH 8.8, 300 mM NaCl). DPP4 was then purified by gel filtration chromatography using the Superdex 200 column (GE Healthcare) pre-equilibrated with Tris buffer (25 mM Tris, pH 8.8, 30 mM NaCl). Fractions containing DPP4 were collected and applied directly to a pre-equilibrated RESOURCE Q column (GE Healthcare) and then eluted with a 30-1 000 mM NaCl gradient in 25 mM Tris buffer (pH 8.8). Fractions containing DPP4 were finally purified with gel filtration chromatography using Superdex 200 column.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Expression and purification of human DPP4"
+        },
+        {
+            "text": "A series of constructs encoding different fragments of MERS-CoV S1 protein were designed based on secondary structure prediction. Each fragment was cloned into the vector pFastBac-Dual (Invitrogen) with an N-terminal gp67 signal peptide and Cterminal His tag. All constructs were transformed into bacterial DH10Bac component cells to obtain recombinant bacmid and then transfected into Sf9 insect cells. Viruses were harvested after 7 days, amplified and tested for protein expression. One of the fragments (MERS-CoV RBD, residues 367-606) showed the highest level of protein expression and was able to be co-purified with untagged DPP4 using Ni-charged resin. This fragment was further produced in large quantity and purified using Ni-charged resin and HiLoad Superdex 75 Column (GE healthcare).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Identification and preparation of MERS-CoV RBD"
+        },
+        {
+            "text": "Purified RBD and DPP4 were mixed for 1 h and then loaded to Superdex 200 column. The complex was collected and concentrated to ~10 mg/ml in HBS buffer (10 mM HEPES, pH 7.2, 150 mM NaCl) for crystallization. Crystals were successfully grown at room temperature using the sitting drop vapor diffusion method by mixing equal volumes of protein and reservoir solution containing 25% (w/v) polyethylene glycol 1500. Crystals were frozen in liquid nitrogen with cryoprotectant (well solution plus 20% (v/v) glycol) before data collection. Diffraction data were collected at the BL17U beam line of the Shanghai Synchrotron Research Facility (SSRF). Diffraction data were indexed, integrated and scaled with the program HKL2000 [20] .",
+            "cite_spans": [
+                {
+                    "start": 720,
+                    "end": 724,
+                    "text": "[20]",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Crystallization and data collection"
+        },
+        {
+            "text": "The structure was determined by the molecular replacement method with PHASER [21] in CCP4 suite [22] . The search models are DPP4 extracellular domain structure (PDB code 2G63) and SARS-CoV RBD structure deleting the receptor-binding loop (PDB code 2AJF). Density map improvement by atoms update and refinement was performed with ARP/wARP [23] , and automatic model extension of the missing receptor-binding subdomain of MERS-CoV was carried out with BUCCANNER [24] . At the final stages of model building and refinement, glycans were added based on the electron densities. Structure validation was performed with PROCHECK [25] . All structural figures were made with Py-Mol [26] .",
+            "cite_spans": [
+                {
+                    "start": 77,
+                    "end": 81,
+                    "text": "[21]",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 96,
+                    "end": 100,
+                    "text": "[22]",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 339,
+                    "end": 343,
+                    "text": "[23]",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 461,
+                    "end": 465,
+                    "text": "[24]",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 623,
+                    "end": 627,
+                    "text": "[25]",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 675,
+                    "end": 679,
+                    "text": "[26]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Structural determination and refinement"
+        },
+        {
+            "text": "All MERS-CoV RBD mutants were generated by site-specific PCR mutagenesis and were confirmed by sequencing. Baculoviruses expressing these mutants with C-terminal His tag were prepared in the same way as wild-type MERS-CoV RBD. Sf9 cells were coinfected by baculovirus expressing untagged DPP4 and a MERS-CoV RBD mutant baculovirus. The supernatant of 2 ml cell culture in six-well plates was harvested 72 h after infection and buffer-exchanged to HBS (10 mM HEPES, pH 7.2, 150 mM NaCl). Protein was captured by adding 40 \u03bcl Ni-charged resin (GE Healthcare) and incubated at 4 \u00b0C for 3 h. After an extensive wash with Tris buffer (50 mM Tris, pH 8.8, 300 mM NaCl) containing 20 mM imidazole, the bound protein was eluted with 40 \u03bcl Tris buffer (50 mM Tris, pH 8.8, 300 mM NaCl) containing 500 mM imidazole. Twenty microlitres of eluted sample was mixed with 5 \u03bcl of 5\u00d7 SDS-PAGE loading buffer and boiled at 100 \u00b0C for 5 min, and then loaded on 12% SDS-PAGE gel. The gel was stained with coomassie blue.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Mutagenesis and Ni-NTA pull-down experiments"
+        },
+        {
+            "text": "Pseudotyped virus was generated by co-transfection of human immunodeficiency virus backbone expressing firefly luciferase (pNL43R-E-luciferase) and MERS-CoV spike glycoprotein expression vector (pcDNA3.1+; Invitrogen) into the 293T cells [27] . Viral supernatants were harvested 48 h later, normalized by p24 ELISA kit (Beijing Quantobio Biotechnology Co., Ltd., China) before infecting the target cells Huh7. The infected Huh7 cells were lysed at 48 h after infection and viral entry efficiency was quantified by comparing the luciferase activity between pseudotyped viruses bearing the mutant and wild-type MERS-CoV spike glycoprotein. The inhibitory effect of soluble RBD and DPP4 was analyzed by incubating with pseudotyped virus bearing the wildtype MERS-CoV spike glycoprotein before the infection.",
+            "cite_spans": [
+                {
+                    "start": 238,
+                    "end": 242,
+                    "text": "[27]",
+                    "ref_id": "BIBREF27"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Pseudotyped virus and viral entry"
+        },
+        {
+            "text": "The coordinates and diffraction data have been deposited into the Protein Data Bank with accession code 4L72.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "PDB deposition"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Severe respiratory illness caused by a novel coronavirus",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bermingham",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Chand",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Brown",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "September 2012",
+            "volume": "17",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Isolation of a novel coronavirus from a man with pneumonia in Saudi Arabia",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Zaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Van Boheemen",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Bestebroer",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Osterhaus",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Fouchier",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "N Engl J Med",
+            "volume": "367",
+            "issn": "",
+            "pages": "1814--1820",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Middle East Respiratory Syndrome Coronavirus (MERS-CoV); Announcement of the Coronavirus Study Group",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "De Groot",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Baker",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Baric",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "J Virol",
+            "volume": "87",
+            "issn": "",
+            "pages": "7790--7792",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "WHO. World Health Organization Global alert and response",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Coronavirus infections",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Is the discovery of the novel human betacoronavirus 2c EMC/2012 (HCoV-EMC) the beginning of another SARS-like pandemic?",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "To",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Cheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Yuen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "J Infect",
+            "volume": "65",
+            "issn": "",
+            "pages": "477--489",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Family cluster of Middle East respiratory syndrome coronavirus infections",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Memish",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Zumla",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Al-Hakeem",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Al-Rabeeah",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Stephens",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "N Engl J Med",
+            "volume": "368",
+            "issn": "",
+            "pages": "2487--2494",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Genomic characterization of a newly discovered coronavirus associated with acute respiratory distress syndrome in humans",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Van Boheemen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "De Graaf",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Lauber",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "MBio",
+            "volume": "3",
+            "issn": "",
+            "pages": "473--00412",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Genetic relatedness of the novel human group C betacoronavirus to Tylonycteris bat coronavirus HKU4 and Pipistrellus bat corowww.cell-research.com | Cell Research Nianshuang Wang et al. 993 npg navirus HKU5",
+            "authors": [
+                {
+                    "first": "Pcy",
+                    "middle": [],
+                    "last": "Woo",
+                    "suffix": ""
+                },
+                {
+                    "first": "Skp",
+                    "middle": [],
+                    "last": "Lau",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ksm",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Akl",
+                    "middle": [],
+                    "last": "Tsang",
+                    "suffix": ""
+                },
+                {
+                    "first": "K-Y",
+                    "middle": [],
+                    "last": "Yuen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Emerg Microbes Infect",
+            "volume": "1",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Dipeptidyl peptidase 4 is a functional receptor for the emerging human coronavirus-EMC",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Raj",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Mou",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Smits",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Nature",
+            "volume": "495",
+            "issn": "",
+            "pages": "251--254",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "A predicted receptor-binding and critical neutralizing domain in S protein of the novel human coronavirus HCoV-EMC",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Du",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Debnath",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "J Infect",
+            "volume": "66",
+            "issn": "",
+            "pages": "464--466",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Coronavirus pathogenesis and the emerging pathogen severe acute respiratory syndrome coronavirus",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Weiss",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Navas-Martin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Microbiol Mol Biol Rev",
+            "volume": "69",
+            "issn": "",
+            "pages": "635--664",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "The spike protein of SARS-CoV: a target for vaccine and therapeutic development",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Du",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "He",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Zheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Nat Rev Microbiol",
+            "volume": "7",
+            "issn": "",
+            "pages": "226--236",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "The molecular biology of coronaviruses",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Masters",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Adv Virus Res",
+            "volume": "66",
+            "issn": "",
+            "pages": "193--292",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Structure of SARS coronavirus spike receptor-binding domain complexed with receptor",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Farzan",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Harrison",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Science",
+            "volume": "309",
+            "issn": "",
+            "pages": "1864--1868",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Angiotensin-converting enzyme 2 is a functional receptor for the SARS coronavirus",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Moore",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Vasilieva",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nature",
+            "volume": "426",
+            "issn": "",
+            "pages": "450--454",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Crystal structure of NL63 respiratory coronavirus receptor-binding domain complexed with its human receptor",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Peng",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Proc Natl Acad Sci",
+            "volume": "106",
+            "issn": "",
+            "pages": "19970--19974",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Human aminopeptidase N is a receptor for human coronavirus 229E",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Yeager",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Ashmun",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Williams",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Nature",
+            "volume": "357",
+            "issn": "",
+            "pages": "420--422",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Public health: broad reception for coronavirus",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Gallagher",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Perlman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Nature",
+            "volume": "495",
+            "issn": "",
+            "pages": "176--177",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Putative conformations of the receptor-binding domain in S protein of hCoV-EMC in complex with its receptor dipeptidyl peptidase-4",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Du",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Debnath",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "J Infect",
+            "volume": "67",
+            "issn": "",
+            "pages": "156--158",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Processing of X-ray diffraction data collected in oscillation mode",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Otwinowski",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Minor",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Method Enzymol",
+            "volume": "276",
+            "issn": "",
+            "pages": "307--326",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Phaser crystallographic software",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Mccoy",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Grosse-Kunstleve",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Adams",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Winn",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Storoni",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Read",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J Appl Crystallogr",
+            "volume": "40",
+            "issn": "",
+            "pages": "658--674",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "The CCP4 suite: programs for protein crystallography",
+            "authors": [],
+            "year": 1994,
+            "venue": "Acta Crystallogr D Biol Crystallogr",
+            "volume": "50",
+            "issn": "4",
+            "pages": "760--763",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "ARP/wARP and molecular replacement: the next generation",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "X"
+                    ],
+                    "last": "Cohen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ben",
+                    "middle": [],
+                    "last": "Jelloul",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Long",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Acta Crystallogr D Biol Crystallogr",
+            "volume": "64",
+            "issn": "",
+            "pages": "49--60",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "The Buccaneer software for automated model building. 1. Tracing protein chains",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Cowtan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Acta Crystallogr D",
+            "volume": "62",
+            "issn": "",
+            "pages": "1002--1011",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "PROCHECK: a program to check the stereochemical quality of protein structures",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Laskowski",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Macarthur",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Moss",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Thornton",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "J Appl Crystallogr",
+            "volume": "26",
+            "issn": "",
+            "pages": "283--291",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Genetic and neutralization sensitivity of diverse HIV-1 env clones from chronically infected patients in China",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Shang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Han",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "J Biol Chem",
+            "volume": "286",
+            "issn": "",
+            "pages": "14531--14541",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Overall structure of the complex. DPP4 extracellular domain consists of N-terminal eight-bladed \u03b2-propeller domain (green) and C-terminal \u03b1/\u03b2-hydrolase domain (orange). MERS-CoV RBD contains a core (cyan) and a receptor-binding subdomain (purple). The disulfide bonds are drawn as yellow sticks and the N-linked glycans are drawn as pink sticks. npg Cell Research | Vol 23 No 8 | August 2013",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Structural comparison between MERS-CoV RBD and SARS-CoV RBD. Domain structures of MERS-CoV S1 (A) and of SARS-CoV S1 (B). (C) Structure of MERS-CoV RBD. The receptor-binding subdomain is colored in purple and the core subdomain is colored in cyan. (D) Structure of SARS-CoV RBD (PDB code 2AJF). The receptor-binding subdomain is colored in purple and the core subdomain is colored in wheat. (E) Schematic illustration of MERS-CoV RBD topology. \u03b2 strands are drawn as arrows and \u03b1 helices are drawn as cylinders. The disulfide bonds are drawn as yellow sticks. (F) Schematic illustration of SARS-CoV RBD topology. \u03b2 strands are drawn as arrows and \u03b1 helices are drawn as cylinders. The disulfide bonds are drawn as yellow sticks.www.cell-research.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Binding interface. (A) DPP4 contacts the MERS-CoV RBD with its blades 4 and 5 in the N-terminal eight-bladed \u03b2-propeller domain. Patch 1 is centered around the C-terminal end of the long linker connecting \u03b26 and \u03b27 strands in MERS-CoV RBD. Patch 2 has a gently concaved outer surface in MERS-CoV RBD that contacts a linker containing a short \u03b1 helix between blades 4 and 5 of DPP4. Amino acid interactions in patch 1 (B), and in patch 2 (C). npg Cell Research | Vol 23 No 8 | August 2013",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Effect of residue substitution on MERS-CoV RBD binding to DPP4 (A) and entry efficiency of pseudotyped viruses (B). (A) SDS-PAGE analysis of co-purified complexes of wild-type or mutant forms of His-tagged RBD and untagged DPP4.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": ". Similarly, combined substitutions www.cell-research.com | Cell Research",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "We thank Dr JW Wang for assistance with structural determination, and Dr JH He and other staff members at Shanghai Synchrotron Research Facility beam line BL17U for help with data collection. This work was supported by the Ministry of Science and Technology (2010CB912402 and 2011CB910502), the Ministry of Health (2012ZX10001009), the Fok Ying Tung Education Foundation to X Wang and the National Outstanding Youth Award (30825035) to L Zhang.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgments"
+        }
+    ]
+}

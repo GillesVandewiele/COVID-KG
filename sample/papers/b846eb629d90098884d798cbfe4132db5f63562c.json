@@ -1,0 +1,1181 @@
+{
+    "paper_id": "b846eb629d90098884d798cbfe4132db5f63562c",
+    "metadata": {
+        "title": "MERS Coronaviruses in Dromedary Camels, Egypt",
+        "authors": [
+            {
+                "first": "Daniel",
+                "middle": [
+                    "K W"
+                ],
+                "last": "Chu",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Leo",
+                "middle": [
+                    "L M"
+                ],
+                "last": "Poon",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Mokhtar",
+                "middle": [
+                    "M"
+                ],
+                "last": "Gomaa",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Mahmoud",
+                "middle": [
+                    "M"
+                ],
+                "last": "Shehata",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Ranawaka",
+                "middle": [
+                    "A P M"
+                ],
+                "last": "Perera",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Dina",
+                "middle": [
+                    "Abu"
+                ],
+                "last": "Zeid",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Amira",
+                "middle": [
+                    "S El"
+                ],
+                "last": "Rifay",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Lewis",
+                "middle": [
+                    "Y"
+                ],
+                "last": "Siu",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Yi",
+                "middle": [],
+                "last": "Guan",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Richard",
+                "middle": [
+                    "J"
+                ],
+                "last": "Webby",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Mohamed",
+                "middle": [
+                    "A"
+                ],
+                "last": "Ali",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Malik",
+                "middle": [],
+                "last": "Peiris",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Ghazi",
+                "middle": [],
+                "last": "Kayali",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "We identified the near-full-genome sequence (29,908 nt, >99%) of Middle East respiratory syndrome coronavirus (MERS-CoV) from a nasal swab specimen from a dromedary camel in Egypt. We found that viruses genetically very similar to human MERS-CoV are infecting dromedaries beyond the Arabian Peninsula, where human MERS-CoV infections have not yet been detected.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "M iddle East respiratory syndrome (MERS) is a pneumonic illness caused by a novel lineage C betacoronavirus (CoV). During September 2012-January 20, 2014, a total of 178 confirmed cases in humans resulted in 76 deaths (1) . Primary infections have originated from countries within the Arabian Peninsula, although travelassociated cases and some secondary transmission have been reported in other countries. Limited human-to-human transmission has resulted in clusters of cases, some associated with multiple rounds of human-to-human transmission (2); the remaining sporadic cases in humans are presumed to be of zoonotic origin.",
+            "cite_spans": [
+                {
+                    "start": 218,
+                    "end": 221,
+                    "text": "(1)",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "MERS-CoV genomes are phylogenetically classified into 2 clades, clade A and B clusters (3) . The viral genomes detected in the earliest cases in humans (clade A cluster; EMC/2012 and Jordan-N3/2012) are genetically distinct from the others (i.e., clade B). The proximate source of human infection remains unclear. MERS-CoV is related to, but not identical to, viruses detected in bats (4, 5) . A short RNA fragment of the conserved viral polymerase region identical to MERS-CoV has been identified in Taphozous perforates bats, but these findings need to be confirmed (6) .",
+            "cite_spans": [
+                {
+                    "start": 87,
+                    "end": 90,
+                    "text": "(3)",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 385,
+                    "end": 388,
+                    "text": "(4,",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 389,
+                    "end": 391,
+                    "text": "5)",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 568,
+                    "end": 571,
+                    "text": "(6)",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Serologic studies of domestic livestock in Jordan, Saudi Arabia, Qatar, United Arab Emirates, and Egypt have found high seroprevalance to a MERS-like CoV in dromedary camels but not in other domestic animals (7) (8) (9) (10) (11) . An investigation of domestic animals in the vicinity of 2 persons with related infections detected fragments of viral RNA in dromedary camels in contact with these persons but whether this represented transmission from a unidentified source to humans and dromedaries, transmission from humans to dromedaries, or vice versa is not clear (12) .",
+            "cite_spans": [
+                {
+                    "start": 208,
+                    "end": 211,
+                    "text": "(7)",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 212,
+                    "end": 215,
+                    "text": "(8)",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 216,
+                    "end": 219,
+                    "text": "(9)",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 220,
+                    "end": 224,
+                    "text": "(10)",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 225,
+                    "end": 229,
+                    "text": "(11)",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 568,
+                    "end": 572,
+                    "text": "(12)",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "We collected nasal swab specimens from 110 apparently healthy dromedaries (Camelus dromedarius) >6 years of age in abattoirs on 12 occasions during June-December 2013 (Table 1) . Serum was collected from 52 of these dromedaries. Serum from 179 persons working in the camel abattoirs also was collected. Median age of these workers was 38 years (range 9-67 years), 84% were male, and 25 reported comorbidities (i.e., cardiovascular, renal, diabetes, other). Collection of the human specimens was approved by the ethics committee of the National Research Centre (Giza, Egypt), and Institutional Animal Care and Use Committee approval for collection of animal samples was obtained from St Jude Children's Research Hospital (Memphis, TN, USA).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 167,
+                    "end": 176,
+                    "text": "(Table 1)",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "The Study"
+        },
+        {
+            "text": "Real-time reverse transcription PCR (RT-PCR) targeting upstream of E gene of MERS-CoV was used for screening. The open reading frame (ORF) 1a gene was used for confirmation as recommended by the World Health Organization(www.who.int/csr/disease/coronavirus_ infections/MERS_Lab_recos_16_Sept_2013.pdf?ua=1). We also used a previously described pan-CoV nested PCR targeting the viral RNA-dependent RNA polymerase (RdRp) region (13) , and PCR products were analyzed by sequencing (online Technical Appendix, wwwnc.cdc.gov/ EID/article/20/6/14-0299-Techapp1.pdf). We detected MERS-CoV RNA in 4 (3.6%) of 110 nasal swab specimens from dromedary camels with the upstream of E gene assay (cycle threshold [C t ] 23.2-36.8), confirmed by the ORF1a assay (C t 23.2-39.1), fulfilling the World Health Organization criteria for diagnosis of MERS-CoV infection (Table 1) . PCR was repeated from a fresh RNA extract to confirm positive results. One positive sample was obtained from a camel in an abattoir in the Nile Delta region in November 2013 and 3 other samples from an abattoir in Cairo in December 2013. Virus culture attempts in Vero E6 cells (ATCC CRL-1586) so far have been unsuccessful. The pan-CoV nested PCR detected CoV in an additional 8 specimens from dromedary camels. Sequence analyses of these additional positive samples showed that these amplicon sequences were genetically similar to those of bovine coronavirus (BCoV) (>99% nucleotide similarity). No animal was co-infected with MERS-CoV and BCoV-like viruses. The animals positive for either MERS-CoV or BCoV-like virus were all imported from Sudan or Ethiopia for slaughter. On phylogenetic analysis, the partial RdRp sequences from MERS-CoV-positive samples NRCE-HKU205 and NRCE-HKU270 grouped within the cluster of MERS-CoV ( Figure 1 ). The viral load in the other 2 specimens was too low to provide amplicons suitable for genetic sequencing. Viral RNA from NRCE-HKU205, the first positive specimen detected, was selected for more detailed genomic sequencing. We amplified viral RNA by PCR, using primers specific for overlapping regions of human MERS-CoV genome. PCR products were sequenced and assembled to produce a near full-length genome, lacking only the 3\u2032 untranslated region (29908 nt, >99% of the MERS-CoV genome) (online Technical Appendix). The camel MERS-CoV genome has an overall nucleotide similarity of 99.2%\u221299.5% and deduced amino acid similarity of 98.0%-100% to ORFs of human MERS-CoV EMC/2012 ( Table 2 ). The 5\u2032 untranslated region and internal transcriptional regulatory sequences of NRCE-HKU205 were identical to published human MERS-CoV sequences.",
+            "cite_spans": [
+                {
+                    "start": 426,
+                    "end": 430,
+                    "text": "(13)",
+                    "ref_id": "BIBREF12"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 850,
+                    "end": 859,
+                    "text": "(Table 1)",
+                    "ref_id": "TABREF0"
+                },
+                {
+                    "start": 1792,
+                    "end": 1800,
+                    "text": "Figure 1",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 2483,
+                    "end": 2490,
+                    "text": "Table 2",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "The Study"
+        },
+        {
+            "text": "Using MERS-CoV EMC/2012 as a reference sequence, we found 12 aa differences (residues 23, 26, 194, 434, 666, 696, 756, 886, 888, 918, 1158 , and 1333 of EMC/2012) in the spike protein of dromedary MERS-CoV NRCE-HKU205 and 1 aa deletion (residue 1293 of EMC/2012) in the N terminal of the transmembrane domain. NRCE-HKU270 virus spike does not have a deletion of residue 1293. Of these, only residue 434 falls within the proposed receptor binding domain of spike protein, but it is located at the core (stem) subdomain of the receptor binding domain, suggesting that the camel MERS-CoV is still likely to bind human CD26 (online Technical Appendix Figure) . The biological impact of this difference and other amino acid differences needs to be fully explored.",
+            "cite_spans": [
+                {
+                    "start": 90,
+                    "end": 93,
+                    "text": "26,",
+                    "ref_id": null
+                },
+                {
+                    "start": 94,
+                    "end": 98,
+                    "text": "194,",
+                    "ref_id": null
+                },
+                {
+                    "start": 99,
+                    "end": 103,
+                    "text": "434,",
+                    "ref_id": null
+                },
+                {
+                    "start": 104,
+                    "end": 108,
+                    "text": "666,",
+                    "ref_id": null
+                },
+                {
+                    "start": 109,
+                    "end": 113,
+                    "text": "696,",
+                    "ref_id": null
+                },
+                {
+                    "start": 114,
+                    "end": 118,
+                    "text": "756,",
+                    "ref_id": null
+                },
+                {
+                    "start": 119,
+                    "end": 123,
+                    "text": "886,",
+                    "ref_id": null
+                },
+                {
+                    "start": 124,
+                    "end": 128,
+                    "text": "888,",
+                    "ref_id": null
+                },
+                {
+                    "start": 129,
+                    "end": 133,
+                    "text": "918,",
+                    "ref_id": null
+                },
+                {
+                    "start": 134,
+                    "end": 138,
+                    "text": "1158",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 647,
+                    "end": 654,
+                    "text": "Figure)",
+                    "ref_id": null
+                }
+            ],
+            "section": "The Study"
+        },
+        {
+            "text": "We used phylogenetic analyses of the full genome, the spike gene, and nucleocapsid gene of MERS-CoV NRCE-HKU205 to compare with the same genes of other human MERS-CoVs (Figure 2 ). NRCE-HKU205 is within the clade A group but distinct from MERS-CoV EMC/2012, the only other MERS-CoV isolate available in our laboratory, excluding laboratory cross-contamination as an explanation for the detection of MERS-CoV from the dromedary specimens.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 168,
+                    "end": 177,
+                    "text": "(Figure 2",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": "The Study"
+        },
+        {
+            "text": "Using a previously described pseudoparticle neutralization assay (8), we detected antibodies against MERS-CoV (titer >20) in 48 (92.3%) of 52 dromedary serum samples with titers ranging from 20 to >640. Dromedary NRCE-HKU205 had a serum antibody titer of 640, possibly indicating a developing serologic response, as was noted previously (7), or the possibility of re-infection. Serum was not available from the other 3 animals with MERS-CoV RNA-positive nasal swab specimens.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "The Study"
+        },
+        {
+            "text": "Serum from 179 persons working in the dromedary abattoirs was negative for antibody to MERS-CoV. This finding includes 114 persons working in the 2 abattoirs from which the MERS-CoV-positive animal swab specimens were obtained.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "The Study"
+        },
+        {
+            "text": "Our findings confirm that MERS-CoV infects dromedary camels and that this virus is genetically very similar to a MERS-CoV that is infecting humans. The detection of MERS-CoV in nasal swab specimens of camels in 2 of 12 sampling occasions in abattoirs, taken together with the high seropositivity to MERS-CoV in dromedaries previously reported, supports the contention that MERS-CoV infection is common in dromedaries. Studies of dromedaries within camel herds and through the animal marketing system supplying abattoirs are needed to define the epidemiology of the infection. Our findings strengthen the plausibility that dromedaries may be a potential source of human infection and emphasize the need for detailed epidemiologic investigation of the exposure histories of humans with MERS. However, the lack of serologic evidence of infection of humans working in these abattoirs suggests that transmission of this virus to humans is uncommon. The detection of MERS-CoV in dromedaries in Egypt, in animals imported from Sudan and Ethiopia, suggests that cases may occur in humans beyond the Arabian Peninsula. MERS CoV diagnostic tests should be considered for all patients with unexplained severe pneumonia in Egypt, northeastern Africa, and beyond. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusions"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Middle East respiratory syndrome coronavirus (MERS-CoV) summary and literature update-as of 20",
+            "authors": [],
+            "year": 2014,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Hospital outbreak of Middle East respiratory syndrome coronavirus",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Assiri",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Mcgeer",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Perl",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Price",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Al-Rabeeah",
+                    "suffix": ""
+                },
+                {
+                    "first": "Dat",
+                    "middle": [],
+                    "last": "Cummings",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "N Engl J Med",
+            "volume": "369",
+            "issn": "",
+            "pages": "407--423",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa1306742"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Transmission and evolution of the Middle East respiratory syndrome coronavirus in Saudi Arabia: a descriptive genomic study",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Cotten",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Watson",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Kellam",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Al-Rabeeah",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "Q"
+                    ],
+                    "last": "Makhdoom",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Assiri",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Lancet",
+            "volume": "382",
+            "issn": "13",
+            "pages": "61887--61892",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Human betacoronavirus 2c EMC/2012-related viruses in bats, Ghana and Europe",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Annan",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Baldwin",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Corman",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Klose",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Owusu",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Nkrumah",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Emerg Infect Dis",
+            "volume": "19",
+            "issn": "",
+            "pages": "456--465",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid1903.121503"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Close relative of human Middle East respiratory syndrome coronavirus in bat",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Ithete",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Stoffberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Corman",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Cottontail",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Richards",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Schoeman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "South Africa. Emerg Infect Dis",
+            "volume": "19",
+            "issn": "",
+            "pages": "1697--1706",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid1910.130946"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Middle East respiratory syndrome coronavirus in bats, Saudi Arabia",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Memish",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Mishra",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Olival",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Fagbo",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Kapoor",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Epstein",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Emerg Infect Dis",
+            "volume": "19",
+            "issn": "",
+            "pages": "1819--1842",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid1911.131172"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Middle East respiratory syndrome coronavirus neutralising serum antibodies in dromedary camels: a comparative serological study",
+            "authors": [
+                {
+                    "first": "Cbem",
+                    "middle": [],
+                    "last": "Reusken",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Haagmans",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "M\u00fcller",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Gutierrez",
+                    "suffix": ""
+                },
+                {
+                    "first": "G-J",
+                    "middle": [],
+                    "last": "Godeke",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Meyer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Lancet Infect Dis",
+            "volume": "13",
+            "issn": "",
+            "pages": "70164--70170",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1473-3099(13"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Seroepidemiology for MERS coronavirus using microneutralisation and pseudoparticle virus neutralisation assays reveal a high prevalence of antibody in dromedary camels in Egypt",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Perera",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Gomaa",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "El-Shesheny",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kandeil",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Bagato",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Euro Surveill",
+            "volume": "18",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Middle East respiratory syndrome coronavirus (MERS-CoV) serology in major livestock species in an affected region in Jordan",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Reusken",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ababneh",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Raj",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Meyer",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Eljarah",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Abutarbush",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Euro Surveill",
+            "volume": "18",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Middle East respiratory syndrome (MERS) coronavirus seroprevalence in domestic livestock in Saudi Arabia",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Hemida",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Perera",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Alhammadi",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Siu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Euro Surveill",
+            "volume": "18",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Antibodies against MERS coronavirus in dromedary camels",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Meyer",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "M\u00fcller",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Corman",
+                    "suffix": ""
+                },
+                {
+                    "first": "Cbem",
+                    "middle": [],
+                    "last": "Reusken",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Ritz",
+                    "suffix": ""
+                },
+                {
+                    "first": "G-D",
+                    "middle": [],
+                    "last": "Godeke",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Emerg Infect Dis",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid2004.131746"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Middle East respiratory syndrome coronavirus in dromedary camels: an outbreak investigation",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Haagmans",
+                    "suffix": ""
+                },
+                {
+                    "first": "Al",
+                    "middle": [],
+                    "last": "Dhahiry",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Reusken",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Raj",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Galiano",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Myers",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Lancet Infect Dis",
+            "volume": "14",
+            "issn": "",
+            "pages": "140--145",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1473-3099(13)70690-X"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Avian coronavirus in wild aquatic birds",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Chu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Leung",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Gilbert",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Joyner",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Ng",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Tse",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "J Virol",
+            "volume": "85",
+            "issn": "",
+            "pages": "12815--12835",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.05838-11"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Molecular Evolutionary Genetics Analysis using maximum likelihood, evolutionary distance, and maximum parsimony methods",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Tamura",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Peterson",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Peterson",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Stecher",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Nei",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kumar",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Mega5",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Mol Biol Evol",
+            "volume": "28",
+            "issn": "",
+            "pages": "2731--2740",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/molbev/msr121"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Author affiliations: The University of Hong Kong, Hong Kong, China (D.K.W. Chu, L.L.M. Poon, R.A.P.M. Perera, Y. Guan, M. Peiris); National Research Centre, Giza, Egypt (M.M. Gomaa, M.M. Shehata, D.A. Zeid, A.S. El Rifay, M.A. Ali); HKU-Pasteur Research Pole, Hong Kong (L.Y. Siu); St. Jude Children's Research Hospital, Memphis, Tennessee, USA (R.J. Webby, G. Kayali) DOI: http://dx.doi.org/10.3201/eid2006.140299 1 These authors contributed equally to this article.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Phylogenetic analyses of a partial RNA-dependent RNA polymerase (RdRp) sequence determined from samples from dromedary camels (Camelus dromedarius) NRCE-HKU205 and NRCE-HKU270 that were positive for Middle East respiratory syndrome coronavirus (MERS-CoV). The viral RdRp region analyzed is a highly conserved region of the genome (covering motif B of RdRp) in nonstructural protein 12, at position 15202-15582 of MERS-CoV genome. The partial RdRp sequence of NRCE-HKU205 (GenBank accession no. KJ477102) and NRCE-HKU270 (GenBank accession no. KJ477103) was aligned with human MERS-CoVs (GenBank accession nos. KF600652, KF600630, KF600651, KF186567, KF600627, KF186564, KF600634, KF600632, KF600644, KF600647, KF600645, KF186565, KF186566, KF745068, KF600620, KF600612, KC667074, KC164505, KF192507, KF600613, KF600628, KF961222, KF961221, KC776174, and JX869059) and other representative animal betacoroanviruses (GenBank accession nos. HKU5-1, EF065509; BtCoV/PML/Neo cf. zul/ RSA/2011, KC869678). Bat CoV HKU5-1 and bat CoV/PML/Neo cf. zul/RSA/2011 were included in the analysis as outgroups because they are phylogenetically closest to MERS-CoV. Phylogenetic trees were constructed by using MEGA5 (14) with neighbor-joining method. Numbers at nodes indicate bootstrap values determined by 500 replicates. Only bootstrap values >70 are denoted. Bold type indicates MERS-CoV identified in the current study. Scale bars indicate the estimated genetic distance of these viruses.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "This research was supported by an internal research grant from the National Research Centre, Giza, Egypt; by a research contract from the National Institute of Allergy and Infectious Diseases contract HHSN266200700005C; and a grant from the European Community Seventh Framework Program (FP7/2007-2013) under project European management Platform for Emerging and Re-emerging Disease entities (grant agreement no. 223498) (EMPERIE).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Phylogenetic accession nos. as inFigure 1legend). Phylogenetic trees were constructed by using MEGA5(14)with neighborjoining method. Numbers at nodes indicate bootstrap values determined by 500 replicates. Only bootstrap values >70 are denoted. Bold type indicates MERS-CoV identified in the current study. Scale bars indicate the estimated genetic distance of these viruses.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Percentage identity between ORFs of dromedary camel MERS-CoV (NRCE-HKU205) and human MERS-CoV (EMC/2012) at the nucleotide and amino acid levels* ORF % Identity to HCoV-EMC/2012 *ORF, open reading frame; MERS, Middle East respiratory syndrome; CoV, coronavirus; H, human; E, envelope; M, membrane; N, nucleocapsid. Chu is a postdoctoral fellow at the Centre of Influenza Research at the University of Hong Kong. His primary research interests are virus ecology. evolution of coronavirus, astroviruses, and zoonotic infections.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

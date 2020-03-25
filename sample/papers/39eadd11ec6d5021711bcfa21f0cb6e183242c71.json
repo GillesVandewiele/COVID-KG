@@ -1,0 +1,1959 @@
+{
+    "paper_id": "39eadd11ec6d5021711bcfa21f0cb6e183242c71",
+    "metadata": {
+        "title": "Distinct Patterns of IFITM-Mediated Restriction of Filoviruses, SARS Coronavirus, and Influenza A Virus",
+        "authors": [
+            {
+                "first": "I-C",
+                "middle": [],
+                "last": "Huang",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "C",
+                "middle": [
+                    "C"
+                ],
+                "last": "Bailey",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "J",
+                "middle": [
+                    "L"
+                ],
+                "last": "Weyer",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "S",
+                "middle": [
+                    "R"
+                ],
+                "last": "Radoshitzky",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "M",
+                "middle": [
+                    "M"
+                ],
+                "last": "Becker",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Interferon-inducible transmembrane proteins 1, 2, and 3 (IFITM1, 2, and 3) are recently identified viral restriction factors that inhibit infection mediated by the influenza A virus (IAV) hemagglutinin (HA) protein. Here we show that IFITM proteins restricted infection mediated by the entry glycoproteins (GP 1,2 ) of Marburg and Ebola filoviruses (MARV, EBOV). Consistent with these observations, interferon-b specifically restricted filovirus and IAV entry processes. IFITM proteins also inhibited replication of infectious MARV and EBOV. We observed distinct patterns of IFITM-mediated restriction: compared with IAV, the entry processes of MARV and EBOV were less restricted by IFITM3, but more restricted by IFITM1. Moreover, murine Ifitm5 and 6 did not restrict IAV, but efficiently inhibited filovirus entry. We further demonstrate that replication of infectious SARS coronavirus (SARS-CoV) and entry mediated by the SARS-CoV spike (S) protein are restricted by IFITM proteins. The profile of IFITM-mediated restriction of SARS-CoV was more similar to that of filoviruses than to IAV. Trypsin treatment of receptor-associated SARS-CoV pseudovirions, which bypasses their dependence on lysosomal cathepsin L, also bypassed IFITM-mediated restriction. However, IFITM proteins did not reduce cellular cathepsin activity or limit access of virions to acidic intracellular compartments. Our data indicate that IFITM-mediated restriction is localized to a late stage in the endocytic pathway. They further show that IFITM proteins differentially restrict the entry of a broad range of enveloped viruses, and modulate cellular tropism independently of viral receptor expression.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "This is an open-access article distributed under the terms of the Creative Commons Public Domain declaration which stipulates that, once placed in the public domain, this work may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "The interferon-inducible transmembrane (IFITM) proteins are a family of viral restriction factors that play critical roles in the interferon-mediated control of influenza A virus (IAV) [1] . These proteins inhibit both IAV replication and infection by hemagglutinin (HA)-pseudotyped retroviruses, indicating that they target the IAV entry process. IFITM proteins also restrict an early step in the lifecycle of several flaviviruses, including dengue and West Nile viruses. In contrast, they do not inhibit replication of murine leukemia virus (MLV), or the entry processes of amphotropic MLV, Machupo virus (MACV), Lassa virus (LASV), or lymphocytic choriomeningitis virus (LCMV). Although IFITM proteins are induced by type I and II interferons, most cells and cell lines express a basal level of one or more of these proteins [2] . IFITM1, 2, and 3 are expressed in a wide range of tissues, whereas IFITM5 expression appears to be limited to bone [3] . Mice have orthologs for IFITM1, 2, 3, and 5, as well as two additional IFITM genes, Ifitm6 and Ifitm7. IFITM4P is a pseudogene in both species [4] . Two IFITM proteins have been identified in chickens, orthologs of human IFITM1 and IFITM5. The IFITM proteins are small (,130 amino acids), with two transmembrane domains separated by a highly conserved cytoplasmic domain. Both amino-and carboxy-domains are luminal [5] .",
+            "cite_spans": [
+                {
+                    "start": 185,
+                    "end": 188,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 828,
+                    "end": 831,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 949,
+                    "end": 952,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 1098,
+                    "end": 1101,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 1370,
+                    "end": 1373,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Enveloped viruses usually express surface proteins that mediate attachment of virions to a cellular receptor. Following receptor engagement, these entry proteins undergo conformational changes that ultimately promote mixing of viral and cellular membrane lipids, formation of a fusion pore, and transfer of the viral genome to the cell cytoplasm [6] . The conformational changes of some entry proteins, for example IAV HA or flavivirus E proteins, are induced by low pH [7, 8] . Fusion mediated by these proteins requires access to an acidic cellular compartment such as a late endosome or lysosome. In contrast, other entry proteins such as the envelope proteins of HIV-1 and MLV do not require access to an acidic compartment, and these viruses are presumed to fuse at the plasma membrane or in an early endocytic vesicle [9] . Finally, some entry proteins, such as the severe acute respiratory syndrome coronavirus (SARS-CoV) spike (S) protein or the filovirus glycoproteins (GP 1,2 ), indirectly require low pH to activate target-cell proteases necessary for viral entry [10, 11, 12, 13] . Proteolytic cleavage of these entry proteins by lysosomal cathepsin L (SARS-CoV) or cathepsins B and L (Ebola virus; EBOV) promotes the final steps of viral fusion [14, 15] . In the case of SARS-CoV, the requirement for cathepsin L can be circumvented by treatment of receptor-bound virions with trypsin or related proteases [16] . This observation has been used to suggest alternative pathways for SARS-CoV infection, depending on whether cathepsin L or an extracellular protease activates the receptor-associated S protein.",
+            "cite_spans": [
+                {
+                    "start": 346,
+                    "end": 349,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 470,
+                    "end": 473,
+                    "text": "[7,",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 474,
+                    "end": 476,
+                    "text": "8]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 824,
+                    "end": 827,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 1075,
+                    "end": 1079,
+                    "text": "[10,",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 1080,
+                    "end": 1083,
+                    "text": "11,",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 1084,
+                    "end": 1087,
+                    "text": "12,",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 1088,
+                    "end": 1091,
+                    "text": "13]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 1258,
+                    "end": 1262,
+                    "text": "[14,",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 1263,
+                    "end": 1266,
+                    "text": "15]",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 1419,
+                    "end": 1423,
+                    "text": "[16]",
+                    "ref_id": "BIBREF15"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Here we demonstrate that, like IAV, the entry processes of Marburg virus (MARV), EBOV, and SARS-CoV are specifically restricted by IFITM proteins. We observed that various human, mouse, and chicken IFITM orthologs differentially restricted IAV and filoviruses. We further showed that restriction of SARS-CoV was circumvented by trypsin treatment of cell-associated virions. Our data identify variation in the properties of individual IFITM proteins and localize their restriction activity to a late stage in the endocytic pathway. They further suggest that these proteins restrict a broad range of enveloped viruses, and can modulate cellular tropism independently of viral receptor expression.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "MARV and EBOV GP 1,2 -mediated entry is restricted by IFITM1, 2, and 3",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Results"
+        },
+        {
+            "text": "The IFITM proteins restrict IAV HA-mediated entry, and an early stage in the replication of several flaviviruses [1] . The entry process of each of these viruses is pH dependent. We sought to determine if additional viruses that require access to late endocytic or lysosomal compartments were similarly restricted by these proteins. The entry processes of MARV and EBOV require activation by one or more cathepsins, whose activity is localized to lysosomes [10, 12, 13, 17] . Both EBOV and MARV require cathepsin L activity to infect cells, whereas EBOV also requires cathepsin B activity [10, 12, 13] . Accordingly, we incubated MLVbased pseudoviruses bearing the entry proteins of MARV, EBOV, H5 or H7 IAV, MLV, or MACV with A549 lung epithelial cells transduced to express human IFITM1, 2 or 3, or with vector alone [18, 19, 20] . As we have previously reported [1] , infection mediated by the entry proteins of MLV or MACV was unaffected by the presence of IFITM proteins (Fig. 1A) , despite their efficient expression (Fig. 1B) . In contrast, as reported, IAV HA-mediated entry was markedly inhibited by the same proteins. Similarly, we observed that entry mediated by MARV and EBOV GP 1,2 proteins was inhibited by IFITM1, 2 and 3 (Figs. 1A and S1A). Comparable results were obtained in Vero E6 cells, an African green monkey kidney epithelial cell line and the standard cell line for laboratory propagation of these viruses (Figs. 1C and D), and for human umbilical vein endothelial cells (HUVEC), a primary cell target of filovirus infection (Figs. 1E and F). We have repeatedly observed that IFITM-mediated restriction is less efficient in human embryonic kidney 293T cells. Consistent with this observation, both IAV HA-and filovirus GP 1,2 -mediated entry were only partially suppressed in these cells, whereas control pseudoviruses remained unaffected (Figs. 1G and H). Our data indicate that IFITM1, 2, and 3 each restrict MARV and EBOV GP 1,2 -mediated entry, and identify cell-type differences in the efficiency of restriction. We speculate that these differences arise from expression differences of necessary restriction cofactors or proteins that interfere with IFITM protein activity.",
+            "cite_spans": [
+                {
+                    "start": 113,
+                    "end": 116,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 457,
+                    "end": 461,
+                    "text": "[10,",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 462,
+                    "end": 465,
+                    "text": "12,",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 466,
+                    "end": 469,
+                    "text": "13,",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 470,
+                    "end": 473,
+                    "text": "17]",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 589,
+                    "end": 593,
+                    "text": "[10,",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 594,
+                    "end": 597,
+                    "text": "12,",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 598,
+                    "end": 601,
+                    "text": "13]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 819,
+                    "end": 823,
+                    "text": "[18,",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 824,
+                    "end": 827,
+                    "text": "19,",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 828,
+                    "end": 831,
+                    "text": "20]",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 865,
+                    "end": 868,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 976,
+                    "end": 985,
+                    "text": "(Fig. 1A)",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 1023,
+                    "end": 1032,
+                    "text": "(Fig. 1B)",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "Expression of IFITM proteins is potently induced by type I or type II interferons (Fig. S1B) [2] . To determine whether the entry processes of MARV and EBOV are similarly regulated by type I IFN, we incubated HeLa cells with IFN-b and then infected cells with pseudoviruses bearing MARV, EBOV, IAV, MACV, or MLV entry proteins (Fig. 1I ). As has been previously reported, IFN-b treatment upregulated IFITM proteins (Fig. 1J ). Consistent with this higher expression of IFITM proteins, entry mediated by MARV and EBOV GP 1,2 or IAV HA was markedly inhibited by IFN-b (Fig. 1I ). In contrast, infection by MLV and MACV pseudoviruses was only modestly suppressed, an effect possibly due to post-entry inhibition of GFP expression in treated cells. We conclude that that the entry processes of MARV, EBOV, and IAV are inhibited by type I IFN.",
+            "cite_spans": [
+                {
+                    "start": 93,
+                    "end": 96,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 327,
+                    "end": 335,
+                    "text": "(Fig. 1I",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 415,
+                    "end": 423,
+                    "text": "(Fig. 1J",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 566,
+                    "end": 574,
+                    "text": "(Fig. 1I",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "Type 1 interferon inhibits filovirus GP 1,2 -mediated entry"
+        },
+        {
+            "text": "Replication of infectious MARV and EBOV is restricted by IFITM1, 2, and 3",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Type 1 interferon inhibits filovirus GP 1,2 -mediated entry"
+        },
+        {
+            "text": "To determine whether IFITM proteins restrict infectious filoviruses, Vero E6 cells transduced to express IFITM1, 2 or 3, or with vector alone were incubated with infectious MARV or EBOV at MOIs of 1 or 15. As was observed with pseudoviruses, replication of both infectious filoviruses was restricted by expression of IFITM proteins (Figs. 2A-C and S1C), most consistently by",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Type 1 interferon inhibits filovirus GP 1,2 -mediated entry"
+        },
+        {
+            "text": "Cells express restriction factors, proteins whose primary activity is to inhibit viral replication. We have recently described a family of restriction factors, interferon-inducible transmembrane (IFITM) proteins, that interfere with replication of influenza A virus. The IFITM proteins uniquely inhibit replication early in the viral life-cycle, before the virus can successfully enter the cell cytoplasm.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Author Summary"
+        },
+        {
+            "text": "Here we show that the entry processes of several highly pathogenic viruses -Marburg virus, Ebola virus, and SARS coronavirus -are similarly disrupted by IFITM proteins. We compared IFITM-mediated restriction of these viruses with influenza A virus, and discovered that individual IFITM proteins are specialized for restriction. For example, we describe two mouse IFITM proteins that efficiently restrict entry of Marburg and Ebola viruses, but which do not inhibit influenza A virus. We further show that we can circumvent IFITM-mediated restriction by inducing a virus to enter a cell at or near the plasma membrane. This observation indicates that restriction is not a global property of the cell, but rather is localized to late endosomal and lysosomal compartments, the usual entry sites of IFITM-restricted viruses. This study therefore enhances our understanding of how the innate immune system controls influenza A virus and other pathogenic viruses.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Author Summary"
+        },
+        {
+            "text": "IFITM1. Similar results were obtained in A549 cells (Figs. 2D-F). Thus expression of IFITM1, 2, or 3 suppresses replication of infectious MARV and EBOV. Collectively with Fig. 1 , these data suggest that suppression of filovirus replication by IFITM proteins and by type I interferons is due in part to inhibition of entry.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 171,
+                    "end": 177,
+                    "text": "Fig. 1",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "Author Summary"
+        },
+        {
+            "text": "SARS-CoV S protein mediated entry is restricted by IFITM1, 2, and 3",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Author Summary"
+        },
+        {
+            "text": "As is the case for both MARV and EBOV, SARS-CoV requires cathepsin L activity to enter cells [10, 11] . We therefore investigated whether IFITM proteins could restrict SARS-CoV S protein-mediated entry. To do so, we first introduced the SARS-CoV receptor, angiotensin-converting enzyme 2 (ACE2), into A549 cells before transducing them to express IFITM1, 2, or 3, or with vector alone [21] . Entry mediated by the SARS-CoV S protein, like IAV HA-mediated entry, was restricted by each IFITM protein, whereas MLV and MACV pseudoviruses were unaffected (Fig. 3A ). IFITM expression did not substantially interfere with cell-surface expression of ACE2, indicating that suppression is not due to receptor down-regulation ( Fig. 3B and C). Similar results were obtained in Vero E6 cells (Figs. 3D, E, and F). Consistent with SARS-CoV pseudoviruses, infectious SARS-CoV replicated in control Vero cells markedly more efficiently than in cells expressing IFITM1, 2, or 3 (Figs. 3G and H). We conclude that, like EBOV and MARV, SARS-CoV entry can be restricted by each IFITM.",
+            "cite_spans": [
+                {
+                    "start": 93,
+                    "end": 97,
+                    "text": "[10,",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 98,
+                    "end": 101,
+                    "text": "11]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 385,
+                    "end": 389,
+                    "text": "[21]",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 551,
+                    "end": 559,
+                    "text": "(Fig. 3A",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 719,
+                    "end": 726,
+                    "text": "Fig. 3B",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "Author Summary"
+        },
+        {
+            "text": "Throughout our studies we observed a modest trend in cells over-expressing IFITM proteins in which IFITM3 more efficiently restricted IAV [1] , whereas no similar pattern was observed with MARV, EBOV, or SARS-CoV. To further explore differences HeLa cells were transduced to express shRNA targeting IFITM1, 2, 3 or shRNA targeting both IFITM1 and 3 expression. Cells were maintained in the presence or absence of IFN-b and incubated with MARV, EBOV, IAV, MLV or MACV pseudoviruses (Figs. 4A and B). As expected, IFN-b efficiently inhibited entry mediated by MARV and EBOV GP 1,2 and IAV HA proteins. Depletion of IFITM3 fully restored IAV HA-mediated infection, an effect only modestly enhanced through suppression of IFITM1 expression. In contrast, entry mediated by MARV and EBOV GP 1,2 was not restored in cells expressing shRNA targeting IFITM1 or IFITM3 expression. However, when both IFITM1 and IFITM3 were depleted, filovirus GP 1,2 -mediated entry was partially restored. These results suggest that IAV entry is more sensitive to IFITM3-mediated restriction whereas IFITM1 plays a more important role in suppressing filovirus entry processes.",
+            "cite_spans": [
+                {
+                    "start": 138,
+                    "end": 141,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Depletion of IFITM proteins differentially enhances infection mediated by MARV, SARS-CoV, and IAV entry proteins"
+        },
+        {
+            "text": "We further examined these differing profiles of IFITM restriction in cells endogenously expressing IFITM proteins. HeLa cells express a detectable basal level of IFITM3, but not IFITM1 (Fig. 4A ). shRNA targeting IFITM3 markedly enhanced entry mediated by all four IAV HA proteins assayed, but did not substantially increase infection by MARV, EBOV, or control pseudoviruses ( Fig. 4C and Fig. S2A ). Similarly IFITM-targeting shRNA did not affect entry of SARS-CoV pseudovirus into ACE2-expressing HeLa cells, whereas IAV infection was again markedly enhanced by IFITM3 shRNA (Fig. 4D) . ACE2 expression was comparable in control and IFITM3-depleted cells (Fig. S2B) . To explore the role of endogenous IFITM1, we used human myelogenous leukemia K562 cells, which express relatively high levels of this IFITM protein (Fig. 4E) . Depletion of IFITM1 markedly enhanced entry of MARV and, to a lesser extent, IAV pseudoviruses (Fig. 4F) . Similarly, shRNA targeting IFITM1 did not alter ACE2 expression, but enhanced SARS-CoV S proteinmediated entry (Figs. 4G and S2C). Thus, cells can express different basal levels of each IFITM protein, and these levels differentially alter their susceptibility to IAV and cathepsindependent viruses.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 185,
+                    "end": 193,
+                    "text": "(Fig. 4A",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 377,
+                    "end": 397,
+                    "text": "Fig. 4C and Fig. S2A",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 577,
+                    "end": 586,
+                    "text": "(Fig. 4D)",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 657,
+                    "end": 667,
+                    "text": "(Fig. S2B)",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 818,
+                    "end": 827,
+                    "text": "(Fig. 4E)",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 925,
+                    "end": 934,
+                    "text": "(Fig. 4F)",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": "Depletion of IFITM proteins differentially enhances infection mediated by MARV, SARS-CoV, and IAV entry proteins"
+        },
+        {
+            "text": "Murine and chicken IFITM orthologs differentially restrict infection mediated by MARV, EBOV, and IAV entry proteins",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Depletion of IFITM proteins differentially enhances infection mediated by MARV, SARS-CoV, and IAV entry proteins"
+        },
+        {
+            "text": "To further explore the extent to which IFITM proteins differentially restrict IAV and filoviruses, A549 cells were transduced to express all known human (Figs. 5A and B), mouse (Figs. 5C and D), or chicken (Figs. 5E and F) IFITM orthologs. Cells were then incubated with pseudoviruses bearing MARV, EBOV, IAV, MLV, or MACV entry proteins. Nearly every IFITM ortholog restricted MARV and EBOV GP 1,2 -mediated entry, despite variation in the expression of these orthologs. Note that human IFITM5 expression, undetectable by western blotting, was observed by immunofluorescent staining (Fig. S3D) . In contrast, mouse and chicken IFITM5 and mouse IFITM6 did not efficiently restrict IAV HA-mediated entry. (An alignment of IFITM orthologs is shown in Fig. S3 ). Unlike the modest differences between human IFITM1 and IFITM3, these differences were sufficient to be observed in over-expression assays. We conclude that IFITM genes have overlapping but distinct effects on the entry of IAV and filoviruses. Trypsin treatment bypasses IFITM restriction of entry mediated by SARS-CoV S protein Previous studies have shown that the cathepsin L dependence of SARS-CoV can be bypassed by addition of exogenous trypsin to ACE2-bound virions or pseudovirions, likely by inducing Sprotein-mediated fusion at or near the plasma membrane [11, 16] . In contrast to cathepsin L-mediated fusion, exogenous trypsin promotes fusion at or near the plasma membrane. To localize IFITM-mediated restriction, we investigated the effect of trypsin treatment on SARS-CoV entry into IFITM-expressing cells. Vero E6 cells transduced to express ACE2 and IFITM1, 2 or 3, or with vector alone were incubated with SARS-CoV or MACV pseudoviruses. As expected, IFITM expression restricted SARS-CoV S protein-mediated entry, but not MACV GPC-mediated entry. In contrast, when SARS-CoV pseudovirions were bound to ACE2-expressing cells at 4uC and then incubated with trypsin at 37uC for a short time, entry into IFTIM-expressing cells was largely restored (Figs. 6A, B, and C) . These data suggest that IFITM proteins restrict cathepsin-dependent entry of SARS-CoV in the lysosome, but cannot restrict trypsin-induced fusion at or near the plasma membrane. We did not observe in IFITMexpressing cells any decrease in cellular cathepsin activity that could readily account for this difference (Figs. 6D and E) . These data show that IFITM-mediated restriction is not a consequence of a decrease in the activity of lysosomal cathepsins, and suggest that lysosomal pH, which activates cathepsins B and L, is similarly unaffected by IFITM protein expression.",
+            "cite_spans": [
+                {
+                    "start": 1324,
+                    "end": 1328,
+                    "text": "[11,",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 1329,
+                    "end": 1332,
+                    "text": "16]",
+                    "ref_id": "BIBREF15"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 584,
+                    "end": 594,
+                    "text": "(Fig. S3D)",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 749,
+                    "end": 756,
+                    "text": "Fig. S3",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 2020,
+                    "end": 2040,
+                    "text": "(Figs. 6A, B, and C)",
+                    "ref_id": "FIGREF5"
+                },
+                {
+                    "start": 2356,
+                    "end": 2372,
+                    "text": "(Figs. 6D and E)",
+                    "ref_id": "FIGREF5"
+                }
+            ],
+            "section": "Depletion of IFITM proteins differentially enhances infection mediated by MARV, SARS-CoV, and IAV entry proteins"
+        },
+        {
+            "text": "The ability to circumvent IFITM-mediated restriction by bypassing the requirement for lysosomal cathespins raised the possibility that IFITM proteins interfere with access of virions to acidic cellular compartments. Using confocal microscopy, we monitored infectious IAV virions at 40, 70, and 100 minutes after association of virions with the plasma membrane in Vero E6 cells transduced to express IFITM1, 2, or 3, or with vector alone [22] ( Figs. 7 and S4A) . In all cases, labeled virions readily colocalized with cellular compartments labeled with LysoTracker, a fluorescent indicator of acidic compartments. In contrast, pretreatment of cells with bacterial neuraminidase, which removes the IAV receptor sialic acid from the cell surface (Fig. 7) , or bafilomycin A 1 (Fig. S4B) , which prevents acidification of late endosomes or lysosomes, abolished colocalization of virions with acidic compartments. These data suggest that IFITM proteins do not interfere with the access of virions to low pH compartments necessary for fusion of IFITM-restricted viruses.",
+            "cite_spans": [
+                {
+                    "start": 437,
+                    "end": 441,
+                    "text": "[22]",
+                    "ref_id": "BIBREF21"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 444,
+                    "end": 460,
+                    "text": "Figs. 7 and S4A)",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 744,
+                    "end": 752,
+                    "text": "(Fig. 7)",
+                    "ref_id": "FIGREF6"
+                },
+                {
+                    "start": 774,
+                    "end": 784,
+                    "text": "(Fig. S4B)",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": "IFITM proteins do not interfere with virion access to acidic cellular compartments"
+        },
+        {
+            "text": "IFITM proteins play critical roles in the intrinsic and interferonmediated control of IAV replication in human and murine cell lines [1] . In contrast to retroviral restriction factors -for example TRIM5a, APOBEC3G, or BST2/tetherin -they limit replication at a step mediated by the viral entry protein, likely before or during fusion of the viral and cellular membranes [23] . Although initially identified by an siRNA screen for factors that modulate IAV replication, they also inhibit an early step in the life-cycle of several flaviviruses including dengue and West Nile viruses [1] .",
+            "cite_spans": [
+                {
+                    "start": 133,
+                    "end": 136,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 371,
+                    "end": 375,
+                    "text": "[23]",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 583,
+                    "end": 586,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "The entry processes of IAV and flaviviruses both require low pH in an intracellular compartment to promote conformational changes in their entry proteins (HA and E protein, respectively) [6] . Here we investigate three viruses -two filoviruses and SARS-CoV -that similarly require access to acidic compartments to enter cells. However, unlike IAV and flaviviruses, activation of viral entry proteins of these viruses is not directly mediated by acidic pH; rather acidic pH is necessary to activate lysosomal proteases, which in turn cleave and activate these entry proteins. The MARV, EBOV, and SARS-CoV entry proteins each require cathepsin L activity to mediate fusion [10, 11, 12, 13] . In addition, EBOV requires cathepsin B activity. We observed that, like IAV and flaviviruses, the entry processes of all three cathepsindependent viruses are restricted by a range of human IFITM proteins and by their mouse and chicken orthologs.",
+            "cite_spans": [
+                {
+                    "start": 187,
+                    "end": 190,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 671,
+                    "end": 675,
+                    "text": "[10,",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 676,
+                    "end": 679,
+                    "text": "11,",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 680,
+                    "end": 683,
+                    "text": "12,",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 684,
+                    "end": 687,
+                    "text": "13]",
+                    "ref_id": "BIBREF12"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "It is not yet clear how IFITM proteins restrict these viruses, but this study considerably narrows the range of possible mechanisms. First, the number and diversity of restricted viruses tends to exclude mechanisms that might be unique to individual viruses. We previously showed that IFITM proteins do not decrease cellsurface expression of sialic acid, the primary attachment moiety for IAV [1] . Similarly, IFITM proteins do not significantly alter expression of the SARS-CoV receptor ACE2. Nor is it plausible that there is a physical interaction between the entry proteins of restricted viruses and the IFITM molecules, given the variation among these entry proteins and the ease with which such a mechanism might be evaded. However, all IFITM-restricted viruses described to date require access to late endosomal or lysosomal compartments. This observation raises the possibility that IFITM proteins interfere with endosomal trafficking or, alternatively, make these compartments unsuitable for fusion of restricted viruses.",
+            "cite_spans": [
+                {
+                    "start": 393,
+                    "end": 396,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Our data provide clear support for a mechanism that operates at a later stage in the endocytic pathway. Specifically, we circumvented restriction by complementing the cathepsin L requirement of SARS-CoV with exogenous trypsin, thereby promoting fusion at or near the plasma membrane. Moreover, we do not observe any IFITM-induced differences in the efficiency with which virions can access acidic compartments in the cell. Therefore, when viruses are restricted, they are restricted in a late endosomal or lysosomal compartment. We did not, however, observe a loss of cathepsin activity in IFITM-expressing cells, suggesting that this activity and the acidification that it requires are not grossly impaired by IFITM proteins. It is of course possible that these observations reflect underlying limitations in our ability to detect relevant differences. In particular, our ability to detect IAV in acidic compartments of IFITM expressing cells does not exclude the possibility that these compartments are distinct from those where productive infection can occur. Nonetheless, our data suggest that IFITM proteins inhibit viral entry by mediating a change in the properties of late endosomes or lysosomes. Two additional observations are consistent with this hypothesis. First, in some cell lines, enlarged vesicles could be observed in IFITMexpressing cells, although the scale of this enlargement did not correlate with the efficiency of viral restriction. Second, IFITM3 in particular colocalizes extensively with markers of late endosomes and lysosomes, but poorly with a marker of early endosomes (Fig.  S5 ). Our ability to bypass IFITM restriction may also shed light on the course of SARS-CoV infection in vivo. In particular, following induction of an interferon response, replication of the virus is likely to be localized to tissues -for example the gastrointestinal and respiratory tracts -where trypsin-like proteases are abundant [16] .",
+            "cite_spans": [
+                {
+                    "start": 1943,
+                    "end": 1947,
+                    "text": "[16]",
+                    "ref_id": "BIBREF15"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1601,
+                    "end": 1610,
+                    "text": "(Fig.  S5",
+                    "ref_id": "FIGREF4"
+                }
+            ],
+            "section": "Discussion"
+        },
+        {
+            "text": "We also observed that different IFITM proteins restricted IAV and filoviruses with different efficiencies. In general, IFITM3 and its murine ortholog more efficiently restricted IAV than cathepsindependent viruses, as indicated by the marked increase in IAV entry, but not that of SARS-CoV, EBOV, or MARV, when endogenous IFITM3 was depleted in HeLa cells. In contrast, when endogenous IFITM1 was depleted in K562 cells, more efficient entry was observed for all IFITM-restricted viruses. Also, murine Ifitm5 and Ifitm6, and chicken Ifitm5 efficiently restricted entry mediated by both filovirus GP 1,2 proteins, but had little or no effect on IAV HA-mediated entry. Thus the pattern of basal or interferon-induced expression of the IFITM proteins is likely to be an independent determinant of viral tropism and pathogenesis in vivo.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Human embryonic kidney 293T, human cervical carcinoma HeLa, and African green monkey epithelial Vero and Vero E6 cells were maintained in Dulbecco's minimal essential medium (DMEM; Invitrogen). Human lung epithelial A549 and human myelogenous leukemia K562 cells were grown in Roswell Park Memorial Institute (RPMI) 1640 medium (Invitrogen) and in Iscove's modified Dulbecco's medium (IMDM; Invitrogen), respectively. All media were supplemented with 10% fetal bovine serum (FBS; Invitrogen), 100 U/ml penicillin, and 100 mg/ml streptomycin (Invitrogen). A549 cells transduced with vector alone or stably expressing IFITM proteins were selected with 3 mg/ml puromycin (Invitrogen). Vero and Vero E6 cells transduced with vector alone or stably expressing IFITM proteins were maintained in growth medium supplemented with 4 mg/ml puromycin. HeLa or K562 cells stably expressing a control shRNA or shRNA targeting IFITM1, 2, 3, or 1/3 mRNA were also selected with 4 mg/ml puromycin. Human umbilical vein endothelial cells (HUVEC, Lonza) were maintained in endothelial cell growth medium-2 (EGM-2) supplemented with EGM-2 bulletkit (Lonza).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Cells"
+        },
+        {
+            "text": "A DNA segment encoding the c-myc tag sequence and the AgeI restriction enzyme site was introduced into the pQCXIP vector (Clontech). Plasmids encoding various c-myc-tagged IFITM proteins were constructed by polymerase chain reaction (PCR) amplification of the coding regions of human IFITM1, 2, and 3, and mouse Ifitm1, 2, 3, 6, and 7 genes using plasmids carrying respective cDNA (Open Biosystems) as templates [1] . PCR products were then digested and ligated into the AgeI/BamHI restriction sites of the pQCXIP vector. Codon-optimized chicken Ifitm1, and human, mouse, and chicken Ifitm5 genes were synthesized (Genescript) and also cloned into the pQCXIP vector. pRS vector-based control shRNA and shRNA constructs targeting human IFITM1, 2, 3, or 1/3 mRNA were purchased from OriGene. The sequences of the control 29-mer and those targeting coding regions of IFITM1, 2, or 3 mRNA are as follows: IFITM1 -TGCACAAGGAGGAACATGAGGTGGCTGTG; IFITM2 -CCGCAGCGAGACCTCCGTGCCTGACCATG; IFITM3 -TCCTCATGACCATTCTGCTCATCGTCATC; IFITM1/3 -TGAATCACACTGTCCAAACCTTCTTCTCT; and control -GCACTACCAGAGCTAACTCAGATAGTACT.",
+            "cite_spans": [
+                {
+                    "start": 412,
+                    "end": 415,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Plasmids and constructs"
+        },
+        {
+            "text": "Plasmids and procedures used to generate pseudotyped MLV-GFP have been previously described, as have the various viral entry proteins used [18] . These entry proteins include influenza A virus HA proteins from A/PR/8/34 (H1N1) (H1(PR)), A/Udorn/ 72 (H3N2)(H3(Ud)), A/Thailand/2(SP-33)/2004(H5N1)(H5(Thai)), and A/FPV/Rostock/34 (H7N1)(H7(FPV)), glycoproteins (GP 1,2 ) from Marburg virus Musoke (MARV) and Ebola virus Mayinga (EBOV), glycoprotein (GPC) from Machupo virus Carvallo (MACV), S protein from severe acute respiratory syndrome coronavirus Tor2 (SARS-CoV), and glycoprotein (GP) from amphotrophic MLV [18, 19, 20, 21] .",
+            "cite_spans": [
+                {
+                    "start": 139,
+                    "end": 143,
+                    "text": "[18]",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 611,
+                    "end": 615,
+                    "text": "[18,",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 616,
+                    "end": 619,
+                    "text": "19,",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 620,
+                    "end": 623,
+                    "text": "20,",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 624,
+                    "end": 627,
+                    "text": "21]",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Pseudotyped murine leukemia viruses (MLVs) for transduction and infections assays"
+        },
+        {
+            "text": "To produce transducing viruses, 293T cells plated at 70% confluence in T75 culture flasks were transfected using the calcium phosphate method with 10 mg plasmid encoding MACV GPC, 15 mg plasmid DNA encoding MLV gag and pol, and 15 mg pQCXIP-based plasmids encoding various human, mouse, or chicken IFITM proteins or pRS-based plasmids encoding shRNA targeting human IFITM1, 2, 3, or 1/3 mRNA. 48 hours after transfection, culture supernatants were harvested and filtered through a 0.45 mM syringe filter (Nalgene). Cells were then transduced by incubating transducing viruses mixed with 10 mg/ml of polybrene (Santa Cruz Biotechnology) and centrifuged at 4uC for 30 minutes at 4,0006g. Transduced cells were maintained in growth medium and employed for stable cell line selection or infection 48 hours later. The procedures for MLV-GFP pseudovirus infection were similar to that for transduction, except that spin inoculation was used and polybrene was not included. 48 hours after infection, infected cells were fixed with 1% formaldehyde (Polysciences) and analyzed by flow cytometry. To test the effect of type I interferon (IFN) on entry of MLV-GFP pseudotyped with various viral entry proteins, HeLa cells were treated with 5000 U/ml or 1000 U/ml human IFN-b (Antigenix America) for 48 hours before pseudovirus infection. Trypsin-bypass experiments were performed similarly, except that following spin inoculation at 4uC cells were incubated with 5 mg/ ml trypsin or with PBS alone at 37uC for 13 minutes.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Pseudotyped murine leukemia viruses (MLVs) for transduction and infections assays"
+        },
+        {
+            "text": "Propagation of MARV (Ci67 variant), EBOV (Kikwit variant), or EBOV-GFP (Mayinga variant) has been described [20, 24] . For filovirus infection, Vero E6 or A549 cells transduced to express IFITM proteins or with vector alone were incubated with MARV or with EBOV at a multiplicity of infection (MOI) of 1 or 15. The inocula were removed 1 h later and cells were washed 3 times with phosphate buffered saline (PBS). Culture supernatants were harvested in TRIzol (Invitrogen) 72 hours after infection, and virion yield was determined by quantitative reverse transcriptase-PCR (qRT-PCR). In brief, total RNA from culture supernatants of untreated cells (mock) or cells infected with MARV or EBOV was prepared using the MagMax 96 RNA Extraction Kit (Ambion). qRT-PCR assays were performed on an ABI PRISM 7900HT sequence detection system with the RNA UltraSenseTM one-step kit (Invitrogen) and TaqMan Probes (Applied Biosystems) according to manufacturers' instructions. The final concentrations used in the 20-ml reaction mix contained 5 ml of RNA, 0.4 mM of each primer, 0.2 mM probe, 4 ml of 56reaction mix, 0.4 ml of Rox, and 1 ml of enzyme mix. The reaction was run as follows: reverse transcription at 50uC for 20 minutes; initial denaturation at 95uC for 2 minutes; amplification for 40 cycles at 95uC for 15 seconds, 60uC for 30 seconds. Serial 10-fold dilutions of the assayed (10 2 -10 7 copies) virus were used as standards.",
+            "cite_spans": [
+                {
+                    "start": 108,
+                    "end": 112,
+                    "text": "[20,",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 113,
+                    "end": 116,
+                    "text": "24]",
+                    "ref_id": "BIBREF23"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Infectious filovirus replication assays"
+        },
+        {
+            "text": "For imaging MARV infected cells, cells were fixed in 10%buffered formalin (Val Tech Diagnostics) for 72 h and stained for high-content quantitative image-based analysis with a murine monoclonal antibody against MARV GP 1,2 (9G4), followed by Alexa 488-conjugated goat anti-mouse IgG (Invitrogen). All infected cells were stained with Hoechst 33342 and HCS CellMask Red (Invitrogen). Images were acquired and analyzed on an Opera confocal reader (model 3842-Quadruple Excitation High Sensitivity (QEHS), Perkin Elmer), at two exposures using a 106 air objective.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Infectious filovirus replication assays"
+        },
+        {
+            "text": "Propagation of SARS-CoV has been described [25] . Vero cells sorted to express moderate levels of ACE2 were transduced to express IFITM proteins or with vector alone were incubated with SARS-CoV (Urbani strain) at a multiplicity of infection (MOI) of 0.1 for 1 hour. 1, 6, 12, 18, 24, or 30 hours after infection, viral titer was determined by plaque assay [25] .",
+            "cite_spans": [
+                {
+                    "start": 43,
+                    "end": 47,
+                    "text": "[25]",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 267,
+                    "end": 284,
+                    "text": "1, 6, 12, 18, 24,",
+                    "ref_id": null
+                },
+                {
+                    "start": 357,
+                    "end": 361,
+                    "text": "[25]",
+                    "ref_id": "BIBREF24"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Infectious SARS-CoV replication assays"
+        },
+        {
+            "text": "Immunofluorescence studies ACE2 cell surface expression was measured by labeling cells with 20 mg/ml Alexa-488 or Alexa-649 (Pierce) conjugated S protein receptor-binding domain (RBD) of SARS-CoV for one hour [26] . Cells were then washed 3 times with PBS, fixed with 1% formaldehyde and analyzed by flow cytometry. To image pseudovirus infected cells, cells infected with various MLV-GFP pseudotypes were fixed with 4% formaldehyde for 20 minutes, permeablized with 0.2% Triton X-100 (Sigma) for 15 minutes, and counterstained with 25 ng/ml 49,6-Diamidino-2-phenylindole (DAPI; Sigma) for 5 minutes. Images were taken using the Olympus IX51 fluorescence microscope and the DP controller software (objective 206). Expression of human c-myc-tagged IFITM proteins in A549 cells was assayed using similar procedures. A549 cells transduced to express human IFITM proteins or with vector alone were fixed, permeablized, labeled with fluorescein isothiocyanate (FITC)-conjugated murine anti-cmyc IgG (9E10; Abcam) for one hour, and counterstained with DAPI. Cells were imaged using the same method.",
+            "cite_spans": [
+                {
+                    "start": 209,
+                    "end": 213,
+                    "text": "[26]",
+                    "ref_id": "BIBREF25"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Infectious SARS-CoV replication assays"
+        },
+        {
+            "text": "Subcellular localization of human IFITM3 was measured by confocal microscopy. IFITM3-expressing A549 cells were washed twice with PBS and fixed in 50/50 acetone/methanol at 220uC for 10 minutes. Fixed cells were then washed with PBS twice, blocked with 10% goat serum in PBS for 30min, and labeled with various primary antibodies for 2 hours. Primary antibodies used in this study included murine anti-lysosomal-associated membrane protein 1 (LAMP1, H4A3, 1:50 dilution; Santa Cruz Biotech) IgG1, murine anti-LAMP2 (H4B4, 1:50 dilution; Santa Cruz Biotech) IgG1, murine anti-CD63 (FC-5.01, 1:100 dilution; Invitrogen) IgG2a, rabbit anti-early endosomal antigen 1 (EEA1, 1:100 dilution; Sigma) polyclonal antibody, and murine anti-c-myc antibodies (9E10, 1:50 dilution, and 9E11, 1:900 dilution; Santa Cruz Biotech). After primary antibody staining, cells were labeled with goat Alexa 488-or 568-conjugated secondary antibodies (1:500 dilution; Invitrogen) for 1 hour and then analyzed by confocal microscopy using Leica TCS-SP1 laser confocal imaging system (objective 1006).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Infectious SARS-CoV replication assays"
+        },
+        {
+            "text": "Cathepsin L activity was assayed using the cathepsin L activity kit following the protocol provided by the manufacturer (EMD). Cathepsin L activity of 2610 5 Vero E6 cells transduced to express IFITM proteins or with vector alone was assayed. A cathepsin B inhibitor (CA-074) was added in each tested sample to eliminate the interference from cathepsin B. To evaluate cathepsin B or L activities in live cells, Magic Red conjugated-(z-Leucine-Arginine) 2 (MR-(RR) 2 ), which binds to active cathepsin B, or MR conjugated-(z-Phenylalanine-Arginine) 2 (MR-(FR) 2 ), which binds to active cathepsin L, were used (Immunochemistry Technologies). Vero E6 cells transduced to express IFITM proteins or with empty vector were incubated with either MR-(RR) 2 or MR-(FR) 2 at 37uC. One hour later, cells were harvested, fixed with 1% formaldehyde and analyzed by flow cytometry.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Cathepsin activity assays"
+        },
+        {
+            "text": "Cells were lysed with either 1% Triton X-100 (Sigma) or 1% NP-40 (Thermo Scientific). Protein samples were prepared in reducing buffer and boiled for 5 minutes, analyzed by sodium dodecyl sulfate polyacrylamide gel electrophoresis (SDS/PAGE), and transferred to a polyvinylidene difluoride membrane (Invitrogen). Expression of various c-myc-tagged IFITM proteins was detected by 0.4 mg/ml murine monoclonal anti-c-myc antibody (9E10; Santa Cruz Biotechnology). Endogenous IFITM protein expression was probed by 0.4 mg/ml polyclonal rabbit anti-IFITM1 (FL-125, Santa Cruz Biotechnology), rabbit anti-IFITM2/3 (1:2000 dilution; anti-IFITM2 antibody was from Proteintech Group which cross reacts to IFITM3 protein). b-actin recognized by 1 mg/ml murine monoclonal anti-b-actin antibody (Sigma) was used as a loading control.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Western blots"
+        },
+        {
+            "text": "Influenza A virus A/PR/8/34 was purchased from American Type Culture Collection (ATCC) and was propagated in Madin-Darby canine kidney (MDCK) cells as described [18] . To monitor virion trafficking, Vero E6 cells transduced to express IFITM proteins or with vector alone were incubated with labeled influenza A/PR/8/34 virions at an MOI of 10 or 100 and centrifuged at 4uC for 30 minutes at 40006g. Cells were then washed three times with PBS and maintained in medium containing 100 nM LysoTracker Red DND-99 (Invitrogen) at 37uC. 40, 70, or 100 minutes later, cells were fixed with 4% formaldehyde and imaged with a Leica DMRBE Microscope and Leica TCS-SP1 laser confocal imaging system (objective 1006). Control cells were pre-treated with 1 U/ml neuraminidase from Clostridium perfringens (Sigma) for 24 hours or with 100 nM bafilomycin A 1 (Baf A1, Sigma) for 6 hours before influenza A virus infection.",
+            "cite_spans": [
+                {
+                    "start": 161,
+                    "end": 165,
+                    "text": "[18]",
+                    "ref_id": "BIBREF17"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Virion trafficking assays"
+        },
+        {
+            "text": "Figure S1 Viral infection and endogenous IFITM expression in cells assayed. (A) A549 cells transduced to express indicated IFITM proteins or with vector alone were infected with MLV-GFP pseudotyped with MARV or EBOV glycoprotein as indicated (green). Two days later, cells were fixed with formaldehyde, permeablized by Triton X-100, and counterstained with DAPI (blue). Images were taken using fluorescence microscopy. (B) 293T, A549, or Vero E6 cells were treated with 5000 U/ml IFN-b, 250 ng/ml IFN-c, or with medium alone, as indicated, for 48 hours. Expression of IFITM proteins was assayed by western blot using the indicated anti-IFITM1 or anti-IFITM2/ 3 antibody. (C) Vero E6 cells transduced to express indicated IFITM proteins or with vector alone were incubated with live MARV. 72 hours later cells were fixed with formaldehyde for 72 hours, labeled with murine monoclonal antibody against MARV GP 1,2 (9G4), counterstained with Hoechst 33342, and imaged by confocal microscopy. Found at: doi:10.1371/journal.ppat.1001258.s001 (3.61 MB TIF) Figure S2 Pseudovirus entry, ACE2 and IFITM expression. (A) Experiment similar to that in Fig. S1A except that control or IFITM3 shRNA-expressing HeLa cells were infected with the indicated pseudoviruses. (B) ACE2 expression in cells used in Fig. 4D was assayed using Alexa 649-conjugated S protein RBD of SARS-CoV, analyzed by flow cytometry, and shown as mean fluorescence intensity. (C) ACE2 expression in cells used in Fig. 4G was assayed by the same method described in (B). (D) A549 cells transduced to express c-myc-tagged human IFITM2, IFITM5, or with vector alone were fixed, permeablized, and stained with FITC-conjugated anti-c-myc antibody (green). Cells were then counterstained with DAPI (blue) and imaged using fluorescence microscopy. ",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 1051,
+                    "end": 1060,
+                    "text": "Figure S2",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 1141,
+                    "end": 1149,
+                    "text": "Fig. S1A",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 1293,
+                    "end": 1300,
+                    "text": "Fig. 4D",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 1474,
+                    "end": 1481,
+                    "text": "Fig. 4G",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": "Supporting Information"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "The IFITM proteins mediate cellular resistance to influenza A H1N1 virus, West Nile virus, and dengue virus",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Brass",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Benita",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "John",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Krishnan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Cell",
+            "volume": "139",
+            "issn": "",
+            "pages": "1243--1254",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Transcriptional and posttranscriptional regulation of interferon-induced gene expression in human cells",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Friedman",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Manly",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Mcmahon",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Kerr",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Stark",
+                    "suffix": ""
+                }
+            ],
+            "year": 1984,
+            "venue": "Cell",
+            "volume": "38",
+            "issn": "",
+            "pages": "745--755",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Bril: a novel bone-specific modulator of mineralization",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Moffatt",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Gaumond",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Salois",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Sellin",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Bessette",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J Bone Miner Res",
+            "volume": "23",
+            "issn": "",
+            "pages": "1497--1508",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "The fragilis interferon-inducible gene family of transmembrane proteins is associated with germ cell specification in mice",
+            "authors": [
+                {
+                    "first": "U",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Lange",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Saitou",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Western",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Barton",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Surani",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "BMC Dev Biol",
+            "volume": "3",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "IFITM/Mil/ fragilis family proteins IFITM1 and IFITM3 play distinct roles in mouse primordial germ cell homing and repulsion",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Tanaka",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Yamaguchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Tsoi",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Lickert",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Tam",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Dev Cell",
+            "volume": "9",
+            "issn": "",
+            "pages": "745--756",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Viral membrane fusion",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Harrison",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Nat Struct Mol Biol",
+            "volume": "15",
+            "issn": "",
+            "pages": "690--698",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Receptor binding and membrane fusion in virus entry: the influenza hemagglutinin",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Skehel",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Wiley",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Annu Rev Biochem",
+            "volume": "69",
+            "issn": "",
+            "pages": "531--569",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Flavivirus membrane fusion",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Stiasny",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "X"
+                    ],
+                    "last": "Heinz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J Gen Virol",
+            "volume": "87",
+            "issn": "",
+            "pages": "2755--2766",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "HIV enters cells via endocytosis and dynamin-dependent fusion with endosomes",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Miyauchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Latinovic",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Morozov",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Melikyan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Cell",
+            "volume": "137",
+            "issn": "",
+            "pages": "433--444",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "SARS coronavirus, but not human coronavirus NL63, utilizes cathepsin L to infect ACE2-expressing cells",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Bosch",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Lee",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J Biol Chem",
+            "volume": "281",
+            "issn": "",
+            "pages": "3198--3203",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Inhibitors of cathepsin L prevent severe acute respiratory syndrome coronavirus entry",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Simmons",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Gosalia",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Rennekamp",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Reeves",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Diamond",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Proc Natl Acad Sci U S A",
+            "volume": "102",
+            "issn": "",
+            "pages": "11876--11881",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Endosomal proteolysis of the Ebola virus glycoprotein is necessary for infection",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Chandran",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Sullivan",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Felbor",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Whelan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Cunningham",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Science",
+            "volume": "308",
+            "issn": "",
+            "pages": "1643--1645",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Role of endosomal cathepsins in entry mediated by the Ebola virus glycoprotein",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Schornberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Matsuyama",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kabsch",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Delos",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bouton",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J Virol",
+            "volume": "80",
+            "issn": "",
+            "pages": "4174--4178",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "A forward genetic strategy reveals destabilizing mutations in the Ebolavirus glycoprotein that alter its protease dependence during cell entry",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Wong",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Sandesara",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Mulherkar",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Whelan",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Chandran",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "J Virol",
+            "volume": "84",
+            "issn": "",
+            "pages": "163--175",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Activation of the SARS coronavirus spike protein via sequential proteolytic cleavage at two distinct sites",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Belouzard",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Chu",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Whittaker",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Proc Natl Acad Sci U S A",
+            "volume": "106",
+            "issn": "",
+            "pages": "5871--5876",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Proteasemediated enhancement of severe acute respiratory syndrome coronavirus infection",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Matsuyama",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ujike",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Morikawa",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Tashiro",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Taguchi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Proc Natl Acad Sci U S A",
+            "volume": "102",
+            "issn": "",
+            "pages": "12543--12547",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Lysosomal cysteine proteases: facts and opportunities",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Turk",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Turk",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Turk",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Embo J",
+            "volume": "20",
+            "issn": "",
+            "pages": "4629--4633",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Influenza A virus neuraminidase limits viral superinfection",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Sui",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Marasco",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Choe",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "J Virol",
+            "volume": "82",
+            "issn": "",
+            "pages": "4834--4843",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Transferrin receptor 1 is a cellular receptor for New World haemorrhagic fever arenaviruses",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Radoshitzky",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Abraham",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Spiropoulou",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Kuhn",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Nguyen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Nature",
+            "volume": "446",
+            "issn": "",
+            "pages": "92--96",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Conserved receptor-binding domains of Lake Victoria marburgvirus and Zaire ebolavirus bind a common receptor",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Kuhn",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Radoshitzky",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Guth",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Warfield",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J Biol Chem",
+            "volume": "281",
+            "issn": "",
+            "pages": "15951--15958",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Angiotensinconverting enzyme 2 is a functional receptor for the SARS coronavirus",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Moore",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Vasilieva",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Sui",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Wong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Nature",
+            "volume": "426",
+            "issn": "",
+            "pages": "450--454",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Epsin 1 is a cargo-specific adaptor for the clathrinmediated endocytosis of the influenza virus",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zhuang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Proc Natl Acad Sci U S A",
+            "volume": "105",
+            "issn": "",
+            "pages": "11790--11795",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Intrinsic immunity: a front-line defense against viral attack",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Bieniasz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Nat Immunol",
+            "volume": "5",
+            "issn": "",
+            "pages": "1109--1115",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Identification of two amino acid residues on Ebola virus glycoprotein 1 critical for cell entry",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Mpanju",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Towner",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Dover",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Nichol",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Wilson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Virus Res",
+            "volume": "121",
+            "issn": "",
+            "pages": "205--214",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Synthetic recombinant bat SARS-like coronavirus is infectious in cultured cells and in mice",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Becker",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Graham",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Donaldson",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Rockx",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Sims",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Proc Natl Acad Sci U S A",
+            "volume": "105",
+            "issn": "",
+            "pages": "19944--19949",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "A 193-amino acid fragment of the SARS coronavirus S protein efficiently binds angiotensinconverting enzyme 2",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Wong",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Moore",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Choe",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Farzan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J Biol Chem",
+            "volume": "279",
+            "issn": "",
+            "pages": "3197--3201",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Replication of infectious MARV and EBOV is restricted by IFITM1, 2, and 3. Vero E6 cells transduced to express the indicated cmyc-tagged IFITM proteins or with vector alone were incubated with infectious (A) MARV or (B) EBOV at indicated MOIs for 1 hour and then maintained in growth medium. After 72 hours, culture supernatant was harvested and viral titer was assayed using quantitative RT-PCR. A single asterisk indicates a significant difference with controls cells (P,0.05); double asterisks indicate P,0.1. (C) IFITM protein expression in Vero E6 cells was assayed by western blot using anti-c-myc antibody. (D) and (E) are experiments similar to those in (A) and (B), except A549 cells transduced to express the indicated c-myc-tagged IFITM proteins or with vector alone were used. (F) IFITM protein expression in A549 cells was assayed by western blot using anti-c-myc antibody. Each panel represents two experiments with similar results. doi:10.1371/journal.ppat.1001258.g002",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "express the indicated c-myc-tagged IFITM proteins or with vector alone were infected with MLV-GFP pseudotyped with the entry proteins of EBOV, MARV, IAV, MLV, or MACV, as indicated. Two days later, pseudovirus infection was determined by flow cytometry. Relative infectivity represents the percentage of GFP-positive cells, normalized to that of cells transduced with vector alone. Numbers underneath figures indicate percentage of infected cells in vector-transduced cells. Differences in pseudovirus entry between vector alone and IFITM expressing cells are significant (P,0.05) for all MARV, EBOV, IAV pseudoviruses excepting H7(FPV) in 293T cells expressing IFITM1 (P,0.1). IFITM protein expression in (B) A549, (D) Vero E6, (F) HUVEC, or (H) 293T cells was measured by western blot with an anti-c-myc antibody (9E10), using aliquots of the same cells assayed in (A), (C), (E), and (G), respectively. b-actin was included as a loading control. (I) Experiment similar to (A) except that HeLa cells were treated with 5000 U/ml IFN-b or maintained in growth medium for 48 hours before infection with the indicated pseudoviruses. Differences in pseudovirus entry between MLV or MACV and MARV, EBOV, or IAV are statistically significant (P,0.05), as are all differences in pseudovirus entry between IFN-btreated and untreated cells. (J) In parallel, aliquots of the same cells assayed in (I) were used to determine the expression of IFITM proteins. IFITM proteins were analyzed by western blot and probed with the indicated anti-IFITM1 or anti-IFITM2/3 antibody. Each panel of the figure represents at least three experiments with similar results. doi:10.1371/journal.ppat.1001258.g001",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "SARS-CoV S infection is restricted by IFITM1, 2, and 3. (A) A549 or (D) Vero E6 cells transduced to express ACE2 were subsequently transduced to express the indicated c-myc-tagged IFITM proteins or with vector alone. Two days later, cells were infected with indicated pseudoviruses. Pseudovirus infection was determined by flow cytometry, and normalized to that of cells transduced with vector alone. Differences in pseudovirus entry between vector alone and IFITM expressing cells are significant (P,0.05) for all SARS-CoV and IAV pseudoviruses. In parallel, cellsurface expression of ACE2 was assayed using aliquots of the same (B) A549 or (E) Vero E6 cells analyzed in (A) and (D), respectively. Cells were labeled with Alexa-488 conjugated S protein RBD of SARS-CoV and analyzed by flow cytometry. ACE2 expression is shown as mean fluorescence intensity. Expression of c-myc-tagged IFITM proteins was assayed by western blot using aliquots of the same (C) A549 or (F) Vero E6 cells analyzed in (A) and (D), respectively. Each panel represents at least three experiments with similar results. (G) Vero cells transduced to express indicated c-myctagged IFITM proteins or with vector alone were incubated in duplicate with infectious SARS-CoV at a MOI of 0.1 for 1 hour. Supernatants were harvested 1, 6, 12, 18, 24, or 30 hours later and viral titers were measured by plaque assay. (H) Expression of c-myc-tagged IFITM proteins was assayed by western blot using aliquots of cells analyzed in (G). doi:10.1371/journal.ppat.1001258.g003",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Depletion of IFITM proteins differentially enhances infection mediated by MARV, EBOV, SARS-CoV, and IAV entry proteins. (A) HeLa cells were transduced to express control shRNA or shRNA targeting IFITM1, 2, 3, or IFITM1 and 3 (IFTIM1/3), and selected by puromycin. HeLa cells were then treated with 1000 U/ml IFN-b or with medium alone for 48 hours. Expression of IFITM proteins in control or IFITM depleted HeLa cells was assayed by western blot using the indicated anti-IFITM1 or anti-IFITM2/3 antibody. b-actin was included as a loading control. (B) Aliquots of the cells used in (A) were infected with MLV-GFP pseudotyped with the indicated entry proteins. Pseudovirus infection was measured by flow cytometry, and normalized to infection of cells expressing control shRNA in the absence of IFN-b. Differences in pseudovirus entry between IFN-b-treated and untreated cells for MARV, EBOV, or IAV are significant (P,0.05), except for IAV entry into HeLa cells expressing IFITM3 or IFITM1/3 shRNA. (C) Experiment similar to (B) except HeLa cells stably expressing indicated shRNA were assayed in the absence of IFN-b. (D) HeLa cells expressing indicated shRNA were transduced to express ACE2 and infected with indicated pseudoviruses. Differences in pseudovirus entry between cells expressing control and IFITM3 shRNA in (C) and (D) are significant (P,0.05) for IAV pseudoviruses only. (E) Experiment similar to (A) except that K562 cells were transduced to express control shRNA or shRNA targeting IFITM1, and selected by puromycin. (F) Experiment similar to that in (B) except that infectivity of the indicated pseudoviruses was measured in K562 cells stably expressing the indicated shRNA. (G) Experiment similar to (D) except that infectivity of the indicated pseudoviruses was measured in ACE2-and shRNA-expressing K562 cells. Differences in pseudovirus entry between cells expressing control and IFITM1 shRNA in (F) and (G) were significant (P,0.05) for MARV, SARS-CoV, and IAV pseudoviruses. Each panel of the figure represents at least two experiments with similar results. doi:10.1371/journal.ppat.1001258.g004",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "Murine and chicken IFITM orthologs differentially restrict infection mediated by MARV, EBOV, and IAV entry proteins. A549 cells were transduced to express the indicated c-myc-tagged (A) human, (C) mouse, or (E) chicken IFITM orthologs. Two days later, cells were infected with MLV-GFP pseudotyped with the indicated viral entry glycoproteins. Pseudovirus infection was measured by flow cytometry, and normalized to that of cells transduced with vector alone. Expression of (B) human, (D) mouse, or (F) chicken IFITM protein orthologs in A549 cells assayed in (A), (C), and (E), respectively was measured by western blot using the anti-c-myc antibody (9E10). All differences in pseudovirus entry between control and IFITM-expressing cells are significant (P,0.05) except for H5(Thai) entry into murine Ifitm6-and chicken Ifitm5-expressing cells, and for H7(FPV) entry into murine Ifitm1-and Ifitm5-expressing cells. Each panel of the figure represents at least two experiments with similar results. doi:10.1371/journal.ppat.1001258.g005",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF5": {
+            "text": "Trypsin treatment bypasses IFITM restriction of entry mediated by SARS-CoV S protein. (A) Vero E6 cells transduced to express the indicated c-myc-tagged IFITM proteins or with vector alone were subsequently transduced to express ACE2. Two days later, cells were spininoculated at 4uC with indicated pseudoviruses and then treated with 5 mg/ml trypsin or phosphate-buffered saline (PBS) at 37uC for 13 minutes.Infected cells were maintained in growth medium and pseudovirus infection was determined by flow cytometry two days later. Relative infectivity was shown as the percentage of GFP-positive cells, normalized to that of cells transduced with vector alone and treated with PBS. Differences in SARS-CoV pseudovirus entry between trypsin-treated and untreated cells are significant (P,0.5) for all IFITM-expressing cells. (B) In parallel, ACE2 cellsurface expression was measured on aliquots of Vero E6 cells used in (A). Vero E6 cells were labeled with Alexa 488-conjugated S-protein RBD of SARS-CoV and analyzed by flow cytometry. (C) IFITM protein expression in ACE2-expressing Vero E6 cells was measured by western blot with an antic-myc antibody (9E10), using aliquots of the same cells assayed in (A). Figs. (A)-(C) are representative of three experiments with similar results. (D) Cathepsin L activity in Vero E6 cells transduced with vector alone or stably expressing indicated IFITM proteins was measured fluorometrically and is shown as mean fluorescence. Cells treated with a cathepsin L inhibitor were used as a control. No statistically significant differences were observed between vector-transduced and IFITM-expressing cells. (E) Vero E6 cells transduced with vector alone or stably expressing the indicated IFITM proteins were labeled with MR-(FR) 2 or with MR-(RR) 2 , which bind to the active forms of cathepsin L or B, respectively. Cells were labeled for 1 hour, fixed with formaldehyde, and analyzed by flow cytometry. In vector-transduced cells, mean fluorescence for MR-(FR) 2 was 1175.7 and for MR-(RR) 2 was 454.7. The modest enhancement for cathepsin B activity in IFITM2 and 3 expressing cells is significant (P,0.05), whereas no significant differences were observed in cathepsin L activity. Experiments in (D) and (E) are representative of two experiments with similar results. doi:10.1371/journal.ppat.1001258.g006",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF6": {
+            "text": "IFITM proteins do not interfere with virion access to acidic cellular compartments. Infectious influenza A/PR/8/34 (H1N1) virus was labeled with Alexa 488-conjugated murine anti-NA (N1) IgG2a (NA-112-S2.4) at 4uC for 16 hours (green). Vero E6 cells transduced to express the indicated IFITM proteins or with vector alone were spin-inoculated with labeled influenza A/PR/8/34 (H1N1) virus (M.O.I. = 100) at 4uC, washed twice with PBS, and incubated with medium containing 100 nM LysoTracker Red DND-99 (red), which labels low pH compartments, at 37uC for 100 minutes. Cells were then washed twice with PBS, fixed with formaldehyde, and imaged by confocal microscopy. Bottom panels show a control in which Vero E6 cells transduced with vector alone were pretreated with 1 U/ml bacterial neuraminidase (NA) for 24 hours before influenza A/PR/8/34 (H1N1) virus infection. Leftmost figures show differential interference contrast (DIC) and rightmost figures show the merged images of labeled virions and LysoTracker labeled cells. doi:10.1371/journal.ppat.1001258.g007",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF7": {
+            "text": "To label Influenza A/PR/8/34 virions, virions were incubated with 20 mg/ ml Alexa 488 (Pierce)-conjugated monoclonal murine anti-NA (N1) IgG (NA-112-S2.4) at 4uC for 16 hours. (Antibody NA-112-S2.4 was generously provided by Dr. W. Gerhard, The Wistar Institute, US). Virions were used for infection assays directly after labeling.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF8": {
+            "text": "Found at: doi:10.1371/journal.ppat.1001258.s002 (3.19 MB TIF) Figure S3 Alignment of IFITM orthologs used in this study. (A) A representation of the topology of the IFITM proteins embedded in a cellular membrane. (B) An alignment of human, mouse, and chicken IFITM orthologs, with topological features indicated above. Red indicates conserved residues. Found at: doi:10.1371/journal.ppat.1001258.s003 (1.01 MB TIF) Figure S4 IFITM proteins do not interfere with virion access to acidic cellular compartments. (A) Experiment similar to that in Fig. 7, except that Vero E6 cells transduced to express IFITM3 or with vector alone were infected with labeled influenza A/PR/8/ 34 virus at a MOI of 10. Infected cells were washed twice with PBS, fixed with formaldehyde 40, 70, or 100 minutes as indicated after incubation with labeled viruses. Leftmost figures show DIC images and rightmost figures show merged images of labeled virions and LysoTracker labeled cells. (B) Two different controls for (A) are shown. Vero E6 cells transduced with vector alone were pretreated with 100 nM bafilomycin A 1 (BafA1) for 6 hours or with 1 U/ml bacterial neuraminidase (NA) for 24 hours before incubation with influenza A/PR/8/34 (H1N1) virus. Images were taken by confocal microscopy 100 minutes later. Found at: doi:10.1371/journal.ppat.1001258.s004 (8.16 MB TIF) Figure S5 IFITM3 colocalizes to late endosomal lysosomal markers. A549 cells expressing c-myc-tagged IFITM3 were fixed with formaldehyde, permeablized, and labeled with the anti-c-myc antibody and antibodies against indicated organelle markers. Cells were then imaged by confocal microscopy. Leftmost figures show DIC images and rightmost figures show merged images of IFITM3 (red) and the indicated organelle markers (green). Found at: doi:10.1371/journal.ppat.1001258.s005 (3.57 MB TIF)",
+            "latex": null,
+            "type": "figure"
+        }
+    },
+    "back_matter": []
+}

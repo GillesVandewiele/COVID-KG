@@ -1,0 +1,1273 @@
+{
+    "paper_id": "9595fe80c8e79a20286b0bfad42c930623e13805",
+    "metadata": {
+        "title": "Middle East Respiratory Syndrome Coronavirus in Bats, Saudi Arabia",
+        "authors": [
+            {
+                "first": "Ziad",
+                "middle": [
+                    "A"
+                ],
+                "last": "Memish",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Columbia University",
+                    "location": {
+                        "settlement": "New York",
+                        "region": "New York",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Nischay",
+                "middle": [],
+                "last": "Mishra",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Columbia University",
+                    "location": {
+                        "settlement": "New York",
+                        "region": "New York",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Kevin",
+                "middle": [
+                    "J"
+                ],
+                "last": "Olival",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Columbia University",
+                    "location": {
+                        "settlement": "New York",
+                        "region": "New York",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Shamsudeen",
+                "middle": [
+                    "F"
+                ],
+                "last": "Fagbo",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Columbia University",
+                    "location": {
+                        "settlement": "New York",
+                        "region": "New York",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Vishal",
+                "middle": [],
+                "last": "Kapoor",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Columbia University",
+                    "location": {
+                        "settlement": "New York",
+                        "region": "New York",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Jonathan",
+                "middle": [
+                    "H"
+                ],
+                "last": "Epstein",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Columbia University",
+                    "location": {
+                        "settlement": "New York",
+                        "region": "New York",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Rafat",
+                "middle": [],
+                "last": "Alhakeem",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Columbia University",
+                    "location": {
+                        "settlement": "New York",
+                        "region": "New York",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Al",
+                "middle": [],
+                "last": "Asmari",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Columbia University",
+                    "location": {
+                        "settlement": "New York",
+                        "region": "New York",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Ariful",
+                "middle": [],
+                "last": "Islam",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Columbia University",
+                    "location": {
+                        "settlement": "New York",
+                        "region": "New York",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Amit",
+                "middle": [],
+                "last": "Kapoor",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Columbia University",
+                    "location": {
+                        "settlement": "New York",
+                        "region": "New York",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Thomas",
+                "middle": [],
+                "last": "Briese",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Columbia University",
+                    "location": {
+                        "settlement": "New York",
+                        "region": "New York",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Peter",
+                "middle": [],
+                "last": "Daszak",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Columbia University",
+                    "location": {
+                        "settlement": "New York",
+                        "region": "New York",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Abdullah",
+                "middle": [
+                    "A Al"
+                ],
+                "last": "Rabeeah",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Columbia University",
+                    "location": {
+                        "settlement": "New York",
+                        "region": "New York",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "W",
+                "middle": [
+                    "Ian"
+                ],
+                "last": "Lipkin",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Columbia University",
+                    "location": {
+                        "settlement": "New York",
+                        "region": "New York",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "The source of human infection with Middle East respiratory syndrome coronavirus remains unknown. Molecular investigation indicated that bats in Saudi Arabia are infected with several alphacoronaviruses and betacoronaviruses. Virus from 1 bat showed 100% nucleotide identity to virus from the human index case-patient. Bats might play a role in human infection.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "S ince Middle East respiratory syndrome (MERS) was described in September 2012, over 90 cases have been reported worldwide, 70 from Saudi Arabia. The incidence of infection with the causative agent, a betacoronavirus (MERS CoV) (1), has not been determined; however, the mortality rate among those who received clinical care is \u224865% (2) . Although instances of human-to-human transmission have been documented between case-patients and others in close contact (including hospital patients sharing rooms, family members, and medical personnel), the sources of infection for most patients remain unknown. Because of sequence similarities between \u03b2-CoVs identified in bats and those of MERS CoV isolated from humans, a bat reservoir has been posited (3) (4) (5) . Although neither detection of MERS CoV in bats nor contact of human MERS patients with bats have been reported, a role for bats in human infection cannot be excluded because contact can be indirect (mediated through another animal vector or fomites).",
+            "cite_spans": [
+                {
+                    "start": 333,
+                    "end": 336,
+                    "text": "(2)",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 747,
+                    "end": 750,
+                    "text": "(3)",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 751,
+                    "end": 754,
+                    "text": "(4)",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 755,
+                    "end": 758,
+                    "text": "(5)",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "In October 2012 and April 2013, three agencies collected samples from bats in regions where MERS cases had been identified (Figure 1 ). The agencies are the Ministry of Health of Saudi Arabia, the Center for Infection and Immunity of Columbia University, and EcoHealth Alliance.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 123,
+                    "end": 132,
+                    "text": "(Figure 1",
+                    "ref_id": null
+                }
+            ],
+            "section": "The Study"
+        },
+        {
+            "text": "During the October investigation, the team interviewed the family of an index case-patient in Bisha and collected samples from bats <12 km from his home, in an abandoned date palm orchard, and <1 km from his place of employment, a hardware store that fronted a garden and date palm orchard. Although neither family members nor employees recalled seeing bats, the team observed roosting bats and guano in abandoned wells and ruins within 12 km of his home and insectivorous bats at dusk in the garden behind his store. Over 3 weeks, 96 bats representing 7 species (Rhinopoma hardwickii, Rhinopoma microphyllum, Taphozous perforatus, Pipistrellus kuhlii, Eptesicus bottae, Eidolon helvum, and Rosettus aegyptiacus) were captured in mist nets and harp traps, then released after visual speciation and collection of morphometric measurements; wing punch biopsy samples; blood; throat swab samples; and rectal swab samples or fecal pellets. Samples were collected into viral transport medium or lysis buffer.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "The Study"
+        },
+        {
+            "text": "During the 3-week April investigation, fecal samples were collected on tarps laid out at bat roosting sites in and around Bisha, Unaizah, and Riyadh. Representative animals at each roosting site were captured, identified morphologically, and released after wing punch biopsy samples were collected for speciation by DNA analysis. Samples were collected into cryovials.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "The Study"
+        },
+        {
+            "text": "All samples were stored in liquid nitrogen and conveyed to Riyadh for storage at \u221280\u00b0C before being transported to Columbia University in New York in dry nitrogen. The October 2012 shipment was inadvertently opened at customs in the United States and sat at room temperature for 48 hours before transfer to Columbia University; at arrival, all samples had thawed. The April 2013 samples arrived intact.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "The Study"
+        },
+        {
+            "text": "Total nucleic acid was extracted from samples by using the NucliSENS easyMAG system (bioM\u00e9rieux, Durham, NC, USA) and subjected to 8 PCRs with primers and protocols designed to amplify regions within the helicase, RNA-dependent RNA polymerase (RdRp), and nucleocapsid or envelope proteins of CoVs (6-9). Products were sequenced and analyzed for similarity to GenBank database entries by using the BLASTn and BLASTx programs (www.ncbi.nlm.nih.gov/blast/Blast.cgi). Primer sequences are shown in Table 1 . The identity of bat species yielding specific viral products was determined by amplifying and sequencing a fragment of the cytochrome B gene (10) . All visual classifications of species were confirmed except for that of T. perforatus bats. There is no reference sequence for T. perforatus bats in GenBank. However, because the closest reference sequence was from T. nudiventris bats, at 84% identity we presume that the product represents bona fide T. perforatus bat cytochrome B gene sequence. Representative cytochrome B sequences have been uploaded to GenBank (accession nos. KF498635-KF498641). Table 1 indicates the CoV genera identified by using individual primer sets. As anticipated, pan-CoV assays detected \u03b1-and \u03b2-CoVs. One assay specific for MERS CoV (9) also detected \u03b1-CoVs. This finding reinforces the need for sequence confirmation of PCR products. Table 2 indicates the CoV species identified with respect to location, sample type, and bat species. CoV sequences were amplified from rectal swab samples or fecal pellets and from roost feces but not from serum, throat swab samples, or urine. \u03b1-CoV sequences were amplified more frequently than \u03b2-CoV sequences (223 vs. 4). Whereas \u03b1-and \u03b2-CoV sequences were amplified from CoVs from T. perforatus, E. helvum, and R. hardwickii bats, only alpha sequences were amplified from CoVs from P. kuhlii bat samples. CoV sequences were amplified from 220 of 732 roost feces samples and 7 of 91 rectal swab samples or fecal pellets. A product obtained by PCR amplification of nucleic acid from a fecal pellet of a T. perforatus bat captured in October 2012 in Bisha showed 100% nt identity to the human \u03b2-CoV 2c EMC/2012 cloned from the index case-patient in Bisha. A phylogenetic analysis of CoVs obtained in this study is shown in Figure 2 . CoV sequences have been uploaded in GenBank (accession nos. KF493884-KF493888).",
+            "cite_spans": [
+                {
+                    "start": 645,
+                    "end": 649,
+                    "text": "(10)",
+                    "ref_id": "BIBREF10"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 494,
+                    "end": 501,
+                    "text": "Table 1",
+                    "ref_id": null
+                },
+                {
+                    "start": 1103,
+                    "end": 1110,
+                    "text": "Table 1",
+                    "ref_id": null
+                },
+                {
+                    "start": 1368,
+                    "end": 1375,
+                    "text": "Table 2",
+                    "ref_id": "TABREF1"
+                },
+                {
+                    "start": 2292,
+                    "end": 2300,
+                    "text": "Figure 2",
+                    "ref_id": null
+                }
+            ],
+            "section": "The Study"
+        },
+        {
+            "text": "A wide range of CoV species are circulating among bats in Saudi Arabia. Although the prevalence of CoVs was high (\u224828% of fecal samples), MERS CoV was found in only 1 bat. A 3.5% MERS CoV infection rate (n = 29; 95% CI 0-20%) in T. perforatus bats is low compared with that for severe acute respiratory syndrome-like CoV in rhinolophid bats in China (10%-12.5%) but consistent with CoV prevalence among bats in Mexico (4). Furthermore, the sensitivity for viral nucleic acid detection in samples collected in October 2012 was probably reduced because of failure in cold chain transport. Whereas 219 (32%) of 675 of fecal pellets collected in April revealed a CoV sequence by PCR, only 8 (5%) of 148 of rectal swab samples or fecal pellets collected in October were positive by the same assays. We were unable to recover additional sequences beyond the 190-nt RdRp fragment represented in Figure 2 but are confident in the fidelity of the finding. First, although RdRp is a conserved portion of the CoV genome, there is no precedent for 100% identity of a bat sequence with a human MERS CoV sequence. Second, when this work began we did not have cultured MERS CoV, human MERS samples, or MERS CoV cDNA in the laboratory at Columbia University where samples were removed directly from the tubes in which they were collected in the field for nucleic acid extraction, PCR, and sequence analysis. Third, the only MERS-positive signal was obtained in PCR analysis of the T. perforatus bat captured in Bisha near the home and workplace of the MERS index case-patient used to generate the human \u03b2-CoV 2c EMC/2012 sequence. Bats are reservoirs of several viruses that can cause human disease, including rabies, Hendra, Nipah, Marburg, severe acute respiratory syndrome CoV, and probably Ebola viruses (11) (12) (13) (14) . Cross-species transmission from bats to humans can be direct, through contact with infected bats or their excreta, or facilitated by intermediate hosts (15) . Bat CoVs are typically host specific; however, MERS-related CoVs have reportedly been found in many bat families, including Vespertillionidae, Molosidae, Nyteridae, and now Emballonuridae (sheath-tailed bats) in Africa, the Americas, Asia, and Europe. We sampled only a small sample of bats in Saudi Arabia. Nonetheless, given the rarity of MERS CoV sequences detected by our survey and the broad distribution of MERS cases throughout the Middle East, we speculate that there are probably other hosts. Future work should investigate additional bat and other wildlife species and domestic animals for CoV infection and potential linkage to human disease.",
+            "cite_spans": [
+                {
+                    "start": 1792,
+                    "end": 1796,
+                    "text": "(11)",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 1797,
+                    "end": 1801,
+                    "text": "(12)",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 1802,
+                    "end": 1806,
+                    "text": "(13)",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 1807,
+                    "end": 1811,
+                    "text": "(14)",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 1966,
+                    "end": 1970,
+                    "text": "(15)",
+                    "ref_id": "BIBREF15"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 888,
+                    "end": 896,
+                    "text": "Figure 2",
+                    "ref_id": null
+                }
+            ],
+            "section": "Conclusions"
+        },
+        {
+            "text": "We thank Rebecca Hersch and George Amato for cytochrome B gene sequencing, Lorenzo Uccellini and Steven Sameroff for assistance with nucleic acid extraction, Kawathar Muhammad for sample coordination, and Meera Bhat and Ellie Kahn for assistance with manuscript preparation. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgments"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Isolation of a novel coronavirus from a man with pneumonia in Saudi Arabia",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Zaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Van Boheemen",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Bestebroer",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Osterhaus",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Fouchier",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "N Engl J Med",
+            "volume": "367",
+            "issn": "",
+            "pages": "1814--1834",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa1211721"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Hospital outbreak of Middle East respiratory syndrome coronavirus",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Assiri",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Mcgeer",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Perl",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Price",
+                    "suffix": ""
+                },
+                {
+                    "first": "Al",
+                    "middle": [],
+                    "last": "Rabeeah",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Cummings",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "N Engl J Med",
+            "volume": "369",
+            "issn": "",
+            "pages": "407--423",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa1306742"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Human betacoronavirus 2c EMC/2012-related viruses in bats, Ghana and Europe",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Annan",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Baldwin",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Corman",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Klose",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Owusu",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Nkrumah",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Emerg Infect Dis",
+            "volume": "19",
+            "issn": "",
+            "pages": "456--465",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid1903.121503"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Coronaviruses in bats from Mexico",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Anthony",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Ojeda-Flores",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Rico-Chavez",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Navarrete-Macias",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Zambrana-Torrelio",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Rostal",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "J Gen Virol",
+            "volume": "94",
+            "issn": "",
+            "pages": "1028--1066",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/vir.0.049759-0"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Close relative of human Middle East respiratory syndrome coronavirus in bat",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Ithlete",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Stoffberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Corman",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Cottontail",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Richards",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Schoeman",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Identification of a severe acute respiratory syndrome coronavirus-like virus in a leaf-nosed bat in Nigeria",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Quan",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Firth",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Street",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Henriquez",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Petrosov",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Tashmukhamedova",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "mBio",
+            "volume": "1",
+            "issn": "",
+            "pages": "208--218",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/mBio.00208-10"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Bat coronaviruses and experimental infection of bats, the Philippines",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Watanabe",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Masangkay",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Nagata",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Morikawa",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Mizutani",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Fukushi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Emerg Infect Dis",
+            "volume": "16",
+            "issn": "",
+            "pages": "1217--1240",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid1608.100208"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Detection of a novel human coronavirus by realtime reverse-transcription polymerase chain reaction",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Corman",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Eckerle",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Bleicker",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Zaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Landt",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Eschbach-Bludau",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Euro Surveill",
+            "volume": "17",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Assays for laboratory confirmation of novel human coronavirus (hCoV-EMC) infections",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Corman",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Muller",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Costabel",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Timm",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Binger",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Meyer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Euro Surveill",
+            "volume": "17",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "A molecular phylogeny for bats illuminates biogeography and the fossil record",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Teeling",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Springer",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Madsen",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Bates",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "O&apos;brien",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Murphy",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Science",
+            "volume": "307",
+            "issn": "",
+            "pages": "580--584",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1105113"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Bats and their virome: an important source of emerging viruses capable of infecting humans",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Curr Opin Virol",
+            "volume": "3",
+            "issn": "",
+            "pages": "84--91",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.coviro.2012.11.006"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Severe acute respiratory syndrome coronavirus-like virus in Chinese horseshoe bats",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Lau",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Woo",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Tsoi",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Wong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Proc Natl Acad Sci U S A",
+            "volume": "102",
+            "issn": "",
+            "pages": "14040--14045",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0506735102"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Identification of a novel coronavirus in bats",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Poon",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Chu",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Wong",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Ellis",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Leung",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "J Virol",
+            "volume": "79",
+            "issn": "",
+            "pages": "2001--2010",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.79.4"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Bats are natural reservoirs of SARS-like coronaviruses",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Ren",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Epstein",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Science",
+            "volume": "310",
+            "issn": "",
+            "pages": "676--685",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1118391"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "A randomized controlled trial of interventions to impede date palm sap contamination by bats to prevent Nipah virus transmission in Bangladesh",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "U"
+                    ],
+                    "last": "Khan",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Gurley",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Hossain",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Nahar",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Sharker",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Luby",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "PLoS ONE",
+            "volume": "7",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0042689"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "real-time assays (8) upE-Fwd: GCAACGCGCGATTCAGTT Upstream of E gene and ORF 1b NA upE-Prb: FAM-CTCTTCACATAATCGCCCCGAGCTCG-TAMRA upE-Rev: GCCTCTACACGGGACCCATA ORF1b-Fwd: TTCGATGTTGAGGGTGCTCAT ORF1b-Prb: FAM-CCCGTAATGCATGTGGCACCAATGT-TAMRA ORF1b-Rev: TCACACCAGTTGAAAATCCTAATTG *CoV, coronavirus; MERS, Middle East respiratory syndrome; RdRp, RNA-dependent RNA polymerase; NA, not applicable; ORF, open reading frame. \u2020Primer locations are based on human \uf062-CoV 2c EMC/2012, complete genome (GenBank accession no. JX869059).",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "1820 Emerging Infectious Diseases \u2022 www.cdc.gov/eid \u2022 Vol. 19, No. 11, November 2013 Table 1. PCRs and primers used in CoV detection*",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "CoVs detected in bats, Saudi Arabia*",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "EcoHealth Alliance was supported by the National Institute of Allergy and Infectious Diseases, the US Agency for International Development (PREDICT), and the Defense Threat Reduction Agency. Dr Memish is deputy minister for public health, director of the WHO Collaborating Center for Mass Gathering Medicine in the Ministry of Health, and professor in the College of Medicine of Alfaisal University in Riyadh. His research interests include emerging infectious diseases, infection control, and preventive medicine. DISPATCHES 1822 Emerging Infectious Diseases \u2022 www.cdc.gov/eid \u2022 Vol. 19, No. 11, November 2013 likelihood tree of partial RNAdependent RNA polymerase gene (nt position 15068-15249 of GenBank accession no. JX869059) was constructed by using the Tamura-Nei model with discrete gamma rate differences among sites as implemented in MEGA 5.2 (www.megasoftware.net). Each branch shows the GenBank accession number followed by a brief description of the sequence used. Scale bar indicates nucleotide substitutions per site. MERS, Middle East respiratory syndrome; CoV, coronavirus; SARS, severe acute respiratory syndrome; KSA, Kingdom of Saudi Arabia.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

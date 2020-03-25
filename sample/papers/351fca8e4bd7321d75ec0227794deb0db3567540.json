@@ -1,0 +1,2056 @@
+{
+    "paper_id": "351fca8e4bd7321d75ec0227794deb0db3567540",
+    "metadata": {
+        "title": "",
+        "authors": [
+            {
+                "first": "Anastasia",
+                "middle": [
+                    "N"
+                ],
+                "last": "Vlasova",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Douglas",
+                "middle": [],
+                "last": "Marthaler",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Qiuhong",
+                "middle": [],
+                "last": "Wang",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Marie",
+                "middle": [
+                    "R"
+                ],
+                "last": "Culhane",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Kurt",
+                "middle": [
+                    "D"
+                ],
+                "last": "Rossow",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Albert",
+                "middle": [],
+                "last": "Rovira",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "James",
+                "middle": [],
+                "last": "Collins",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Linda",
+                "middle": [
+                    "J"
+                ],
+                "last": "Saif",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "(",
+                "middle": [
+                    "A N"
+                ],
+                "last": "Vlasova",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Q",
+                "middle": [],
+                "last": "Wang",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "L",
+                "middle": [
+                    "J"
+                ],
+                "last": "Saif",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "(",
+                "middle": [
+                    "D"
+                ],
+                "last": "Marthaler",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "M",
+                "middle": [
+                    "R"
+                ],
+                "last": "Culhane",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "K",
+                "middle": [
+                    "D"
+                ],
+                "last": "Rossow",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "A",
+                "middle": [],
+                "last": "Rovira",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "J",
+                "middle": [],
+                "last": "Collins",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Porcine epidemic diarrhea virus (PEDV), which emerged in the United States in 2013, has spread throughout North America. Limited availability of PEDV complete genomes worldwide has impeded our understanding of PEDV introduction into the United States. To determine the relationship between the North American strains and global emerging and historic PEDV strains, we sequenced and analyzed complete genomes of 74 strains from North America; the strains clustered into 2 distinct clades. Compared with the initially reported virulent US PEDV strains, 7 (9.7%) strains from 4 states contained insertions and deletions in the spike gene (S INDELs). These S INDEL strains share 99.8%-100% nt identity with each other and 96.2%-96.7% nt identity with the initial US strains. Furthermore, the S IN-DEL strains form a distinct cluster within North American clade II, sharing 98.6%-100% nt identity overall. In the United States, the S INDEL and original PEDV strains are cocirculating and could have been introduced simultaneously.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "P orcine epidemic diarrhea virus (PEDV) (family Coronaviridae family, genus alphacoronavirus) has an enveloped, single-stranded, positive-sense RNA genome of \u224828 kb (1). The 5\u2032 two thirds of the genome contains 2 large open reading frames (ORFs), 1a and 1b, that encode 2 nonstructural polyproteins, pp1a and pp1b, that direct genome replication and transcription. The remaining PEDV genome contains ORFs specifying structural and nonstructural proteins in the following order: spike (S), ORF 3, envelope (E), membrane (M) and nucleoprotein (N) (2, 3) .",
+            "cite_spans": [
+                {
+                    "start": 545,
+                    "end": 548,
+                    "text": "(2,",
+                    "ref_id": "BIBREF71"
+                },
+                {
+                    "start": 549,
+                    "end": 551,
+                    "text": "3)",
+                    "ref_id": "BIBREF72"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Porcine epidemic diarrhea (PED) was first documented in the United Kingdom in 1971 as a swine disease resembling transmissible gastroenteritis (4) . In 1978, the etiologic agent of PED was identified in Belgium as a new coronavirus and was designated as PEDV, prototype strain CV777 (1). Within 2 decades, PEDV was reported in several other European countries; Hungary, Italy, Germany, France, Switzerland, and the Czech Republic (5) . Currently, the virus causes only isolated outbreaks in Europe. In Asia, PEDV was first identified in 1982 and is now considered endemic, causing substantial economic losses to pork producers in China, South Korea, Thailand, and Vietnam (5) . However, it was not until 2010 that massive PED outbreaks were reported in China; the outbreaks have been characterized by 80%-100% illness among infected swine herds and a 50%-90% mortality rate among infected suckling piglets (6) (7) (8) .",
+            "cite_spans": [
+                {
+                    "start": 143,
+                    "end": 146,
+                    "text": "(4)",
+                    "ref_id": "BIBREF74"
+                },
+                {
+                    "start": 430,
+                    "end": 433,
+                    "text": "(5)",
+                    "ref_id": "BIBREF75"
+                },
+                {
+                    "start": 672,
+                    "end": 675,
+                    "text": "(5)",
+                    "ref_id": "BIBREF75"
+                },
+                {
+                    "start": 906,
+                    "end": 909,
+                    "text": "(6)",
+                    "ref_id": "BIBREF76"
+                },
+                {
+                    "start": 910,
+                    "end": 913,
+                    "text": "(7)",
+                    "ref_id": "BIBREF77"
+                },
+                {
+                    "start": 914,
+                    "end": 917,
+                    "text": "(8)",
+                    "ref_id": "BIBREF78"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "North America was free of PEDV until its sudden and intense emergence in the United States in April 2013 (9) . Since then, PEDV has spread rapidly across the United States, causing high rates of death among piglets and substantial economic losses (10) (11) (12) . As of July 24, 2014 , PEDV had been reported in 31 US states (13) . In Canada, PEDV was first detected in January 2014 on a pig farm in Ontario Province; since then, the virus has been reported on farms in Manitoba, Prince Edward Island, and Quebec Provinces (14) , continuing its spread throughout North America. There are no official reports of PEDV in Mexico; however, in 2013, the University of Minnesota (UM) Veterinary Diagnostic Laboratory (St. Paul, MN, USA) tested swine samples from Mexico and found them positive for PEDV.",
+            "cite_spans": [
+                {
+                    "start": 105,
+                    "end": 108,
+                    "text": "(9)",
+                    "ref_id": "BIBREF79"
+                },
+                {
+                    "start": 247,
+                    "end": 251,
+                    "text": "(10)",
+                    "ref_id": "BIBREF80"
+                },
+                {
+                    "start": 252,
+                    "end": 256,
+                    "text": "(11)",
+                    "ref_id": "BIBREF81"
+                },
+                {
+                    "start": 257,
+                    "end": 261,
+                    "text": "(12)",
+                    "ref_id": "BIBREF82"
+                },
+                {
+                    "start": 270,
+                    "end": 283,
+                    "text": "July 24, 2014",
+                    "ref_id": "BIBREF83"
+                },
+                {
+                    "start": 312,
+                    "end": 329,
+                    "text": "31 US states (13)",
+                    "ref_id": null
+                },
+                {
+                    "start": 523,
+                    "end": 527,
+                    "text": "(14)",
+                    "ref_id": "BIBREF84"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The complete genomic sequence of the PEDV prototype strain, CV777, was determined in 2001 (15) . A decade later, complete genomes were sequenced for several PEDV strains from China and South Korea (6, 8, (15) (16) (17) (18) (19) (20) (21) (22) . Comparisons of full-length genomes showed that different PEDV strains are more closely related to bat alphacoronaviruses than to other known alphacoronaviruses (23) , suggesting that interspecies transmission of coronavirus may have occurred decades ago between bats and pigs or through an intermediate host.",
+            "cite_spans": [
+                {
+                    "start": 90,
+                    "end": 94,
+                    "text": "(15)",
+                    "ref_id": "BIBREF85"
+                },
+                {
+                    "start": 197,
+                    "end": 200,
+                    "text": "(6,",
+                    "ref_id": "BIBREF76"
+                },
+                {
+                    "start": 201,
+                    "end": 203,
+                    "text": "8,",
+                    "ref_id": "BIBREF78"
+                },
+                {
+                    "start": 204,
+                    "end": 208,
+                    "text": "(15)",
+                    "ref_id": "BIBREF85"
+                },
+                {
+                    "start": 209,
+                    "end": 213,
+                    "text": "(16)",
+                    "ref_id": "BIBREF86"
+                },
+                {
+                    "start": 214,
+                    "end": 218,
+                    "text": "(17)",
+                    "ref_id": "BIBREF87"
+                },
+                {
+                    "start": 219,
+                    "end": 223,
+                    "text": "(18)",
+                    "ref_id": "BIBREF88"
+                },
+                {
+                    "start": 224,
+                    "end": 228,
+                    "text": "(19)",
+                    "ref_id": "BIBREF89"
+                },
+                {
+                    "start": 229,
+                    "end": 233,
+                    "text": "(20)",
+                    "ref_id": "BIBREF90"
+                },
+                {
+                    "start": 234,
+                    "end": 238,
+                    "text": "(21)",
+                    "ref_id": "BIBREF91"
+                },
+                {
+                    "start": 239,
+                    "end": 243,
+                    "text": "(22)",
+                    "ref_id": "BIBREF92"
+                },
+                {
+                    "start": 406,
+                    "end": 410,
+                    "text": "(23)",
+                    "ref_id": "BIBREF93"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Phylogenetic analysis has shown that some PEDV strains that have reported decreased virulence in the field contain distinct insertions and deletions in the S gene (S INDELS). Soon after the emergence of PEDV in the United States, the complete genomes were determined for several strains from Colorado, Minnesota, and Iowa, USA (10, 24, 25) ; these PEDV strains shared \u226599.5% nt identity with strain AH2012 from China, suggesting a common ancestor for that strain and US strains (25, 26) . An additional 43 complete-genome PEDV sequences are now available: 16 from the United States, including a recent PEDV variant from Ohio (OH851) that contains specific S INDELs and was reported with reduced disease severity (27); 23 from China; and 4 from South Korea. In addition, new, complete-genome PEDV sequences are being generated and released almost monthly.",
+            "cite_spans": [
+                {
+                    "start": 327,
+                    "end": 331,
+                    "text": "(10,",
+                    "ref_id": "BIBREF80"
+                },
+                {
+                    "start": 332,
+                    "end": 335,
+                    "text": "24,",
+                    "ref_id": "BIBREF94"
+                },
+                {
+                    "start": 336,
+                    "end": 339,
+                    "text": "25)",
+                    "ref_id": "BIBREF95"
+                },
+                {
+                    "start": 478,
+                    "end": 482,
+                    "text": "(25,",
+                    "ref_id": "BIBREF95"
+                },
+                {
+                    "start": 483,
+                    "end": 486,
+                    "text": "26)",
+                    "ref_id": "BIBREF96"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "A major impediment to understanding the origin, evolution, and diversity of PEDV in the United States is the lack of complete-genome PEDV sequences worldwide. To determine the phylogenetic relationship between the new US strains and the globally emerging and historic PEDV strains, we sequenced and analyzed the complete genomes of 74 strains from North America.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Between May 6, 2013, and February 28, 2014 , porcine intestine, saliva, and feces samples and fecal swab and environment samples (N = 25,762) from North America were submitted to the UM Veterinary Diagnostic Laboratory for detection of PEDV. RNA was extracted from the samples and screened for PEDV by using previously described methods (28, 29) .",
+            "cite_spans": [
+                {
+                    "start": 8,
+                    "end": 24,
+                    "text": "May 6, 2013, and",
+                    "ref_id": null
+                },
+                {
+                    "start": 25,
+                    "end": 42,
+                    "text": "February 28, 2014",
+                    "ref_id": null
+                },
+                {
+                    "start": 337,
+                    "end": 341,
+                    "text": "(28,",
+                    "ref_id": "BIBREF98"
+                },
+                {
+                    "start": 342,
+                    "end": 345,
+                    "text": "29)",
+                    "ref_id": "BIBREF99"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Sample Collection and Processing"
+        },
+        {
+            "text": "A total of 74 PEDV-positive samples (72 from the United States, 2 from Mexico) were randomly selected for complete-genome sequencing. Sequencing and genomic assembly were conducted at the UM Genomic Center, using next-generation sequence technology as previously described (25) . GenBank accession numbers for the PEDV strains are KJ645635-708.",
+            "cite_spans": [
+                {
+                    "start": 273,
+                    "end": 277,
+                    "text": "(25)",
+                    "ref_id": "BIBREF95"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Sequencing and Genome Assembly"
+        },
+        {
+            "text": "We aligned PEDV sequences by using the ClustalW (http://www.clustal.org/clustal2/) method. Phylogenetic trees for the complete genome and each gene segment were constructed by using the maximum-likelihood method with the general time reversible nucleotide substitution model and bootstrap tests of 1,000 replicates in MEGA 6.06 software (30) . The RIP (Recombinant Identification Program; http://www.hiv.lanl.gov/content/sequence/RIP/RIP.html) was used to identify recombination points within the PEDV genome. The RIP analysis parameters were window size of 400 and confidence threshold of 90%.",
+            "cite_spans": [
+                {
+                    "start": 337,
+                    "end": 341,
+                    "text": "(30)",
+                    "ref_id": "BIBREF100"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Phylogenetic Analysis"
+        },
+        {
+            "text": "A phylogenetic tree was constructed on the basis of a multiple sequence alignment of 112 sequences (the 74 PEDV sequences generated from this study and the 38 PEDV sequences available from GenBank). Most of the PEDV strains from the United States shared completegenome nucleotide identities of 98.6%-100% and were distributed between 2 clades within tentative genogroup 2a ( Figure 1 ) (23) . Compared with the initially reported prototype strains from the United States, 7 (9.7%) of the 72 newly identified US strains had an S INDEL. These 7 PEDV strains were from 4 US States, shared 99.8%-100% nt identity with each other and 96.2% nt identity with the prototype North American strains, and formed a separate cluster in clade II. In addition, phylogenetic analysis of the 112 complete PEDV genomes confirmed a recent common ancestor with PEDV strains from China and all PEDV strains from North America, as was suggested previously (25, 26) . Because the choice and number of sequences are known to affect tree topology, we also compared the 112 PEDV complete genomes with 11 bat alphacoronavirus complete genomes as out-group sequences (data not shown) to validate the observed phylogeny of the PEDV strains from the United States. This analysis confirmed the closest recent common ancestor with strain AH2012 from China and PEDV strains from the United States, and it confirmed the presence of the 2 North American clades and the S INDEL cluster from the United States. Of the 4 states with S INDEL strains, Minnesota had the lowest detection rate for these strains (6.9%, 2 of 29 strains), followed by Ohio (14%, 1 of 7 strains); the highest rates were in Iowa (43%, 3 of 7 strains) and Indiana (50%, 1 of 2 strains).",
+            "cite_spans": [
+                {
+                    "start": 386,
+                    "end": 390,
+                    "text": "(23)",
+                    "ref_id": "BIBREF93"
+                },
+                {
+                    "start": 934,
+                    "end": 938,
+                    "text": "(25,",
+                    "ref_id": "BIBREF95"
+                },
+                {
+                    "start": 939,
+                    "end": 942,
+                    "text": "26)",
+                    "ref_id": "BIBREF96"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 375,
+                    "end": 383,
+                    "text": "Figure 1",
+                    "ref_id": null
+                }
+            ],
+            "section": "Phylogenetic Analysis of the Complete Genomes"
+        },
+        {
+            "text": "North American PEDV clade I and clade II were uneven in size (n = 43 and n = 24, respectively) and had unequal representations from the US states; some states were represented in only 1 clade (Table) . The analyzed PEDV strains from Ohio (n = 6) and Illinois (n = 4) belonged to clade I, and the PEDV strains from Oklahoma (n = 3) were grouped within clade II. PEDV strains from Minnesota constituted 42% (18 of 43 strains) of clade I and 37.5% (9 of 24 strains) of clade II, and PEDV strains from Iowa constituted 4.7% (2 of 43 strains) of clade I and 8.3% (2 of 24 strains) of clade II, corresponding with the higher sampling in these 2 states. Two isolates from Mexico, Mexico124 and Mexico104, belonged to clades I and II, respectively.",
+            "cite_spans": [
+                {
+                    "start": 192,
+                    "end": 199,
+                    "text": "(Table)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Phylogenetic Analysis of the Complete Genomes"
+        },
+        {
+            "text": "A comparison of the phylogenetic grouping and temporal distribution of the 74 PEDV strains from North America showed that clade I mostly consisted of strains collected between November and December 2013 (n = 38); only 5 clade I stains were collected during July-October 2013 (Table) . In contrast, 1-6 clade II strains were collected each month throughout the year. The S INDEL strains from the United States were also detected throughout the year (1-2 strains/month). The first S INDEL strain, USA/Indiana12.83/2013, was detected in feeder pigs on June 5, 2013.",
+            "cite_spans": [
+                {
+                    "start": 275,
+                    "end": 282,
+                    "text": "(Table)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Phylogenetic Analysis of the Complete Genomes"
+        },
+        {
+            "text": "The 38 PEDV strains that were not from the United States or Mexico formed 3 distinct branches corresponding to genogroups 1a, 1b, and 2b/R, as previously reported (26) . Other than the S INDELs, a comparison of the complete-genome sequences of all 112 PEDV strains did not show any insertions or deletions that were specific for PEDV strains from the United States; non-S INDEL mutations were represented by single-nucleotide polymorphisms (SNPs).",
+            "cite_spans": [
+                {
+                    "start": 163,
+                    "end": 167,
+                    "text": "(26)",
+                    "ref_id": "BIBREF96"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Phylogenetic Analysis of the Complete Genomes"
+        },
+        {
+            "text": "We also analyzed a phylogenetic tree based on the ORF 1 region of the North American and global PEDV strains (data not shown). We observed 2 identical North American clades that included, as in the complete-genome analysis, all of the strains from the United States and Mexico. The 7 S INDEL strains from the United States grouped together with strain CH/ZMDZY/11 from China but not with strain AH2012 from China, suggesting that molecular signature characteristics of the S INDEL strains are not limited to the specific S INDELS. However, the tentative parent strain, AH2012, clustered together with the non-S INDEL PEDV strains from North America.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Phylogenetic Analysis of ORF 1 Regions"
+        },
+        {
+            "text": "Comparative sequence analysis of the 7 US S INDEL strains showed the presence of 99 specific SNPs in ORF 1b (10 specific to the US S INDEL strains and 89 similar to SNPs in CH/ZMDZY/11) that were not present in the other 80 North American strains. Of the 89 SNPs that were similar to SNPs in CH/ZMDZY, 13 were identical in all 7 S INDEL strains, including USA/Iowa23.57/2013 and USA/Ohio126/2014, which were slightly different from the other 5 S INDEL strains; this finding was also observed in the phylogenetic analysis (online Technical Appendix Table, http://wwwnc.cdc.gov/EID/article/20/10/14-0491-Techapp1.pdf). In addition, among 76 of the 89 specific SNPs that were similar to those in CH/ZMDZY/11, 9 were identical in 6 of the 7 S INDEL strains (excluding USA/ Iowa23.57/2013 and/or USA/Ohio126/2014), 20 were identical in 5 of the 7 S INDELS strains (excluding USA/ Iowa23.57/2013 and USA/Ohio126/2013), and 47 were identical in 6 of the 7 S INDEL strains (excluding USA/ Ohio126/2014); however, these 76 specific SNPs were not found in any other analyzed PEDV strains from North America or in strain AH2012 from China.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 548,
+                    "end": 554,
+                    "text": "Table,",
+                    "ref_id": null
+                }
+            ],
+            "section": "Phylogenetic Analysis of ORF 1 Regions"
+        },
+        {
+            "text": "We conducted S gene phylogenetic analysis on the 112 North American and global PEDV strains ( Figure 2 ). The 7 S INDEL PEDV strains from the United States shared 99.8%-100% nt identity with each other for the entire S gene, and they shared 96.6%-97.1% nt identity with the other 67 PEDV strains from North America. In contrast to findings from the complete-genome analysis, findings from the S gene analysis indicated that strain CH/ZMZDY/11, but not strain AH2012, from China was most closely related to the non-S INDEL PEDV strains from the United States.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 94,
+                    "end": 102,
+                    "text": "Figure 2",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Phylogenetic Analysis of the S Genes"
+        },
+        {
+            "text": "Phylogenetic analysis of the S gene did not show the 2 North American clades observed in the complete-genome analysis. Instead, all 112 analyzed PEDV strains were distributed between just 2 major branches, each of which had several minor sublineages. The first branch contained global PEDV sequences lacking the S INDELs; the second branch contained global PEDV S INDEL strains with US and non-US sublineages. Nucleotide sequence comparison showed that these S INDELs (1-nt, 11-nt, and 3-nt deletions at positions 167, 176, and 416, respectively, and a 6-nt insertion between positions 474 and 475) were identical in the US PEDV strains and global S INDEL strains. Moreover, 104 SNPs were identical in the S1 region (in the first 1,400 nt) of the S gene of the US and most global S INDEL strains.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Phylogenetic Analysis of the S Genes"
+        },
+        {
+            "text": "The remainder of the S1 region and the full S2 region of the S gene shared high nucleotide identity among the US and global PEDV strains. Phylogenetic analysis of these regions showed that S INDEL and non-S INDEL PEDV strains from the United States were most closely related to strain CH/ZMZDY/11, but not to strain AH2012, from China (data not shown).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Phylogenetic Analysis of the S Genes"
+        },
+        {
+            "text": "Phylogenetic analysis of ORF 3 did not show any specific differences between the S INDEL and non-S INDEL PEDV strains from the United States (data not shown). All PEDV strains from North America grouped together, sharing 95.4%-95.7% nt identity. ORF 3 was not an immediate target region in the recent evolution of S INDEL strains in the United States. As determined by ORF 3 sequence analysis, the recent CH/ZMZDY/11 and BJ-2011-1 strains from China were most closely related to the strains from North America, and the remaining global PEDV strains formed several branches separate from the North American strains.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Phylogenetic Analysis of ORF 3 of PEDV Strains from North America"
+        },
+        {
+            "text": "Phylogenetic analyses of the genes for E, M, and N structural proteins showed that all PEDV strains from North America formed a monophyletic branch, sharing 99.5%-100% nt identity, and there were no major differences in these genomic regions (data not shown). The E and M gene phylogenetic analyses showed monophyletic clustering of the strains from North America with some recent strains from China: CH/FJZZ-9/2012 and CH/ FJND-3/2011 for E gene and BJ-2011-1, JS-HZ2012, CH/ ZMZDY/11, CH/FJZZ-9/2012, and AH2012 for M gene. In contrast, the N gene phylogenetic analysis segregated all of the North American strains from the global PEDV strains, and showed a close phylogenetic relationship between the PEDV strains from North America and some of the recent strains from China: CH/FJZZ-9/2012, CH/ FJND-3/2011, BJ-2011-1, AH2012, GD-B, JS-HZ2012, and CH/ZMZDY/11.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Phylogenetic Analysis of E, M, and N Genes"
+        },
+        {
+            "text": "To determine the involvement of recombinant events in evolution of the S INDEL strains from North America, we used RIP to compare strains from North America with the closely related ancestral strains AH2012 and CH/ZM-DZY/11 from China and with the historic S INDEL strain CH/S (Figure 3 ). The highest overall similarity was between non-S INDEL strain USA/Minnesota42/2013 and strain AH2012; similarity was relatively consistent across most of the genome length. The lowest overall similarity was between the North American non-S INDEL strains and CH/S strain. However, sequence similarity in the S gene (excluding the hypervariable S1 region that was identical to that in AH2012) was higher between the non-S IN-DEL strains from the North America and CH/ZMZDY/11; this finding is consistent with the phylogenetic analysis results and indicates the presence of potential recombination breakpoints within the S gene. In contrast, the S INDEL strain USA/Iowa107/2013 appeared to possess a composite genome structure: the ORF 1a region was most similar to that of strain AH2012, the ORF 1b region was substantially more similar to that of strain CH/ZMDZY/11, the S gene S1 region was most similar to that of strain CH/S, and the S2 region was most similar to that of strain CH/ ZMZDY/11. Therefore, the potential recombination breakpoints in the S INDEL strain genome may have been located between ORF 1a and ORF 1b, between S1 and S2, and between ORF 3 and E gene. The 3\u2032 end (E, M, and, N genes) of the S INDEL and non-S INDEL strains from North America was relatively dissimilar to that of the possible parental strains (AH2012 and CH/ZMZDY/11) that were used as background sequences.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 277,
+                    "end": 286,
+                    "text": "(Figure 3",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "Potential Recombinant Origin of the S INDEL Strains"
+        },
+        {
+            "text": "Despite the very recent emergence of PEDV in North America, our findings show substantial genetic heterogeneity among the strains. Our findings also confirm, as postulated by others (25, 26) , that strain AH2012 from China shares an ancestral strain with the non-S INDEL strains in North America. In addition, we observed an increased representation of the clade I strains at the end of 2013, which may reflect the evolution of PEDV in North America.",
+            "cite_spans": [
+                {
+                    "start": 182,
+                    "end": 186,
+                    "text": "(25,",
+                    "ref_id": "BIBREF95"
+                },
+                {
+                    "start": 187,
+                    "end": 190,
+                    "text": "26)",
+                    "ref_id": "BIBREF96"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "These findings raise several questions. First, were there multiple PEDV introductions into North America? Second, were the PEDV S INDEL variants introduced at the same time (April 2013) and are they continuing to cocirculate? Last, do the observed diversity and grouping of PEDV strains from North America represent PEDV evolution within North America, in which S INDEL strains are natural mutants of the originally detected PEDV strains in the United States? The recently identified, dating back to June 5, 2013, S INDEL PEDV strains from the United States possess several distinct molecular traits. These traits create uncertainty regarding the parental strain(s) of these PEDVs and indicate that they could have originated from multiple recombination events before their introduction into the United States. However, none of the potential parental PEDV strains for the origin of the outbreaks in North America has been identified worldwide. Overall, the findings from our phylogenetic and recombination identification analyses did not support the hypothesis of a new PEDV introduction into the United States after April, 2013; instead, our findings highlighted the possibility of multiple parental PEDV strains introduced into North America at the same or similar time.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Emerging Infectious Diseases \u2022 www.cdc.gov/eid \u2022 Vol. 20, No. 10, October 2014 Identical INDELs and SNPs in the highly immunogenic S1 region of the S gene of the global and the US S INDEL PEDV strains may have been generated through a long chain of recombination events or similar evolutionary mechanisms that enabled PEDV to evade the host immune response. Similar evolutionary mechanisms could have resulted in de novo generation of these specific INDELs in each country-specific PEDV pool. In addition, these S INDELs and the associated SNPs in the hypervariable S1 region of the S gene may represent a stable molecular pattern possibly associated with a less virulent phenotype. The reportedly less virulent variant US PEDV strain, OH851, contained these S INDELs and the SNPs in the ORF 1b region (27) . These S INDELs are reportedly associated with decreased virulence and are relatively infrequent (in \u22489.5%-14% of PEDV strains), suggesting that they may also be associated with decreased transmission rates, compared with rates for typical highly virulent PEDV strains. The immunologic cross-protection in pigs between S INDEL and non-S INDEL PEDV strains in the United States is unknown, but in Asia, the historic S INDEL vaccines (CV777 lineage) failed to protect against the virulent PEDV strains that emerged after 2010 (5) . Therefore, whether S INDEL PEDV generation represents a mechanism of adaptation to a partially immune pig population after initial infection with highly virulent non-S INDEL strains is unclear. Most historic PEDV strains from Europe and Asia contain these INDELs/SNPs in their S protein, suggesting that these changes could contribute to their long-time circulation (endemic) in swine populations, potentially causing only mild disease.",
+            "cite_spans": [
+                {
+                    "start": 802,
+                    "end": 806,
+                    "text": "(27)",
+                    "ref_id": "BIBREF97"
+                },
+                {
+                    "start": 1332,
+                    "end": 1335,
+                    "text": "(5)",
+                    "ref_id": "BIBREF75"
+                }
+            ],
+            "ref_spans": [],
+            "section": "1626"
+        },
+        {
+            "text": "The S INDELs and specific SNPs in the PEDV strains from North America appeared in strong association with a distinct pattern of specific SNPs in the ORF 1b region, which shares a common recent ancestor with strain CH/ ZMZDY/11, but the S1 region of the S gene could have been provided by another ancestral strain. A comparison of the complete genome sequences of strain DR13, a virulent PEDV strain from Korea, and its attenuated counterpart showed specific changes in ORFs 1ab and 3 and in S and E genes of the attenuated strain; as a result of these changes, the ORFs and genes in the attenuated strain are shorter than those in the virulent strain (20) . However, in contrast to the findings for the virulent-attenuated DR13 strain pair and the strong evidence of the role of ORF 3 alterations in the pathogenesis of or cell culture adaptation of feline infectious peritonitis virus (31), we did not observe any of the following: characteristic changes in the ORF 3-E gene region, other than S INDELs; a potentially recombinant ORF 1b region; or any reports of decreased severity of PEDV in the field. The higher level of nucleotide conservation of the North American PEDV strains in the E and M genes and greater genetic variability of N gene may be representative of geographic specificity rather than virulence. The mechanisms governing the virulence of PEDV (or coronaviruses in general) may be redundant, or the S INDEL strains may be an intermediate between those of virulent and attenuated PEDVs (e.g., lower virulence).",
+            "cite_spans": [
+                {
+                    "start": 651,
+                    "end": 655,
+                    "text": "(20)",
+                    "ref_id": "BIBREF90"
+                }
+            ],
+            "ref_spans": [],
+            "section": "1626"
+        },
+        {
+            "text": "Our findings provide evidence of the complex and rapid evolution of PEDV strains in North American swine herds. In addition, our findings suggest that the S INDEL strains, which are likely of recombinant origin, may represent complementary PEDV mechanisms that enable the spread and persistence of the virus in swine populations after exposure to highly virulent PEDV strains. This possibility should be confirmed by thoroughly assessing the immune responses to PEDV in the US swine that were sources of the S INDEL PEDV variant strains and by conducting experimental pig inoculation and cross-protection studies. Active epidemiologic surveillance and immunologic studies are urgently needed to understand PEDV evolution worldwide and to develop optimal PEDV vaccines.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "1626"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Phylogeny and spatiotemporal distribution of porcine epidemic diarrhea virus strains detected in North America",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Table",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF70": {
+            "ref_id": "b70",
+            "title": "insertions and deletions in the spike gene. References 1. Pensaert MB, de Bouck P. A new coronavirus-like particle associated with diarrhea in swine",
+            "authors": [
+                {
+                    "first": "*s",
+                    "middle": [],
+                    "last": "Indel",
+                    "suffix": ""
+                }
+            ],
+            "year": 1978,
+            "venue": "Arch Virol",
+            "volume": "58",
+            "issn": "",
+            "pages": "243--250",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/BF01317606"
+                ]
+            }
+        },
+        "BIBREF71": {
+            "ref_id": "b71",
+            "title": "Sequence of the spike protein of the porcine epidemic diarrhoea virus",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Duarte",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Laude",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "J Gen Virol",
+            "volume": "75",
+            "issn": "",
+            "pages": "1195--200",
+            "other_ids": {
+                "DOI": [
+                    "10.1099/0022-1317-75-5-1195"
+                ]
+            }
+        },
+        "BIBREF72": {
+            "ref_id": "b72",
+            "title": "Identification of coronaviral conserved sequences and application to viral genome amplification",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bridgen",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Tobler",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ackermann",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF74": {
+            "ref_id": "b74",
+            "title": "An apparently new syndrome of porcine epidemic diarrhoea",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Wood",
+                    "suffix": ""
+                }
+            ],
+            "year": 1977,
+            "venue": "Vet Rec",
+            "volume": "100",
+            "issn": "",
+            "pages": "243--247",
+            "other_ids": {
+                "DOI": [
+                    "10.1136/vr.100.12.243"
+                ]
+            }
+        },
+        "BIBREF75": {
+            "ref_id": "b75",
+            "title": "Porcine epidemic diarrhoea virus: a comprehensive review of molecular epidemiology, diagnosis, and vaccines",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Song",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Park",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Virus Genes",
+            "volume": "44",
+            "issn": "",
+            "pages": "167--75",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s11262-012-0713-1"
+                ]
+            }
+        },
+        "BIBREF76": {
+            "ref_id": "b76",
+            "title": "Complete genome sequence of a highly prevalent isolate of porcine epidemic diarrhea virus in South China",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Luo",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Deng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Ye",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Liao",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Fan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "J Virol",
+            "volume": "86",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.01455-12"
+                ]
+            }
+        },
+        "BIBREF77": {
+            "ref_id": "b77",
+            "title": "Phylogenetic analysis of porcine epidemic diarrhea virus field strains prevailing recently in China",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Kou",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Ge",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Guo",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Arch Virol",
+            "volume": "158",
+            "issn": "",
+            "pages": "711--716",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s00705-012-1541-2"
+                ]
+            }
+        },
+        "BIBREF78": {
+            "ref_id": "b78",
+            "title": "Complete genome sequence of a novel porcine epidemic diarrhea virus in south China",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Fan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Ye",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Tong",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Xie",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Liao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "J Virol",
+            "volume": "86",
+            "issn": "",
+            "pages": "10248--10257",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.01589-12"
+                ]
+            }
+        },
+        "BIBREF79": {
+            "ref_id": "b79",
+            "title": "Emergence of Porcine Epidemic Diarrhea Virus in the United States: clinical signs, lesions, and viral genomic sequences",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Stevenson",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Hoang",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Schwartz",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Burrough",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Madson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "J Vet Diagn Invest",
+            "volume": "25",
+            "issn": "",
+            "pages": "649--54",
+            "other_ids": {
+                "DOI": [
+                    "10.1177/1040638713501675"
+                ]
+            }
+        },
+        "BIBREF80": {
+            "ref_id": "b80",
+            "title": "Isolation and characterization of porcine epidemic diarrhea viruses associated with the 2013 disease outbreak among swine in the United States",
+            "authors": [
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Stasko",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Thomas",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Stensland",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Pillatzki",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "J Clin Microbiol",
+            "volume": "52",
+            "issn": "",
+            "pages": "234--277",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JCM.02820-13"
+                ]
+            }
+        },
+        "BIBREF81": {
+            "ref_id": "b81",
+            "title": "Viral disease affects US pigs: porcine epidemic diarrhea found in at least 11 states",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Cima",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "J Am Vet Med Assoc",
+            "volume": "243",
+            "issn": "",
+            "pages": "30--31",
+            "other_ids": {}
+        },
+        "BIBREF82": {
+            "ref_id": "b82",
+            "title": "Deadly pig virus slips through US borders",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Mole",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Nature",
+            "volume": "499",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/499388a"
+                ]
+            }
+        },
+        "BIBREF83": {
+            "ref_id": "b83",
+            "title": "United States Department of Agriculture, Animal and Plant Health Inspection Service, Veterinary Services. Swine enteric coronavirus disease testing summary report",
+            "authors": [],
+            "year": 2014,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF84": {
+            "ref_id": "b84",
+            "title": "Canadian Swine Health Board. Porcine epidemic diarrhea (PED) Alert",
+            "authors": [],
+            "year": 2014,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF85": {
+            "ref_id": "b85",
+            "title": "Completion of the porcine epidemic diarrhoea coronavirus (PEDV) genome sequence",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Kocherhans",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bridgen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ackermann",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Tobler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Virus Genes",
+            "volume": "23",
+            "issn": "",
+            "pages": "137--181",
+            "other_ids": {
+                "DOI": [
+                    "10.1023/A:1011831902219"
+                ]
+            }
+        },
+        "BIBREF86": {
+            "ref_id": "b86",
+            "title": "Complete genome sequence of a porcine epidemic diarrhea virus variant",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Feng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "J Virol",
+            "volume": "86",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.07150-11"
+                ]
+            }
+        },
+        "BIBREF87": {
+            "ref_id": "b87",
+            "title": "Complete genome sequence of a Chinese virulent porcine epidemic diarrhea virus strain",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Qiu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "J Virol",
+            "volume": "85",
+            "issn": "",
+            "pages": "11538--11547",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.06024-11"
+                ]
+            }
+        },
+        "BIBREF88": {
+            "ref_id": "b88",
+            "title": "Complete genome sequence of a recombinant porcine epidemic diarrhea virus strain from eastern China",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "He",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Guo",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Ni",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Du",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Genome Announc",
+            "volume": "1",
+            "issn": "",
+            "pages": "105--118",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/genomeA.00105-13"
+                ]
+            }
+        },
+        "BIBREF89": {
+            "ref_id": "b89",
+            "title": "Complete genome sequence of a very virulent porcine epidemic diarrhea virus strain, CH/GDGZ/2012, isolated in southern China",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Tian",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Su",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "He",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Genome Announc",
+            "volume": "1",
+            "issn": "",
+            "pages": "645--658",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/genomeA.00645-13"
+                ]
+            }
+        },
+        "BIBREF90": {
+            "ref_id": "b90",
+            "title": "Complete genome sequences of a Korean virulent porcine epidemic diarrhea virus and its attenuated counterpart",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Park",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Song",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "An",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Park",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "J Virol",
+            "volume": "86",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.00557-12"
+                ]
+            }
+        },
+        "BIBREF91": {
+            "ref_id": "b91",
+            "title": "Complete genome sequence of a variant porcine epidemic diarrhea virus strain isolated in central China",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Niu",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Gao",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Huo",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Genome Announc",
+            "volume": "1",
+            "issn": "",
+            "pages": "243--255",
+            "other_ids": {}
+        },
+        "BIBREF92": {
+            "ref_id": "b92",
+            "title": "Complete genome sequence of novel porcine epidemic diarrhea virus strain GD-1 in China",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Wei",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Mo",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Zeng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Zeng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "J Virol",
+            "volume": "86",
+            "issn": "",
+            "pages": "13824--13829",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.02615-12"
+                ]
+            }
+        },
+        "BIBREF93": {
+            "ref_id": "b93",
+            "title": "Prevalence and genetic diversity of coronaviruses in bats from China",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Tang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "X"
+                    ],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Fan",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J Virol",
+            "volume": "80",
+            "issn": "",
+            "pages": "7481--90",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.00697-06"
+                ]
+            }
+        },
+        "BIBREF94": {
+            "ref_id": "b94",
+            "title": "Full-length genome sequence of a plaque-cloned virulent porcine epidemic diarrhea virus isolate (USA/Iowa/18984/2013) from a midwestern US swine herd",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Hoang",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Killian",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Madson",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Arruda",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Schwartz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Genome Announc",
+            "volume": "1",
+            "issn": "",
+            "pages": "1049--1062",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/genomeA.01049-13"
+                ]
+            }
+        },
+        "BIBREF95": {
+            "ref_id": "b95",
+            "title": "Complete genome sequence of porcine epidemic diarrhea virus strain USA/Colorado/2013 from the United States",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Marthaler",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Otterson",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Goyal",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Rossow",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Collins",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Genome Announc",
+            "volume": "1",
+            "issn": "",
+            "pages": "555--568",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/genomeA.00555-13"
+                ]
+            }
+        },
+        "BIBREF96": {
+            "ref_id": "b96",
+            "title": "Origin, evolution, and genotyping of emergent porcine epidemic diarrhea virus strains in the United States",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Dickerman",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Pineyro",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Fang",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Kiehne",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "MBio",
+            "volume": "4",
+            "issn": "",
+            "pages": "737--750",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/mBio.00737-13"
+                ]
+            }
+        },
+        "BIBREF97": {
+            "ref_id": "b97",
+            "title": "New variant of porcine epidemic diarrhea virus",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Byrum",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Emerg Infect Dis",
+            "volume": "20",
+            "issn": "",
+            "pages": "917--926",
+            "other_ids": {
+                "DOI": [
+                    "10.3201/eid2005.140195"
+                ]
+            }
+        },
+        "BIBREF98": {
+            "ref_id": "b98",
+            "title": "Identification, phylogenetic analysis and classification of porcine group C rotavirus VP7 sequences from the United States and Canada",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Marthaler",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Rossow",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Culhane",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Collins",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Goyal",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ciarlet",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Virology",
+            "volume": "446",
+            "issn": "",
+            "pages": "189--98",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.virol.2013.08.001"
+                ]
+            }
+        },
+        "BIBREF99": {
+            "ref_id": "b99",
+            "title": "Detection of substantial porcine group B rotavirus genetic diversity in the United States, resulting in a modified classification proposal for G genotypes",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Marthaler",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Rossow",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Gramer",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Collins",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Goyal",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Tsunemitsu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Virology",
+            "volume": "433",
+            "issn": "",
+            "pages": "85--96",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.virol.2012.07.006"
+                ]
+            }
+        },
+        "BIBREF100": {
+            "ref_id": "b100",
+            "title": "MEGA6: Molecular Evolutionary Genetics Analysis version 6.0",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Tamura",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Stecher",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Peterson",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Filipski",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kumar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Mol Biol Evol",
+            "volume": "30",
+            "issn": "",
+            "pages": "2725--2734",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/molbev/mst197"
+                ]
+            }
+        },
+        "BIBREF101": {
+            "ref_id": "b101",
+            "title": "Molecular characterization of feline infectious peritonitis virus strain DF-2 and studies of the role of ORF3abc in viral cell tropism",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "B\u00e1lint",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Farsang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Zadori",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Hornyak",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Dencso",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Almazan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "J Virol",
+            "volume": "86",
+            "issn": "",
+            "pages": "6258--67",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVI.00189-12"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Phylogenetic tree based on the spike gene (S) sequence of 112 North American porcine epidemic diarrhea virus strains. Blue represents US non-S INDEL strains; red represents US S INDEL strains; brown represents Mexican strains; purple represents worldwide non-S INDEL strains; and pink represents global S INDEL strains. Bootstrap values are represented at key nodes. Scale bar indicates nucleotide substitutions per site. CH, China; IA, Iowa; S INDEL, insertions and deletions in the spike gene; IN, Indiana; ISU, Iowa State University; MEX, Mexico; MN, Minnesota; USA, United States of America.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Identification of US porcine epidemic diarrhea virus (PEDV) strains with insertions and deletions in the spike gene as potential recombinant strains. At each position of the window, the query sequence USA/Iowa107/2013 (A) or USA/Minnesota42/2013 (B) was compared with background sequences for 3 strains from China (CH/ZMZDY/11, CH/s, and AH2012). The x-axis represents the length of the PEDV genome, and the y-axis represents the similarity value. The red line represents PEDV strain CH/ZMDZY/11, the green line represents CH/S, and the blue line represents AH2012. When the query sequence is similar to the background sequence(s), the homologous regions are indicated as thick dashed lines (of the corresponding color) on the top of the plot. Arrows represent potential recombination breakpoints.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "1622EmergingInfectious Diseases \u2022 www.cdc.gov/eid \u2022 Vol. 20, No. 10, October 2014 Figure 1. Phylogenetic tree based on complete genome sequences of 112 North American porcine epidemic diarrhea virus strains. Blue represents US non-S INDEL strains; red represents US S INDEL strains; brown represents Mexican strains; purple represents worldwide non-S INDEL strains; and pink represents global S INDEL strains. Bootstrap values are represented at key nodes. Scale bar indicates nucleotide substitutions per site. CH, China; IA, Iowa; S INDEL, insertions and deletions in the spike gene; IN, Indiana; ISU, Iowa State University; MEX, Mexico; MN, Minnesota; USA, United States of America.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "We thank the staff of the UM Veterinary Diagnostic Laboratory for technical assistance.Funding was provided by the Rapid Agricultural Response Fund, established by the Minnesota legislature and administered by the UM Agricultural Experiment Station; the UM Veterinary Diagnostic Laboratory; and the National Pork Board (grant no. .Dr Vlasova is a research scientist at The Ohio State University. Her primary research interest is the use of a gnotobiotic pig model to focus on viral epidemiology, vaccine development, gut microbiome and probiotic effects on immunity, and innate immune responses to enteric viral infections. Dr Marthaler is a scientist at the University of Minnesota. His primary research interests are the epidemiology and phylogenetic analysis of porcine enteric viruses.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgment"
+        }
+    ]
+}
