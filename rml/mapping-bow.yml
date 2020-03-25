@@ -1,0 +1,28 @@
+prefixes:
+  covid: "http://idlab.github.io/covid19#"
+  bibo: "http://purl.org/ontology/bibo/"
+  fabrio: "http://purl.org/spar/fabio/"
+  pro: "http://purl.org/spar/pro/"
+  foaf: "http://xmlns.com/foaf/spec/"
+  org: "http://www.w3.org/ns/org#"
+  gn: "http://www.geonames.org/ontology#"
+  dbo: "http://dbpedia.org/ontology/"
+  dbr: "http://dbpedia.org/resource/"
+  dcterms: "http://purl.org/dc/terms/"
+  doi: "http://dx.doi.org/"
+
+
+mappings:
+  Bow:
+    sources:
+      - ['bow.json~jsonpath', '$[*]']
+    s: doi:$(doi)
+    po:
+      - [a, fabrio:work]
+      - [dcterms:identifier, covid:$(sha)~iri]
+      - [covid:hasWords,$(title)]
+      - [covid:wordsInTitle, $(title)]
+      - [covid:hasWords,$(abstract)]
+      - [covid:wordsInAbstract, $(abstract)]
+      - [covid:hasWords,$(body)]
+      - [covid:wordsInBody, $(body)]
