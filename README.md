@@ -13,4 +13,27 @@ Run `python3 scripts/map_entities.py <INPUT_DIR> <OUTPUT_DIR>` to generate diffe
 
 ## Running RML
 
+![The RML Ecosystem](images/rml.png "RML Ecosystem")
+
+## Linked Data Fragments endpoint
+
+We are hosting an endpoint that can be used for querying [here](https://query-covid19.linkeddatafragments.org/). The corresponding repository for this can be found [here](https://github.com/rubensworks/covid19-web-query-client).
+
+![The Linked Data Fragment Client](images/ldf.png "The Linked Data Fragment Client")
+
 ## Knowledge Graph Applications
+
+# Acknowledgements
+
+This has been a collaboration between a lot of people:
+* [Bram Steenwinckel](https://bsteenwi.github.io/)
+* [Pieter Heyvaert](https://pieterheyvaert.com/)
+* Michael Weyns
+* Anastasia Dimou
+* [Pieter Colpaert](https://pietercolpaert.be/)
+* [Ruben Taelman](https://www.rubensworks.net/)
+* Ruben Dedecker
+* [Dylan Van Assche](https://www.dylanvanassche.be/)
+* Femke Ongenae
+
+![IDLab, UGent -- imec](images/idlab.png "IDLab, UGent -- imec")
