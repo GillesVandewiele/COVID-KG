@@ -3,6 +3,7 @@
 | Section | Description |
 |-|-|
 | [Installing](#installing-the-requirements) | Installing the requirements |
+| [Downloading](#downloading-the-data) | Downloading the data |
 | [Preparing](#preparing-the-jsons) | Preparing the JSONs |
 | [Running](#running-rml) | Running RML |
 | [Querying](#linked-data-fragments-endpoint) | Linked Data Fragments endpoint |
@@ -26,10 +27,21 @@ Further, to run RML, you will need:
 * to have a recent version of Node.js and install the following dependency: `npm i @rmlio/yarrrml-parser -g`
 * a recent Java version, and [RMLMapper](https://github.com/RMLio/rmlmapper-java)
 
+## Downloading the data
+
+The dataset can be retrieved from [Kaggle](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge). After downloading the dataset, re-arrange the files to have the following directory structure:
+```
+data
+|-metadata.csv
+|-papers
+  |-<PAPER_1>.json
+  |-...
+  |-<PAPER_N>.json
+```
 
 ## Preparing the JSONs
 
-### Create a sample dataset
+### Create a sample dataset (OPTIONAL)
 Make sure you have a directory called `sample` with a `papers` directory in there. Then run `python3 scripts/generate_sample_data`.
 
 ### Create bag of words of the content
