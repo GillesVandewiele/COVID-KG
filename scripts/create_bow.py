@@ -16,6 +16,9 @@ from sklearn.feature_extraction.text import CountVectorizer
 import nltk
 from nltk.corpus import stopwords
 
+import warnings
+warnings.filterwarnings('ignore')
+
 DATA_DIR = sys.argv[1]
 OUTPUT_DIR = sys.argv[2]
 
