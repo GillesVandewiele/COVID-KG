@@ -50,17 +50,47 @@ To create a bag of words for title, abstract and body, run `python3 scripts/crea
 ### Mapping the string representations to known resources
 Run `python3 scripts/map_entities.py <INPUT_DIR> <OUTPUT_DIR>` to generate different pickled dictionaries with the following structure: `{string: URI}`.
 
+Run `python3 scripts/get_db_resources.py <INPUT_DIR> <OUTPUT_DIR>` to get the dbpedia ntriple files of the known resources. The <INPUT_DIR> is usually the previous script <OUTPUT_DIR>.
+
+### Change the json representation and add links to known resources
+To add the information of the known resources in the paper's json representation, run `python3 scripts/ountry_institution_json.py <INPUT_DIR> <PICKLE_DIR> <OUTPUT_DIR>`. Iteratively, this script will add the country and institution external links to the json dictionaries of all files in the INPUT_DIR.
+
+### Change the metadata csv and add links to known resources
+To add the external links to the metadata.csv file run `python3 scripts/csv_transform.py <INPUT_DIR> <PICKLE_DIR> <OUTPUT_DIR>`. This script will add an additional column with the journal dbpedia link.
+
 ## Running RML
 
 <p align="center">
   <img src="images/rml.png">
 </p>
 
-After preparing the JSONs, we can convert them to RDF using RML. To do this, run:
+After preparing the JSONs, we can convert them to RDF using RML. 
+The `python3 scripts/loop.py <INPUT_DIR> <JOBS>` script shows how this transformation can be performed in python, using external commands:
 ```
 yarrrml-parser -i rules.yml -o rules.rml.ttl
 java -jar /path/to/rmlmapper.jar -m rules.rml.ttl
 ``` 
+
+In this script, all json files from the INPUT_DIR are first copied to the tmp/ folder. This is the source entrypoint defined by our yarrrml script. You can change this location by changing the sources in the `rule.yml` file.
+This conversion can be exectued in parallel and the <JOBS> parameter is defined to indicute how many thread can be used at the same time.
+  
+Analogue, the metadata.csv and bow.json can be transformed to RDF by using the corresponding yml files in the RML folder.
+```
+yarrrml-parser -i mapping-csv.yml -o csv.rml.ttl
+java -jar /path/to/rmlmapper.jar -m csv.rml.ttl -o <DIR>/metadata.nt
+```
+
+```
+yarrrml-parser -i mapping-bow.yml -o csv.rml.ttl
+java -jar /path/to/rmlmapper.jar -m csv.rml.ttl -o <DIR>bow.nt
+``` 
+
+### Create KG
+Executing all these rmlmapper commands result in a large set of `.nt` files. All of them were combined in one sigle file to represent the KG.
+Simply concat them using the following bash command:
+```
+for i in *.nt;do cat $i >> kg.nt;done
+```
 
 ## Linked Data Fragments endpoint
 
