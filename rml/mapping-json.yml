@@ -13,6 +13,7 @@ prefixes:
   idlab-fn: "http://example.com/idlab/function/"
   fabio: "http://purl.org/spar/fabio/"
   frbr: "http://purl.org/vocab/frbr/core#"
+  frapo: "http://purl.org/cerif/frapo/"
 
 mappings:
   Realization:
@@ -23,6 +24,7 @@ mappings:
       - [a, fabrio:work]
       - [dcterms:title, $(metadata.title)]
       - [bibo:abstract, "$(abstract[0].text)"]
+      - [bibo:text, "$(full_text)"]
       - p: pro:PublishingRole
         o:
           mapping: Authors
@@ -39,6 +41,8 @@ mappings:
       - [a, foaf:Person]
       - [foaf:surname, $(last)]
       - [foaf:firstName, $(first)]
+      - [covid:orderInPaper, $(author_number)]
+      - [frapo:isEmployedBy, $(db_institution)~iri]
       - p: org:memberOf
         o:
           mapping: Affiliation
@@ -56,7 +60,7 @@ mappings:
       - [a, org:Organization]
       - [org:hasUnit, $(affiliation.laboratory)]
       - [gn:postalCode, $(affiliation.location.postcode)]
-      - [dbo:country, dbr:$(affiliation.location.country)~iri]
+      - [dbo:country, $(db_country)~iri]
       - [dbo:city, dbr:$(affiliation.location.settlement)~iri]
 
   Citations:
