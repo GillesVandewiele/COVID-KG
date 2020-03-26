@@ -1,5 +1,5 @@
 prefixes:
-  covid: "http://IBCNServices.github.io/covid19#"
+  covid: "http://idlab.github.io/covid19#"
   bibo: "http://purl.org/ontology/bibo/"
   fabrio: "http://purl.org/spar/fabio/"
   pro: "http://purl.org/spar/pro/"
@@ -13,13 +13,14 @@ prefixes:
   idlab-fn: "http://example.com/idlab/function/"
   fabio: "http://purl.org/spar/fabio/"
   frbr: "http://purl.org/vocab/frbr/core#"
+  rico: "https://www.ica.org/standards/RiC/ontology#"
 
 mappings:
   Paper:
     source:
-      - ['../all_sources_metadata_2020-03-13.csv~csv']
+      - ['meta_journal_update.csv~csv']
     s: http://dx.doi.org/$(doi)
     po:
       - [a, fabio:ResearchPaper]
-      - [frbr:realization, covid:$(sha)]
-            
+      - [frbr:realization, covid:$(sha)~iri]
+      - [rico:publishedBy, $(journal_uri)]
