@@ -3,7 +3,7 @@ prefixes:
   bibo: "http://purl.org/ontology/bibo/"
   fabrio: "http://purl.org/spar/fabio/"
   pro: "http://purl.org/spar/pro/"
-  foaf: "http://xmlns.com/foaf/spec/"
+  foaf: "http://xmlns.com/foaf/0.1/"
   org: "http://www.w3.org/ns/org#"
   gn: "http://www.geonames.org/ontology#"
   dbo: "http://dbpedia.org/ontology/"
@@ -14,61 +14,311 @@ prefixes:
   fabio: "http://purl.org/spar/fabio/"
   frbr: "http://purl.org/vocab/frbr/core#"
   frapo: "http://purl.org/cerif/frapo/"
+  idlab-fn: "http://example.com/idlab/function/"
+  rico: "https://www.ica.org/standards/RiC/ontology#"
+  dcterms: "http://purl.org/dc/terms/"
 
 mappings:
   Realization:
     sources:
       - ['tmp/transform_data.json~jsonpath', '$']
-    s: covid:$(paper_id)
+    s:
+      function: grel:array_join
+      parameters:
+        - [grel:p_array_a, "http://dx.doi.org/"]
+        - [grel:p_array_a, "$(doi)"]
     po:
-      - [a, fabrio:work]
-      - [dcterms:title, $(metadata.title)]
-      - [bibo:abstract, "$(abstract[0].text)"]
-      - [bibo:text, "$(full_text)"]
-      - p: pro:PublishingRole
+      - [a, fabio:Work]
+      - p: a
         o:
-          mapping: Authors
-      - p: cito:cites
-        o:
-          mapping: Citations
+          - function: idlab-fn:decide
+            parameters:
+             - [idlab-fn:str, $(type)]
+             - [idlab-fn:expectedStr, "journal-article"]
+             - [idlab-fn:result, fabio:JournalArticle]
 
-  Authors:
+      - p: a
+        o:
+          - function: idlab-fn:decide
+            parameters:
+             - [idlab-fn:str, $(type)]
+             - [idlab-fn:expectedStr, "book-set"]
+             - [idlab-fn:result, fabio:BookSet]
+
+      - p: a
+        o:
+          - function: idlab-fn:decide
+            parameters:
+             - [idlab-fn:str, $(type)]
+             - [idlab-fn:expectedStr, "book"]
+             - [idlab-fn:result, fabio:Book]
+
+      - p: a
+        o:
+          - function: idlab-fn:decide
+            parameters:
+             - [idlab-fn:str, $(type)]
+             - [idlab-fn:expectedStr, "dataset"]
+             - [idlab-fn:result, fabio:Dataset]
+
+      - p: a
+        o:
+          - function: idlab-fn:decide
+            parameters:
+             - [idlab-fn:str, $(type)]
+             - [idlab-fn:expectedStr, "reference-book"]
+             - [idlab-fn:result, fabio:ReferenceWork]
+
+      - p: a
+        o:
+          - function: idlab-fn:decide
+            parameters:
+             - [idlab-fn:str, $(type)]
+             - [idlab-fn:expectedStr, "journal"]
+             - [idlab-fn:result, fabio:Journal]
+
+      - p: a
+        o:
+          - function: idlab-fn:decide
+            parameters:
+             - [idlab-fn:str, $(type)]
+             - [idlab-fn:expectedStr, "proceedings-article"]
+             - [idlab-fn:result, fabio:ProceedingsPaper]
+      - p: a
+        o:
+          - function: idlab-fn:decide
+            parameters:
+             - [idlab-fn:str, $(type)]
+             - [idlab-fn:expectedStr, "proceedings"]
+             - [idlab-fn:result, fabio:ConferenceProceedings]
+
+      - p: a
+        o:
+          - function: idlab-fn:decide
+            parameters:
+             - [idlab-fn:str, $(type)]
+             - [idlab-fn:expectedStr, "book-chapter"]
+             - [idlab-fn:result, fabio:BookChapter]
+
+      - p: a
+        o:
+          - function: idlab-fn:decide
+            parameters:
+             - [idlab-fn:str, $(type)]
+             - [idlab-fn:expectedStr, "dissertation"]
+             - [idlab-fn:result, fabio:Thesis]
+
+      - p: a
+        o:
+          - function: idlab-fn:decide
+            parameters:
+             - [idlab-fn:str, $(type)]
+             - [idlab-fn:expectedStr, "reference-entry"]
+             - [idlab-fn:result, fabio:ReferenceWork]
+
+      - p: a
+        o:
+          - function: idlab-fn:decide
+            parameters:
+             - [idlab-fn:str, $(type)]
+             - [idlab-fn:expectedStr, "book-series"]
+             - [idlab-fn:result, fabio:BookSeries]
+
+      - p: a
+        o:
+          - function: idlab-fn:decide
+            parameters:
+             - [idlab-fn:str, $(type)]
+             - [idlab-fn:expectedStr, "peer-review"]
+             - [idlab-fn:result, fabio:ReviewPaper]
+
+      - p: covid:hasConcept
+        o:
+          mapping: title_spot
+
+      - p: covid:hasConcept
+        o:
+          mapping: body_spot
+
+      - p: covid:hasConcept
+        o:
+          mapping: abstract_spot
+
+      - p: covid:hasConcept
+        o:
+          mapping: back_spot
+
+      - [rico:publishedBy, $(publisher_spot)~iri]
+
+      - p: pro:creator
+        o:
+          mapping: authors
+
+      - [dcterms:identifier, $(paper_id)]
+
+
+  authors:
     sources:
-      - ['tmp/transform_data.json~jsonpath','$.metadata.authors[*]']
-    s: covid:$(first).$(last)
+      - ['tmp/transform_data.json~jsonpath', '$.metadata.authors[*]']
+
+    s: $(orcid)
     po:
-      - [a, pro:author]
       - [a, foaf:Person]
       - [foaf:surname, $(last)]
       - [foaf:firstName, $(first)]
-      - [covid:orderInPaper, $(author_number)]
-      - [frapo:isEmployedBy, $(db_institution)~iri]
       - p: org:memberOf
         o:
-          mapping: Affiliation
+          mapping: affiliation
           condition:
             function: equal
             parameters:
-              - [str1, $(last first), s]
-              - [str2, $(last first), o]
+              - [str1, $(orcid), s]
+              - [str2, $(orcid), o]
 
-  Affiliation:
+  affiliation:
     source:
       - ['tmp/transform_data.json~jsonpath','$.metadata.authors[*]']
     s: covid:$(affiliation.institution)
     po:
       - [a, org:Organization]
-      - [org:hasUnit, $(affiliation.laboratory)]
-      - [gn:postalCode, $(affiliation.location.postcode)]
-      - [dbo:country, $(db_country)~iri]
-      - [dbo:city, dbr:$(affiliation.location.settlement)~iri]
+      - [dbo:country, $(affiliation.location.country_spot)~iri]
+      - [dbo:country, dbr:$(affiliation.location.country)~iri]
+      - [dbo:city, $(affiliation.location.settlement_spot)~iri]
+
+  title_spot:
+    sources:
+      - ['tmp/transform_data.json~jsonpath', '$.metadata.title_spot[*]']
+    s: $(resource)
+
+  body_spot:
+    sources:
+      - ['tmp/transform_data.json~jsonpath', '$.body_text[*].text_spot[*]']
+    s: $(resource)
+
+  abstract_spot:
+    sources:
+      - ['tmp/transform_data.json~jsonpath', '$.abstract[*].text_spot[*]']
+    s: $(resource)
+
+  back_spot:
+    sources:
+      - ['tmp/transform_data.json~jsonpath', '$.back_matter[*].text_spot[*]']
+    s: $(resource)
+
 
   Citations:
     source:
       - ['tmp/transform_data.json~jsonpath','$.bib_entries[*]']
-    s: http://dx.doi.org/$(other_ids.DOI[0])
+    s:
+      function: grel:array_join
+      parameters:
+        - [grel:p_array_a, "http://dx.doi.org/"]
+        - [grel:p_array_a, "$(doi)"]
+
     po:
-      - [a, fabrio:work]
+      - [a, fabio:Work]
+      - p: a
+        o:
+          - function: idlab-fn:decide
+            parameters:
+             - [idlab-fn:str, $(type)]
+             - [idlab-fn:expectedStr, "journal-article"]
+             - [idlab-fn:result, fabio:JournalArticle]
+
+      - p: a
+        o:
+          - function: idlab-fn:decide
+            parameters:
+             - [idlab-fn:str, $(type)]
+             - [idlab-fn:expectedStr, "book-set"]
+             - [idlab-fn:result, fabio:BookSet]
+
+      - p: a
+        o:
+          - function: idlab-fn:decide
+            parameters:
+             - [idlab-fn:str, $(type)]
+             - [idlab-fn:expectedStr, "book"]
+             - [idlab-fn:result, fabio:Book]
+
+      - p: a
+        o:
+          - function: idlab-fn:decide
+            parameters:
+             - [idlab-fn:str, $(type)]
+             - [idlab-fn:expectedStr, "dataset"]
+             - [idlab-fn:result, fabio:Dataset]
+
+      - p: a
+        o:
+          - function: idlab-fn:decide
+            parameters:
+             - [idlab-fn:str, $(type)]
+             - [idlab-fn:expectedStr, "reference-book"]
+             - [idlab-fn:result, fabio:ReferenceWork]
+
+      - p: a
+        o:
+          - function: idlab-fn:decide
+            parameters:
+             - [idlab-fn:str, $(type)]
+             - [idlab-fn:expectedStr, "journal"]
+             - [idlab-fn:result, fabio:Journal]
+
+      - p: a
+        o:
+          - function: idlab-fn:decide
+            parameters:
+             - [idlab-fn:str, $(type)]
+             - [idlab-fn:expectedStr, "proceedings-article"]
+             - [idlab-fn:result, fabio:ProceedingsPaper]
+      - p: a
+        o:
+          - function: idlab-fn:decide
+            parameters:
+             - [idlab-fn:str, $(type)]
+             - [idlab-fn:expectedStr, "proceedings"]
+             - [idlab-fn:result, fabio:ConferenceProceedings]
+
+      - p: a
+        o:
+          - function: idlab-fn:decide
+            parameters:
+             - [idlab-fn:str, $(type)]
+             - [idlab-fn:expectedStr, "book-chapter"]
+             - [idlab-fn:result, fabio:BookChapter]
+
+      - p: a
+        o:
+          - function: idlab-fn:decide
+            parameters:
+             - [idlab-fn:str, $(type)]
+             - [idlab-fn:expectedStr, "dissertation"]
+             - [idlab-fn:result, fabio:Thesis]
+
+      - p: a
+        o:
+          - function: idlab-fn:decide
+            parameters:
+             - [idlab-fn:str, $(type)]
+             - [idlab-fn:expectedStr, "reference-entry"]
+             - [idlab-fn:result, fabio:ReferenceWork]
+
+      - p: a
+        o:
+          - function: idlab-fn:decide
+            parameters:
+             - [idlab-fn:str, $(type)]
+             - [idlab-fn:expectedStr, "book-series"]
+             - [idlab-fn:result, fabio:BookSeries]
+
+      - p: a
+        o:
+          - function: idlab-fn:decide
+            parameters:
+             - [idlab-fn:str, $(type)]
+             - [idlab-fn:expectedStr, "peer-review"]
+             - [idlab-fn:result, fabio:ReviewPaper]
       - p: cito:isCitedBy
         o:
           mapping: Realization
