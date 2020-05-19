@@ -1,0 +1,247 @@
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-117528997-1"></script>
+    <script src="https://kit.fontawesome.com/f045084a37.js" crossorigin="anonymous"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-117528997-1');
+    </script>
+
+    <title>COVID-19 Literature Knowledge Graph</title>
+    <!-- Meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Summary Bram Steenwinckel">
+    <meta name="author" content="Bram Steenwinckel">
+    <link rel="shortcut icon" href="favicon.ico">
+    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+    <!-- Global CSS -->
+    <link rel="stylesheet" href="assets/plugins/bootstrap/css/bootstrap.min.css">
+    <!-- Plugins CSS -->
+    <link rel="stylesheet" href="assets/plugins/font-awesome/css/font-awesome.css">
+    <!-- github acitivity css -->
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/octicons/2.0.2/octicons.min.css">
+    <link rel="stylesheet" href="http://caseyscarborough.github.io/github-activity/github-activity-0.1.0.min.css">
+
+    <!-- Theme CSS -->
+    <link id="theme-style" rel="stylesheet" href="assets/css/styles.css">
+
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+    <!-- ******HEADER****** -->
+    <header class="header">
+        <div class="container">
+            <img class="profile-image img-responsive pull-left" src="assets/images/data-original.png" alt="Covid-kg" style="border-radius: 0%;" />
+            <div class="profile-content pull-left">
+                <h1 class="name">COVID-19 Literature Knowledge Graph</h1>
+                <h2 class="desc">A large citation network of COVID-19 papers</h2>
+                <ul class="social list-inline">
+                    <li><a href="https://www.kaggle.com/group16/covid19-literature-knowledge-graph"><i class="fab fa-kaggle"></i></a></li>
+                    <li><a href="https://query-covid19.linkeddatafragments.org"><i class="fas fa-project-diagram"></i></a></li>
+                    <li><a href="https://github.com/GillesVandewiele/COVID-KG"><i class="fa fa-github-alt"></i></a></li>
+                </ul>
+            </div><!--//profile-->
+            <a class="btn btn-cta-primary pull-right" href="mailto:bram.steenwinckel@ugent.be" target="_blank"><i class="fa fa-paper-plane"></i> Contact Us</a>
+        </div><!--//container-->
+    </header><!--//header-->
+
+    <div class="container sections-wrapper">
+        <div class="row">
+
+          <div class="secondary col-md-4 col-sm-12 col-xs-12">
+               <aside class="info aside section">
+                  <div class="section-inner">
+                      <h2 class="heading sr-only">The dataset</h2>
+                      <div class="content">
+                          <ul class="list-unstyled">
+                              <li><i class="fab fa-kaggle"></i><span class="sr-only"></span></li>
+                              <div>
+                                <i class="fas fa-eye" style="margin: auto;"> 3012 views</i>
+                                <i class="fas fa-download" style="margin: auto; padding: 20px;"> 121 downloads</i> </div>
+                              <li>Different versions of the knowledge graph are hosted on Kaggle, More information can be found at:</li>
+                              <a href="https://www.kaggle.com/group16/covid19-literature-knowledge-graph" class="button">Knowledge Graph Source</a>
+                          </ul>
+                      </div><!--//content-->
+                  </div><!--//section-inner-->
+              </aside><!--//aside-->
+
+              <aside class="info aside section">
+                 <div class="section-inner">
+                     <h2 class="heading sr-only">The Code</h2>
+                     <div class="content">
+                         <ul class="list-unstyled">
+                             <li><i class="fa fa-github-alt"></i><span class="sr-only"></span></li>
+                             <iframe src="https://ghbtns.com/github-btn.html?user=GillesVandewiele&repo=COVID-KG&type=star&count=true" frameborder="0" scrolling="0" width="100" height="20" title="Star twbs/bootstrap on GitHub"></iframe>
+                             <iframe src="https://ghbtns.com/github-btn.html?user=GillesVandewiele&repo=COVID-KG&type=fork&count=true" frameborder="0" scrolling="0" width="100" height="20" title="Fork twbs/bootstrap on GitHub"></iframe>
+                             <iframe src="https://ghbtns.com/github-btn.html?user=imec-idlab&type=follow&count=false" frameborder="0" scrolling="0" width="150" height="20" title="Follow @mdo on GitHub"></iframe>
+                             <li>The scripts how this knowledge graphs was created are available on Github. More information can be found:</li>
+                             <a href="https://github.com/GillesVandewiele/COVID-KG" class="button">Github Repository</a>
+                         </ul>
+                     </div><!--//content-->
+                 </div><!--//section-inner-->
+             </aside><!--//aside-->
+
+             <aside class="info aside section">
+                <div class="section-inner">
+                    <h2 class="heading sr-only">The Endpoint</h2>
+                    <div class="content">
+                        <ul class="list-unstyled">
+                            <li><i class="fas fa-project-diagram"></i><span class="sr-only"></span></li>
+                            <li>a Linked Data Fragments server with a HDT back-end to expose a Triple Pattern Fragments (TPF) interface. The endpoint can be found:</li>
+                            <a href="https://query-covid19.linkeddatafragments.org" class="button">Linked Data Fragments Endpoint</a>
+                        </ul>
+                    </div><!--//content-->
+                </div><!--//section-inner-->
+            </aside><!--//aside-->
+
+
+
+
+          </div><!--//secondary-->
+
+            <div class="primary col-md-8 col-sm-12 col-xs-12">
+                <section class="about section">
+                    <div class="section-inner">
+                        <h2 class="heading">COVID-19 Meta-analysis Through a Literature Knowledge Graph</h2>
+                        <div class="content">
+                            <p>The Internet and Data Science Lab (<a href="https://www.ugent.be/ea/idlab/en" target="_blank">IDLab</a>-<a href="https://www.imec-int.com/en/home" target="_blank">imec</a>) created a Knowledge Graph from the recently published Kaggle dataset about COVID-19 literature (commonly known as <a href="https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge">CORD-19</a>).</p>
+                            <p>This Knownledge Graph contains different information for each paper such as author information, content information and citation information.</p>
+                            <p>Additional information from external resources (such as DBpedia, Crossref, ORCID and BioPortal) were linked within this graph.</p>
+                            <p>The creation process of this knowledge graph is open-sourced such that other research groups can extend, incorporate or link their knowledge within this graph.</p>
+                            <p>Several version of this Graph are hosted on Kaggle, which eases the creation of useful applications. A starter notebook on how this knowledge graph can be used with Python can be found here: <a href="https://www.kaggle.com/group16/covid-19-knowledge-graph-starter">https://www.kaggle.com/group16/covid-19-knowledge-graph-starter</a></p>
+                        </div><!--//content-->
+                    </div><!--//section-inner-->
+                </section><!--//section-->
+                <section class="about section">
+                    <div class="section-inner" ->
+                      <h2 class="heading">Team</h2>
+                      <div class="students">
+                        <div id="circle">
+                          <a href="https://bsteenwi.github.io">
+                            <img src="assets/images/profile.jpeg" width="125px" height="125px"/>
+                          <div id="overlay" style="line-height:100%;">
+                            <br> <br>
+                              Bram <br> Steenwinckel
+                          </div>
+                          </a>
+                        </div>
+                        <div id="circle">
+                          <a href="https://www.gillesvandewiele.com">
+                            <img src="assets/images/gilles.jpeg" width="125px" height="125px" style="-webkit-filter: grayscale(1);"/>
+                          <div id="overlay" style="line-height:100%;">
+                            <br> <br>
+                              Gilles <br> Vandewiele
+                          </div>
+                          </a>
+                        </div>
+
+                        <div id="circle">
+                          <a href="">
+                            <img src="assets/images/ilja.png" width="125px" height="125px" style="-webkit-filter: grayscale(1);"/>
+                          <div id="overlay" style="line-height:100%;">
+                            <br> <br>
+                              Ilja <br> Rausch
+                          </div>
+                          </a>
+                        </div>
+
+                        <div id="circle">
+                          <a href="https://pieterheyvaert.com">
+                            <img src="assets/images/pieterh.jpg" width="125px" height="125px" style="-webkit-filter: grayscale(1);"/>
+                          <div id="overlay" style="line-height:100%;">
+                            <br> <br>
+                              Pieter <br> Heyvaert
+                          </div>
+                          </a>
+                        </div>
+
+                        <div id="circle">
+                          <a href="https://pietercolpaert.be">
+                            <img src="assets/images/pc.jpg" width="125px" height="125px" style="-webkit-filter: grayscale(1);"/>
+                          <div id="overlay" style="line-height:100%;">
+                            <br> <br>
+                              Pieter <br> Colpaert
+                          </div>
+                          </a>
+                        </div>
+                      </div>
+                      <div class="advisors">
+
+                        <div id="circle">
+                          <a href="">
+                            <img src="assets/images/PieterSimoens.jpg" width="125px" height="125px" style="-webkit-filter: grayscale(1);"/>
+                          <div id="overlay" style="line-height:100%;">
+                            <br> <br>
+                              Pieter <br> Simoens
+                          </div>
+                          </a>
+                        </div>
+
+                        <div id="circle">
+                          <a href="">
+                            <img src="assets/images/anastasia.jpeg" width="125px" height="125px" style="-webkit-filter: grayscale(1);"/>
+                          <div id="overlay" style="line-height:100%;">
+                            <br> <br>
+                              Anastasia <br> Dimou
+                          </div>
+                          </a>
+                        </div>
+
+                        <div id="circle">
+                          <a href="">
+                            <img src="assets/images/filip.jpg" width="125px" height="125px" style="-webkit-filter: grayscale(1);"/>
+                          <div id="overlay" style="line-height:100%;">
+                            <br> <br>
+                              Filip <br> De Turck
+                          </div>
+                          </a>
+                        </div>
+
+                        <div id="circle">
+                          <a href="">
+                            <img src="assets/images/femke.png" width="125px" height="125px" style="-webkit-filter: grayscale(1);"/>
+                          <div id="overlay" style="line-height:100%;">
+                            <br> <br>
+                              Femke <br> Ongenae
+                          </div>
+                          </a>
+                        </div>
+                        </div>
+
+
+                    </div><!--//section-inner-->
+                </section><!--//section-->
+
+
+
+            </div><!--//primary-->
+        </div><!--//row-->
+    </div><!--//masonry-->
+
+    <!-- ******FOOTER****** -->
+
+    <!-- Javascript -->
+    <script type="text/javascript" src="assets/plugins/jquery-1.11.1.min.js"></script>
+    <script type="text/javascript" src="assets/plugins/jquery-migrate-1.2.1.min.js"></script>
+    <script type="text/javascript" src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="assets/plugins/jquery-rss/dist/jquery.rss.min.js"></script>
+    <!-- github activity plugin -->
+    <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/mustache.js/0.7.2/mustache.min.js"></script>
+    <script type="text/javascript" src="http://caseyscarborough.github.io/github-activity/github-activity-0.1.0.min.js"></script>
+    <!-- custom js -->
+    <script type="text/javascript" src="assets/js/main.js"></script>
+</body>
+</html>
