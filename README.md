@@ -104,7 +104,12 @@ We are hosting an endpoint that can be used for querying [here](https://query-co
 
 # Citation
 
-In case you use the COVID-KG in research, we would appreciate citations!
+
+A paper on this work has been accepted to the resource track of ISWC2019! Our paper will be made available soon. If you use the COVID-KG in scientific work, we would appreciate citations:
+"Steenwinckel B., Vandewiele G., Rausch I., Heyvaert P., Taelman R., Colpaert P., Simoens P., Dimou A., De Turck F. and Ongenae F. Facilitating COVID-19 Meta-analysis Through a Literature Knowledge Graph. In Proc. of 19th International Semantic Web Conference (ISWC), 2-6 November 2020 (accepted)"
+
+**or**
+
 ```bibtex
 @inproceedings{covid_kg,
   title={Facilitating COVID-19 Meta-analysis Through a Literature Knowledge Graph},
