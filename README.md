@@ -102,6 +102,22 @@ We are hosting an endpoint that can be used for querying [here](https://query-co
 
 ## Knowledge Graph Applications
 
+# Citation
+
+In case you use the COVID-KG in research, we would appreciate citations!
+```bibtex
+@inproceedings{covid_kg,
+  title={Facilitating COVID-19 Meta-analysis Through a Literature Knowledge Graph},
+  author={Bram Steenwinckel and Gilles Vandewiele and
+          Ilja Rausch and Pieter Heyvaert and 
+          Pieter Colpaert and Pieter Simoens and
+          Anastasia Dimou and Filip De Turkc and
+          Femke Ongenae},
+  booktitle={Accepted in Proc. of 19th International Semantic Web Conference (ISWC)},
+  year={2020}
+}
+```
+
 # Acknowledgements
 
 This has been a collaboration between a lot of people:
